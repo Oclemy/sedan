@@ -1,12 +1,17 @@
 
-@@@Reality TV
+@@@_National Geographic TV
 ##Extreme Rescues-->extreme_rescues
 ##To catch a Smuggler-->to_catch_smuggler
 ##Locked Up Abroad-->locked_up_abroad
 ##Doomsday Preppers-->preppers
-
-@@@Wildlife TV
-##Something Bit Me-->bit_me
-
-@@@Podcast TV
+##Drugs Inc-->drugs_inc
+##Trafficked-->trafficked
+##When Sharks Attack-->shark_attack
 ##Overheard at National Geographic-->podcast
+##Something Bit Me-->bit_me
+##Water-->natgeo_water
+
+@@@_FREE Full Episodes TV
+##2022 Full Episodes(78)-->2022
+##2021 Full Episodes(16)-->2021
+
