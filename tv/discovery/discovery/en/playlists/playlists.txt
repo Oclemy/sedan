@@ -1,10 +1,32 @@
-@@@Reality TV
-##Deadliest Catch(64)-->deadliest_catch
-##Street Outlaws(75)-->street_outlaws
-##Moonshiners(10)-->moonshiners
-##Naked and Afraid(32)-->naked_and_afraid
-##Gold Rush(97)-->gold_rush
+@@@_Reality TV
+##Street Outlaws(125)-->street_outlaws
+##Moonshiners(30)-->moonshiners
+##Naked and Afraid(56)-->naked_and_afraid
+##Gold Rush(140)-->gold_rush
+##Alaskan Bush People(5)-->alaskan_bush_people
+##Bering Sea Gold(10)-->bering_sea_gold
+##Get Away Driver(8)-->getaway_driver
+##Homestead Rescues(5)-->homestead_rescues
+##Dirty Jobs(15)-->dirty_jobs
+##Deadliest Catch(88)-->deadliest_catch
+##Shark Week(34)-->shark_week
 
-@@@Wildlife TV
-##Sharks(86)-->sharks
+@@@Wildlife
+Insects(16)-->Insects
+Sharks(13)-->sharks
+Whales(5)-->whales
+Birds-->birds
+Tiger(3)-->tigers
+Lion(6)-->lions
+Leopard(2)-->leopards
+
+@@@Nature
+Coral Reefs(33)-->reefs
+Fruits(2)-->fruits
+Island(17)-->islands
+
+@@@Climate
+Winter(6)-->winter
+Spring(4)-->spring
+
 
