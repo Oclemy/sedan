@@ -91,7 +91,7 @@ BGYOZ8yGx2I,Adapt Or Perish: Surviving The Harsh Seasons | A Year In The Wild | 
 UvwRpeSE1uA,Training Anti-Poaching Dogs In The Shamwari Reserve | Shamwari Untamed | Real Wild,25m 45s,2020-07-28T16:00:08Z
 CPPN4qWm2xA,Calming A Fully Grown Elephant For Deworming | Lodging With Lions | Real Wild,23m 53s,2020-07-26T16:00:07Z
 p9ZqYA3ufG4,Crocodiles: The Oldest Living Reptiles | Wild About | Real Wild,23m 58s,2020-07-25T16:00:12Z
-qBwuzP2VgRo,Summertime With Nature's Most Incredible Animals | A Year In The Wild | Real Wild,42m 43s,2020-07-23T17:00:24Z
+qBwuzP2VgRo,How These Gorgeous African Animals Spend Their Summer | A Year In The Wild | Real Wild,42m 43s,2020-07-23T17:00:24Z
 m_fGVQiTVec,Elephant Causes Havoc On The Shamwari Reserve | Shamwarmi Untamed | Real Wild,25m 48s,2020-07-21T16:00:15Z
 KlLCrNeyuCc,The Park Where People Take Lions For A Walk | Lodging With Lions | Real Wild,23m 53s,2020-07-19T17:00:08Z
 iGXCyoDZXso,The True Lives Of Elephants (Wildlife Documentary) | Wild About | Real Wild,24m 4s,2020-07-18T17:00:13Z
@@ -136,14 +136,14 @@ ZaHSOyck6Yw,Hero Dog Saves The Life of Another Dog In Deep Water | Pet Heroes EP
 XZF5LGMCWQ0,The Funniest Pet Moments | Animals Compilation | Real Wild,21m 23s,2020-05-09T17:00:12Z
 OeZsICV-NP0,Catching An Injured Marmot | Zoo Days EP12 | Real Wild,21m 38s,2020-05-07T17:00:14Z
 16yWRTiVD7s,Chihuahua Saves The Life Of At Risk Beaver | Pet Heroes EP15 | Real Wild,22m 12s,2020-05-05T17:00:01Z
-MrxkwLVYkYQ,The Wild Horses Of Australia | Horse: In The Wild | Real Wild,51m 7s,2020-05-02T17:00:18Z
+MrxkwLVYkYQ,Australia's Wild Horses And Their Remarkable Story Of Survival | Horse: In The Wild | Real Wild,51m 7s,2020-05-02T17:00:18Z
 3xnumYHpGTE,Hungry Meerkat Family Argue Over Food | Zoo Days EP11 | Real Wild,21m 38s,2020-04-30T17:00:02Z
 20RJJTz1ERs,Incredible Dog Discovers Dangerous Threat To Family | Pet Heroes | Real Wild,22m 13s,2020-04-27T17:00:01Z
 GsJbJ1F1G6s,Why Hippos Are One Of The Most Dangerous Animals | The Dark Side Of Hippos | Real Wild,49m 59s,2020-04-25T17:00:13Z
 wzhMLgk7PBc,Komodo Dragon Sees Her New Home | Zoo Days EP10 | Real Wild,21m 50s,2020-04-23T17:00:21Z
 1_YyR2rFVMM,The World's Most Endangered Whale | Natural Kingdom | Real Wild,45m 12s,2020-04-21T17:00:00Z
 aLhsUqa5YXw,Amazing Dog Saves Owners Life With Quick Thinking | Pet Heroes | Real Wild,22m 4s,2020-04-19T17:00:00Z
-3NbgK9EaKyk,How Do Lions Adapt To Survive? | Swimming With Lions | Real Wild,49m 45s,2020-04-18T17:00:02Z
+3NbgK9EaKyk,Lions Adapt Their Hunting Technique To Survive | Swimming With Lions | Real Wild,49m 45s,2020-04-18T17:00:02Z
 pdl3NYRE4PA,Two New Marmoset Arrivals | Zoo Days EP9 | Real Wild,21m 46s,2020-04-16T17:00:24Z
 _OiPm2fLRuE,Big Boy: An Elephant's Story (Elephant Documentary) | Real Wild,41m 42s,2020-04-14T17:00:18Z
 HGiZaZDDdHM,Hero Dog Saves Her 12 Puppies From Drowning | Pet Heroes | Real Wild,22m 2s,2020-04-12T11:00:04Z
@@ -175,19 +175,13 @@ _3TtMS93jgA,The Horrific Destruction Of Orangutans In Indonesia | 1000 Days For 
 Xg92WiHDppc,Tensions Rise When The Team Take A Break To Regroup | Unstable | Real Wild,22m 35s,2020-02-25T18:00:05Z
 v9uuHZ1AblM,Injured Horse Undergoes Risky Surgery To Save Damaged Eye | Animal Madhouse E6 | Real Wild,46m 31s,2020-02-23T18:00:08Z
 bACSQElWju8,Could Your Fish Have Cyanide In It? | 1000 Days for the Planet | Real Wild,40m 11s,2020-02-22T18:00:06Z
-qIg0xNv5ZSY,What Family Means In The Wild | Nature's Babies | Real Wild,50m 29s,2020-02-20T18:00:07Z
 mBiDmqASNRk,Devastating Loss Leaves Stable Keeper Heartbroken | Unstable | Real Wild,22m 55s,2020-02-18T18:00:07Z
 ATcVPXKO1SU,The Woman Who Lives With 40 Snakes | Animal Madhouse E5 | Real Wild,45m 50s,2020-02-16T18:00:01Z
 wiG3zpuKgS8,The Threat To The Galapagos And It's Animals | 1000 Days for the Planet | Real Wild,40m 6s,2020-02-15T18:00:06Z
-paoUKBNzLWI,Mother Zebra Stands By Her Calf In It's Final Moments | Nature's Babies | Real Wild,50m 12s,2020-02-13T18:00:11Z
-rQehXoCipts,The Woman Who Can Talk To Animals | Animal Communicator | Real Wild,51m 38s,2020-02-11T18:00:14Z
 cuRACoOw4Do,This Woman Owns 150 Pet Spiders | Animal Madhouse E4 | Real Wild,45m 35s,2020-02-09T18:00:10Z
 HrKtEOAWxd8,Why We Need To Save The Turtles | 1000 Days for the Planet | Real Wild,43m 17s,2020-02-08T18:00:02Z
-WjGLrlkfzMw,Mongoose Defend Their Young Against Deadly Snake In Intense Face-Off | Nature's Babies | Real Wild,50m 30s,2020-02-06T18:00:05Z
-Yzh-utC_p0M,The Monster Jellyfish Invading The Japanese Oceans | Monster Jellyfish | Real Wild,50m 1s,2020-02-04T18:00:06Z
 _1x7ybOjkko,Artificial Elephant Pregnancy Excites Zoo Staff | Animal Madhouse E3 | Real Wild,45m 32s,2020-02-02T18:00:10Z
 X2P3v5UBawg,The Incredible Protection Of The Manatees Of Belize | 1000 Days for the Planet | Real Wild,43m 17s,2020-02-01T18:00:04Z
-NoWDeKDNej4,African Wildcat Mother Protects Her Kittens | Nature's Babies | Real Wild,50m 36s,2020-01-30T18:00:02Z
 G6LmOUQncRc,Duck Thinks He's A Chicken | Animal Madhouse E2 | Real Wild,45m 11s,2020-01-26T15:00:06Z
 5wWRP-YvHOo,The Last Jaguars | 1000 Days for the Planet | Real Wild,43m 23s,2020-01-25T15:30:01Z
 M4Jw6r06-mU,Lion Cub Can't Walk Properly | Zoo Days | Real Wild,21m 56s,2020-01-23T18:00:04Z
@@ -202,4 +196,3 @@ Q9Gx6vryxD4,The Rarest Mammal On Earth | 1000 Days For The Planet | Real Wild,43
 k5bkZf2gPco,Abandoned Dog Grows Up In A Hiding Space | Dog Tales | Real Wild,22m,2020-01-09T16:30:02Z
 K8w-9QiIzd0,The Mating Song Of Humpback Whales | 1000 Days For The Planet | Real Wild,43m 33s,2020-01-04T17:00:02Z
 cCdxWQly5q8,Man Saves A Terrified Dog | Dog Tales | Real Wild,21m 16s,2020-01-02T16:30:04Z
-

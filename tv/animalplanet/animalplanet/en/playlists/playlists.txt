@@ -1,0 +1,22 @@
+@@@Wildlife
+##Cheetah(12)-->cheetahs
+##Elephant(46)-->elephants
+##Lion(67)-->lions
+##Tiger(14)-->tigers
+##Leopard(15)-->leopards
+##Jaguars(3)-->jaguars
+##Birds(11)-->birds
+##Dinosaurs(12)-->dinosaurs
+##Zebra(8)-->zebras
+##Giraffe(9)-->giraffes
+##Buffalo(7)-->buffalo
+##Snake(38)-->snakes
+##Whale(19)-->whales
+##Shark(36)-->sharks
+##Gorilla(9)-->gorillas
+##Bear(40)-->bears
+##Wolf(15)-->wolf
+
+@@@Nature
+##Ocean(10)-->oceans
+##Coral Reefs(10)-->reefs
