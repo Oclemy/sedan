@@ -15,3 +15,15 @@
 ##2022 Full Episodes(78)-->2022
 ##2021 Full Episodes(16)-->2021
 
+@@@Wildlife
+##Cheetah(12)-->cheetahs
+##Elephant(46)-->elephants
+##Lion(67)-->lions
+##Tiger(14)-->tigers
+##Leopard(15)-->leopards
+##Jaguars(3)-->jaguars
+##Birds(11)-->birds
+##Dinosaurs(12)-->dinosaurs
+##Zebra(8)-->zebras
+
+
