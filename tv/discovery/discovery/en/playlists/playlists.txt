@@ -19,14 +19,23 @@ Birds-->birds
 Tiger(3)-->tigers
 Lion(6)-->lions
 Leopard(2)-->leopards
+Elephants(10)-->elephants
+Crocodiles(4)-->crocodiles
+Bears(7)-->bears
+Snakes(7)-->snakes
+Animals Like Us(11)-->animals_like_us
 
 @@@Nature
 Coral Reefs(33)-->reefs
 Fruits(2)-->fruits
 Island(17)-->islands
+Mountains(9)-->mountains
+Water(14)-->water
+River(11)-->river
 
 @@@Climate
 Winter(6)-->winter
 Spring(4)-->spring
+Climate Change(2)-->climate_change
 
 
