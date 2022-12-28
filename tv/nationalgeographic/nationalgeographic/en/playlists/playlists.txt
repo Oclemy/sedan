@@ -34,3 +34,6 @@
 ##Bear(40)-->bears
 ##Wolf(15)-->wolf
 
+@@@Nature
+##Ocean(10)-->oceans
+##Coral Reefs(10)-->reefs
