@@ -1,4 +1,4 @@
-@@@1 Eckhart TV
+@@@1. Eckhart TV
 ##Life(40)-->eckhart_life
 ##Eckhart Tolle Explains(8)-->eckhart_explains
 ##Suffering(10)-->eckhart_suffering
@@ -16,7 +16,7 @@
 ##Self Esteem(4)-->eckhart_self_esteem
 ##Relationships(10)-->eckhart_relationships
 
-@@@2 Mooji
+@@@2. Mooji
 ##Meditation(23)-->mooji_meditation
 ##Awakening(29)-->mooji_awakening
 ##Suffering(8)-->mooji_suffering
