@@ -16,7 +16,7 @@
 ##Self Esteem(4)-->eckhart_self_esteem
 ##Relationships(10)-->eckhart_relationships
 
-@@@Mooji
+@@@2 Mooji
 ##Meditation(23)-->mooji_meditation
 ##Awakening(29)-->mooji_awakening
 ##Suffering(8)-->mooji_suffering
