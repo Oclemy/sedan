@@ -23,3 +23,15 @@
 ##Life(45)-->mooji_life
 ##Love(54)-->mooji_love
 ##Relationships(7)-->mooji_relationships
+
+@@@3. Ram Dass
+##Meditation(30)-->ram_meditation
+##Bhagavad Gita(4)-->ram_gita
+##Love(80)-->ram_love
+##Presence(6)-->ram_presence
+##Mindfulness(5)-->ram_mindfulness
+##Consciousness(24)-->ram_consciousness
+##Interview(27)-->ram_interview
+##Suffering(10)-->ram_suffering
+##Emotions(4)-->ram_emotions
+
