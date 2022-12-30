@@ -35,3 +35,15 @@
 ##Suffering(10)-->ram_suffering
 ##Emotions(4)-->ram_emotions
 
+@@@4. Rupert Spira
+##Love(34)-->rupert_love
+##Meditation(76)-->rupert_meditation
+##Time(25)-->rupert_time
+##Consciousness(62)-->rupert_consciousness
+##Suffering(15)-->rupert_suffering
+##Non-Duality(18)-->rupert_nonduality
+##Podcast(46)-->rupert_podcast
+##Awakening(7)-->rupert_awakening
+##Peom(3)-->rupert_poem
+##Happiness(33)-->rupert_happiness
+
