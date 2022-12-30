@@ -57,7 +57,7 @@ Dark Matter(3)-->dark_matter
 Sun(11)-->sun
 Gamma Rays(4)-->gamma_ray
 Black Hole(30)-->blackhole
-Space Crafts & Telescopes(50)-->crafts
+Space Probes(50)-->crafts
 Quasar-->quasar
 Universe(25)-->universe
 
