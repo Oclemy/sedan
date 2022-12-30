@@ -43,12 +43,16 @@ Volcano(6)-->volcano
 @@@Space HD
 Asteroid(10)-->asteroid
 Comet(4)-->comet
+Meteor(2)-->meteor
 Planets(45)-->planets
 Sun(11)-->sun
 Black Hole(30)-->blackhole
 Space Crafts & Telescopes(2)-->crafts
 Time(10)-->time
 Universe(25)-->universe
+
+@@@Physics HD
+Quantum(2)-->quantum
 
 
 
