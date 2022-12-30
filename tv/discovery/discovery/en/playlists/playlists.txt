@@ -1,4 +1,4 @@
-@@@_Reality TV
+@@@1. Reality TV
 ##Street Outlaws(125)-->street_outlaws
 ##Moonshiners(30)-->moonshiners
 ##Naked and Afraid(56)-->naked_and_afraid
@@ -11,7 +11,7 @@
 ##Deadliest Catch(88)-->deadliest_catch
 ##Shark Week(34)-->shark_week
 
-@@@Wildlife
+@@@Wildlife HD
 Insects(16)-->Insects
 Sharks(13)-->sharks
 Whales(5)-->whales
@@ -25,7 +25,7 @@ Bears(7)-->bears
 Snakes(7)-->snakes
 Animals Like Us(11)-->animals_like_us
 
-@@@Nature
+@@@Nature HD
 Coral Reefs(33)-->reefs
 Fruits(2)-->fruits
 Island(17)-->islands
@@ -33,9 +33,22 @@ Mountains(9)-->mountains
 Water(14)-->water
 River(11)-->river
 
-@@@Climate
+@@@Climate HD
 Winter(6)-->winter
 Spring(4)-->spring
 Climate Change(2)-->climate_change
+Tornadoes(3)-->tornado
+Volcano(6)-->volcano
+
+@@@Space HD
+Asteroid(10)-->asteroid
+Comet(4)-->comet
+Planets(45)-->planets
+Sun(11)-->sun
+Black Hole(30)-->blackhole
+Space Crafts & Telescopes(2)-->crafts
+Time(10)-->time
+Universe(25)-->universe
+
 
 
