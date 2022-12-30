@@ -11,6 +11,8 @@
 ##Deadliest Catch(490)-->deadliest_catch
 ##Shark Week(296)-->shark_week
 ##Expedition Unknown(30)-->expedition_unknown
+##Man vs Wild(149)-->man_vs_wild
+##Fast N' Loud(161)-->fast_n_loud
 
 @@@Wildlife HD
 Insects(16)-->Insects
