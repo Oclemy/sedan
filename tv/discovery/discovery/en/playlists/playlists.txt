@@ -46,12 +46,13 @@ Comet(4)-->comet
 Meteor(2)-->meteor
 Planets(45)-->planets
 Sun(11)-->sun
+Gamma Rays(4)-->gamma_ray
 Black Hole(30)-->blackhole
 Space Crafts & Telescopes(2)-->crafts
-Time(10)-->time
 Universe(25)-->universe
 
 @@@Physics HD
+Time(10)-->time
 Quantum(2)-->quantum
 
 
