@@ -47,3 +47,27 @@ FlXuUxFTcLs,The Asteroid that Flattened Mars,20m 13s,2009-08-21T03:13:36Z
 
 ##Jupiter
 12eO84E8k18,A Super Jupiter Makes its Mark,4m 41s,2010-06-10T22:41:29Z
+
+##Saturn
+YL__UbPsPDg,Saturn's Mysterious Moons,25m 15s,2011-04-14T21:14:02Z
+pc7GeSr2vuI,Saturn's Mysterious Moons - PREVIEW,1m 38s,2011-04-08T15:30:02Z
+-FmT12sHdrs,Radio Saturn Wobbles and Sirens,2m 11s,2011-04-06T18:26:40Z
+AJNnn5yx-kA,Curiosity Shop of Saturn's Moons,6m 10s,2010-10-06T16:03:15Z
+rgre5C-7Af4,Saturn's Ring Disturber,1m 33s,2010-07-30T19:07:07Z
+Sh2-P8hG5-E,The Eerie Sounds Of Saturn,2m 21s,2010-05-10T19:26:13Z
+6GbejVnYWJs,Saturn Struck By Lightning,2m 28s,2010-04-21T16:59:56Z
+5CR2n4xDFVM,Saturn Rare Double Aurorae,4m 15s,2010-02-11T17:49:09Z
+51UzH2f1F-k,Saturn Sensational One Ring Discovery,4m 57s,2009-11-28T14:54:42Z
+7AmyfuJDMlY,Saturn's Beautiful Aurora,2m 8s,2009-11-25T20:13:46Z
+LNW4-4uq2C8,Saturn's Mysterious Moons (V1),18m 40s,2009-08-12T21:09:20Z
+Z9iIw4OQNXc,Cyclone on Saturn,1m 46s,2009-01-01T03:34:13Z
+
+##Neptune
+OQ5meWY5bYM,Neptune Through the Eyes of Kepler,1m 59s,2017-08-29T16:55:53Z
+
+##Pluto
+kdJ41vGSqB8,Hubble's Pluto Discoveries,4m 37s,2015-09-24T16:01:04Z
+mfQq2b4VT84,The Wonders of Pluto,3m 40s,2015-09-18T22:17:31Z
+DbkpdaPdwAk,Pluto Red Outpost on the Final Frontier,2m 11s,2010-05-05T21:00:16Z
+
+

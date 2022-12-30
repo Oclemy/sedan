@@ -38,17 +38,24 @@ Winter(6)-->winter
 Spring(4)-->spring
 Climate Change(2)-->climate_change
 Tornadoes(3)-->tornado
+Hurricane(5)-->hurricane
 Volcano(6)-->volcano
 
 @@@Space HD
 Asteroid(10)-->asteroid
 Comet(4)-->comet
 Meteor(2)-->meteor
-Planets(45)-->planets
+Moon(25)-->moon
+Planets(68)-->planets
+Nebula(5)-->nebula
+Neutron Star(2)-->neutron_star
+Galaxy(15)-->galaxy
+Dark Matter(3)-->dark_matter
 Sun(11)-->sun
 Gamma Rays(4)-->gamma_ray
 Black Hole(30)-->blackhole
-Space Crafts & Telescopes(2)-->crafts
+Space Crafts & Telescopes(50)-->crafts
+Quasar-->quasar
 Universe(25)-->universe
 
 @@@Physics HD
