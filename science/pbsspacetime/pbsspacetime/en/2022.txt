@@ -1,0 +1,38 @@
+Video ID,Title,Length,Published
+Q7_uDhJq4G0,2022 Year End AMA,1h 1m 59s,2022-12-19T22:09:14Z
+eyn7MusdQ9g,How Can Matter Be BOTH Liquid AND Gas?,21m 17s,2022-12-14T21:15:02Z
+le_ORQZzkmE,How Are Quasiparticles Different From Particles?,16m 43s,2022-12-08T22:28:33Z
+CtmBZ-S2R30,How To See Black Holes By Catching Neutrinos,18m 45s,2022-11-23T20:45:00Z
+prvXCuEA1lw,Are there Undiscovered Elements Beyond The Periodic Table?,20m 57s,2022-11-16T22:12:41Z
+uTrFAY3LUNw,What If Humanity Is Among The First Spacefaring Civilizations?,20m 50s,2022-11-09T21:15:00Z
+US7fEkBsy4A,Why Did Quantum Entanglement Win the Nobel Prize in Physics?,20m 33s,2022-10-26T20:15:02Z
+PHiyQID7SBs,The Equation That Explains (Nearly) Everything!,16m 43s,2022-10-19T20:15:00Z
+4d0EGIt1SPc,The REAL Possibility of Mapping Alien Planets!,21m 15s,2022-10-12T20:15:00Z
+RCSSgxV9qNw,Why Is 1/137 One of the Greatest Unsolved Problems In Physics?,15m 38s,2022-09-28T20:15:01Z
+kw-Rs6I2H5s,Science of the James Webb Telescope Explained!,18m 4s,2022-09-21T20:30:03Z
+z2yLMY6Mpw8,Could the Higgs Boson Lead Us to Dark Matter?,14m 31s,2022-09-14T20:15:00Z
+y1px8hBl7zg,What Makes The Strong Force Strong?,21m 37s,2022-08-24T20:08:35Z
+WfSZutedqIQ,What If Dark Energy is a New Quantum Field?,16m 19s,2022-08-17T20:15:02Z
+WZfmG_h5Oyg,What Happens Inside a Proton?,20m 16s,2022-08-03T20:15:03Z
+184eP_KuXek,How Many States Of Matter Are There?,14m 12s,2022-07-27T20:15:00Z
+JnKzt6Xq-w4,What If We Live in a Superdeterministic Universe?,18m 53s,2022-07-20T20:15:00Z
+rQnNghhPw6o,Could We Decode Alien Physics?,19m 28s,2022-06-30T20:15:01Z
+wdP_UDSsuro,Is Interstellar Travel Impossible?,20m 34s,2022-06-22T20:18:55Z
+epSev7ovVew,Have We SOLVED The Black Hole Information Paradox with Wormholes?,14m 22s,2022-06-15T18:45:03Z
+v-aP1J-BdvE,What If Physics IS NOT Describing Reality?,18m 51s,2022-06-01T20:12:31Z
+e3jGWXeBtPo,The Evolution of the Modern Milky Way Galaxy,20m 30s,2022-05-25T20:17:50Z
+v4ogRCjhFDM,What If the Galactic Habitable Zone LIMITS Intelligent Life?,15m 6s,2022-05-18T19:00:27Z
+bUHZ2k9DYHY,Space DOES NOT Expand Everywhere,17m 32s,2022-05-04T20:15:02Z
+G0Q4UAiKacw,How the Higgs Mechanism Give Things Mass,18m 4s,2022-04-27T20:15:00Z
+I8p1yqnuk8Y,Does the Universe Create Itself?,18m 44s,2022-04-20T20:15:00Z
+jeRgFqbBM5E,Could The Universe Be Inside A Black Hole?,13m 1s,2022-03-30T21:06:36Z
+BOLHtIWLkHg,Where Is The Center of The Universe?,19m 15s,2022-03-23T20:15:00Z
+esayi49OAk4,What If Charge is NOT Fundamental?,15m 44s,2022-03-16T20:15:00Z
+LHhFFfv20-4,Is the Proxima System Our Best Hope For Another Earth?,21m 22s,2022-03-08T21:15:00Z
+Thw43hzXlDA,Are Cosmic Strings Cracks in the Universe?,15m 55s,2022-02-23T20:45:02Z
+FP6iyVJ70OU,Is The Wave Function The Building Block of Reality?,20m 16s,2022-02-16T21:15:00Z
+twvj9os9DLE,The Nature of Space and Time AMA,39m 34s,2022-02-10T23:27:31Z
+cDQZXvplXKA,How Does Gravity Escape A Black Hole?,18m 14s,2022-01-27T20:45:02Z
+D-wzdsSiemU,How To Build The Universe in a Computer,13m 25s,2022-01-19T21:15:00Z
+55c9wkNmfn0,How To Simulate The Universe With DFT,20m 53s,2022-01-12T20:45:00Z
+
