@@ -1,7 +1,9 @@
-@@@1. Crime
+@@@01. Crime
 ##True Crime(82)-->truecrime
 ##Prisoners(7)-->prisoner
 ##Drugs(7)-->drugs
+##Heist(7)-->heist
+##Serial Killer & Psychopathy(9)-->serialkiller
 
 @@@02. Casts
 ##Reggie Yates(14)-->reggie
@@ -10,7 +12,7 @@
 @@@2. Health
 Diseases(20)-->diseases
 Doctor at Work(4)-->doctor_at_work
-Psychology(6)-->psychology
+Psychology & Psychiatry(6)-->psychology
 
 @@@2. People and Communities
 Extraordinary People(19)-->extraordinary_people
@@ -20,5 +22,6 @@ LGBTQ(12)-->lgbtq
 
 @@@3. Society and Culture
 Culture(12)-->culture
-Super Wealthy(14)-->wealthy
+Rich and Wealthy(14)-->wealthy
 Poverty(34)-->poverty
+Family and Relationships(40)-->family
