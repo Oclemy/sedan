@@ -8,6 +8,8 @@
 Amnesia(4)-->amnesia
 Cancer(8)-->cancer
 Doctor at Work(4)-->doctor_at_work
+HIV(7)-->hiv
+Psychology(6)-->psychology
 
 @@@2. People and Communities
 Extraordinary People(19)-->extraordinary_people
@@ -15,6 +17,7 @@ Veteran(4)-->veteran
 LGBTQ(12)-->lgbtq
 
 
-@@@3. Life
+@@@3. Society and Culture
+Culture(12)-->culture
 Super Wealthy(14)-->wealthy
 Poverty(24)-->poverty
