@@ -4,8 +4,15 @@
 ##Drugs(7)-->drugs
 ##Trevor McDonald(8)-->trevor
 
-@@@2. People
-Extraordinary People(7)-->extraordinary_people
+@@@2. Health
+Amnesia(4)-->amnesia
+Cancer(8)-->cancer
+
+@@@2. People and Communities
+Extraordinary People(19)-->extraordinary_people
+Veteran(4)-->veteran
+LGBTQ(12)-->lgbtq
+
 
 @@@3. Life
 Super Wealthy(14)-->wealthy
