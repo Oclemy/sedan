@@ -8,10 +8,8 @@
 ##Trevor McDonald(8)-->trevor
 
 @@@2. Health
-Amnesia(4)-->amnesia
-Cancer(8)-->cancer
+Diseases(20)-->diseases
 Doctor at Work(4)-->doctor_at_work
-HIV(7)-->hiv
 Psychology(6)-->psychology
 
 @@@2. People and Communities
@@ -23,4 +21,4 @@ LGBTQ(12)-->lgbtq
 @@@3. Society and Culture
 Culture(12)-->culture
 Super Wealthy(14)-->wealthy
-Poverty(24)-->poverty
+Poverty(34)-->poverty
