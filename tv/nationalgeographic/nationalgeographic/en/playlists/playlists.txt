@@ -16,6 +16,9 @@
 ##2021 Full Episodes(16)-->2021
 
 @@@Wildlife
+##Wildest Places(5)-->wildest_places
+##Limits in the Wild(3)-->limits
+##Monkey Thieves(13)-->monkey_thieves
 ##Animals Like Us(11)-->animals_like_us
 ##Animal Society(13)-->animal_society
 ##Top Predators(6)-->top_predators
@@ -39,6 +42,9 @@
 ##Marine Mammals(12)-->marine_mammals
 ##Insects(3)-->insects
 ##Jackals(2)-->jackals
+##Nature's Greatest Moments(18)-->natures_greatest_moments
+##Africa's Wild Wonders(30)-->africas_wild_wonders
+
 
 @@@Nature
 ##Secrets of Nature(27)-->secrets_of_nature
@@ -50,3 +56,4 @@
 ##Trees(2)-->trees
 ##Alps(6)-->alps
 ##Paradise(4)-->paradise
+##Islands(16)-->island
