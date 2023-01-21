@@ -17,6 +17,7 @@
 
 @@@Wildlife
 ##Animals Like Us(11)-->animals_like_us
+##Animal Society(13)-->animal_society
 ##Top Predators(6)-->top_predators
 ##Cheetah(12)-->cheetahs
 ##Elephant(46)-->elephants
@@ -34,7 +35,7 @@
 ##Shark(36)-->sharks
 ##Gorilla(9)-->gorillas
 ##Bear(40)-->bears
-##Wolf(15)-->wolf
+##Wolf(21)-->wolf
 ##Marine Mammals(12)-->marine_mammals
 ##Insects(3)-->insects
 ##Jackals(2)-->jackals
@@ -46,4 +47,6 @@
 ##River(11)-->river
 ##Mountains(9)-->mountain
 ##Forest(7)-->forest
+##Trees(2)-->trees
 ##Alps(6)-->alps
+##Paradise(4)-->paradise
