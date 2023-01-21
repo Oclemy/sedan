@@ -40,5 +40,10 @@
 ##Jackals(2)-->jackals
 
 @@@Nature
+##Secrets of Nature(27)-->secrets_of_nature
 ##Ocean(10)-->oceans
 ##Coral Reefs(10)-->reefs
+##River(11)-->river
+##Mountains(9)-->mountain
+##Forest(7)-->forest
+##Alps(6)-->alps
