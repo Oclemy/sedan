@@ -3,6 +3,14 @@
 
 @@@Mid Level
 ##Java Libraries-->java
+##C# Libraries-->csharp
 
 @@@High Level
 ##Python Libraries-->python
+##Ruby-->ruby
+##JavaScript-->javaScript
+
+@@@Functional
+##Ocaml Libraries-->ocaml
+##Julia Libraries-->julia
+##Erlang Libraries-->erlang
