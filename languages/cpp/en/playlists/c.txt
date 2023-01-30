@@ -1,0 +1,4 @@
+##Frameworks
+abseil-cpp=>abseil/abseil-cpp
+Apache C++ Standard Library=>http://stdcxx.apache.org/
+APR=>http://apr.apache.org/
