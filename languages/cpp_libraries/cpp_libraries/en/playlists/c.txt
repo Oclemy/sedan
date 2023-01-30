@@ -2,3 +2,7 @@
 abseil-cpp=>abseil/abseil-cpp
 Apache C++ Standard Library=>http://stdcxx.apache.org/
 APR=>http://apr.apache.org/
+
+##Compression
+bit7z=>rikyoz/bit7z
+Brotli=>google/brotli
