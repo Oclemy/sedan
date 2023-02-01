@@ -1,11 +1,22 @@
 @@@Darkish
-##Dark Sanddune-->dark_sanddune
+##Dark Sanddune-->dark_sand
 ##Darkish Lines-->darkish_lines
-
-@@@Cubic
-##Cubic One-->cubic_one
-##Cubic Two-->cubic_two
 
 @@@Landscapes
 ##Mountain-->mountain
 
+@@@Tibetan Meditation
+Tibetan Meditation 1-->tibetan_meditate_1
+Tibetan Meditation 2-->tibetan_meditate_2
+Tibetan Meditation 3-->tibetan_meditate_3
+Tibetan Meditation 4-->tibetan_meditate_4
+Tibetan Nature-->tibetan_nature
+
+@@@Contemplation
+Woman Contemplating-->woman_contemplating_1
+
+@@@Center
+Twisted Center-->twisted_center
+
+@@@Water Droplets
+Water Droplets Dark-->water_droplets_dark
