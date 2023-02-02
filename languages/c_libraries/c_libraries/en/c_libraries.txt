@@ -1,0 +1,473 @@
+##Build Systems
+Premake=>premake/premake-core
+aimake=>http://nethack4.org/projects/aimake/
+Autoconf=>https://www.gnu.org/software/autoconf/autoconf.html
+Automake=>https://www.gnu.org/software/automake/automake.html
+CMake=>https://cmake.org/
+Jam=>https://www.perforce.com/documentation/jam-documentation
+Libtool=>https://www.gnu.org/software/libtool/
+Meson=>https://mesonbuild.com/
+SCons=>https://www.scons.org/
+Ninja=>ninja-build/ninja
+Bazel=>https://bazel.build/
+Buck=>https://buck.build/
+Qbs=>https://doc.qt.io/qbs/
+qmake=>https://doc.qt.io/qt-5/qmake-manual.html
+xmake=>https://xmake.io/
+
+##Compilers
+Clang=>https://clang.llvm.org/
+CompCert=>https://compcert.inria.fr/
+GCC=>https://gcc.gnu.org/
+PCC=>http://pcc.ludd.ltu.se/
+TCC=>https://bellard.org/tcc/
+Intel SPMD=>http://ispc.github.io/
+ccache=>https://ccache.dev/
+
+##Compiler libraries
+yasm=>http://yasm.tortall.net/
+
+##Compression
+libzip=>https://libzip.org/
+lzo=>http://www.oberhumer.com/opensource/lzo/
+zlib=>http://zlib.net/
+bzip2=>http://www.bzip.org/
+lz4=>https://lz4.github.io/lz4/
+snappy=>google/snappy
+zstd=>http://facebook.github.io/zstd/
+brotli=>google/brotli
+quicklz=>http://www.quicklz.com/index.php
+pixz=>vasi/pixz
+
+##Crypto
+GnuTLS=>https://www.gnutls.org/
+libgcrypt=>https://gnupg.org/related_software/libgcrypt/
+OpenSSL=>https://www.openssl.org/
+libsodium=>https://download.libsodium.org/doc/
+libtomcrypt=>https://www.libtom.net/
+mbed TLS=>https://tls.mbed.org/
+libressl=>https://www.libressl.org/
+
+##Database
+BerkeleyDB=>https://www.oracle.com/database/berkeley-db/
+Hiredis=>redis/hiredis
+LMDB=>LMDB/lmdb
+MariaDB=>https://mariadb.com/
+mongo-c-driver=>http://mongoc.org/
+PostgreSQL=>https://www.postgresql.org/
+recutils=>https://www.gnu.org/software/recutils/
+Redis=>https://redis.io/
+sophia=>http://sophia.systems/
+SQLite=>https://www.sqlite.org/about.html
+UnQLite=>https://unqlite.org/
+
+##Deep Learning
+Darknet=>https://pjreddie.com/darknet/
+
+##Documentation Generation
+Cxref=>http://www.gedanken.org.uk/software/cxref/
+DocOnce=>https://hplgit.github.io/doconce/doc/web/index.html
+Doxygen=>http://www.doxygen.nl/
+GTK-Doc=>https://www.gtk.org/gtk-doc/
+
+##Editors
+Anjuta DevStudio=>http://anjuta.org/
+Atom=>https://atom.io/
+Code::Blocks=>http://www.codeblocks.org/
+CodeLite=>https://codelite.org/
+Eclipse=>http://www.eclipse.org/ide/
+Geany=>https://www.geany.org/
+KDevelop=>https://www.kdevelop.org/
+Qt Creator=>https://www.qt.io/qt-features-libraries-apis-tools-and-ide/#ide
+Visual Studio Code=>https://code.visualstudio.com/
+
+##Embedded Systems
+
+These are projects that allow one to work with microcontrollers and other resource constrained architectures.
+
+##Embedded Systems - RTOS
+Amazon FreeRTOS=>https://aws.amazon.com/freertos/
+ChibiOS=>http://www.chibios.org/dokuwiki/doku.php
+Contiki=>http://www.contiki-os.org/
+Zephyr Project=>https://www.zephyrproject.org/
+RIOT OS=>https://www.riot-os.org/
+
+##Environments
+Cygwin=>https://cygwin.com/
+MinGW-w64=>http://mingw-w64.yaxm.org/doku.php/start
+
+##Frameworks
+APR=>http://apr.apache.org/
+C Algorithms=>https://fragglet.github.io/c-algorithms/
+C Macro Collections=>LeoVen/C-Macro-Collections
+CPL=>http://www.eso.org/sci/software/cpl/
+EFL=>https://www.enlightenment.org/
+GLib=>https://wiki.gnome.org/Projects/GLib
+GIO=>https://developer.gnome.org/gio/
+GObject=>https://developer.gnome.org/gobject/stable/
+libnih=>keybuk/libnih
+libU=>http://www.koanlogic.com/libu/
+PBL=>http://www.mission-base.com/peter/source/
+qlibc=>http://wolkykim.github.io/qlibc/
+stb=>nothings/stb
+libsrt=>https://faragon.github.io/libsrt.html
+
+##Game Programming - Engines
+Corange=>orangeduck/Corange
+Darkplaces=>https://icculus.org/twilight/darkplaces/
+ioquake3=>https://ioquake3.org/
+Orx=>http://orx-project.org/
+Quake=>id-Software/Quake
+Quake2=>id-Software/Quake-2
+Spearmint=>https://clover.moe/spearmint/
+
+##Game Programming - Resources
+Allegro=>https://liballeg.org/
+Chipmunk2D=>http://chipmunk-physics.net/
+CSFML=>https://www.sfml-dev.org/download/csfml/
+FreeGLUT=>http://freeglut.sourceforge.net/
+GLFW=>https://www.glfw.org/
+libao=>https://xiph.org/ao/
+RetroArch=>https://www.libretro.com/
+SDL and SDL2=>https://www.libsdl.org/
+raylib=>https://www.raylib.com/
+
+##Generic Programming
+klib=>http://attractivechaos.github.io/klib/#About
+
+##Graphics
+Cairo=>https://www.cairographics.org/
+Cogl=>rib/cogl-web/wiki
+Clutter=>https://blogs.gnome.org/clutter/get-it/
+giflib=>https://sourceforge.net/projects/giflib/
+heman=>prideout/heman
+libcaca=>cacalabs/libcaca
+libimagequant=>https://pngquant.org/lib/
+libjpeg-turbo=>https://libjpeg-turbo.org/
+libpng=>http://www.libpng.org/
+libxmi=>https://www.gnu.org/software/libxmi/
+mozjpeg=>mozilla/mozjpeg
+
+##Graphic APIs
+OpenGL=>https://www.opengl.org/
+OpenGL ES=>https://www.khronos.org/opengles/
+OpenGL SC=>https://www.khronos.org/openglsc/
+Vulkan=>https://www.khronos.org/vulkan/
+
+##Graphical User Interface
+GTK+=>https://www.gtk.org/
+IUP=>http://webserver2.tecgraf.puc-rio.br/iup/
+Tk=>http://www.tcl.tk/
+XForms Toolkit=>http://xforms-toolkit.org/
+nuklear=>vurtun/nuklear
+libui=>andlabs/libui
+LCUI=>lc-soft/LCUI/
+
+##Hashing
+jwHash=>watmough/jwHash
+xxHash=>http://cyan4973.github.io/xxHash/
+libcrc=>PeterScott/murmur3
+murmur=>ispc/ispc
+t1ha=>leo-yuriev/t1ha
+
+##Image Processing
+libccv=>http://libccv.org/
+
+##JSON
+Jansson=>http://www.digip.org/jansson/
+jsmn=>https://zserge.com/jsmn.html
+json-c=>json-c/json-c/wiki
+parson=>kgabis/parson
+WJElement=>netmail-open/wjelement/wiki
+YAJL=>https://lloyd.github.io/yajl/
+
+
+##Online Reference
+SEI CERT C Coding Standard=>https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
+C FAQ - comp.lang.c Frequently Asked Questions=>http://c-faq.com/
+Comparison of C/POSIX standard library implementations for GNU/Linux=>http://www.etalabs.net/compare_libcs.html
+GNU C Reference Manual=>https://www.gnu.org/software/gnu-c-manual/
+Robert Pike's notes on programming in C=>http://www.lysator.liu.se/c/pikestyle.html
+Draft ANSI C Rationale=>http://port70.net/~nsz/c/c89/rationale/
+Draft C99 Rationale=>http://port70.net/~nsz/c/c99/C99RationaleV5.10.pdf
+
+##Language Standards
+Draft ANSI C (C89 standard=>http://port70.net/~nsz/c/c89/c89-draft.txt
+Draft C99 standard=>http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
+Draft C11 standard=>http://www.open-std.org/JTC1/SC22/WG14/
+
+##Beginner
+Tutorial on pointers=>http://www.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/index.htm
+Building C Projects=>http://nethack4.org/blog/building-c.html
+C Programming Wikibook=>https://en.wikibooks.org/wiki/C_Programming
+Introduction to 'fun' C=>https://gist.github.com/eatonphil/21b3d6569f24ad164365
+Learning C with GDB=>https://www.recurse.com/blog/5-learning-c-with-gdb
+POSIX Threads Programming tutorial=>https://computing.llnl.gov/tutorials/pthreads/
+The GNU C Programming Tutorial=>http://www.crasseux.com/books/ctut.pdf
+Templating in C=>http://blog.pkh.me/p/20-templating-in-c.html
+
+##Intermediate
+8 gdb tricks you should know=>https://blogs.oracle.com/linux/8-gdb-tricks-you-should-know-v2
+10 C99 tricks=>https://blog.noctua-software.com/c-tricks.html
+Diving into concurrency: trying out mutexes and atomics=>https://jvns.ca/blog/2014/12/14/fun-with-threads/
+Introduction to OpenMP=>https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
+OpenMP tutorial=>https://computing.llnl.gov/tutorials/openMP
+memcpy vs memmove=>https://web.archive.org/web/20170620131430/https://www.tedunangst.com/flak/post/memcpy-vs-memmove
+MPI tutorial=>https://computing.llnl.gov/tutorials/mpi/
+Some unknown features or tricks in C language=>https://proprogramming.org/some-unknown-features-or-tricks-in-c-language/
+The lost art of C structure packing=>http://www.catb.org/esr/structure-packing/
+What a C programmer should know about memory=>https://marek.vavrusa.com/memory/
+What every C programmer should know about undefined behaviour=>http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
+
+##Advanced
+Advanced metaprogramming in C=>http://250bpm.com/blog:56
+Quick tutorial on implementing and debugging malloc, free, calloc, and realloc=>http://danluu.com/malloc-tutorial/
+Bit twiddling hacks=>https://graphics.stanford.edu/~seander/bithacks.html
+I do not know C=>https://kukuruku.co/post/i-do-not-know-c/
+Implementing smart pointers for the C programming language=>https://snai.pe/c/c-smart-pointers/
+Inline functions in C=>http://www.greenend.org.uk/rjk/tech/inline.html
+Metaprogramming custom control structures in C=>https://www.chiark.greenend.org.uk/~sgtatham/mp/
+Some dark corners of C=>https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit?pli=1#slide=id.gaf50702c_0153
+Writing efficient C and C code optimization=>https://www.codeproject.com/articles/6154/writing-efficient-c-and-c-code-optimization
+What every programmer should know about memory=>https://www.akkadia.org/drepper/cpumemory.pdf
+
+##Macros
+P99=>http://p99.gforge.inria.fr/
+
+##Memory Allocators
+jemalloc=>http://jemalloc.net/
+dlmalloc=>http://g.oswego.edu/pub/misc/malloc.c
+Hoard=>http://hoard.org/
+nedmalloc=>http://www.nedprod.com/programs/portable/nedmalloc/
+rpmalloc=>rampantpixels/rpmalloc
+
+##Multimedia
+FFMPEG=>https://www.ffmpeg.org/
+GStreamer=>https://gstreamer.freedesktop.org/
+lodepng=>https://lodev.org/lodepng/
+libsoup=>https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup
+libmpv=>https://mpv.io/
+libsoundio=>http://libsound.io/
+
+##Networking and Internet
+asnlc=>http://lionet.info/asn1c/compiler.html
+czmq=>http://czmq.zeromq.org/
+GNU adns=>https://www.gnu.org/software/adns/
+GNU SASL=>https://www.gnu.org/software/gsasl/
+GnuTLS=>https://www.gnutls.org/
+gumbo-parser=>google/gumbo-parser
+http-parser=>nodejs/http-parser
+ldns=>https://www.nlnetlabs.nl/projects/ldns/index.html
+libcurl=>https://curl.haxx.se/libcurl/
+LibEtPan=>http://www.etpan.org/
+libev=>http://software.schmorp.de/pkg/libev.html
+libuv=>http://libuv.org/
+libevent=>http://libevent.org/
+libgss=>https://www.gnu.org/software/gss/
+libhttpd=>https://hughes.com.au/products/libhttpd/
+libidn=>https://www.gnu.org/software/libidn/
+libmicrohttpd=>https://www.gnu.org/software/libmicrohttpd/
+libsagui=>https://risoflora.github.io/libsagui/
+libvldmail=>dertuxmalwieder/libvldmail
+lwan=>https://lwan.ws/
+mongoose=>https://cesanta.com/
+MQTT-C=>LiamBindle/MQTT-C
+nanomsg=>nanomsg/nanomsg
+OpenSSL=>https://www.openssl.org/
+oSip=>https://www.gnu.org/software/osip/
+pig=>rafael-santiago/pig
+s2n=>awslabs/s2n
+socket99=>silentbicycle/socket99
+Tox=>https://tox.chat/
+twitc=>sinemetu1/twitc
+librg=>librg/librg
+dyad=>rxi/dyad
+h2o=>h2o/h2o/
+
+##Web Frameworks
+balde=>https://balde.rgm.io/
+onion=>https://www.coralbits.com/libonion/
+kore=>https://kore.io/
+klone=>http://www.koanlogic.com/klone/
+duda=>http://duda.io/
+
+##Numerical
+apophenia=>http://apophenia.info/
+ATLAS=>http://math-atlas.sourceforge.net/
+BLAS=>http://www.netlib.org/blas/
+CDFLIB=>https://people.sc.fsu.edu/~jburkardt/c_src/cdflib/cdflib.html
+cmathl=>https://scientificc.github.io/cmathl/
+Cuba=>http://www.feynarts.de/cuba/
+FFTW=>http://www.fftw.org/
+FLINT=>http://flintlib.org/
+GLPK=>https://www.gnu.org/software/glpk/
+GMP=>https://gmplib.org/
+GNU MPC=>http://www.multiprecision.org/mpc/
+GNU MPFR=>https://www.mpfr.org/index.html
+GNU MPRIA=>https://www.gnu.org/software/mpria/
+GSL=>http://www.gnu.org/software/gsl/
+igraph=>https://igraph.org/
+KISS FFT=>https://sourceforge.net/projects/kissfft/
+LAPACKE=>http://www.netlib.org/lapack/lapacke.html
+PARI/GP=>http://pari.math.u-bordeaux.fr/
+PETSc=>https://www.mcs.anl.gov/petsc/
+PROB=>https://people.sc.fsu.edu/~jburkardt/c_src/prob/prob.html
+Yeppp!=>https://bitbucket.org/MDukhan/yeppp
+
+##Parallel Programming
+cchan=>http://repo.hu/projects/cchan/
+ck=>http://concurrencykit.org/
+mill=>http://libmill.org/
+libdill=>http://libdill.org/
+MPICH=>http://www.mpich.org/
+OpenMP=>https://www.openmp.org/
+OpenMPI=>open-mpi/ompi
+pth=>https://www.gnu.org/software/pth/
+pthreads=>https://en.wikipedia.org/wiki/POSIX_Threads
+SLEPc=>https://bitbucket.org/slepc/slepc
+TinyCThread=>https://tinycthread.github.io/
+
+##Parsers
+hammer=>abiggerhammer/hammer
+iniparser=>ndevilla/iniparser
+libconfini=>madmurphy/libconfini
+libYAML=>https://pyyaml.org/wiki/LibYAML
+mpc=>orangeduck/mpc
+libucl=>vstakhov/libucl
+
+##Regex
+PCRE=>http://www.pcre.org/
+regexp4=>nasciiboy/recursiveregexpraptor-4
+SLRE=>cesanta/slre
+sregex=>openresty/sregex
+TRE=>laurikari/tre/
+
+##Serialization
+binn=>liteserver/binn
+c-capnproto=>jmckaskill/c-capnproto
+cmp=>camgunz/cmp
+libavro=>http://avro.apache.org/docs/current/api/c/index.html#_introduction_to_avro_c
+mpack=>ludocode/mpack
+netstring-c=>liteserver/netstring-c
+protobuf-c=>protobuf-c/protobuf-c
+xdr=>https://en.wikipedia.org/wiki/External_Data_Representation
+
+##Source Code Collections
+CCAN=>http://ccodearchive.net/
+clib=>clibs/clib
+gnulib=>https://www.gnu.org/software/gnulib/
+libdjb=>http://www.fefe.de/djb/
+
+##Standard Libraries
+Bionic=>aosp-mirror/platform_bionic
+dietlibc=>http://www.fefe.de/dietlibc/
+glibc=>http://www.gnu.org/software/libc/
+musl=>http://www.musl-libc.org/
+
+##String Manipulation
+bstrlib=>http://bstring.sourceforge.net/
+ICU=>http://site.icu-project.org/
+libunistring=>https://www.gnu.org/software/libunistring/
+libgiconv=>https://www.gnu.org/software/libiconv/
+SDS=>antirez/sds
+shoco=>http://ed-von-schleck.github.io/shoco/
+smaz=>antirez/smaz
+utf8.h=>sheredom/utf8.h
+utf8proc=>JuliaStrings/utf8proc
+
+##Testing
+CHEAT=>http://users.jyu.fi/~sapekiis/cheat/
+Check=>https://libcheck.github.io/check/
+CMock=>http://www.throwtheswitch.org/
+cmocka=>https://cmocka.org/
+Criterion=>https://criterion.readthedocs.io/en/master/
+CUnit=>http://cunit.sourceforge.net/
+Cutest=>rafael-santiago/cutest
+minunit=>siu/minunit
+munit=>https://nemequ.github.io/munit/
+Unity=>http://www.throwtheswitch.org/
+
+##Atom
+linter-clang=>AtomLinter/linter-clang
+linter-gcc=>hebaishi/linter-gcc
+
+##Emacs
+CEDET=>http://cedet.sourceforge.net/
+Flycheck=>flycheck/flycheck
+Yasnippet=>joaotavora/yasnippet
+
+##Vim
+Syntastic=>vim-syntastic/syntastic
+YouCompleteMe=>http://valloric.github.io/YouCompleteMe/
+
+##Tools
+Artistic Style=>http://astyle.sourceforge.net/
+address-sanitizer=>google/sanitizers
+biicode=>https://biicode.github.io/biicode/
+c=>ryanmjacobs/c
+c99sh=>RhysU/c99sh
+CBMC=>http://www.cprover.org/cbmc/
+cdecl=>https://cdecl.org/
+cinclude2dot=>https://www.flourish.org/cinclude2dot/
+Complexity=>https://www.gnu.org/software/complexity/
+CScout=>https://www.spinellis.gr/cscout/
+DDD=>https://www.gnu.org/software/ddd/ddd.html
+GDB=>http://www.gnu.org/software/gdb/
+Glade=>https://glade.gnome.org/
+GMSL=>https://gmsl.sourceforge.io/
+GNU Global=>https://www.gnu.org/software/global/
+gprof=>http://www.gnu.org/software/binutils/
+Highlight=>http://www.andre-simon.de/index.php
+include-what-you-use=>include-what-you-use/include-what-you-use
+indent=>https://www.gnu.org/software/indent/
+rr=>https://rr-project.org/
+tup=>http://gittup.org/tup/index.html
+unifdef=>http://dotat.at/prog/unifdef/
+Valgrind=>http://www.valgrind.org/
+
+##Utilities
+ApeTagLibs=>jeremyevans/ape_tag_libs/tree/master/c
+bfd=>http://sourceware.org/binutils/docs/bfd/
+cf4ocl=>https://fakenmc.github.io/cf4ocl/
+CommonMark=>commonmark/commonmark-spec
+CException=>ThrowTheSwitch/CException
+docopt.c=>docopt/docopt.c
+dyncall=>http://www.dyncall.org/
+FANN=>http://leenissen.dk/fann/wp/
+Firm=>https://pp.ipd.kit.edu/firm/
+Genann=>codeplea/genann
+gjrand=>https://sourceforge.net/projects/gjrand/
+GNU FreeIPMI=>https://www.gnu.org/software/freeipmi/index.html
+GNU gperf=>https://www.gnu.org/software/gperf/
+GNU Libffcall=>https://www.gnu.org/software/libffcall/
+gperftools=>gperftools/gperftools
+huffandpuff=>adamierymenko/huffandpuff
+kdtree=>jtsiomb/kdtree
+Kitsune=>http://kitsune-dsu.com/
+libavl=>http://adtinfo.org/libavl.html/index.html
+libbson=>mongodb/libbson
+libCello=>http://libcello.org/
+libffi=>libffi/libffi
+libgit2=>https://libgit2.org/
+libimobiledevice=>libimobiledevice/libimobiledevice
+libnfc=>nfc-tools/libnfc
+libPhenom=>facebookarchive/libphenom
+ncurses=>https://www.gnu.org/software/ncurses/
+nope.c=>riolet/WAFer
+pbc=>cloudwu/pbc
+rabbitmq-c=>alanxz/rabbitmq-c
+Ragel=>http://www.colm.net/open-source/ragel/
+Tinyexpr=>codeplea/tinyexpr
+uthash=>http://troydhanson.github.io/uthash/
+cpu_features=>google/cpu_features
+pblog=>google/pblog
+libelf=>WolfgangSt/libelf
+mcpp=>http://mcpp.sourceforge.net/
+libusb=>https://libusb.info/
+alsa-lib=>https://www.alsa-project.org/main/index.php/Main_Page
+Capstone=>aquynh/capstone
+
+##XML
+Expat=>http://www.libexpat.org/
+libxml2=>http://xmlsoft.org/
+mini-xml=>michaelrsweet/mxml

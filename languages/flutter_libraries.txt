@@ -1,0 +1,381 @@
+##UI
+StaggeredGridView=>letsar/flutter_staggered_grid_view
+Radial Menu=>xqwzts/flutter_radial_menu
+Tinder Cards=>Ivaskuu/tinder_cards
+Flip Panel=>hnvn/flutter_flip_panel
+Facebook Reactions=>duytq94/facebook
+Flushbar=>AndreHaueisen/flushbar
+Stepper Touch=>Rahiche/stepper_touch
+Typeahead=>AbdulRahmanAlHamali/flutter_typeahead
+Snaplist=>ariedov/flutter_snaplist
+Pin Code=>LiewJunTung/pin_code_text_field
+Folding Cell=>faob
+Liquid Pull To Refresh=>aagarwal1012/Liquid
+Direct Select=>LanarsInc/direct
+Before After=>xsahil03x/before_after
+Scratcher=>vintage/scratcher
+Image Sequence Animator=>aliyigitbireroglu/flutter
+Beautiful_Popup=>jaweii/Flutter_beautiful_popup
+Credit Card Form=>Origogi/Flutter
+Animated Selection Slide=>sbilketay/animated_selection_slide
+Flutter Tags=>Dn
+Flutter Neumorphic=>Idean/Flutter
+Dough=>HatFeather/flutter_dough
+Card Settings=>codegrue/card_settings
+Timelines=>chulwoo
+Timeline Tile=>JHBitencourt/timeline_tile
+Rounded Loading Button=>chrisedg87/flutter_rounded_loading_button
+PlutoGrid=>bosskmk/pluto_grid
+
+##Sticky Headers
+Sticky Infinite List=>TatsuUkraine/flutter_sticky_infinite_list
+Sticky Header=>letsar/flutter_sticky_header
+Sticky Headers=>slightfoot/flutter_sticky_headers
+
+##Drawers
+Hidden Drawer Menu=>RafaelBarbosatec/hidden_drawer_menu
+Flutter Inner Drawer=>Dn
+
+##Bottom bars
+Fancy Bottom Navigation=>tunitowen/fancy_bottom_navigation
+Circular Bottom Navigation=>imaNNeoFighT/circular_bottom_navigation
+Bottom Navy Bar=>pedromassango/bottom_navy_bar
+Titled Navigation Bar=>pedromassango/titled_navigation_bar
+Google Nav Bar=>sooxt98/google_nav_bar
+
+##Bottom Sheets
+Rubber Bottom Sheet=>mcrovero/rubber
+Modal Bottom Sheet=>jamesblasco/modal_bottom_sheet
+
+##Sliders
+RangeSlider=>boeledi/RangeSlider
+Fluid Slider=>rvamsikrishna/flutter_fluid_slider
+
+##UI Helpers
+Reorderables=>hanshengchiu/reorderables
+Liquid Pull To Refresh=>aagarwal1012/Liquid
+Infinite Listview=>fluttercommunity/flutter_infinite_listview
+Offline=>jogboms/flutter_offline
+In View Notifier List=>rvamsikrishna/inview_notifier_list
+ShowCaseView=>simformsolutions/flutter_showcaseview
+
+##Material Design
+Unicorn Speed Dial=>tiagojencmartins/unicornspeeddial
+Slidable=>letsar/flutter_slidable
+
+##Cupertino Design
+Peek & Pop=>aliyigitbireroglu/flutter
+
+##Effect
+Parallax=>FlutterRocks/page
+Shimmer=>hnvn/flutter_shimmer
+Liquid Swipe=>iamSahdeep/liquid_swipe_flutter
+PhotoFilters=>skkallayath/photofilters
+Shine=>JonathanMonga/flutter_shine.dart
+Clay Containers=>mcaubrey/clay_containers
+
+##Calendar
+Calendar Widget=>pinkfish/flutter_calendar
+Calendar Carousel Widget=>dooboolab/flutter_calendar_carousel
+Table Calendar=>aleksanderwozniak/table_calendar
+Time Planner=>Jamalianpour/time_planner
+
+##Login
+Login Animation=>GeekyAnts/flutter
+Flutter Login=>NearHuscarl/flutter_login
+
+##Backend-Driven
+Dynamic Widget=>dengyin2000/dynamic_widget
+
+##Image
+Carousel Slider=>serenader2014/flutter_carousel_slider
+Parallax Image=>pulyaevskiy/parallax
+Photo View=>renancaraujo/photo_view
+SVG=>dnfield/flutter_svg
+Image Cropper=>hnvn/flutter_image_cropper
+Cached Network Image=>renefloor/flutter_cached_network_image
+Lottie=>xvrh/lottie
+Bitmap=>renancaraujo/bitmap
+Crop=>xclud/flutter_crop
+
+##Image Picker
+Image Picker=>flutter/plugins/tree/master/packages/image_picker
+WeChat Assets Picker=>fluttercandies/flutter_wechat_assets_picker
+
+##Map
+Google Map View=>apptreesoftware/flutter_google_map_view
+GeoCoder=>aloisdeniel/flutter_geocoder
+Mapbox GL=>mapbox/flutter
+
+##Charts
+Circular Chart=>xqwzts/flutter_circular_chart
+Sparkline=>xqwzts/flutter_sparkline
+Charts=>google/charts
+Candlesticks=>trentpiercy/flutter
+FCharts=>thekeenant/fcharts
+FL Chart=>imaNNeoFighT/fl_chart
+Bezier Chart=>aeyrium/bezier
+Echarts=>entronad/flutter_echarts
+Graphic=>entronad/graphic
+
+##Navigation
+Fluro=>goposse/fluro
+PageView Indicator=>leocavalcante/page_view_indicator
+Deep Link Navigation=>Dennis
+Get=>jonataslaw/get
+Beamer=>slovnicki/beamer
+
+##Auth
+Local Auth=>flutter/plugins/tree/master/packages/local_auth
+Login=>AppleEducate/flutter_login
+Google Sign
+Firebase Auth=>https://github.com/FirebaseExtended/flutterfire/blob/master/packages/firebase_auth/firebase_auth/README.md
+Facebook Login=>roughike/flutter_facebook_login
+OAuth=>hitherejoe/FlutterOAuth
+SimpleAuth=>Clancey/simple_auth
+Flutter AppAuth=>MaikuB/flutter_appauth
+
+##Text & Rich Content
+Markdown=>flutter/flutter_markdown
+Masked Text=>benhurott/flutter
+Zefyr=>memspace/zefyr
+AutoSizeText=>leisim/auto_size_text
+Parsed Text=>fayeed/flutter_parsed_text
+TeX=>shah
+Code Field=>BertrandBev/code_field
+
+##Forms
+Form Builder=>danvick/flutter_form_builder
+Reactive Forms=>joanpablo/reactive_forms
+
+##Analytics
+Pure Mixpanel=>seenickcode/pure_mixpanel
+
+##Internationalization
+GenLang=>KingWu/gen_lang
+Flutter Translate=>bratan/flutter_translate
+attranslate=>fkirc/attranslate
+
+##Styling
+Flutterial=>rxlabz/flutterial
+Pigment=>bregydoc/pigment
+
+##Audio
+Audio Recorder=>ZaraclaJ/audio_recorder
+Flutter Sound=>dooboolab/flutter_sound
+AssetsAudioPlayer=>florent37/Flutter-AssetsAudioPlayer
+
+##Video
+WebRTC=>cloudwebrtc/flutter
+Chewie=>brianegan/chewie
+Video Trimmer=>sbis04/video_trimmer
+CamerAwesome=>Apparence
+
+##Voice
+Speech Recognition=>rxlabz/speech_recognition
+
+##Storage
+Secure Storage=>mogol/flutter_secure_storage
+
+##Preferences
+Streaming Shared Preferences=>roughike/streaming_shared_preferences
+
+##Monetization
+Inapp Purchase=>dooboolab/flutter_inapp_purchase
+Admob Flutter=>kmcgill88/admob_flutter
+Facebook Audience Network=>dreamsoftin/facebook_audience_network
+
+##Templates
+Movie Details=>FlutterRocks/movie
+Mates=>CodemateLtd/FlutterMates
+Weather=>alessandroaime/Weather
+TodoMVC=>brianegan/flutter_architecture_samples
+Restaurant Menu=>braulio94/menu_flutter
+UI Challenges=>tomialagbe/flutter_ui_challenges
+Cupertino Settings=>matthinc/flutter_cupertino_settings
+Music Player=>thosakwe/flutter_music_player
+Dashboard=>Ivaskuu/dashboard
+Todo=>littlemarc2011/FlutterTodo
+Card Swipe Animation=>geekruchika/FlutterCardSwipe
+UI Kit=>iampawan/Flutter
+Book=>putraxor/flutter
+The Gorgeous Login=>huextrat/TheGorgeousLogin
+Liquid Pay Payment App=>longhoang2984/flutter_payment_app_ui
+DrawApp=>SnakeyHips/drawapp
+Starter Kit=>KingWu/flutter_starter_kit
+Feather=>jhomlala/feather
+Clone UI Challenges=>javico2609/flutter
+FlutterFoodybite=>JideGuru/FlutterFoodybite
+Flutter Samples=>diegoveloper/flutter
+ActingWeb First_App=>gregertw/actingweb_firstapp
+Smart Washing Machine=>pawlik92/flutter_whirlpool
+Beautiful Timelines=>JHBitencourt/beautiful_timelines
+
+##Clone
+GitTouch=>pd4d10/git
+
+##Machine Learning
+MLKit=>azihsoyn/flutter_mlkit
+m2cgen=>BayesWitnesses/m2cgen
+
+##Vision
+ML Vision Camera Stream=>santetis/flutter_camera_ml_vision
+Google Mobile Vision=>edufolly/flutter_mobile_vision
+
+##Augmented Reality
+ARKit Plugin=>olexale/arkit_flutter_plugin
+ARCore Plugin=>giandifra/arcore_flutter_plugin
+
+
+##Device
+WebView=>dart
+Location=>Lyokone/flutterlocation
+Local Notifications=>MaikuB/flutter_local_notifications
+Device Calendar=>builttoroam/flutter_plugins/tree/master/device_calendar
+Badger=>g123k/flutter_app_badger
+UDID=>GigaDroid/flutter_udid
+Downloader=>hnvn/flutter_downloader
+InAppWebView=>pichillilorenzo/flutter_inappwebview
+AppAvailability=>pichillilorenzo/flutter_appavailability
+File Picker=>miguelpruivo/plugins_flutter_file_picker
+Geolocator=>baseflow/flutter
+Permission Handler=>baseflow/flutter
+
+##Scanner
+QR Code Reader=>villela/flutter_qrcode_reader
+Fast QR Reader View=>facundomedica/fast_qr_reader_view
+
+##Bluetooth / NFC / Beacon
+Blue=>pauldemarco/flutter_blue
+NFC Reader=>matteocrippa/flutter
+Beacon broadcast=>pszklarska/beacon_broadcast
+Reactive Ble=>PhilipsHue/flutter_reactive_ble
+NFC Manager=>okadan/flutter
+
+##Storage
+Sqflite=>tekartik/sqflite
+Moor=>simolus3/moor
+
+##Services
+Dialogflow=>VictorRancesCode/flutter_dialogflow
+OneSignal=>OneSignal/OneSignal
+Place Dialog=>pinkfish/flutter_places_dialog
+App Rating=>AppleEducate/app_review
+
+
+##Standard State management
+Bloc=>felangel/bloc
+MobX=>mobxjs/mobx.dart
+Provider=>rrousselGit/provider
+RiverPod=>rrousselGit/river_pod
+GetX=>jonataslaw/getx
+Binder=>letsar/binder
+
+##Redux/ELM/Dependency Injection
+Built redux=>davidmarne/flutter_built_redux
+Redux.dart=>johnpryan/redux.dart
+Redux=>brianegan/flutter_redux
+Inject=>google/inject.dart
+Flux=>google/flutter_flux
+Fish=>alibaba/fish
+
+##Widgets
+Hooks=>rrousselGit/flutter_hooks
+Functional widget=>rrousselGit/functional_widget
+
+##Data
+GeoFlutterFire=>DarshanGowda0/GeoFlutterFire
+
+##Backend
+Dynamic Widget=>dengyin2000/dynamic_widget
+NETCoreSync=>aldycool/NETCoreSync
+Parse for Flutter=>parse
+
+##Animation
+Sequence Animation=>Norbert515/flutter_sequence_animation
+SpinKit=>jogboms/flutter_spinkit
+Villains=>Norbert515/flutter_villains
+AnimatedTextKit=>aagarwal1012/Animated
+Drawing Animation=>biocarl/drawing_animation
+Simple Animations=>felixblaschke/simple_animations
+Staggered Animations=>mobiten/flutter_staggered_animations
+Funvas=>creativecreatorormaybenot/funvas
+
+##Testing
+Flutter Gherkin=>jonsamwell/flutter_gherkin
+
+##Web
+Responsive Framework=>Codelessly/ResponsiveFramework
+
+##Experimental
+styled_widget=>ReinBentdal/styled_widget
+
+##Rendering
+Graphx=>roipeker/graphx
+
+##Game
+SpriteWidget=>spritewidget/spritewidget
+
+##Open source games
+Flip=>RedBrogdon/flutterflip
+2048=>anuranBarman/2048
+TRex=>renancaraujo/trex
+Crush=>boeledi/flutter_crush
+Slide Puzzle=>kevmoo/slide_puzzle
+Tetris=>boyan01/flutter
+Party Charades=>vintage/party_flutter
+Space Empires=>satyamx64/space_empires
+
+
+##Samples
+Flutter Team Samples=>flutter/samples
+Flutter Common Widgets=>alibaba/flutter
+Meme Chat=>efortuna/memechat
+Lime=>fablue/lime
+Planets=>sergiandreplace/flutter_planets_tutorial
+NewsBuzz=>theankurkedia/NewsBuzz
+Music Player=>iampawan/Flutter
+WhatTodo=>burhanrashid52/WhatTodo
+FlutterGram=>mdanics/fluttergram
+BookSearch=>Norbert515/BookSearch
+Cinematic=>aaronoe/FlutterCinematic
+Trace=>trentpiercy/trace
+Taskist=>huextrat/Taskist
+Tourism=>bluemix/tourism
+Trinity Orientation @ Univ Toronto=>matthewtory/trinity
+Transform Widget=>DrPaulT/flutter
+Deer=>aleksanderwozniak/deer
+TailorMade=>jogboms/tailor_made
+Instory=>InvertedX/instory
+Superhero Interaction=>pinkeshdarji/SuperHeroInteraction
+Reply=>flschweiger/reply
+Enigma=>AmitJoki/Enigma
+Chillify=>KarimElghamry/chillify
+Pokedex=>scitbiz/flutter_pokedex
+Timy Messenger=>janoodleFTW/timy
+GitJournal=>GitJournal/GitJournal
+AuthPass=>authpass/authpass
+Fwitter=>TheAlphamerc/flutter_twitter_clone
+Harpy=>robertodoering/harpy
+
+##Utilities
+Launcher Icons=>franzsilva/flutter_launcher_icons
+FVM=>leoafarias/fvm
+Environment Configuration=>TatsuUkraine/dart_environment_config
+Flutter Flavorizr=>AngeloAvv/flutter_flavorizr
+Fontify=>westracer/fontify
+FlutterGen=>FlutterGen/flutter_gen
+Very Good Cli=>VeryGoodOpenSource/very_good_cli
+Flutter Sidekick=>leoafarias/sidekick
+
+
+##Desktop
+Desktop Embedding=>google/flutter
+Native Shell=>nativeshell/nativeshell
+Rust Desktop Embedder=>gliheng/flutter
+bitsdojo_window=>bitsdojo/bitsdojo_window
+Raspberry Pi Embedder=>ardera/flutter
+Fluent UI=>bdlukaa/fluent_ui
+MacOS UI=>GroovinChip/macos_ui
+Ubuntu Yaru=>ubuntu/yaru.dart
+

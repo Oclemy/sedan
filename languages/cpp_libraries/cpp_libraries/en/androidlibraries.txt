@@ -1,0 +1,626 @@
+##About
+EasyAbout=>marcoscgdev/EasyAbout
+Android_about_us=>krishnanmuthiahpillai/android_about_us
+AboutUsActivity=>manimaran96/AboutUsActivity
+Nordan=>Dan629pl/nordan-simply-page-android
+
+##Activity and Fragments
+Inline Activity Results=>afollestad/inline-activity-result
+RxRouter=>ssseasonnn/RxRouter
+CachePot=>kimkevin/CachePot
+Medusa=>Trendyol/medusa
+Sliding Activity=>klinker41/android-slidingactivity
+Slidr=>r0adkll/Slidr
+Drag Dismiss Activity=>klinker24/Android-DragDismissActivity
+Custom Activity On Crash=>Ereza/CustomActivityOnCrash
+Swipe Back Layout=>gongwen/SwipeBackLayout
+Activity Starte=>MarcinMoskala/ActivityStarter
+Floating Tutorial Activity=>klinker24/Android-FloatingTutorialActivity
+Drawing Activity=>ChilliBits/drawing-activity
+Activity Fragment Manager=>massivedisaster/ActivityFragmentManager
+FragmentRigger=>JingYeoh/FragmentRigger
+Android Navigation=>listenzz/AndroidNavigation
+FragNav=>ncapdevi/FragNav
+Fragment State Manager=>okaybroda/FragmentStateManager
+Fragment Navigation 2.0=>gyorgygabor/fragment-navigation-2.0
+ActivitySwitcher=>Hitomis/ActivitySwitcher
+Easy-Fragment-Argument=>armcha/Easy-Fragment-Argument
+Fragment Args=>sockeqwe/fragmentargs
+
+
+##API
+News-API=>mukeshsolanki/News-API-Android
+Google Places=>mukeshsolanki/Google-Places-AutoComplete-EditText
+
+##AppBar and Toolbar
+ScalingLayout=>iammert/ScalingLayout
+AppBar Sync FAB=>strooooke/appbarsyncedfab
+Navigation ToolBar=>Ramotion/navigation-toolbar-android
+Toolbar Button=>GautamGupta/toolbar-button
+ToolBar Center Title=>RaviKoradiya/Toolbar-Center-Title
+Navigation Header=>QArtur99/NavigationHeader
+Smart ToolBar=>Chivorns/SmartToolbar
+
+##Animation
+TextSurface=>elevenetc/TextSurface
+Loading Images Animation=>Cutta/LoadingImagesAnimation
+Bungee=>Binary-Finery/Bungee
+Animatoo=>AtifSayings/Animatoo
+Activity Circular Reveal=>tombayley/ActivityCircularReveal
+Spruce Tree Android=>willowtreeapps/spruce-android
+ViewAnimator=>florent37/ViewAnimator
+RecyclerView Animators=>wasabeef/recyclerview-animators
+Garland View=>Ramotion/garland-view-android
+Slide Up=>mancj/SlideUp-Android
+Android Particles=>ibrahimsn98/android-particles
+ViewPager Transforms=>ToxicBakery/ViewPagerTransforms
+PopView Android=>krishnarb3/Popview-Android
+Count Animation TextView=>MasayukiSuda/CountAnimationTextView
+Frame Animation=>yuyashuai/FrameAnimation
+Reflow Animation=>shazam/reflow-animator
+Animated RecyclerView=>MLSDev/AnimatedRecyclerView
+Transition Player=>linfaxin/TransitionPlayer
+Sticky Switch=>GwonHyeok/StickySwitch
+Spark=>TonnyL/Spark
+Interactive canvas=>elevenetc/InteractiveCanvas
+FAB Transitions=>Adirockzz95/FABtransitions
+Yava=>javayhu/yava
+Google News Stand Animation=>hariprasanths/GoogleNewsStandAnimation-Android
+Reachability=>sakebook/Reachability
+Sequent=>fujiyuu75/Sequent
+FPS Animator=>MasayukiSuda/FPSAnimator
+Android Animations Kotlin=>gayanvoice/android-animations-kotlin
+Disco=>m1noon/Disco
+shimmer-Android=>facebook/shimmer-android
+
+##Billing
+InApp Billing v3=>anjlab/android-inapp-billing-v3
+Android Checkout=>serso/android-checkout
+Android-InAppBilling=>LiteKite/Android-InAppBilling
+Register=>nytimes/Register
+Reactive-Billing=>lukaspili/Reactive-Billing
+
+##BottomSheet
+DialogSheet=>marcoscgdev/DialogSheet
+
+##BreadCumb
+BreadcrumbsView=>VictorAlbertos/BreadcrumbsView
+
+##Camera
+Camerakit-android=>CameraKit/camerakit-android
+Android-Image-Cropper=>ArthurHub/Android-Image-Cropper
+SquareCamera=>boxme/SquareCamera
+iCamera=>Shouheng88/iCamera
+HiddenCam=>CottaCush/HiddenCam
+
+##CardView
+Truffle Shuffle=>intuit/truffle-shuffle
+BoardView=>jakebonk/BoardView
+
+##Chart
+MPAndroidChart=>PhilJay/MPAndroidChart
+Android Charts=>HackPlan/AndroidCharts
+Hello Charts=>lecho/hellocharts-android
+
+##Chat
+SimpleChatView=>ryanlijianchang/SimpleChatView
+AnyChart-Android=>AnyChart/AnyChart-Android
+
+##Chips
+ChipsLayoutManager=>BelooS/ChipsLayoutManager
+TagView=>Cutta/TagView
+AndroidTagGroup=>2dxgujun/AndroidTagGroup
+TagsEditText=>mabbas007/TagsEditText
+Android TagView=>whilu/AndroidTagView
+3D Tag Cloud=>misakuo/3dTagCloudAndroid
+ChipView=>jakebonk/ChipView
+
+##Credit Card
+CardForm=>braintree/android-card-form
+Frames-Android=>checkout/frames-android
+
+##Draw
+DrawingView=>mukeshsolanki/DrawingView-Android
+
+##Date,Time and Calender
+Temp=>cesarferreira/tempo
+CalenderView Toolbar=>kleisauke/CompactCalendarViewToolbar
+Compact CalenderView=>SundeepK/CompactCalendarView
+
+##Bluetooth
+RxAndroid BLE=>Polidea/RxAndroidBle
+Bluetooth Library=>OmarAflak/Bluetooth-Library
+Fast BLE=>Jasonchenlijian/FastBle
+RxBluetooth=>IvBaranov/RxBluetooth
+ReactiveBeacons=>pwittchen/ReactiveBeacons
+BluetoothHelper=>tlgbltcn/BluetoothHelper
+Able=>JuulLabs/able
+RxBluetoothKotlin=>VincentMasselis/RxBluetoothKotlin
+AndroidBluetoothLibrary=>douglasjunior/AndroidBluetoothLibrary
+Bluetoothkit-Android=>sirvar/bluetoothkit-android
+Blueteeth=>RobotPajamas/Blueteeth
+Easy BLE=>wandersnail/easyble
+Blue Falcon=>Reedyuk/blue-falcon
+LM Bluetooth SDK=>whilu/LMBluetoothSdk
+
+##Bottom Navigation
+BottomBar=>roughike/BottomBar
+Readable BottomBar=>iammert/ReadableBottomBar
+
+##Buttons
+Fabulous Filter=>Krupen/FabulousFilter
+RHSideButtons=>robertherdzik/RHSideButtons
+Floating Action Button=>msfjarvis/floating-action-button
+FAB Reveal Menu=>HarinTrivedi/FABRevealMenu-master
+MaterialFabSpeedDial=>kobakei/MaterialFabSpeedDial
+FAB Transitions=>Adirockzz95/FABtransitions
+FAB Menu=>cheekiat/FabMenu
+Fabb=>HBiSoft/Fabb
+CameraVideoButton=>iammert/CameraVideoButton
+Spark Button=>varunest/SparkButton
+TapHoldUpButton=>abdularis/TapHoldUpButton
+MaterialFancyButtons=>joielechong/MaterialFancyButtons
+ToggleButtonLayout=>savvyapps/ToggleButtonLayout
+Themed Toggle Button=>Bryanx/themed-toggle-button-group
+ToggleButton=>zcweng/ToggleButton
+ToggleButtonGroup=>nex3z/ToggleButtonGroup
+TriStateToggleButton=>BeppiMenozzi/TriStateToggleButton
+multistatetogglebutton=>jlhonora/multistatetogglebutton
+
+##Caching
+Reservoir=>anupcowkur/Reservoir
+Fuse=>kittinunf/Fuse
+DiskLruCache=>akeWharton/DiskLruCache
+LayerCache=>appmattus/layercache
+RxCache=>VictorAlbertos/RxCache
+ObjectCache=>iainconnor/ObjectCache
+AndroidVideoCache=>danikula/AndroidVideoCache
+CacheUtilsLibrary=>westlinkin/CacheUtilsLibrary
+CacheLib=>pcpl2/CacheLib
+CacheManager=>ronghao/CacheManage
+mCache=>diareuse/mCache
+Store=>dropbox/Store
+Live Cache=>Mastercard/LiveCache
+Bucket=>simonpercic/Bucket
+Fuse=>kittinunf/Fuse
+
+##CountryPicker
+CountryPicker Android=>mukeshsolanki/country-picker-android
+CountryCodePickerProject=>hbb20/CountryCodePickerProject
+CountryCodePicker=>joielechong/CountryCodePicker
+AndroidCountryPicker=>hbb20/AndroidCountryPicker
+
+##Debugging and Logging
+Andzu=>isacan/Andzu
+ShootOut=>nisrulz/ShoutOut
+
+##DiffUtil
+DiffAdapter=>SilenceDut/diffadapter
+
+##Dialer
+Android Dialer=>dialogs/android-dialer
+Android Dial Picker=>moldedbits/android-dial-picker
+
+##Dialogs
+Material Dialogs=>afollestad/material-dialogs
+LovelyDialog=>yarolegovich/LovelyDialog
+Android MaterialDialog=>michael-rapp/AndroidMaterialDialog
+DialogPlus=>orhanobut/dialogplus
+Dialog=>kongzue/DialogV3
+Sweet Alert Dialog=>pedant/sweet-alert-dialog
+PrettyDialog=>mjn1369/PrettyDialog
+NiceDialog=>SheHuan/NiceDialog
+MaterialDialog-Android=>PatilShreyas/MaterialDialog-Android
+Android Tabbed Dialog=>ashishbhandari/AndroidTabbedDialog
+KAlertDialog=>TutorialsAndroid/KAlertDialog
+BlurDialogFragment=>tvbarthel/BlurDialogFragment
+Flyco Dialog=>H07000223/FlycoDialog_Master
+StepDialog=>guangzq/StepDialog
+Nifty Dialog Effects=>sd6352051/NiftyDialogEffects
+CanDialog=>canyinghao/CanDialog
+Android Ad Dialog=>yipianfengye/android-adDialog
+Android styled Dialogs=>avast/android-styled-dialogs
+EasyDialog=>michaelye/EasyDialog
+LicensesDialog=>PSDev/LicensesDialog
+SwipeAwayDialog=>kakajika/SwipeAwayDialog
+Search Dialog=>mirrajabi/search-dialog
+NoInternetDialog=>appwise-labs/NoInternetDialog
+GDPRDialog=>MFlisar/GDPRDialog
+Android-RateThisApp=>kobakei/Android-RateThisApp
+Calculator Dialog=>maltaisn/calcdialoglib
+
+##Downloader
+Filebox=>lyrebirdstudio/filebox
+
+##Editor
+Rich Editor=>wasabeef/richeditor-android
+RichText=>zzhoujay/RichText
+MarkdownEditText=>YahiaAngelo/MarkdownEditText
+MarkDEditor=>bxute/MarkDEditor
+XRichText=>sendtion/XRichText
+OTMarkdownEditor=>xia-weiyang/OTMarkdownEditor
+
+##Email
+Email Intent Builder=>cketti/EmailIntentBuilder
+Shelly=>jtribe/shelly
+Maildroid=>nedimf/maildroid
+
+##Encryption-Decryption
+Codia=>alirezaashrafi/Codia
+Seguro=>cesarferreira/seguro
+
+##Events
+EvTrack=>nisrulz/EvTrack
+
+##Expandables
+Expandable Layout=>iammert/ExpandableLayout
+Expanding View=>diegodobelo/AndroidExpandingViewLibrary
+
+##Firebase
+RxFirebase=>nmoskalenko/RxFirebase
+FCM Notification Handler=>franmontiel/FcmNotificationHandler
+FirePush=>karanatwal/FirePush
+FCMHelper=>MOSDEV82/fcmhelper
+
+##Form
+AndroidForm=>AndroidDevFr/AndroidForm
+FormBuilder=>dariopellegrini/FormBuilder
+KFormMaster=>TheJuki/KFormMaster
+SSForms=>StarkSoftware/SSForms
+Neat-Form=>ellykits/neat-form
+FormSimpleIGB=>LordSaac/FormSimpleIGB
+Forms=>nwagu/forms
+
+##Framework
+Android UI Components=>Trendyol/android-ui-components
+Clean UI=>JonathandelaSen/CleanUI
+
+##FilePicker
+Android File Chooser=>hedzr/android-file-chooser
+
+##FilePicker with Camera
+EasyImage=>jkwiecien/EasyImage
+Gligar=>OpenSooq/Gligar
+ImagePicker=>nguyenhoanglam/ImagePicker
+
+##GraphQL
+Apollo-Android=>apollographql/apollo-android
+Android-OkGraphQl=>florent37/Android-OkGraphQl
+GraphQL-Retrofit-Converter=>Ramkishorevit/GraphQL-Retrofit-Converter
+Android GQL=>isfaaghyth/android-gql
+
+##Image Loader and Transformations
+Picasso=>square/picasso
+Glide=>bumptech/glide
+Android Universal ImageLoader=>nostra13/Android-Universal-Image-Loader
+Coil=>coil-kt/coil
+Glide Transformations=>wasabeef/glide-transformations
+Transformers=>wasabeef/transformers
+Composable Images=>wasabeef/composable-images
+
+##ImageView
+Subsampling Scale ImageView=>davemorrissey/subsampling-scale-image-view
+GifView=>Cutta/GifView
+Continous Scrollable ImageView=>Cutta/ContinuousScrollableImageView
+Simple Tag ImageView_&_Tag_%_wujingchao/SimpleTagImageView
+Imaging=>minetsh/Imaging
+Image Zoomer=>code-crusher/Image-Zoomer
+PanningView=>andenapp/PanningView
+ParallaxImageView=>abdularis/ParallaxImageView
+CircularImageView=>abdularis/CircularImageView
+
+##ImageEditor
+PhotoFilter=>mukeshsolanki/photofilter
+
+##Intent
+Omega Intent Builder=>Omega-R/OmegaIntentBuilder
+Intent Share=>tvbarthel/IntentShare
+Data Auto Access=>ThirtyDegreesRay/DataAutoAccess
+Shelly=>tribe/shelly
+
+##Intro and Showcase
+Material IntroView=>iammert/MaterialIntroView
+Showcase=>bilgehankalkan/showcase
+
+##JSON
+Gson=>google/gson
+LoganSquare=>bluelinelabs/LoganSquare
+Forge=>kittinunf/Forge
+
+##RecyclerView Item Animators
+RecyclerView Animators=>wasabeef/recyclerview-animators
+Item Animators=>mikepenz/ItemAnimators
+
+##Lock
+Pattern LockView=>aritraroy/PatternLockView
+PinLockView=>aritraroy/PinLockView
+
+##Log
+Debug=>noties/Debug
+Logger=>orhanobut/logger
+Intent Logger=>Drivemode/IntentLogger
+GPSLogger=>mendhak/gpslogger
+LogUtils=>pengwei1024/LogUtils
+Logback-Android=>tony19/logback-android
+NetworkLog=>pragma-/networklog
+xLog=>elvishew/xLog
+
+##Logcat
+LogcatViewer=>fatangare/LogcatViewer
+Floating LogcatViewer=>weijiaxing/LogcatViewer
+LogcatReporter=>Ereza/LogcatReporter
+DebugOverlay-Android=>Manabu-GT/DebugOverlay-Android
+Lynx=>pedrovgs/Lynx
+MyLogLibrary=>Pulimet/MyLogLibrary
+
+##Login
+Android-Smart-Login=>CodelightStudios/Android-Smart-Login
+
+##Maps and Location
+EasyMap=>iammert/EasyMap
+Smart Location Lib=>mrmans0n/smart-location-lib
+GoogleMapView=>/alirezaashrafi/GoogleMapView
+
+##Markdown
+Markwon=>noties/Markwon
+Markdown Editors=>qinci/MarkdownEditors
+MarkdownView=>tiagohm/MarkdownView
+Markdown=>zzhoujay/Markdown
+RxMarkdown=>yydcdut/RxMarkdown
+MarkyMark-Android=>M2mobi/MarkyMark-Android
+MarkdownEdit=>Tunous/MarkdownEdit
+EasyMark=>Shouheng88/EasyMark
+MarkdownView=>falnatsheh/MarkdownView
+MarkdownView-Android=>mukeshsolanki/MarkdownView-Android
+Markdowntextview=>untoldhq/android.markdowntextview
+
+##Menu
+PopMenuLayout=>whilu/PopMenuLayout
+Circle Menu=>Hitomis/CircleMenu
+GuillotineMenu=>Yalantis/GuillotineMenu-Android
+Circle Menu Android=>Ramotion/circle-menu-android
+
+##Music and Audio
+Interactive PlayerView=>iammert/InteractivePlayerView
+Radio Player Service=>iammert/RadioPlayerService
+Music Player View=>iammert/MusicPlayerView
+
+##Networking
+Retrofit=>square/retrofit
+OkHTTP=>square/okhttp
+Fuel=>kittinunf/fuel
+Fast Android Networking=>amitshekhariitbhu/Fast-Android-Networking
+Ion=>koush/ion
+VolleyPlus=>DWorkS/VolleyPlus
+Kalle=>yanzhenjie/Kalle
+Tovuti=>AndroidStudyOpenSource/tovuti
+OptimusHTTP=>nisrulz/OptimusHTTP
+AsyncNetwork=>OughtToPrevail/AsyncNetwork
+Android Async=>koush/AndroidAsync
+Android HTTP Server=>matt1/AndroidHTTPServer
+Ninjato=>agoda-com/ninjato
+Atomic=>shiburagi/Atomic
+Kine=>AnkitAgrawal967/Kine
+
+##Network Interceptor
+AndroidSnooper=>jainsahab/AndroidSnooper
+Chuck=>jgilfelt/chuck
+Chucker=>ChuckerTeam/chucker
+
+##NavigationView
+Material Drawer=>heinrichreimer/material-drawer
+MaterialDrawer=>mikepenz/MaterialDrawer
+
+##Notifications
+Alerter=>Tapadoo/Alerter
+InfoView=>savepopulation/infoview
+NotifyMe=>jakebonk/NotifyMe
+PugNotification=>halysongoncalves/Pugnotification
+ShortcutBadger=>leolin310148/ShortcutBadger
+CookieBar=>AviranAbady/CookieBar2
+Noty=>emre1512/Noty
+Flashbar=>aritraroy/Flashbar
+Minibar=>mayuroks/minibar
+
+##NumberPicker
+NumberSlidingPicker=>sephiroth74/NumberSlidingPicker
+
+##Rating
+Easy Rating Dialog=>fernandodev/easy-rating-dialog
+Android-RateThisApp=>kobakei/Android-RateThisApp
+Feedback dialog=>shivasurya/FeedbackDialog
+Smiley RatingBar=>sujithkanna/SmileyRating
+
+##REACTIVE PROGRAMMING
+RxJava3=>ReactiveX/RxJava
+RxAndroid3=>ReactiveX/RxAndroid
+RxJavaExtensions=>akarnokd/RxJavaExtensions
+RxLibrary=>shanluwei/Rxlibrary
+Roxie=>ww-tech/roxie
+
+##PDF Editing
+PDFCreatorAndroid=>tejpratap46/PDFCreatorAndroid
+PDF-Generator=>UttamPanchasara/PDF-Generator
+XML-to-PDF-Generator=>Gkemon/Android-XML-to-PDF-Generator
+PDF-invoice-generator=>kariot/pdf-invoice-generator
+
+##PDF Viewer
+AndroidPdfViewer=>barteksc/AndroidPdfViewer
+Light PdfViewer=>manishkummar21/AndroidPdfViewer
+PdfViewPager=>voghDev/PdfViewPager
+Pdfview-Android=>Dmitry-Borodin/pdfview-android
+Viger-PDF=>aerdy/Viger-PDF
+Pdf-Viewer=>afreakyelf/Pdf-Viewer
+Android-Pdf-Viewer=>ameriod/Android-Pdf-Viewer
+MindevPDFViewer=>mkw8263/MindevPDFViewer
+
+##Permissions
+Assent=>afollestad/assent
+Permy=>savepopulation/permy
+Android Permissions=>nishkarsh/android-permissions
+EasyPermissions=>mukeshsolanki/easypermissions-android
+
+##Play Store
+RxMagneto=>aritraroy/RxMagneto
+
+##Progress Indicator
+Stacked Horizontal ProgressBar=>nisrulz/stackedhorizontalprogressbar
+Progress Layout=>iammert/ProgressLayout
+Google ProgressBar=>jpardogo/GoogleProgressBar
+WaveLineView=>Jay-Goo/WaveLineView
+WaveLoadingView=>tangqi92/WaveLoadingView
+
+##Packages
+Package Hunter=>nisrulz/packagehunter
+AppListManager=>LayoutXML/AppListManager
+
+##PinView
+OTP PinView=>mukeshsolanki/android-otpview-pinview
+
+##RecyclerView
+BaseRecyclerViewAdapterHelper=>CymChad/BaseRecyclerViewAdapterHelper
+Flexible Adapter=>davideas/FlexibleAdapter
+EasyAdapter=>mkrupal09/EasyAdapter
+Fast Adapter=>mikepenz/FastAdapter
+SectionedRecyclerViewAdapter=>SectionedRecyclerViewAdapter
+Adapter=>thepacific/adapter
+BindingCollectionAdapter=>evant/binding-collection-adapter
+RendererRecyclerViewAdapter=>vivchar/RendererRecyclerViewAdapter
+MultiViewAdapter=>DevAhamed/MultiViewAdapter
+OneAdapter=>ironSource/OneAdapter
+Smart Recycler Adapter=>manneohlund/smart-recycler-adapter
+Items=>nekocode/Items
+Fast List=>dev-labs-bg/fast-list
+Pollux=>Oclemy/Pollux
+Infinity=>Oclemy/Infinity
+InfiniteScroll=>pwittchen/InfiniteScroll
+DragSelectRecyclerView=>afollestad/drag-select-recyclerview
+Recyclical=>afollestad/recyclical
+RecyclerView FlexibleDivider=>yqritc/RecyclerView-FlexibleDivider
+Dividers=>Karumi/Dividers
+Y_DividerItemDecoration=>yanyusong/Y_DividerItemDecoration
+RecyclerView Divider=>fondesa/recycler-view-divider
+RecyclerViewHelper=>nisrulz/recyclerviewhelper
+VegaLayoutManager=>xmuSistone/VegaLayoutManager
+Generic RecyclerAdapter=>burakeregar/GenericRecyclerAdapter
+XRecyclerView=>XRecyclerView/XRecyclerView
+
+##Recorder
+Android-Wave-Recorder=>squti/Android-Wave-Recorder
+
+##Screenshot
+Screenshott=>nisrulz/screenshott
+
+##Sensors
+ReactiveSensors=>pwittchen/ReactiveSensors
+Sensey=>nisrulz/sensey
+Easy Device Info=>nisrulz/easydeviceinfo
+
+##Scroll
+Overscroll Decor=>EverythingMe/overscroll-decor
+
+##SearchView
+Floating SearchView=>renaudcerrato/FloatingSearchView
+MultiSearchView=>iammert/MultiSearchView
+MaterialDialogSearchView=>TakeoffAndroid/MaterialDialogSearchView
+
+##SearchDialog
+Search-Dialog=>mirrajabi/search-dialog
+Searchable Spinner=>MdFarhanRaja/SearchableSpinner
+SearchDialog=>ajithvgiri/search-dialog
+
+##SeekBar and Ranges
+Material Range Bar=>oli107/material-range-bar
+RangeView=>iammert/RangeView
+HueSeekBar=>iammert/HueSeekBar
+
+##Shape
+ShapeOfView=>florent37/ShapeOfView
+
+##SHARED PREFERENCES
+AndroidMaterialPreferences=>michael-rapp/AndroidMaterialPreferences
+AndroidPreferenceActivity=>michael-rapp/AndroidPreferenceActivity
+EasyPreferences=>mukeshsolanki/easypreferences
+EasyDataStorage=>neeloyghosh1990/EasyDataStorage
+Reactor=>oky2abbas/reactor
+
+##Stepper
+VerticalStepperForm=>ernestoyaquello/VerticalStepperForm
+
+##Tabs
+AnimatedTabLayout=>iammert/AnimatedTabLayout
+TabScrollAttacher=>iammert/TabScrollAttacher
+SnapTabLayout=>nirukk52/SnapTabLayout
+Bubble Navigation=>joielechong/bubble-navigation
+
+##Threads
+EasyThread=>yjfnypeu/EasyThread
+
+##TreeView
+DraggableTreeView=>jakebonk/DraggableTreeView
+
+##RadioButtons
+Swipe Selector=>roughike/SwipeSelector
+
+##TextView
+HtmlTextView=>SufficientlySecure/html-textview
+HtmlBuilder=>jaredrummler/HtmlBuilder
+
+##Tooltip
+Target Tooltip=>sephiroth74/android-target-tooltip
+ToolTipView=>Cutta/ToolTipView
+Tooltip=>ViHtarb/Tooltip
+Tooltips=>tomergoldst/tooltips
+ViewTooltips=>florent37/ViewTooltip
+Simple Tooltip=>douglasjunior/android-simple-tooltip
+ToolTip=>jayrambhia/Tooltip
+Tooltip View=>venmo/tooltip-view
+
+##Toast
+MaterialToast=>marcoscgdev/MaterialToast
+
+##URL
+Beaver=>savepopulation/beaver
+
+##Utilities
+AndroidUtilCode=>Blankj/AndroidUtilCode
+Android Development Utils=>SunPv5/AndroidDevelopmentUtils
+Live Tools=>savepopulation/live-tools
+Kotlin Ext=>savepopulation/kotlin-ext
+App Privacy Policy Generator=>nisrulz/app-privacy-policy-generator
+Upload To Bintray=>nisrulz/UploadToBintray
+Upload to Jitpack=>nisrulz/UploadToJitpack
+Upload to Maven Central=>nisrulz/UploadToMavenCentral
+Validateor=>nisrulz/validatetor
+Android Utils=>nisrulz/android-utils
+File Utils=>coltoscosmin/FileUtils
+
+##Validation
+Vvalidator=>afollestad/vvalidator
+Ratifier=>Hamadakram/Ratifier
+Android-Saripaar=>ragunathjawahar/android-saripaar
+Form=>youse-seguradora/form
+Android Form Validation=>Dhaval2404/android-form-validation
+Blitz=>bloderxd/blitz
+SheenValidator=>rizmaulana/SheenValidator
+FormValidator=>ShabanKamell/FormValidator
+
+##Video Player
+AutoPlayVideos=>Krupen/AutoplayVideos
+VideoPlayer Manager=>danylovolokh/VideoPlayerManager
+IPCamView=>marcoscgdev/IPCamView
+
+##Video
+Frames=>iammert/Frames
+Video MetaData Provider=>iammert/VideoMetadataProvider
+AndroidVideoCache=>danikula/AndroidVideoCache
+
+##Wifi
+ReactiveNetwork=>pwittchen/ReactiveNetwork
+ReactiveWiFi=>pwittchen/ReactiveWiFi
+Wifi-Connect=>anitaa1990/Wifi-Connect
+WifiUtils=>ThanosFisherman/WifiUtils
+Wroup=>ble180/Wroup
+WiseFy=>isuPatches/WiseFy
+EasyWifiP2P=>cubesky/EasyWifiP2P
+Android Data Usage=>ibrahimsn98/android-datausage

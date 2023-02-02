@@ -1,16 +1,10 @@
-@@@Low Level
-##C Libraries-->c
-
-@@@Mid Level
-##Java Libraries-->java
-##C# Libraries-->csharp
+@@@Native
+##C Libraries-->c_libraries
+##Rust Libraries-->rust_libraries
+##Go Libraries-->go_libraries
 
 @@@High Level
-##Python Libraries-->python
-##Ruby-->ruby
-##JavaScript-->javaScript
+##Python Libraries-->python_libraries
 
-@@@Functional
-##Ocaml Libraries-->ocaml
-##Julia Libraries-->julia
-##Erlang Libraries-->erlang
+@@@Web
+##Node Libraries-->node_libraries

@@ -1,7 +1,8 @@
 @@@Native
 ##C Libraries-->c_libraries
+##C++ Libraries-->cpp_libraries
 ##Rust Libraries-->rust_libraries
-##Go Libraries-->go_libraries
+
 
 @@@High Level
 ##Python Libraries-->python_libraries

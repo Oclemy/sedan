@@ -1,5 +1,0 @@
-##Concurrency
-alpaka=>ComputationalRadiationPhysics/alpaka
-ArrayFire=>arrayfire/arrayfire
-Async++=>Amanieu/asyncplusplus
-Boost.Compute=>boostorg/compute
