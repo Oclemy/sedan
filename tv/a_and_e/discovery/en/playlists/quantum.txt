@@ -1,0 +1,55 @@
+##Quantum
+US7fEkBsy4A,Why Did Quantum Entanglement Win the Nobel Prize in Physics?,20m 33s,2022-10-26T20:15:02Z
+WfSZutedqIQ,What If Dark Energy is a New Quantum Field?,16m 19s,2022-08-17T20:15:02Z
+
+##2021
+iDIcydiQOhc,New Results in Quantum Tunneling vs. The Speed of Light,17m 31s,2021-10-13T20:15:00Z
+IEDSAheh8Os,How to Communicate Across the Quantum Multiverse,19m 1s,2021-08-10T20:15:00Z
+vgYQglmYU-8,How Quantum Entanglement Creates Entropy,19m 36s,2021-06-23T20:15:01Z
+SMPid7Sh0EE,Zeno's Paradox & The Quantum Zeno Effect,17m 11s,2021-03-23T20:15:00Z
+j5HyMNNSGqQ,What Happens During a Quantum Jump?,12m 58s,2021-01-12T19:15:03Z
+
+##2020
+0A1ouV7iD8o,Navigating with Quantum Entanglement,16m 22s,2020-12-22T19:15:01Z
+1JCRDaa3ehk,Is The Future Predetermined By Quantum Mechanics?,16m 31s,2020-10-20T18:56:01Z
+4KCDGa98Ckc,Solving Quantum Cryptography,17m 43s,2020-09-28T18:45:01Z
+vSnq5Hs3_wI,How Do Quantum States Manifest In The Classical World?,19m 27s,2020-03-16T18:45:02Z
+QTZZUjnrbF8,Does Quantum Immortality Save Schrödinger's Cat?,17m 20s,2020-03-03T20:23:24Z
+GlOwJWJWPUs,How Decoherence Splits The Quantum Multiverse,15m 25s,2020-02-24T19:45:01Z
+CT7SiRiqK-Q,Does Consciousness Influence Quantum Mechanics?,17m 17s,2020-02-18T21:45:39Z
+
+##2019
+L2suMPiuog4,Loop Quantum Gravity Explained,17m 33s,2019-10-15T18:45:00Z
+_N-2Sx-FDQA,The Quantum Internet,15m 20s,2019-07-15T17:45:00Z
+_wxG5KMAFik,Intro to Quantum Theory Learning Playlist,1m 10s,2019-06-27T18:06:32Z
+pi7YwxxZQ5A,Why Quantum Computing Requires Quantum Cryptography,17m 15s,2019-05-09T18:15:02Z
+
+##2018
+UyTqgnKD3sw,Quantum Physics in a Mirror Universe,17m 11s,2018-12-12T21:56:50Z
+YNEBhwimJWs,Quantum Gravity and the Hardest Problem in Physics | Space Time,16m 41s,2018-09-20T20:00:00Z
+7UwigY4SjKY,Quantum Theory's Most Incredible Prediction | Space Time,16m 30s,2018-08-15T19:00:00Z
+V5kgruUjVBs,Quantum Invariance & The Origin of The Standard Model,13m 4s,2018-07-11T21:09:40Z
+HF-9Dy6iB_4,Why Quantum Information is Never Destroyed,13m 43s,2018-05-23T19:00:02Z
+
+##2017
+izqaWyZsEtY,Understanding the Uncertainty Principle with Quantum Fourier Series | Space Time,14m 49s,2017-12-06T22:30:58Z
+oQ1WZ-eJW8Y,Solving the Impossible in Quantum Field Theory,15m 21s,2017-07-12T22:10:46Z
+vSFRN-ymfgE,Feynman's Infinite Quantum Paths,15m 49s,2017-07-07T16:45:39Z
+ATcrrzJFtBY,The First Quantum Field Theory,15m 22s,2017-06-28T21:13:58Z
+hYkaahzFWfo,Anti-Matter and Quantum Relativity,16m 12s,2017-06-21T17:51:02Z
+
+##2016
+RlXdsyctD50,Pilot Wave Theory and Quantum Realism | Space Time | PBS Digital Studios,16m 32s,2016-12-01T01:19:28Z
+ZY47bVu-0Bs,Quantum Vortices and Superconductivity + Drake Equation Challenge Answers,9m 3s,2016-11-02T23:35:04Z
+dzKWfw68M5U,The Many Worlds of the Quantum Multiverse,12m 53s,2016-10-26T22:04:29Z
+tafGL02EUOA,Quantum Entanglement and the Great Bohr-Einstein Debate | Space Time | PBS Digital Studios,14m 3s,2016-09-22T00:38:23Z
+MuvwcsfXIIo,Is There a Fifth Fundamental Force? + Quantum Eraser Answer,8m 22s,2016-09-07T21:03:32Z
+2Uzytrooz44,Quantum Eraser Lottery Challenge,5m 53s,2016-08-17T21:52:23Z
+8ORLN_KwAgs,How the Quantum Eraser Rewrites the Past | Space Time | PBS Digital Studios,14m 40s,2016-08-10T22:43:29Z
+p-MNSLsjjdo,The Quantum Experiment that Broke Reality | Space Time | PBS Digital Studios,13m 32s,2016-07-27T22:10:15Z
+tQSbms5MDvY,Planck's Constant and The Origin of Quantum Mechanics | Space Time | PBS Digital Studios,15m 16s,2016-06-22T18:55:04Z
+-IfmgyXs7z8,Is Quantum Tunneling Faster than Light? | Space Time | PBS Digital Studios,11m 7s,2016-06-01T18:56:49Z
+
+##2013
+ViNQW-mF94k,The Quantum Guide - Search for the Higgs Particle,6m 38s,2013-01-31T19:51:07Z
+YzbTfC0tyxg,The Quantum Guide - Pulsars,7m 40s,2013-01-15T22:34:27Z
