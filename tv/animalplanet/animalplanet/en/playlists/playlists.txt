@@ -1,6 +1,9 @@
 @@@01. Animal Planet TV(FREE)
 ##Crocodile(18)-->crocodile
+##Evan Goes Wild(16)-->evan_goes_wild
 ##Finding Bigfoot(128)-->finding_bigfoot
+##Gator Boys(80)-->gator_boys
+##Lone Star Law(58)-->lone_star_law
 ##Monsters Inside Me(84)-->monsters_inside_me
 ##My Cat From Hell(205)-->my_cat_from_hell
 ##Pit Bulls & Parolees(181)-->pitbulls_and_parolees
