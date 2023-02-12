@@ -1,0 +1,14 @@
+@@@Aura
+##Aura Sleep(5)-->c_aura_sleep
+##Cleanse Aura(4)-->c_cleanse_aura
+##Positive Aura(20)-->c_positive_aura
+
+@@@Chakra Healing
+##Chakra Balance(4)-->c_chakra_balance
+##Fear(19)-->c_fear
+##Full Body Healing(12)-->c_full_body
+##Overthinking(9)-->c_overthinking
+##Law Of Attraction(6)-->c_law
+
+@@@OM Chanting
+##OM Chanting(3)-->c_om_chanting
