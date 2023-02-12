@@ -1,12 +1,15 @@
 @@@01. NatGeo TV
+##Alaska Animal Rescue(13)-->alaska_rescue
 ##Alaska's Grizzly Gauntlet(3)-->alaskas_grizzly
 ##Animal Fight Night(31)-->animal_fight_night
 ##Critter Fixers Country Vets(4)-->critters_fixers
 ##Dog Impossible(10)-->dog_impossible
 ##Dr. K's Exotic Animal ER(71)-->dr_k
 ##Dr. Oakley Yukon Vet(92)-->dr_oakley
+##Heartland Docs DVM(9)-->heartland_docs
 ##Savage Kingdom(39)-->savage_kingdom
 ##Secrets of Zoo(33)-->secrets_of_zoo
+##Snake City(50)-->snake_city
 ##The Incredible Dr. Pol(293)-->dr_pol
 ##The Wild Life of Dr. Ole(6)-->dr_ole
 ##Unlikely Animal Friends(18)-->unlikely_friends
