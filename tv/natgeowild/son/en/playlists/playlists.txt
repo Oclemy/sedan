@@ -1,0 +1,18 @@
+@@@Secrets of the Wild
+##Giant Sea Serpent(1)-->son_sea_serpent
+##Jackal(2)-->son_jackal
+##Marine Mammals(9)-->son_marine_mammals
+##Otter(2)-->son_otter
+##Vampire(1)-->son_vampire
+
+@@@Secrets of Nature
+##Bohemia(2)-->son_bohemia
+##Forest(7)-->son_forest
+##Mountain(9)-->son_mountain
+##River(11)-->son_river
+##Salt and Sand(2)-->son_salt
+
+@@@Wild Places
+##Italy(9)-->son_italy
+##Bolivia(2)-->son_bolivia
+##Spain(1)-->son_spain
