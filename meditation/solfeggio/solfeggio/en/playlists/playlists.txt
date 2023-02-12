@@ -15,6 +15,7 @@
 ##Self Confidence(6)-->c_confidence
 ##Stress Relief(6)-->c_stress_relief
 
+
 @@@Solfeggio Frequencies
 ##Abundance Gate(12)-->c_abundance_gate
 ##DNA Repair(12)-->c_dna_repair
