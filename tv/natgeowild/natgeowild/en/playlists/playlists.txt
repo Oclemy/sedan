@@ -3,6 +3,7 @@
 ##Alaska's Grizzly Gauntlet(3)-->alaskas_grizzly
 ##Animal Fight Night(31)-->animal_fight_night
 ##Barnyard Babies with Dr. Pol(20)-->barnyard_babies
+##Bite Sting Kill(2)-->bite_sting
 ##Critter Fixers Country Vets(4)-->critters_fixers
 ##Deep Sea Killers(2)-->deep_sea_killers
 ##Dog Impossible(10)-->dog_impossible

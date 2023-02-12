@@ -1,6 +1,5 @@
 @@@01. Animal Planet TV(FREE)
 ##Call of the Wildman(123)-->
-##Crocodile(18)-->crocodile
 ##Evan Goes Wild(16)-->evan_goes_wild
 ##Finding Bigfoot(128)-->finding_bigfoot
 ##Gator Boys(80)-->gator_boys
@@ -14,24 +13,30 @@
 ##Too Cute(197)-->too_cute
 
 @@@Wildlife
-##Cheetah(12)-->cheetahs
-##Elephant(46)-->elephants
-##Lion(67)-->lions
-##Tiger(14)-->tigers
-##Leopard(15)-->leopards
-##Jaguars(3)-->jaguars
-##Birds(11)-->birds
-##Dinosaurs(12)-->dinosaurs
-##Zebra(8)-->zebras
-##Giraffe(9)-->giraffes
-##Buffalo(7)-->buffalo
-##Snake(38)-->snakes
-##Whale(19)-->whales
-##Shark(36)-->sharks
-##Gorilla(9)-->gorillas
 ##Bear(40)-->bears
+##Birds(11)-->birds
+##Buffalo(7)-->buffalo
+##Cheetah(12)-->cheetahs
+##Crocodile(23)-->
+##Dinosaurs(12)-->dinosaurs
+##Elephant(46)-->elephants
+##Giraffe(9)-->giraffes
+##Gorilla(9)-->gorillas
+##Jaguars(3)-->jaguars
+##Komodo Dragon(2)-->komodo_dragon
+##Lemur(5)-->lemur
+##Leopard(15)-->leopards
+##Lion(67)-->lions
+##Manta Ray(1)-->manta_ray
+##Orangutan(6)-->orangutan
+##Shark(36)-->sharks
+##Snake(38)-->snakes
+##Tiger(14)-->tigers
+##Whale(19)-->whales
 ##Wolf(15)-->wolf
+##Zebra(8)-->zebras
 
 @@@Nature
+##Delta(2)-->delta
 ##Ocean(10)-->oceans
 ##Coral Reefs(10)-->reefs
