@@ -4,13 +4,16 @@
 ##Critter Fixers Country Vets(4)-->critters_fixers
 ##Dog Impossible(10)-->dog_impossible
 ##Dr. K's Exotic Animal ER(71)-->dr_k
+##Dr. Oakley Yukon Vet(92)-->dr_oakley
 ##Savage Kingdom(39)-->savage_kingdom
 ##Secrets of Zoo(33)-->secrets_of_zoo
 ##The Incredible Dr. Pol(293)-->dr_pol
 ##The Wild Life of Dr. Ole(6)-->dr_ole
+##Unlikely Animal Friends(18)-->unlikely_friends
 ##Wild Chile(3)-->wild_chile
 ##Wizard of Paws(15)-->wizard_of_paws
 ##Worlds Weirdest(90)-->worlds_weirdest
+
 
 @@@Wildlife
 ##Cheetah(12)-->cheetahs
