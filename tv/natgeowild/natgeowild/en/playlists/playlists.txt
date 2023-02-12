@@ -2,18 +2,22 @@
 ##Alaska Animal Rescue(13)-->alaska_rescue
 ##Alaska's Grizzly Gauntlet(3)-->alaskas_grizzly
 ##Animal Fight Night(31)-->animal_fight_night
+##Barnyard Babies with Dr. Pol(20)-->barnyard_babies
 ##Critter Fixers Country Vets(4)-->critters_fixers
 ##Dog Impossible(10)-->dog_impossible
 ##Dr. K's Exotic Animal ER(71)-->dr_k
 ##Dr. Oakley Yukon Vet(92)-->dr_oakley
+##Fish Tank Kings(31)-->fish_tank_kings
 ##Great Barrier Reef(3)-->great_barrier_reef_natgeo
 ##Heartland Docs DVM(9)-->heartland_docs
 ##Jungle Animal Rescue(6)-->jungle_rescue
 ##Pond Stars(12)-->pond_stars
 ##Savage Kingdom(39)-->savage_kingdom
 ##Secrets of Zoo(33)-->secrets_of_zoo
+##SharkFest(8)-->sharkfest
 ##Snake City(50)-->snake_city
 ##The Incredible Dr. Pol(293)-->dr_pol
+##The Secret Life of Cats(2)-->cat_secret_life
 ##The Wild Life of Dr. Ole(6)-->dr_ole
 ##Unlikely Animal Friends(18)-->unlikely_friends
 ##Wild Chile(3)-->wild_chile
