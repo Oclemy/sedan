@@ -6,7 +6,10 @@
 ##Dog Impossible(10)-->dog_impossible
 ##Dr. K's Exotic Animal ER(71)-->dr_k
 ##Dr. Oakley Yukon Vet(92)-->dr_oakley
+##Great Barrier Reef(3)-->great_barrier_reef_natgeo
 ##Heartland Docs DVM(9)-->heartland_docs
+##Jungle Animal Rescue(6)-->jungle_rescue
+##Pond Stars(12)-->pond_stars
 ##Savage Kingdom(39)-->savage_kingdom
 ##Secrets of Zoo(33)-->secrets_of_zoo
 ##Snake City(50)-->snake_city
@@ -14,6 +17,7 @@
 ##The Wild Life of Dr. Ole(6)-->dr_ole
 ##Unlikely Animal Friends(18)-->unlikely_friends
 ##Wild Chile(3)-->wild_chile
+##Wild Monsoon(3)-->wild_monsoon
 ##Wizard of Paws(15)-->wizard_of_paws
 ##Worlds Weirdest(90)-->worlds_weirdest
 
