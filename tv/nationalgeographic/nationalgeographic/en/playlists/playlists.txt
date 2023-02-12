@@ -1,5 +1,5 @@
 
-@@@01. _National Geographic TV
+@@@01. National Geographic TV
 ##Extreme Rescues-->extreme_rescues
 ##To catch a Smuggler-->to_catch_smuggler
 ##Locked Up Abroad-->locked_up_abroad
@@ -11,7 +11,7 @@
 ##Something Bit Me-->bit_me
 ##Water-->natgeo_water
 
-@@@02. _FREE Full Episodes TV
+@@@02. Full Episodes TV
 ##2022 Full Episodes(78)-->2022
 ##2021 Full Episodes(16)-->2021
 
