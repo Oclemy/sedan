@@ -4,6 +4,7 @@
 ##Animal Fight Night(31)-->animal_fight_night
 ##Barnyard Babies with Dr. Pol(20)-->barnyard_babies
 ##Critter Fixers Country Vets(4)-->critters_fixers
+##Deep Sea Killers(2)-->deep_sea_killers
 ##Dog Impossible(10)-->dog_impossible
 ##Dr. K's Exotic Animal ER(71)-->dr_k
 ##Dr. Oakley Yukon Vet(92)-->dr_oakley
@@ -11,6 +12,7 @@
 ##Great Barrier Reef(3)-->great_barrier_reef_natgeo
 ##Heartland Docs DVM(9)-->heartland_docs
 ##Jungle Animal Rescue(6)-->jungle_rescue
+##Lion Kingdom(4)-->lion_kingdom
 ##Pond Stars(12)-->pond_stars
 ##Savage Kingdom(39)-->savage_kingdom
 ##Secrets of Zoo(33)-->secrets_of_zoo
