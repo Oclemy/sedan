@@ -6,6 +6,9 @@
 @@@Bird
 ##Bird (Portrait)-->bird_p1
 
+@@@Budhaa
+##Budhaa Candle (Portrait)-->sitting_budha_candle
+
 @@@Center
 ##Flame Center (Portrait)-->droplets_purple_p1
 ##Twisted Center-->twisted_center
