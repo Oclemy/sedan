@@ -21,6 +21,9 @@
 ##Colorful Love-->colored_love_l1
 ##Colorful Wooden Sticks-->colored_wooden_sticks_l1
 
+@@@Contemplation
+##Woman Contemplating-->woman_contemplating_1
+
 @@@Cosmos
 ##Cosmos 1 (Portrait)-->cosmos_p1
 ##Cosmos 2(Portrait)-->cosmos_p2
@@ -73,6 +76,33 @@
 ##Mountain Desert (Landscape)-->mountain_desert_l1
 ##Mountain  Sunset(Landscape)-->mountain_sunset_l1
 
+@@@Night Sky
+##Night Sky 1 (Portrait)-->night_sky_p1
+##Night Sky 2 (Portrait)-->night_sky_p2
+##Night Winter (Portrait)-->night_winter_p1
+##Night Sky Mountain 1 (Portrait)-->night_sky_mountain_p1
+##Night Sky Mountain 2 (Portrait)-->night_sky_mountain_p2
+##Night Sky Mountain 3 (Portrait)-->night_sky_mountain_p3
+
+@@@Red
+##Red Surface (Portrait)-->red_surface_p1
+
+@@@Sand Desert
+##Sand Desert 1 (Portrait)-->sand_desert_1
+##Sand Desert 2 (Portrait)-->sand_desert_2
+##Sand Desert 3 (Portrait)-->sand_desert_p3
+##Sand Desert 4 (Portrait)-->sand_desert_p4
+##Sand Desert 1 (Landscape)-->sand_desert_l1
+##Sand Desert 2 (Landscape)-->sand_desert_l2
+##Sand Desert 3 (Landscape)-->sand_desert_l3
+##Sand Desert 4 (Landscape)-->sand_desert_l4
+
+@@@Smoke
+##Smoke (Portrait)-->smoke_p1
+
+@@@Stargaze
+##Stargaze (Portrait)-->stargaze_l1
+
 @@@Tibetan Meditation
 ##Tibetan Meditation 1-->tibetan_meditate_1
 ##Tibetan Meditation 2-->tibetan_meditate_2
@@ -80,6 +110,9 @@
 ##Tibetan Meditation 4-->tibetan_meditate_4
 ##Tibetan Nature-->tibetan_nature
 
-@@@Contemplation
-##Woman Contemplating-->woman_contemplating_1
+@@@Trees
+##Trees Grass (Portrait)-->trees_grass
+
+@@@Village Bridge
+##Village Bridge (Portrait)-->village_bridget_p1
 
