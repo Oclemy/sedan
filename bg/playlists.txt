@@ -1,6 +1,41 @@
-@@@Darkish
-##Dark Sanddune-->dark_sand
+@@@Aurora
+##Aurora (Portrait)-->aurora_p1
+##Aurora (Landscape)-->aurora_l1
+##Aurora Starry Night(Portrait)-->aurora_starry_night_p1
+
+@@@Bird
+##Bird (Portrait)-->bird_p1
+
+@@@Clouds
+##Clouds 1(Portrait)-->clouds_p1
+
+@@@Colored
+##Clouds Simple-->colored_simple_p1
+##Clouds 1 (Landscape)-->colored_l1
+##Clouds 2 (Landscape)-->colored_l2
+##Clouds 3 (Landscape)-->colored_l3
+##Clouds Love-->colored_love_l1
+##Clouds Wooden Sticks-->colored_wooden_sticks_l1
+
+@@@Cosmos
+##Cosmos 1 (Portrait)-->cosmos_p1
+##Cosmos 2(Portrait)-->cosmos_p2
+##Cosmos (Landscape)-->cosmos_l1
+##Cosmos Uniform 1(Portrait)-->cosmos_uniform_p1
+##Cosmos Uniform 2(Portrait)-->cosmos_uniform_p2
+##Cosmos Uniform 3(Portrait)-->cosmos_uniform_p3
+
+@@@Default
+##Default-->dark_sand
 ##Darkish Lines-->darkish_lines
+
+@@@Droplets
+##Droplets Flowers 1 (Portrait)-->droplets_flowers_p1
+##Droplets Flowers 2 (Portrait)-->droplets_flowers_p2
+##Droplets Gold (Portrait)-->droplets_gold_p1
+##Droplets Grass (Portrait)-->droplets_grass_p1
+##Droplets Purple (Portrait)-->droplets_purple_p1
+
 
 @@@Landscapes
 ##Mountain-->mountain
