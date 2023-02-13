@@ -44,11 +44,34 @@
 
 @@@Flowers
 ##Flowers 1 (Portrait)-->flower_p1
-##Flowers 1 (Portrait)-->flowers_p2
+##Flowers 2 (Portrait)-->flowers_p2
+##Purple Flowers (Portrait)-->flower_purple_p1
+##Tulip Flower (Portrait)-->flower_tulip_p1
+##Tulips Blooming (Portrait)-->flower_tulips_blooming_p1
+##White and yellow Tulips (Portrait)-->flower_white_and_yellow_tulips_p1
+##Yellow Tulips (Portrait)-->flowers_yellow_tulips_p1
 
+@@@Galaxy
+##Galaxy(Portrait)-->galaxy_p1
+##Galaxy (Landscape)-->galaxy_l1
 
-@@@Landscapes
-##Mountain-->mountain
+@@@Grass
+##Grass (Portrait)-->grass_p1
+
+@@@Leaf
+##Fern Leaf (Portrait)-->leaf_fern_p1
+##Green Leaf (Portrait)-->leaf_green_p1
+
+@@@Moon
+##Moon Black (Portrait)-->moon_black_p1
+##Moon Gradient (Portrait)-->moon_gradient_p1
+##Moon Mountain (Portrait)-->moon_mountain_p1
+
+@@@Mountain
+##Mountain (Portrait)-->mountain
+##Mountain Desert (Portrait)-->mountain_desert_p1
+##Mountain Desert (Landscape)-->mountain_desert_l1
+##Mountain  Sunset(Landscape)-->mountain_sunset_l1
 
 @@@Tibetan Meditation
 ##Tibetan Meditation 1-->tibetan_meditate_1
