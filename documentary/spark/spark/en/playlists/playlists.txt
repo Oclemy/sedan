@@ -1,0 +1,36 @@
+@@@Astronomy
+##Cosmic Vistas (35)-->spark_cosmic_vistas
+##Hubble (9)-->spark_hubble
+##Satellite (4)-->spark_satellite
+##Solar System (5)-->spark_solar_system
+##Space Shuttle (5)-->spark_space_shuttle
+
+@@@Engineering
+##Power (8)-->spark_power
+
+@@@Military
+##Aircraft Carrier (5)-->spark_aircraft_carrier
+##Greatest Tank Battles (7)-->spark_greatest_tank_battles
+##Submarine (7)-->spark_submarine
+##WWII (11)-->spark_wwii
+
+@@@Planets
+##Exoplanets (2)-->spark_exoplanets
+##Venus (2)-->spark_venus
+##Mars (7)-->spark_mars
+
+@@@Physics
+##Quantum Physics (7)-->spark_quantum_physics
+
+@@@Techonology
+##AI  (6)-->spark_ai
+##Mega Factory (2)-->spark_factory
+##Robot (13)-->spark_robot
+
+
+@@@Transport
+##Airport (23)-->spark_airport
+##Huge Moves (27)-->spark_huge_moves
+##Train (22)-->spark_train
+
+@@@Latest
