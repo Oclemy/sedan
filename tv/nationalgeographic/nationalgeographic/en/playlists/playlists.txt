@@ -58,21 +58,66 @@
 ##Paradise(4)-->paradise
 ##Islands(16)-->island
 
+===Spark================
+
+@@@Apocalypse
+##Avoiding Apocalypse (5)-->spark_avoiding_apocalypse
+##Mega Disaster (5)-->spark_mega_disaster
+##Stormrider (3)-->spark_stormrider
+
 @@@Astronomy
 ##Cosmic Vistas (35)-->spark_cosmic_vistas
-##Hubble (9)-->spark_hubble
-##Satellite (4)-->spark_satellite
 ##Solar System (5)-->spark_solar_system
-##Space Shuttle (5)-->spark_space_shuttle
+##The Secrets Of The Universe (4)-->spark_the_secrets_of_the_universe
+
+
+@@@Brain and Consciousness
+##Kindness (1)-->spark_kindness
+##Science of the Senses (3)-->spark_science_of_the_senses
+##Science Of The Soul (2)-->spark_science_of_the_soul
+##The Brain Fitness Program (5)-->spark_the_brain_fitness_program
+
+@@@Earth
+##Ever Wondered (16)-->spark_ever_wondered
+##James May's Toy Stories (16)-->spark_james_mays_toy_stories
+##The Earth's Riches (3)-->spark_the_earths_riches
+##Order and Disorder (3)-->spark_order_and_disorder
+
+@@@Energy
+##Nuclear (10)-->spark_nuclear
+##Windfarm Wars (4)-->spark_windfarm_wars
 
 @@@Engineering
+##Building The Biggest (5)-->spark_building_the_biggest
+##Building To The Sky (5)-->spark_building_to_the_sky
+##Built From Disaster (10)-->spark_built_from_disaster
+##Engineering Giants (5)-->spark_engineering_giants
+##Extreme Science (3)-->spark_extreme_science
+##Magnificent Megacities (4)-->spark_magnificent_megacities
+##Mega Mechanics (6)-->spark_mega_mechanics
 ##Power (8)-->spark_power
+##Super Structures (14)-->spark_super_structures
+##The Perfectionists (1)-->spark_the_perfectionists
+##The Re-Inventors (6)-->spark_the_re-inventors
+##The Ultimates (5)-->spark_the_ultimates
+
 
 @@@Military
 ##Aircraft Carrier (5)-->spark_aircraft_carrier
 ##Greatest Tank Battles (7)-->spark_greatest_tank_battles
+##Mechanical Marvels (1)-->spark_mechanical_marvels
 ##Submarine (7)-->spark_submarine
+##The Military Tech Show (6)-->spark_the_military_tech_show
+##Warship (17)-->spark_warship
 ##WWII (11)-->spark_wwii
+
+@@@NASA
+##Apollo (21)-->spark_apollo
+##Hubble (9)-->spark_hubble
+##Hubble's Canvas (7)-->spark_hubbles_canvas
+##Satellite (4)-->spark_satellite
+##Space Shuttle (5)-->spark_space_shuttle
+##The Saturn V Story (4)-->spark_the_saturn_v_story
 
 @@@Planets
 ##Exoplanets (2)-->spark_exoplanets
@@ -81,6 +126,7 @@
 
 @@@Physics
 ##Quantum Physics (7)-->spark_quantum_physics
+##Science Fiction (2)-->spark_science_fiction
 
 @@@Techonology
 ##AI  (6)-->spark_ai
@@ -90,5 +136,11 @@
 
 @@@Transport
 ##Airport (23)-->spark_airport
+##Dublin Airport (6)-->spark_dublin_airport
 ##Huge Moves (27)-->spark_huge_moves
+##On The Move (3)-->spark_on_the_move
+##Ships (18)-->spark_ships
+##The Harbour (12)-->spark_the_harbour
+##The Tube (21)-->spark_the_tube
 ##Train (22)-->spark_train
+
