@@ -1,0 +1,30 @@
+@@@Secrets of the Wild
+##Birds(13)-->son_birds
+##Cayman(1)-->son_cayman
+##Chameleon(1)-->son_chameleon
+##Giant Sea Serpent(1)-->son_sea_serpent
+##Hyena(4)-->son_hyena
+##Jackal(2)-->son_jackal
+##Marine Mammals(9)-->son_marine_mammals
+##Otter(2)-->son_otter
+##Snakes(6)-->son_snakes
+##Vampire(1)-->son_vampire
+
+@@@Secrets of Nature
+##Desert(8)-->son_desert
+##Forest(7)-->son_forest
+##Island(7)-->son_island
+##Mountain(9)-->son_mountain
+##Ocean(11)-->son_ocean
+##Rain(3)-->son_rain
+##River(11)-->son_river
+##Salt and Sand(2)-->son_salt
+##Water(12)-->son_water
+
+@@@Wild Places
+##Bohemia(2)-->son_bohemia
+##Germany(1)-->son_germany
+##Italy(9)-->son_italy
+##Bolivia(2)-->son_bolivia
+##Malysia(2)-->son_malaysia
+##Spain(1)-->son_spain
