@@ -1,0 +1,31 @@
+@@@01. Crime
+##True Crime(82)-->truecrime
+##Prisoners(7)-->prisoner
+##Drugs(7)-->drugs
+##Heist(7)-->heist
+##Serial Killer & Psychopathy(9)-->serialkiller
+
+@@@02. Casts
+##Reggie Yates(14)-->reggie
+##Trevor McDonald(8)-->trevor
+
+@@@2. Health
+Diseases(20)-->diseases
+Mental Health(12)-->mental_health
+Doctor at Work(4)-->doctor_at_work
+Psychology & Psychiatry(6)-->psychology
+
+@@@2. People and Communities
+Extraordinary People(19)-->extraordinary_people
+Refugee(4)-->refugee
+Veteran(4)-->veteran
+LGBTQ(12)-->lgbtq
+
+
+@@@3. Society and Culture
+Culture(12)-->culture
+Rich and Wealthy(14)-->wealthy
+Poverty(34)-->poverty
+Family and Relationships(40)-->family
+Conspiracy(7)-->conspiracy
+War(16)-->war
