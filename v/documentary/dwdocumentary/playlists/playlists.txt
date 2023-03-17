@@ -17,3 +17,11 @@
 ##Opaque Worlds(5)-->dw_opaque_worlds
 ##UNSEEN(5)-->dw_unseen
 ##Zero Tolerance(3)-->dw_zero_tolerance
+
+@@@DW By Country
+##Africa-->dw_africa
+##Asia-->dw_asia
+##Europe-->dw_europe
+##North America-->dw_northamerica
+##South America-->dw_southamerica
+
