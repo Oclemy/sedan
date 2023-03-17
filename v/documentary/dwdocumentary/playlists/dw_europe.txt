@@ -1,3 +1,6 @@
+##Austria
+P7UQfORDW2Y,The threat of avalanches - Making Austria’s slopes safe | DW Documentary,28m 26s,2023-01-04T17:00:13Z
+
 ##France
 XN0vnUI_Vps,France: Painting for the homeless | DW Documentary,12m 27s,2022-04-18T16:00:21Z
 SaGIKIMZzTQ,Anti-Semitism in France | DW Documentary,26m 1s,2019-08-24T16:00:05Z
@@ -7,6 +10,12 @@ f9NtIg6jDA0,France: the holy war behind bars | DW Documentary,4m 50s,2017-07-04T
 eo5MFtypZTU,Epilepsy drug scandal in France | DW Documentary,4m 44s,2017-06-25T15:00:04Z
 GIlsY-AJRzw,On the campaign trail in France - Fighting for Macron | DW Documentary,12m 1s,2017-05-03T10:00:00Z
 VhC3b8_0mGQ,Asian immigrants in France targetted by gangs | DW Documentary,5m 2s,2017-02-04T11:00:01Z
+
+##Georgia
+Mk10LIbEcI0,Russian deserters in Georgia | DW Documentary,12m 26s,2022-11-28T16:00:18Z
+NyYrioVAEy4,Russians in Georgia | DW Documentary,28m 27s,2022-07-25T16:30:07Z
+13wBOPOLWqU,Snowdrops from Georgia | DW Documentary,12m 26s,2022-06-10T16:00:01Z
+rw1bz_hi9kY,Georgia between Europe and Stalin | DW Documentary,26m 1s,2019-04-13T18:00:02Z
 
 
 ##Germany
@@ -82,6 +91,11 @@ XrcWHof4h30,Italy's forgotten earthquake victims | DW Documentary,5m 14s,2017-08
 PPDDopaYHQ8,Refugee helpers in Italy under pressure | DW Documentary,4m 46s,2017-06-25T02:00:00Z
 -rQRcBerNTQ,War over white truffles in Italy | DW Documentary,5m 45s,2017-01-17T14:14:56Z
 
+##Portugal
+OhM-Aeyqp6c,The battle against the sea - Coastal erosion in Portugal | DW Documentary,28m 26s,2022-05-17T16:00:15Z
+bToc8nfNhxo,Portugal - Modern slavery for an EU passport | DW Documentary,28m 33s,2021-11-23T17:00:19Z
+7M59_BV2rOA,Portugal's avocados: Green gold or ecological nightmare? | DW Documentary,28m 27s,2021-08-10T16:00:03Z
+
 
 ##Russia
 5ZoBzUQCjq4,Russia at war - What do Russians say? | DW Documentary,43m 46s,2023-02-24T14:00:03Z
@@ -150,6 +164,17 @@ xOGQR1-TQTc,Turkey one year after the failed coup | DW Documentary,28m 26s,2017-
 NtmyrulkRjQ,Bartered brides in Turkey | DW Documentary,5m 7s,2017-02-12T15:30:00Z
 figW37HIvvU,Erdogan’s informants – Turkey’s intelligence in Germany | DW Documentary,4m 39s,2017-02-04T11:00:02Z
 
+##UK
+XXA1GiQ-UeY,Brexit and British fishermen | DW Documentary,28m 26s,2022-06-21T16:00:15Z
+JUiSuldik4s,Queen Elizabeth II and Britain's leaders - Britain's longest reigning monarch | DW Documentary,42m 26s,2022-09-08T18:23:04Z
+h4yFRO-m0y0,Escape from Hong Kong to Britain – a life in exile | DW Documentary,28m 25s,2021-03-02T17:00:32Z
+VD9mFv0OAQU,Working-class Britain – trying to take back control | DW Documentary,3m 29s,2017-02-12T03:00:01Z
+sI607wWfMSw,Racism in the UK | DW Documentary,12m 32s,2020-07-06T18:00:09Z
+HDxQWJSrO5A,German passports for UK Jews | DW Documentary,4m 29s,2017-02-04T16:00:01Z
+PEf3jLqoI3w,Scotland: Is the desire for independence growing? | DW Documentary,28m 26s,2023-01-24T17:00:14Z
+5-fUi8UX_Hs,Scotland: A future outside of the United Kingdom? | DW Documentary,28m 27s,2021-05-04T16:00:04Z
+uJImsmGnOOE,The SS man's bequest to Scotland | DW Documentary,5m 5s,2017-08-05T02:00:03Z
+cqRfRsa3Ec4,Scotland: Fears of losing EU workforce | DW Documentary,5m 16s,2017-05-18T02:00:02Z
 
 
 ##Ukraine
