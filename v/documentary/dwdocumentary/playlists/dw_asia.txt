@@ -9,6 +9,16 @@ saEboNpsFy8,Rescued: From Afghanistan to the US | DW Documentary,12m 27s,2021-10
 hDJrEtl5suk,Schools for Afghanistan - a project in peril | DW Documentary,26m 1s,2018-06-30T15:00:04Z
 AeNtwPKStog,Afghanistan’s Palace of Hope | DW Documentary,12m 2s,2017-06-06T15:00:01Z
 
+##Bangladesh
+e4TPVMYkF0k,Bangladesh's struggle with flooding | DW Documentary,42m 26s,2022-10-12T16:00:23Z
+VoPyuD6flUk,Bangladesh: Fear among Hindus as religious festival starts | DW Documentary,12m 26s,2022-09-26T16:00:17Z
+co5uywe-1Z8,Climate refugees in Bangladesh | DW Documentary,42m 31s,2019-03-20T19:00:06Z
+J6DxXI6wD8U,Bangladesh - Dawn of Islamism | DW Documentary,42m 31s,2018-04-17T16:31:47Z
+wQ-LIjenrxw,Bangladesh: worlds of work - Founders Valley (7/10) | DW Documentary,26m 1s,2017-12-04T16:31:09Z
+K3VDt5XK0Ag,Rohingya crisis reaches Bangladesh and other world stories | DW Documentary,12m 1s,2017-09-22T17:00:01Z
+q7Q-r0kw7VI,Exploited garment workers in Bangladesh | DW Documentary,12m 1s,2017-05-08T12:16:06Z
+
+
 ##China
 R7HsDKAa-CI,China's helping hand in Laos | DW Documentary,12m 26s,2023-03-13T17:00:13Z
 0zfUSoWC4Eg,China's New Silk Road in Europe | DW Documentary,28m 26s,2022-11-15T17:00:02Z
@@ -53,6 +63,12 @@ xowpmxq6LbY,Gods and cows holy and Holi (India shorts competition 3/3) | DW Docu
 VwV0H-i9J9E,Adventure and beauty: Male and female (India shorts competition 2/3) | DW Documentary,24m 58s,2017-09-14T16:04:26Z
 fcpiKx9gCRs,People passion and making a living (India shorts competition 1/3) | DW Documentary,23m 29s,2017-09-13T16:22:16Z
 
+##Indonesia
+pD58Dj648gM,Indonesia: Diversity under threat | DW Documentary,42m 26s,2020-05-27T18:00:13Z
+sclwgAXiHhI,Indonesia: Bali's water dilemma - Founders Valley (8/10) | DW Documentary,26m 1s,2017-12-18T16:00:03Z
+MMIABcbEIGg,Indonesia: food for the future - Founders Valley (6/10) | DW Documentary,26m 2s,2017-12-04T16:30:37Z
+
+
 ##Lebanon
 VguZi8tDif4,Lebanon: A cultural melting pot - Mediterranean journey | DW Documentary,25m 56s,2022-08-14T16:00:18Z
 RZuKyIYMSEw,Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary,54m 51s,2022-08-04T16:00:14Z
@@ -60,9 +76,22 @@ RZuKyIYMSEw,Lebanon: An economic crisis and the aftermath of the Beirut port exp
 ySzzjut3c9A,Protests in Lebanon: Christina has had enough | DW Documentary (Arab world documentary),12m 32s,2019-12-02T19:00:10Z
 a7EOYvCkRDQ,The Lebanon Project - A summer camp for people with disabilities | DW Documentary,42m 40s,2017-01-13T11:22:39Z
 
+##Malaysia
+b0wZIB_oYWo,Fighting the migration challenge in Malaysia - Founders Valley (2/3) | DW Documentary,26m 1s,2020-04-20T18:00:10Z
+OyBIFSQmKt4,Malaysia: energize the world - Founders Valley (4/10) | DW Documentary,26m 2s,2017-12-04T16:29:52Z
+
+##Mongolia
+Kzo6wNPkDSk,Growing up in Mongolia | DW Documentary,42m 26s,2023-02-25T17:00:13Z
+LhiuA71tF5Y,Mongolia: between tradition and globalization - Founders Valley (1/10) | DW Documentary,26m 2s,2017-12-04T16:29:07Z
+ykAisB_4WLg,A journey through Mongolia | DW Documentary,42m 30s,2017-08-11T17:00:06Z
+YKtm-6ehxG8,Coming home to Mongolia | DW English,42m 33s,2014-12-22T20:19:54Z
+
 ##Myanmar
 c_mJMFg4mOE,Rebels in Myanmar | DW Documentary,12m 26s,2022-12-19T17:00:31Z
 sqTT4d21I4s,The child slaves of Myanmar | DW Documentary,42m 27s,2021-09-16T16:00:36Z
+
+##Singapore
+_yruBeRM6yc,Singapore: horizons of health - Founders Valley (5/10) | DW Documentary,26m 2s,2017-12-04T16:30:16Z
 
 
 ##Syria
@@ -77,6 +106,13 @@ W6gyEbprEiQ,From a Nazi childhood to living with a Syrian refugee | DW Documenta
 JcXNO7_nlsM,The war on my phone - Lifeline to Syria (1/2) | DW Documentary,42m 31s,2018-12-15T16:00:02Z
 LdiirZ5Vh1I,Germany: A Syrian on the trail of IS | DW Documentary,5m 43s,2017-09-09T23:00:01Z
 8i0QnUUIMg0,Jaafar Abdul Karim meets Syrian artists starting anew | DW Documentary,42m 30s,2017-01-13T11:47:22Z
+
+##Taiwan
+6gX2woPNPew,Taiwan conflict - Facing the threat from China | DW Documentary,42m 26s,2022-09-16T16:00:08Z
+otmp2NqDDX8,Taiwan vs. China - The rocky road to democracy | DW Documentary,42m 26s,2021-12-12T17:00:36Z
+co9UD89J_1g,A future for Taiwan's indigenous people | DW Documentary,12m 32s,2019-12-21T19:00:04Z
+kBZdsMb9upI,Taiwan for food lovers | DW Documentary,26m 1s,2019-08-30T16:00:10Z
+9yTnB72658A,Taiwan: technology: promise or peril? - Founders Valley (3/10) | DW Documentary,26m 2s,2017-12-04T16:29:26Z
 
 ##Qatar
 orX0DCjL0yI,German football fans in Qatar | DW Documentary,12m 25s,2022-12-05T17:00:35Z
