@@ -1,0 +1,37 @@
+##2023
+R5_dgoaN1DU,How to Use Big Data to Prevent Wildfires,50m 47s,2023-01-31T03:00:08Z
+aU-MXs8vous,The Social Safety Net as an Investment in Children,1h 17m 51s,2023-01-30T03:00:01Z
+616c-VsFTns,Radiotherapy for Localized Prostate Cancer,24m 49s,2023-01-29T03:00:02Z
+mArlLWE_D90,Managing Prostate Cancer Treatment Side Effects,33m 10s,2023-01-28T03:00:20Z
+5T0I_B-0gRg,The World of Artist Hugo Crosthwaite,51m 13s,2023-01-27T03:00:03Z
+C9ntfAoKIjw,Getting a Ph.D. in Computer Science with Adrian Salguero,21m 15s,2023-01-26T03:00:03Z
+zVQh7DUuFgw,ADT-Resistant Metastatic Prostate Cancer,18m 55s,2023-01-25T03:00:34Z
+CIJA8_3GJv4,“The Status Quo Loves To Say No”: Disability Rights and the Battle Against Structures of Exclusion,1h 28m 37s,2023-01-24T03:00:07Z
+hSfnw6Dco3A,Heart Failure: What it Means and the Many Effective Treatments Now Available,58m 30s,2023-01-22T03:00:30Z
+d3gSiY9qUfk,Implantable Devices to Diagnose and Treat Cardiac Rhythm Disorders,1h 28m 3s,2023-01-21T03:00:26Z
+wn7mrdntxDM,2022 UC Davis-Financial Times Biz Quiz Finals,22m 54s,2023-01-20T16:45:03Z
+v0DANKbW8wM,Evaluation and Management of PSA Recurrence after Definitive Treatment of Localized Prostate Cancer,21m 9s,2023-01-19T03:00:31Z
+jMJyrYfhZsY,Focal Prostate Cancer Ablation: A Less Morbid Alternative to Surgery and Radiation,19m 21s,2023-01-18T03:00:14Z
+sinasAl_D4k,Monitors and Meddlers: How Foreign Actors Influence Local Trust in Elections,58m 21s,2023-01-17T03:00:19Z
+GouPev5-asc,Androgen Deprivation Therapy and Prostate Cancer,17m 2s,2023-01-16T03:00:06Z
+g8m6roH37oQ,Prostate Cancer: Diet and Exercise,24m 48s,2023-01-15T03:00:16Z
+Os8kQsnL5Jw,Prostate Cancer Genetics and Genomics,19m 15s,2023-01-14T03:00:14Z
+v2peavwch9U,Satyajit Ray's Goopy Bagha Musicals,49m 44s,2023-01-13T03:00:23Z
+DXtsEvcAxkY,Application of 3D Bioprinting & Biomaterial Technology for Translational Regenerative Medicine,56m 41s,2023-01-12T03:00:05Z
+etee-Odkqow,Prostate Cancer Active Surveillance,15m 5s,2023-01-11T03:00:18Z
+JAYaY1eek7k,Marion Nestle: The Journey of One Woman in Science and Policy,1h 20m 57s,2023-01-10T03:00:10Z
+Y7BSHyaqoPY,Race and Prostate Cancer Disparities,9m 51s,2023-01-09T03:00:11Z
+ZdU5uvyafo4,Prostate Cancer Overview,19m 26s,2023-01-08T03:00:22Z
+HwYXsiOZPLo,CARTA: Future of Fossil-Based Human Origins Research with Yohannes Haile-Selassie,22m 34s,2023-01-07T03:00:06Z
+SWU_77U_0G0,Imagining the Future of Anthropogeny - Symposium Welcome and Opening Remarks - CARTA,8m 23s,2023-01-06T16:45:00Z
+2_u1_G473dA,Culture, Community and Career Plans with Vianey Valdez,12m 35s,2023-01-06T03:00:01Z
+WIlgxzE3ph4,High-Performance Training and Inference on GPUs for NLP Models,11m 54s,2023-01-05T20:00:10Z
+cPmxWc7YRCk,Metrics in Action: Lessons Learned from 30 Years of the Global Burden of Disease Study,1h 15m 35s,2023-01-05T03:00:14Z
+Ulx3df4Zo3k,AI Cluster Trends with Robert Ober,18m 29s,2023-01-04T20:00:13Z
+tZBIcLW48Is,Problems Faced by Data Centers Today and Future Needs,20m 17s,2023-01-04T03:00:19Z
+8epWmvSruXs,Compiler and Runtime Support for Exploring AI-GPU Acceleration,18m 2s,2023-01-03T20:00:02Z
+qYQAcL5f2FQ,The Songs of Frida Kahlo,56m 7s,2023-01-03T03:00:18Z
+rdEiJ570NX8,Building Operations Decarbonization with Dan Nall,39m 12s,2023-01-02T20:00:11Z
+Ar3y-YtZXjE,Performance by Design with Martin Fischer,52m 52s,2023-01-02T16:45:00Z
+49bs5jrwFeI,Global Healthy Aging - A Review of Efforts to Support Healthy Aging From Around the World,47m 42s,2023-01-02T03:00:01Z
+1DFRfDAzfSU,A Deep Look into Mental Health: On Campus, In Our Community and Around the World,1h 17m 3s,2023-01-01T03:00:00Z
