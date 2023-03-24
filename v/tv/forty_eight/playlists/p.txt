@@ -1,0 +1,9 @@
+@@@60 Min Australia Playlists
+##Covid 19-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/covid19
+##Mystery-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/mystery
+##Scam-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/scam
+##MH370-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/mh370
+##Royalty-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/scam
+##Investigation-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/invatesgation
+
+
