@@ -7,3 +7,14 @@
 ##Investigation-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/investigation
 
 
+@@@2. Vice
+##2023-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2023
+##2022-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2022
+##2021-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2021
+##2020-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2020
+##2019-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2019
+##2018-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2018
+##2017-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2017
+##2016-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2016
+
+
