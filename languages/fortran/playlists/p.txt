@@ -2,7 +2,7 @@
 ##Ocaml Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/ocaml/ocaml.txt
 
 @@@Libraries
-##C++ Libraries-->cpp_libraries
+##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries.txt
 ##Rust Libraries-->rust_libraries
 ##Go Libraries-->go_libraries
 
