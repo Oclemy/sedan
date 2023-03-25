@@ -1,0 +1,61 @@
+##Welcome
+Introduction=>intro
+
+##Setting up your OS
+Setting up your OS=>os_setup
+Choosing a compiler=>choose_compiler
+Installing GFortran=>install_gfortran
+Text Editors=>text_editors
+IDEs=>ides
+Smart Tips=>tips
+
+##Quickstart tutorial
+Quickstart tutorial=>quickstart
+Hello world=>hello_world
+Variables=>variables
+Arrays and strings=>arrays_strings
+Operators and flow control=>operators_control_flow
+Organising code structure=>organising_code
+Derived Types=>derived_types
+
+##Building programs
+Building programs=>building_programs
+Compiling the source code=>compiling_source
+Linking the objects=>linking_pieces
+Run-time libraries=>runtime_libraries
+Include files and modules=>include_files
+Managing libraries (static and dynamic libraries)=>managing_libraries
+Build tools=>build_tools
+An introduction to make=>project_make
+Distributing your programs=>distributing
+
+##Fortran Best Practices
+Best Practices=>best_practices
+Fortran Style Guide=>style_guide
+Floating Point Numbers=>floating_point
+Integer Division=>integer_division
+Modules and Programs=>modules_programs
+Arrays=>arrays
+Multidimensional Arrays=>multidim_arrays
+Element-wise Operations on Array=>element_operations
+Allocatable Arrays=>allocatable_arrays
+File Input/Output=>file_io
+Callbacks=>callbacks
+Type Casting in Callbacks=>type_casting
+
+##Fortran Intrinsics
+Fortran Intrinsics=>intrinsics
+Properties and attributes of arrays=>array
+Bit-level inquiry and manipulation=>bit
+Basic procedures for manipulating _character_ variables=>character
+Information about compiler and compiler options used for building=>compiler
+Procedures for binding to C interfaces=>cfi
+General mathematical functions=>math
+Controlling and querying the current numeric model=>model
+Manipulation and properties of numeric values=>numeric
+Parallel programming using co_arrays and co_indexed arrays=>parallel
+General and miscellaneous intrinsics=>state
+Accessing external system information=>system
+Matrix multiplication, dot product, and array shifts=>transform
+Types and kinds=>type
+GNU Free Documentatio=>https://www.gnu.org/licenses/old-licenses/fdl-1.2.en.html
