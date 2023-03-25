@@ -1,44 +1,44 @@
 ##Getting Started
-Get Up and Running With OCaml=>up-and-running
-A First Hour with OCaml=>first-hour
-OCaml on Windows=>ocaml-on-windows
+Get Up and Running With OCaml=>https://drive.google.com/uc?id=1AqPHuGLO0cJQguGLdhKvlWOZeVtSk04U&export=download
+A First Hour with OCaml=>https://drive.google.com/uc?id=1xQAkqkk-e2ChevrVpZ03p190NwcZ3Bd6&export=download
+OCaml on Windows=>https://drive.google.com/uc?id=1MzbPj7R8p6bjtMAVPCBJQSWpVzehrJLz&export=download
 
 ##Language
-Data Types and Matching=>data-types
-Functional Programming=>functional-programming
-If Statements, Loops and Recursions=>if-statements-and-loops
-Modules=>modules
-Labels=>labels
-Pointers in OCaml=>pointers
-Functors=>functors
-Objects=>objects
-Error Handling=>error-handling
+Data Types and Matching=>https://drive.google.com/uc?id=1ZbqKB9fu46-NJerWfzNdQgjXK8V7ltb6&export=download
+Functional Programming=>https://drive.google.com/uc?id=1XckPgCvXA_pFFnG-n38nD1x0zi6iCjRM&export=download
+If Statements, Loops and Recursions=>https://drive.google.com/uc?id=1dTDySY4qqAst6kaCcSdd7KAAIpC-jl_2&export=download
+Modules=>https://drive.google.com/uc?id=1q24bWRUQPZ3M1BhDV-cv1w8BA41AnKU3&export=download
+Labels=>https://drive.google.com/uc?id=1G_YsekB0phQgqXRVKjVcWCM6g6QeVPS_&export=download
+Pointers in OCaml=>https://drive.google.com/uc?id=1lXYfBuofKbC2_DnGXdkjL1z_oXIvWQz4&export=download
+Functors=>https://drive.google.com/uc?id=1jJq3KoP-H2YPn9wXGvhXJvTuEREUSPHK&export=download
+Objects=>https://drive.google.com/uc?id=1uTKnSiOJdsFrUvy1jwSyqQNkakhbL7vx&export=download
+Error Handling=>https://drive.google.com/uc?id=1GpKn5NihQVOMNvyxKz8bWgjHLqzM7gos&export=download
 
 ##Data Structures
-Lists=>lists
-Map=>map
-Sets=>sets
-Hash Tables=>hash-tables
-Data Structures Comparison=>data-structures-comparison
+Lists=>https://drive.google.com/uc?id=16_FuNVChKcaOm4ud3gPDZ055Li9Eyl2s&export=download
+Map=>https://drive.google.com/uc?id=1vm39Pwb2kl8PvCjX5OGG7gF1PzIJfXVO&export=download
+Sets=>https://drive.google.com/uc?id=17lOJhBldR6QHioiEbp5ArKkt1fCDatEG&export=download
+Hash Tables=>https://drive.google.com/uc?id=1qjaA_iHwactZxd97jhOo3i65nkj1-_Ul&export=download
+Data Structures Comparison=>https://drive.google.com/uc?id=1gA6mk4QJ6DHmbw9IlVsFQ-RdsuOsXJ5I&export=download
 
 ##Runtime
-Garbage Collection=>garbage-collection
+Garbage Collection=> https://drive.google.com/uc?id=1D7xq1lhZB-5RRg_OZCjSJZH0aaP__nwA&export=download
 
 ##Tutorials
-Formatting and Wrapping Text=>formatting-text
-Command-line Arguments=>cli-arguments
-File Manipulation=>file-manipulation
-Calling C Libraries=>calling-c-libraries
-Calling Fortran Libraries=>calling-fortran-libraries
+Formatting and Wrapping Text=>https://drive.google.com/uc?id=1pWulJAgryXOuJymV_FDIGWyP6jCweIYN&export=download
+Command-line Arguments=>https://drive.google.com/uc?id=1ut9begDmPWftf4GgApnvCI9ADqLdxyqy&export=download
+File Manipulation=>https://drive.google.com/uc?id=1Y5kf6JUBWJXBBb2YJjnqKMamK2ii3-na&export=download
+Calling C Libraries=>https://drive.google.com/uc?id=1wVMbFwiN4CBF6Y2lIdJywY5LFowwa_kK&export=download
+Calling Fortran Libraries=>https://drive.google.com/uc?id=1qChhsLBgRZMHMG4WxbRUOqST9GWHTTl8&export=download
 
 ##Guides
-Compiling OCaml Projects=>compiling-ocaml-projects
-Debugging=>debugging
-Profiling=>profiling
-Preprocessors and PPXs=>metaprogramming
+Compiling OCaml Projects=>https://drive.google.com/uc?id=1AczsVQ4v7JM41LTchc9-RNiSnpX5zwwB&export=download
+Debugging=>https://drive.google.com/uc?id=1hRt2wVoNPB4E_qMMSyFAFTkSgN_hr9Rg&export=download
+Profiling=>https://drive.google.com/uc?id=1Tpns1HXsU1Ax7TbTI0tjwyi3MwBykvjG&export=download
+Preprocessors and PPXs=>https://drive.google.com/uc?id=1KtZ65WTbdAu6xGOHTpBVVxRnfqQwLK35&export=download
 
 ##Resources
-OCaml Programming Guidelines=>guidelines
-Common Error Messages=>common-errors
-Best Practices=>best-practices
-OCaml Platform=>platform
+OCaml Programming Guidelines=>https://drive.google.com/uc?id=14xcSYKUhbQxe0e5BXRpberEKvmvJnMEi&export=download
+Common Error Messages=>https://drive.google.com/uc?id=1jZX4OJQfyEkwre5Og_ROsigQHGNhz8Lg&export=download
+Best Practices=>https://drive.google.com/uc?id=1184wZ5dWKUgxFKlnjax9BVfeNoMtCext&export=download
+
