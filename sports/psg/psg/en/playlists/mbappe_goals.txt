@@ -1,14 +1,20 @@
-﻿"Video ID",Title,Length,Published
-Yy3X0GAOxxw,"Goal Kylian MBAPPE (47' - PSG) PARIS SAINT-GERMAIN - AS SAINT-ÉTIENNE (3-1) 21/22","1m 41s","2022-02-27T23:59:59Z"
-aI5IcN1_OsQ,"Summer Tears","3m 5s","2022-02-22T20:14:34Z"
-Pol8VaL43go,"HIGHLIGHTS | PSG 1 - 0 REAL MADRID | Mbappé ⚽️","1m 36s","2022-02-17T23:01:53Z"
-BmuzuLfYGJI,"Kylian Mbappe 94' Minute Game Winner | PSG 1-0 Real Madrid | CBS Sports Golazo","1m 23s","2022-02-15T22:10:49Z"
-jsMM7TByL60,"Goal Kylian MBAPPE (90' +4 - PSG) PARIS SAINT-GERMAIN - STADE RENNAIS FC (1-0) 21/22","1m 38s","2022-02-13T23:13:20Z"
-_4cXivCE7AI,"Kylian Mbappé Scoring Ridiculous Goals","6m 52s","2022-02-07T14:59:07Z"
-4a5gjQPlNSE,"Kylian Mbappé All 51 Goals 2021","8m 31s","2021-12-21T18:00:39Z"
-GrenokucwbM,"Kylian Mbappe scores FOUR goals as France qualifies | World Cup Qualifying Highlights | ESPN FC","6m 22s","2021-11-13T22:40:08Z"
-xew6WQkTbpE,"Kylian Mbappé All 42 Goals 2020/21","7m 50s","2021-05-24T20:29:37Z"
-CYiUQj7S3iQ,"Goal Kylian MBAPPE (15' - PARIS SAINT-GERMAIN) OLYMPIQUE LYONNAIS - PARIS SAINT-GERMAIN (2-4) 20/21","1m 55s","2021-03-22T00:37:10Z"
-De5zXoiHVkg,"Kylian Mbappé Beautiful Skills & Goals 2021","8m 21s","2021-02-11T14:04:10Z"
-idLt1zL5rnE,"Kylian Mbappe - TOP 10 GOALS","2m 45s","2019-09-10T08:20:37Z"
-e6Cekv5rkBA,"Kylian Mbappé - All 100 Career Goals","11m 7s","2019-06-11T22:28:05Z"
+﻿##Mbappe Goals
+dSXTz3dMkb0,Kylian Mbappé 2023 - Skills & Goals | 𝗛𝗗,10m 31s,2023-04-01T14:12:08Z
+3PkXa5jhQnU,K. Mbappe ● King Of Speed Skills ● 2023 | 1080i 60fps,9m 12s,2023-03-29T19:31:01Z
+j0VLFRHFXEY,What the hell is happening to Kylian Mbappé?,47s,2023-03-29T14:39:49Z
+BL_j-E9HT0w,14 year old Kylian Mbappe was INSANE,5m 18s,2023-03-29T11:29:12Z
+wvvuZjb_gqY,Kylian Mbappe All 40 Goals For France So Far I 2023,4m,2023-03-28T13:37:41Z
+2__7lebV8ZM,Kylian Mbappe Top 15 Unstoppable Goals / Top 15 Magic Skills,8m 22s,2023-03-24T15:21:53Z
+EIBOi2CRL2M,Kylian Mbappé All 200 Goals for PSG,17m 25s,2023-02-27T17:37:43Z
+5pzgfGgI4X8,EVERY KYLIAN MBAPPE GOAL FROM THE 2022 FIFA WORLD CUP,2m 27s,2023-02-26T14:00:04Z
+pQB1dNnBGvk,Kylian Mbappé Goals That Shocked The World,7m 6s,2023-02-20T17:32:29Z
+0rrKcQGSrbk,Kylian Mbappé All 55 Goals 2022,8m 51s,2022-12-20T17:30:28Z
+gUx4KQi40M0,Kylian Mbappe 30 Sensational Goals,8m 57s,2022-12-16T16:30:08Z
+IJ5AU05HprU,KYLIAN MBAPPÉ: GREAT FRANCE GOALS,2m 58s,2022-12-05T14:00:12Z
+DJILaT_wsZg,Kylian Mbappe 2022 ❯ Love Nwantiti - CKay ● Skills & Goals - HD,3m 16s,2022-04-06T13:00:19Z
+vp6kS-1CQpc,GOAL! KYLIAN MBAPPE! (PSG vs Real Madrid 1-0 Champions League 2022 Last 16 Messi Penalty Miss),2m 18s,2022-02-16T17:55:00Z
+_4cXivCE7AI,Kylian Mbappé Scoring Ridiculous Goals,6m 52s,2022-02-07T14:59:07Z
+gHcYQvtztNs,Kylian Mbappé - All 150 Goals For Paris Saint-Germain FC,21m 15s,2022-01-04T11:09:29Z
+4a5gjQPlNSE,Kylian Mbappé All 51 Goals 2021,8m 31s,2021-12-21T18:00:39Z
+ya2IXAREZho,🇫🇷 Kylian Mbappe | FIFA World Cup Goals,1m 59s,2021-08-02T11:00:21Z
+idLt1zL5rnE,Kylian Mbappe - TOP 10 GOALS,2m 45s,2019-09-10T08:20:37Z
