@@ -1,0 +1,10 @@
+@@@Xavi
+##Xavi Skills-->xavi_skills
+##Xavi Passing-->xavi_passing
+##Xavi Assists-->xavi_assists
+##Xavi Goals-->xavi_goals
+
+@@@Andrés Iniesta
+##Iniesta Assists-->iniesta_assists
+##Iniesta Passing-->iniesta_passing
+##Iniesta Goals-->iniesta_goals
