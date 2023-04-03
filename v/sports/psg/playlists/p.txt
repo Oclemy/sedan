@@ -3,3 +3,18 @@
 ##Kylian Mbappe Skills-->mbappe_skills
 ##Kylian Mbappe Speed-->mbappe_speed
 ##Kylian Mbappe Finishing-->mbappe_finishing
+
+@@@Neymar
+##Neymar Skills-->neymar_skills
+##Neymar Goals-->neymar_goals
+##Neymar Dribbling-->neymar_dribbling
+##Neymar PSG Skills-->neymar_psg_skills
+##Neymar PSG Goals-->neymar_psg_goals
+##Neymar Brazil Goals-->neymar_brazil_goals
+
+@@@Lionel Messi
+##Lionel Messi PSG Goals-->messi_psg_goals
+##Lionel Messi PSG Skills-->messi_psg_skills
+##Lionel Messi Skills-->messi_skills
+##Lionel Messi Goals-->messi_goals
+##Lionel Messi Dribbling-->messi_dribbling
