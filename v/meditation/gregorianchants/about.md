@@ -1,0 +1,3 @@
+Namaste, welcome to Gregorian Chants app.
+This app will provide you with incredible Gregorian Chants to use for meditation and prayer. Use these irrespective of your religion. Gregorian chant is the central tradition of Western plainchant, a form of monophonic, unaccompanied sacred song in Latin of the Roman Catholic Church. Gregorian chant developed mainly in western and central Europe during the 9th and 10th centuries, with later additions and redactions.
+Thanks for using our app.
