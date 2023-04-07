@@ -40,38 +40,3 @@
 ##Children (3)-->c_children
 ##Anxiety (23)-->c_anxiety
 
-@@@Great Guided Meditation
-##OM Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_om_mantra
-##Mindfulness Meditation (34)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_mindfulness
-##Morning Guided Meditation (24)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_morning_guided_meditation
-##Grounding Meditation (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_grounding
-##Sleep Meditation(46)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_sleep
-##Affirmations Meditation(26)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_affirmations
-##Higher Self (8)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_higher_self
-##Spirit Guide Meditation (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_spirit_guide
-##Energy Healing Meditation (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_energy_healing
-##Abundance Meditation (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_abundance
-##Consciousness Meditation (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_consciousness
-##Self Love Meditation (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_self_love
-##Anxiety Meditation (20)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_anxiety
-##Law of Attraction Meditation (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_law_of_attraction
-##Stress Meditation(6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_stress
-##Success Meditation (8)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_success
-##Manifestation Meditation (21)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_manifest
-##Body Scan (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_body_scan
-##Confidence (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_confidence
-##Happiness (16)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_happiness
-##Cosmic Light (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_light
-##Life (25)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_life
-##Wisdom (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_wisdom
-##Peace (9)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_peace
-##Stillness (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_stillness
-##Clarity (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_clarity
-##Attract (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_attract
-##Root Chakra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_root_chakra
-##Creativity (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_creativity
-##Throat Chakra (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_throat_chakra
-##Third Eye Chakra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_third_eye_chakra
-##Heart Chakra (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_heart_chakra
-##Solar Plexus Chakra (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_solar_plexus_chakra
-##Gratitude (30)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/great_meditation/playlists/great_meditation_gratitude
