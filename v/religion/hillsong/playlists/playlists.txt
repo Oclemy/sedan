@@ -1,0 +1,43 @@
+@@@01. HillSong Worship Tags
+##Acoustic (58)-->hillsong_acoustic
+##Official Lyric Video (41)-->hillsong_official_lyric_video
+##Hillsong Chapel (20)-->hillsong_hillsong_chapel
+##Hillsong UNITED (59)-->hillsong_hillsong_united
+##Night (31)-->hillsong_night
+##Grace (27)-->hillsong_grace
+##Church Online (65)-->hillsong_church_online
+##King (27)-->hillsong_king
+##Love (45)-->hillsong_love
+##Audio (14)-->hillsong_audio
+##Freedom (8)-->hillsong_freedom
+##Faith (6)-->hillsong_faith
+##Believe (11)-->hillsong_believe
+##Studio Sessions (7)-->hillsong_studio_sessions
+##Lyric (134)-->hillsong_lyric
+##Live (62)-->hillsong_live
+##Saviour (15)-->hillsong_saviour
+##Heart (19)-->hillsong_heart
+##Hope (12)-->hillsong_hope
+##Beautiful (22)-->hillsong_beautiful
+##Praise (17)-->hillsong_praise
+##Joy (3)-->hillsong_joy
+##Peace (7)-->hillsong_peace
+##Soul (18)-->hillsong_soul
+##Heaven (24)-->hillsong_heaven
+##Life (9)-->hillsong_life
+##God (53)-->hillsong_god
+##Jesus (20)-->hillsong_jesus
+##Hillsong Young (47)-->hillsong_hillsong_young
+##Light (11)-->hillsong_light
+
+@@@2. HillSong By Duration
+##HillSong 1 minute (14)-->hillsong_1m
+##HillSong 2 minutes (41)-->hillsong_2m
+##HillSong 3 minutes (139)-->hillsong_3m
+##HillSong 4 minutes (227)-->hillsong_4m
+##HillSong 5 minutes (182)-->hillsong_5m
+##HillSong 6 minutes (105)-->hillsong_6m
+##HillSong 7 minutes (84)-->hillsong_7m
+##HillSong 8 minutes (30)-->hillsong_8m
+##HillSong 9 minutes (11)-->hillsong_9m
+##HillSong 10 minutes (10)-->hillsong_10m
