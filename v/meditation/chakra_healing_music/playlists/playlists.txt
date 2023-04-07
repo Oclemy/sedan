@@ -12,6 +12,8 @@
 ##Overthinking(9)-->c_overthinking
 ##Pineal Gland Activation(4)-->c_pineal_gland
 ##Root Chakra(6)-->c_root_chakra
+##Crown Chakra (6)-->c_crown_chakra
+##Heart Chakra (16)-->c_heart_chakra
 ##Self Confidence(6)-->c_confidence
 ##Stress Relief(6)-->c_stress_relief
 
@@ -30,3 +32,10 @@
 
 @@@OM Chanting
 ##OM Chanting(3)-->c_om_chanting
+
+@@@More
+##Christmas (7)-->c_christmas
+##Sleep (98)-->c_sleep
+##Guided Meditation (15)-->c_guided_meditation
+##Children (3)-->c_children
+##Anxiety (23)-->c_anxiety
