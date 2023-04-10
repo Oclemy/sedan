@@ -1,0 +1,13 @@
+@@@01. 60 Minutes
+##Mystery(15)-->mystery
+##Investigation(37)-->investigation
+##Monsters(14)-->monster
+##MH370(20)-->mh370
+##Cult(17)-->cult
+##Scammers(12)-->scam
+##Drugs(21)-->drugs
+##Royalty(24)-->royalty
+##Shark(23)-->shark
+##Brain(11)-->brain
+##China(32)-->china
+##COVID-19(50)-->covid19
