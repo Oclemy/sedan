@@ -35,5 +35,10 @@
 ##A Penguin's Tale (6)-->bbcearth_a_penguins_tale
 ##Nature's Biggest Beasts (4)-->bbcearth_natures_biggest_beasts
 ##Planet Explorers (5)-->bbcearth_planet_explorers
+
+@@@04. BBC Earth Part 4
 ##Climate Change (5)-->bbcearth_climate_change
 ##Mating Game (9)-->bbcearth_mating_game
+##Universe (8)-->bbcearth_universe
+##Amaze Me (5)-->bbcearth_amaze_me
+##Octopus In My House (6)-->bbcearth_octopus_in_my_house
