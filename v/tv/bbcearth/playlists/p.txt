@@ -1,4 +1,5 @@
 @@@01. BBC Earth Part 1
+##Attenborough (166)-->bbcearth_attenborough
 ##Frozen Planet (36)-->bbcearth_frozen_planet
 ##Seven Worlds One Planet (50)-->bbcearth_seven_worlds_one_planet
 ##Our Blue Planet (10)-->bbcearth_our_blue_planet
@@ -8,9 +9,9 @@
 ##Earth's Tropical Islands (4)-->bbcearth_earths_tropical_islands
 ##Blue Planet II (46)-->bbcearth_blue_planet_ii
 ##Behind The Scenes (37)-->bbcearth_behind_the_scenes
-##Green Planet (24)-->bbcearth_green_planet
 
 @@@02. BBC Earth Part 2
+##Green Planet (24)-->bbcearth_green_planet
 ##Natural World (52)-->bbcearth_natural_world
 ##BBC Earth Podcast (8)-->bbcearth_bbc_earth_podcast
 ##BBC Earth Witness (7)-->bbcearth_bbc_earth_witness
@@ -18,7 +19,6 @@
 ##The Cheetah Family (4)-->bbcearth_the_cheetah_family
 ##Weird Animal Searches (10)-->bbcearth_weird_animal_searches
 ##Elephant Nomads (6)-->bbcearth_elephant_nomads
-##Sir David Attenborough (95)-->bbcearth_david_attenborough
 ##Dynasties (43)-->bbcearth_dynasties
 ##Dinosaurs (51)-->bbcearth_dinosaurs
 ##Animal Escapes (2)-->bbcearth_animal_escapes
@@ -32,3 +32,8 @@
 ##Expedition Tiger (5)-->bbcearth_expedition_tiger
 ##After We've Gone (4)-->bbcearth_after_weve_gone
 ##Natural Born Killers (5)-->bbcearth_natural_born_killers
+##A Penguin's Tale (6)-->bbcearth_a_penguins_tale
+##Nature's Biggest Beasts (4)-->bbcearth_natures_biggest_beasts
+##Planet Explorers (5)-->bbcearth_planet_explorers
+##Climate Change (5)-->bbcearth_climate_change
+##Mating Game (9)-->bbcearth_mating_game
