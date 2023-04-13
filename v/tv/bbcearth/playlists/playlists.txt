@@ -1,0 +1,33 @@
+@@@01. BBC Earth Part 1
+##Frozen Planet (36)-->bbcearth_frozen_planet
+##Seven Worlds One Planet (50)-->bbcearth_seven_worlds_one_planet
+##Our Blue Planet (10)-->bbcearth_our_blue_planet
+##The Wild Place (11)-->bbcearth_the_wild_place
+##Relax with Nature (2)-->bbcearth_relax_with_nature
+##Dogs In The Wild (6)-->bbcearth_dogs_in_the_wild
+##Earth's Tropical Islands (4)-->bbcearth_earths_tropical_islands
+##Blue Planet II (46)-->bbcearth_blue_planet_ii
+##Behind The Scenes (37)-->bbcearth_behind_the_scenes
+##Green Planet (24)-->bbcearth_green_planet
+
+@@@02. BBC Earth Part 2
+##Natural World (52)-->bbcearth_natural_world
+##BBC Earth Podcast (8)-->bbcearth_bbc_earth_podcast
+##BBC Earth Witness (7)-->bbcearth_bbc_earth_witness
+##Dan O’Neill Investigates (6)-->bbcearth_investigates
+##The Cheetah Family (4)-->bbcearth_the_cheetah_family
+##Weird Animal Searches (10)-->bbcearth_weird_animal_searches
+##Elephant Nomads (6)-->bbcearth_elephant_nomads
+##Sir David Attenborough (95)-->bbcearth_david_attenborough
+##Dynasties (43)-->bbcearth_dynasties
+##Dinosaurs (51)-->bbcearth_dinosaurs
+##Animal Escapes (2)-->bbcearth_animal_escapes
+
+@@@03. BBC Earth Part 3
+##White Falcon White Wolf (6)-->bbcearth_white_falcon_white_wolf
+##Wild Thailand (5)-->bbcearth_wild_thailand
+##Great Rivers (8)-->bbcearth_great_rivers
+##Bad Natured (5)-->bbcearth_bad_natured
+##Ocean Giants (5)-->bbcearth_ocean_giants
+##Expedition Tiger (5)-->bbcearth_expedition_tiger
+##After We've Gone (4)-->bbcearth_after_weve_gone
