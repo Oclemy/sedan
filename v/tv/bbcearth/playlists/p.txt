@@ -1,5 +1,5 @@
 @@@01. BBC Earth Part 1
-##Attenborough (166)-->bbcearth_attenborough
+##Sir David Attenborough (166)-->bbcearth_attenborough
 ##Frozen Planet (36)-->bbcearth_frozen_planet
 ##Seven Worlds One Planet (50)-->bbcearth_seven_worlds_one_planet
 ##Our Blue Planet (10)-->bbcearth_our_blue_planet
@@ -42,3 +42,30 @@
 ##Universe (8)-->bbcearth_universe
 ##Amaze Me (5)-->bbcearth_amaze_me
 ##Octopus In My House (6)-->bbcearth_octopus_in_my_house
+##Game Changers (2)-->bbcearth_game_changers
+##Close Encounters (5)-->bbcearth_close_encounters
+##Animals with Cameras (3)-->bbcearth_animals_with_cameras
+##Weasels: Feisty & Fearless (6)-->bbcearth_weasels_feisty__fearless
+##Eden: Untamed Planet (12)-->bbcearth_eden_untamed_planet
+
+@@@05. BBC Earth Part 5
+##My Place On Earth (4)-->bbcearth_my_place_on_earth
+##Serengeti (17)-->bbcearth_serengeti
+##Wild Stories (10)-->bbcearth_wild_stories
+##Get Out There (4)-->bbcearth_get_out_there
+##Planet Earth (104)-->bbcearth_planet_earth
+##Waterhole (7)-->bbcearth_waterhole
+##Wild Rescue (8)-->bbcearth_wild_rescue
+##Superswarm (6)-->bbcearth_superswarm
+##Snow Leopards (5)-->bbcearth_snow_leopards
+##Animal Einsteins (7)-->bbcearth_animal_einsteins
+##Jungle Animal Hospital (5)-->bbcearth_jungle_animal_hospital
+
+@@@06. BBC Earth Part 6
+##Five Owl Farm (4)-->bbcearth_five_owl_farm
+##Wild Caribbean (8)-->bbcearth_wild_caribbean
+##A Perfect Planet (13)-->bbcearth_a_perfect_planet
+##Secret Life Of Elephants (6)-->bbcearth_secret_life_of_elephants
+##Meet The Family (4)-->bbcearth_meet_the_family
+
+===line 492
