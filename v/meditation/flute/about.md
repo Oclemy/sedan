@@ -1,3 +1,3 @@
-Namaster, welcome to Flute Music app.
-Through this app you will be able to access a huge library of flute music. The flute is a family of classical music instrument in the woodwind group. Like all woodwinds, flutes are aerophones, meaning they make sound by vibrating a column of air. However, unlike woodwind instruments with reeds, a flute is a reedless wind instrument that produces its sound from the flow of air across an opening.
+Namaster, welcome to Flute Healing Music app.
+Through this app you will be able to access a huge library of flute music. Use these for for meditation and inner healing. The flute is a family of classical music instrument in the woodwind group. Like all woodwinds, flutes are aerophones, meaning they make sound by vibrating a column of air. However, unlike woodwind instruments with reeds, a flute is a reedless wind instrument that produces its sound from the flow of air across an opening.
 Thanks for using our app.

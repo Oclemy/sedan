@@ -1,0 +1,49 @@
+@@@1. Eckhart TV
+##Life(40)-->eckhart_life
+##Eckhart Tolle Explains(8)-->eckhart_explains
+##Suffering(10)-->eckhart_suffering
+##Money(3)-->eckhart_money
+##Presence(64)-->eckhart_presence
+##Children(5)-->eckhart_children
+##Awakening(40)-->eckhart_awakening
+##Nature(5)-->eckhart_nature
+##Impermanence(1)-->eckhart_impermanence
+##Meditation(56)-->eckhart_meditation
+##Kim Eng(5)-->eckhart_kim_eng
+##Ego(22)-->eckhart_ego
+##Manifestation(16)-->eckhart_manifestation
+##Love(6)-->eckhart_love
+##Self Esteem(4)-->eckhart_self_esteem
+##Relationships(10)-->eckhart_relationships
+
+@@@2. Mooji
+##Meditation(23)-->mooji_meditation
+##Awakening(29)-->mooji_awakening
+##Suffering(8)-->mooji_suffering
+##Life(45)-->mooji_life
+##Love(54)-->mooji_love
+##Relationships(7)-->mooji_relationships
+
+@@@3. Ram Dass
+##Meditation(30)-->ram_meditation
+##Bhagavad Gita(4)-->ram_gita
+##Love(80)-->ram_love
+##Presence(6)-->ram_presence
+##Mindfulness(5)-->ram_mindfulness
+##Consciousness(24)-->ram_consciousness
+##Interview(27)-->ram_interview
+##Suffering(10)-->ram_suffering
+##Emotions(4)-->ram_emotions
+
+@@@4. Rupert Spira
+##Love(34)-->rupert_love
+##Meditation(76)-->rupert_meditation
+##Time(25)-->rupert_time
+##Consciousness(62)-->rupert_consciousness
+##Suffering(15)-->rupert_suffering
+##Non-Duality(18)-->rupert_nonduality
+##Podcast(46)-->rupert_podcast
+##Awakening(7)-->rupert_awakening
+##Peom(3)-->rupert_poem
+##Happiness(33)-->rupert_happiness
+
