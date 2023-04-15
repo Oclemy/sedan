@@ -1,0 +1,50 @@
+@@@Meditative Mind Part 1
+##Lower Chakras (10)-->mm_lower_chakras
+##Emotional Detox (4)-->mm_emotional_detox
+##OM Mantra (36)-->mm_om_mantra
+##TREE of LIFE (2)-->mm_tree_of_life
+##OM HARI (5)-->mm_om_hari
+##Reiki (10)-->mm_reiki
+##Abundance Frequency (29)-->mm_abundance
+##Angelic Frequency (5)-->mm_angelic_frequency
+##OM NAMAH (12)-->mm_om_namah
+##Floating in Space (3)-->mm_floating_in_space
+##Immune System (6)-->mm_immune_system
+
+@@@Meditative Mind Part 2
+##WAHEGURU (8)-->mm_waheguru
+##Waterfall Sounds (2)-->mm_waterfall_sounds
+##HANG DRUM (44)-->mm_hang_drum
+##Crown Chakra (67)-->mm_crown_chakra
+##Kundalini (22)-->mm_kundalini
+##Third Eye (84)-->mm_third_eye
+##Heart (102)-->mm_heart
+##Throat (69)-->mm_throat
+##Root (91)-->mm_root
+##Sacral (70)-->mm_sacral
+##Solar Plexus (78)-->mm_solar_plexus
+##Positive Vibes (14)-->mm_positive_vibes
+##Shyness (3)-->mm_shyness
+##Anxiety (29)-->mm_anxiety
+
+@@@Meditative Mind Part 3
+##Deep Space Music (7)-->mm_deep_space
+##Forest Sounds (17)-->mm_forest
+##Ram Das Mantra (2)-->mm_ram_das_mantra
+##Bird Sounds (3)-->mm_bird
+##Rain Sounds (40)-->mm_rain
+##Quick Heal Chakras (7)-->mm_quick_heal_chakras
+##MERE RAM Mantra (2)-->mm_mere_ram
+##Hare Krishna Mantra (4)-->mm_hare_krishna
+##Pain Relief (30)-->mm_pain
+##Ajai Alai Mantra (2)-->mm_ajai_alai
+##Soham Shivoham Mantra (2)-->mm_soham_shivoham
+##Meditation Timer (1)-->mm_meditation_timer
+##Hum Hi Hum Mantra (3)-->mm_hum_hi_hum
+##Morning Music (4)-->mm_morning_music
+
+@@@Meditative Mind Part 4
+##Ocean Waves (4)-->mm_ocean_waves
+##Mere Sahiba Mantra (2)-->mm_mere_sahiba
+##Magic Mantra (3)-->mm_magic_mantra
+##KLEEM Mantra (3)-->mm_kleem

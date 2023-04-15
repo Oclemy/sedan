@@ -1,36 +1,16 @@
-@@@Aura
-##Aura Sleep(5)-->c_aura_sleep
-##Cleanse Aura(4)-->c_cleanse_aura
-##Positive Aura(20)-->c_positive_aura
+@@@Nu Music
+##Black Screen (75)-->nu_black_screen
+##Singing Bowls (7)-->nu_singing_bowls
+##Indian Flute (11)-->nu_indian_flute
+##Native American (17)-->nu_native_american
+##Rain Sounds (11)-->nu_rain_sounds
+##Lower Chakras (1)-->nu_lower_chakras
 
-@@@Chakra Healing
-##Chakra Balance(4)-->c_chakra_balance
-##Fear(19)-->c_fear
-##Full Body Healing(12)-->c_full_body
-##Mental Blockages(3)-->c_mental_blockages
-##Negative Blocks(11)-->c_negative_blocks
-##Overthinking(9)-->c_overthinking
-##Pineal Gland Activation(4)-->c_pineal_gland
-##Root Chakra(6)-->c_root_chakra
-##Self Confidence(6)-->c_confidence
-##Stress Relief(6)-->c_stress_relief
-
-
-@@@Solfeggio Frequencies
-##Abundance Gate(12)-->c_abundance_gate
-##DNA Repair(12)-->c_dna_repair
-##Happiness Frequency(14)-->c_happiness_frequency
-##Miracle Tone(11)-->c_miracle_tone
-##Sacred Geometry(5)-->c_sacred_geometry
-
-@@@Manifestation
-##Law Of Attraction(6)-->c_law
-##Love Attraction(9)-->c_attract_love
-##Miracles(55)-->c_miracle_manifestation
-
-
-@@@OM Chanting
-##OM Chanting(3)-->c_om_chanting
+@@@Meditation By Gurus
+##Eckhart Tolle Meditation (56)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/eckhart_meditation
+##Rupert Spira Meditation (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/rupert/playlists/rupert_guided_meditation
+##Mooji Meditation (23)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists//mooji_meditation
+##Ram Dass Meditation(30)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/ram_meditation
 
 @@@Meditative Mind Part 1
 ##Lower Chakras (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_lower_chakras
@@ -82,18 +62,4 @@
 ##Mere Sahiba Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_mere_sahiba
 ##Magic Mantra (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_magic_mantra
 ##KLEEM Mantra (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_kleem
-
-@@@Guided Meditation
-##Eckhart Tolle Meditation (56)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/eckhart_meditation
-##Rupert Spira Meditation (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/rupert/playlists/rupert_guided_meditation
-##Mooji Meditation (23)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists//mooji_meditation
-##Ram Dass Meditation(30)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/ram_meditation
-
-@@@20:UCuEGJ2eBN6wz8VnVK3T6JCQ. Gregorian Mystical Chants
-##2023-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/UCuEGJ2eBN6wz8VnVK3T6JCQ__2023
-##2022-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2022
-##2021-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2021
-##2020-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2020
-##2019-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2019
-##2018-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2018
 
