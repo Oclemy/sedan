@@ -1,10 +1,18 @@
-@@@Nu Music
-##Black Screen (75)-->nu_black_screen
-##Singing Bowls (7)-->nu_singing_bowls
-##Indian Flute (11)-->nu_indian_flute
-##Native American (17)-->nu_native_american
-##Rain Sounds (11)-->nu_rain_sounds
-##Lower Chakras (1)-->nu_lower_chakras
+@@@Healing Music
+##HANG DRUM (44)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_hang_drum
+##Deep Space Music (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_deep_space
+##Quick Heal Chakras (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_quick_heal_chakras
+##Pain Relief (30)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_pain
+##Meditation Timer (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_meditation_timer
+##Morning Music (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_morning_music
+##Reiki (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_reiki
+##Black Screen (75)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/nu/playlists/nu_black_screen
+##Singing Bowls (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/nu/playlists/nu_singing_bowls
+##Indian Flute (11)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/nu/playlists/nu_indian_flute
+##Native American (17)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/nu/playlists/nu_native_american
+##Rain Sounds (11)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/nu/playlists/nu_rain_sounds
+##Lower Chakras (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/nu/playlists/nu_lower_chakras
+##Floating in Space (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_floating_in_space
 
 @@@Meditation By Gurus
 ##Eckhart Tolle Meditation (56)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/eckhart_meditation
@@ -12,54 +20,55 @@
 ##Mooji Meditation (23)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists//mooji_meditation
 ##Ram Dass Meditation(30)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/ram_meditation
 
-@@@Meditative Mind Part 1
-##Lower Chakras (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_lower_chakras
-##Emotional Detox (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_emotional_detox
-##OM Mantra (36)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_mantra
+@@@Solfeggio Healing Frequencies
 ##TREE of LIFE (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_tree_of_life
-##OM HARI (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_hari
-##Reiki (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_reiki
 ##Abundance Frequency (29)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_abundance
 ##Angelic Frequency (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_angelic_frequency
-##OM NAMAH (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_namah
-##Floating in Space (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_floating_in_space
 ##Immune System (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_immune_system
 
-@@@Meditative Mind Part 2
-##WAHEGURU (8)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_waheguru
-##Waterfall Sounds (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_waterfall_sounds
-##HANG DRUM (44)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_hang_drum
+@@@Chakra Healing
+##Lower Chakras (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_lower_chakras
 ##Crown Chakra (67)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_crown_chakra
-##Kundalini (22)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_kundalini
 ##Third Eye (84)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_third_eye
 ##Heart (102)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_heart
 ##Throat (69)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_throat
 ##Root (91)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_root
 ##Sacral (70)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_sacral
 ##Solar Plexus (78)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_solar_plexus
-##Positive Vibes (14)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_positive_vibes
+##Kundalini (22)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_kundalini
+
+@@@Get Rid of Negativity
+##Emotional Detox (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_emotional_detox
 ##Shyness (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_shyness
 ##Anxiety (29)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_anxiety
+##Positive Vibes (14)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_positive_vibes
 
-@@@Meditative Mind Part 3
-##Deep Space Music (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_deep_space
+@@@Healing Nature Sounds
+##Ocean Waves (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_ocean_waves
 ##Forest Sounds (17)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_forest
-##Ram Das Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_ram_das_mantra
 ##Bird Sounds (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_bird
 ##Rain Sounds (40)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_rain
-##Quick Heal Chakras (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_quick_heal_chakras
-##MERE RAM Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_mere_ram
-##Hare Krishna Mantra (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_hare_krishna
-##Pain Relief (30)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_pain
+##Waterfall Sounds (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_waterfall_sounds
+
+@@@Healing Chants & Mantras
+##OM Mantra (36)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_mantra
 ##Ajai Alai Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_ajai_alai
 ##Soham Shivoham Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_soham_shivoham
-##Meditation Timer (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_meditation_timer
 ##Hum Hi Hum Mantra (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_hum_hi_hum
-##Morning Music (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_morning_music
-
-@@@Meditative Mind Part 4
-##Ocean Waves (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_ocean_waves
 ##Mere Sahiba Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_mere_sahiba
 ##Magic Mantra (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_magic_mantra
 ##KLEEM Mantra (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_kleem
+##Ram Das Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_ram_das_mantra
+##MERE RAM Mantra (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_mere_ram
+##Hare Krishna Mantra (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_hare_krishna
+##WAHEGURU (8)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_waheguru
+##OM HARI (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_hari
+##OM NAMAH (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_namah
 
+@@@z20:UCuEGJ2eBN6wz8VnVK3T6JCQ. Gregorian Healing Chants
+##2023-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2023
+##2022-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2022
+##2021-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2021
+##2020-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2020
+##2019-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2019
+##2018-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2018
