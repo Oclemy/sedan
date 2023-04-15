@@ -38,3 +38,6 @@ kUSkudmrwbQ,Unusual Circumstances Surround Death of Fort Hood Soldier | Still A 
 FzN_SN0uojQ,Death By Fame | Official Trailer | ID,1m 36s,2023-01-20T18:14:03Z
 KFGcMmi1Cmk,Man's Estranged Wife Carried Out Unthinkable Revenge | Evil Lives Here | Investigation Discovery,2m 5s,2023-01-06T15:00:11Z
 jprKkC8FhAk,Security Camera Shows Intruder Secretly Watching Couple At Home | Crimes Gone Viral,3m 31s,2023-01-03T15:00:32Z
+
+[[POSITION-->25;NAME-->48 Hours;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011-2010_2009_2007;ID-->UC7htuVs06oduI3xSfTdcxPA;PATH-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/forty_eight/]]
+[[POSITION-->26;NAME-->60 Minutes Australia;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011-2010_2009_2007;ID-->UC0L1suV8pVgO4pCAIBNGx5w;PATH-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/]]
