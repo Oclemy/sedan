@@ -1,9 +1,9 @@
-@@@Aura
+@@@1. Aura
 ##Aura Sleep(5)-->c_aura_sleep
 ##Cleanse Aura(4)-->c_cleanse_aura
 ##Positive Aura(20)-->c_positive_aura
 
-@@@Chakra Healing
+@@@2. Chakra Healing
 ##Chakra Balance(4)-->c_chakra_balance
 ##Fear(19)-->c_fear
 ##Full Body Healing(12)-->c_full_body
@@ -16,7 +16,7 @@
 ##Stress Relief(6)-->c_stress_relief
 
 
-@@@Solfeggio Frequencies
+@@@3. Solfeggio Frequencies
 ##Abundance Gate(12)-->c_abundance_gate
 ##DNA Repair(12)-->c_dna_repair
 ##Happiness Frequency(14)-->c_happiness_frequency
