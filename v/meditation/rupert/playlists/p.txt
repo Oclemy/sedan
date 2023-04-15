@@ -1,0 +1,73 @@
+@@@Rupert Spira Part 1
+##Science (7)-->rupert_science
+##Guided Meditation (10)-->rupert_guided_meditation
+##Consciousness (74)-->rupert_consciousness
+##Spiritual (24)-->rupert_spiritual
+##Happiness (44)-->rupert_happiness
+##Yoga (10)-->rupert_yoga
+##Advaita (14)-->rupert_advaita
+##Suffering (16)-->rupert_suffering
+##Tantra (9)-->rupert_tantra
+##Vedanta (8)-->rupert_vedanta
+##Enlightenment (23)-->rupert_enlightenment
+
+@@@Rupert Spira Part 2
+##Non-Duality (60)-->rupert_non-duality
+##Interview (13)-->rupert_interview
+##Ignorance (6)-->rupert_ignorance
+##Prayer (6)-->rupert_prayer
+##Peace (28)-->rupert_peace
+##Art (33)-->rupert_art
+##Buddha (3)-->rupert_buddha
+##Ego (13)-->rupert_ego
+##Reality (24)-->rupert_reality
+##Loneliness (3)-->rupert_loneliness
+##Love (39)-->rupert_love
+##Awareness (83)-->rupert_awareness
+
+@@@Rupert Spira Part 3
+##Sleep (14)-->rupert_sleep
+##Karma (4)-->rupert_karma
+##Oneness (6)-->rupert_oneness
+##Presence (11)-->rupert_presence
+##Death (19)-->rupert_death
+##Relationship (16)-->rupert_relationship
+##Fear (14)-->rupert_fear
+##Free Will (5)-->rupert_free_will
+##Seeing (26)-->rupert_seeing
+##Emptiness (7)-->rupert_emptiness
+##Grieving (5)-->rupert_grieving
+##Depression (3)-->rupert_depression
+##Sexuality (3)-->rupert_sexuality
+##Time (33)-->rupert_time
+
+@@@Rupert Spira Part 4
+##God (34)-->rupert_god
+##Knowledge (5)-->rupert_knowledge
+##Experience (76)-->rupert_experience
+##Thoughts (22)-->rupert_thoughts
+##Brain (4)-->rupert_brain
+##Intimacy (9)-->rupert_intimacy
+##Children (5)-->rupert_children
+##Solipsism (3)-->rupert_solipsism
+##Universe (7)-->rupert_universe
+##Mind (54)-->rupert_mind
+##Trauma (4)-->rupert_trauma
+##Beauty (11)-->rupert_beauty
+##poem (4)-->rupert_poem
+##Nature of (25)-->rupert_nature_of
+
+@@@Rupert Spira Part 5
+##Devotion (5)-->rupert_devotion
+##Self Enquiry (7)-->rupert_self_enquiry
+##Body (31)-->rupert_body
+##Illusion (10)-->rupert_illusion
+##Podcast (51)-->rupert_podcast
+##Christian (3)-->rupert_christian
+##Anxiety (3)-->rupert_anxiety
+##Deepak Chopra (7)-->rupert_deepak_chopra
+##Intuition (3)-->rupert_intuition
+##Belief (5)-->rupert_belief
+##Freedom (23)-->rupert_freedom
+##Pain (8)-->rupert_pain
+##Feelings (24)-->rupert_feelings

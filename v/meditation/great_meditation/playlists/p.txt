@@ -39,3 +39,10 @@
 ##Heart Chakra (1)-->great_meditation_heart_chakra
 ##Solar Plexus Chakra (1)-->great_meditation_solar_plexus_chakra
 ##Gratitude (30)-->great_meditation_gratitude
+
+@@@Meditation By Gurus
+##Eckhart Tolle Meditation (56)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/eckhart_meditation
+##Rupert Spira Meditation (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/rupert/playlists/rupert_guided_meditation
+##Mooji Meditation (23)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists//mooji_meditation
+##Ram Dass Meditation(30)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/eckharttolle/playlists/ram_meditation
+
