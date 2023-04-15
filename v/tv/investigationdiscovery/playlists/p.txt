@@ -1,0 +1,58 @@
+@@@01. Investigation Discovery Part 1
+##Still a Mystery (22)-->id_still_a_mystery
+##Crimes Gone Viral (41)-->id_crimes_gone_viral
+##Evil Lives Here (20)-->id_evil_lives_here
+##Psychopath (2)-->id_psychopath
+##Chaos in Court (2)-->id_chaos_in_court
+##True Nightmares (18)-->id_true_nightmares
+##Gone In An Instant (15)-->id_gone_in_an_instant
+##Tales of Evil (12)-->id_tales_of_evil
+##Off the Record (6)-->id_off_the_record
+##The Missing (23)-->id_the_missing
+##Who Did I Marry? (12)-->id_did_i_marry
+
+@@@02. Investigation Discovery Part 2
+##Homicide Hunter (12)-->id_homicide_hunter
+##American Monster (3)-->id_american_monster
+##The Missing Pieces (10)-->id_the_missing_pieces
+##Local Mysteries (12)-->id_local_mysteries
+##Mind of a Monster (2)-->id_mind_of_a_monster
+##Caught on Camera (13)-->id_caught_on_camera
+##The Dark Side Of (11)-->id_the_dark_side_of
+##Body Cam (7)-->id_body_cam
+##Women In Prison (18)-->id_women_in_prison
+##Impact of Murder (6)-->id_impact_of_murder
+##Breaking Homicide (3)-->id_breaking_homicide
+
+@@@03. Investigation Discovery Part 3
+##Disappearance (11)-->id_disappearance
+##Survivor Stories (6)-->id_survivor_stories
+##Crime Obsession (6)-->id_crime_obsession
+##5 Things To Know (5)-->id_5_things_to_know
+##What Really Happened (3)-->id_what_really_happened
+##Totally Scandalous (9)-->id_totally_scandalous
+##ID Now (7)-->id_id_now
+##My Strange Criminal Addiction (14)-->id_my_strange_criminal_addiction
+##Found Dead (7)-->id_found_dead
+##Serial Killer (15)-->id_serial_killer
+
+@@@04. Investigation Discovery Part 4
+##Kidnap (30)-->id_kidnap
+##Love (42)-->id_love
+##Husband (39)-->id_husband
+##Wife (47)-->id_wife
+##Girlfriend (7)-->id_girlfriend
+##Boyfriend (9)-->id_boyfriend
+##Creepy (3)-->id_creepy
+##Stalker (5)-->id_stalker
+##Doctor (7)-->id_doctor
+##Mother (26)-->id_mother
+##Father (12)-->id_father
+##Sister (10)-->id_sister
+
+@@@05. Investigation Discovery Part 5
+##Brother (5)-->id_brother
+##Family (30)-->id_family
+##Money (8)-->id_money
+##College (8)-->id_college
+##Celebrity (4)-->id_celebrity
