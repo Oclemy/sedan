@@ -56,3 +56,8 @@
 ##Money (8)-->id_money
 ##College (8)-->id_college
 ##Celebrity (4)-->id_celebrity
+
+
+[[POSITION-->25;NAME-->48 Hours;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011-2010_2009_2007;ID-->UC7htuVs06oduI3xSfTdcxPA;PATH-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/forty_eight/]]
+
+===Line 478
