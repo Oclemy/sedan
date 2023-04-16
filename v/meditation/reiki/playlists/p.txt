@@ -88,10 +88,14 @@
 ##Nature (26) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_nature
 
 
-@@@z20:UCuEGJ2eBN6wz8VnVK3T6JCQ. Gregorian Healing Chants
+@@@x20:UCuEGJ2eBN6wz8VnVK3T6JCQ. Gregorian Healing Chants
 ##2023-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2023
 ##2022-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2022
 ##2021-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2021
 ##2020-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2020
 ##2019-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2019
 ##2018-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2018
+
+@@@z: More Healing Music
+##Soul Ambience (41)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/g/soulambience
+##Dewdrop (174)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/g/dewdrop
