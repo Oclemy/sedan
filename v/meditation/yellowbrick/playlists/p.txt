@@ -1,0 +1,23 @@
+@@@Yellow Brick Part 1
+##Reiki (52)-->yb_reiki
+##Harp (5)-->yb_harp
+##Classical (68)-->yb_classical
+##Tibetan (97)-->yb_tibetan
+##Deep Sleep (106)-->yb_deep_sleep
+##Native American (2)-->yb_native_american
+##Guitar (67)-->yb_guitar
+##Flute (32)-->yb_flute
+##Zen Meditation (36)-->yb_zen_meditation
+##Chakra (107)-->yb_chakra
+##Yoga (99)-->yb_yoga
+##Binaural (90)-->yb_binaural
+##Ocean Waves (3)-->yb_ocean_waves
+
+@@@Yellow Brick Part 2
+##Concentration (59)-->yb_concentration
+##Positive Energy (49)-->yb_positive_energy
+##Piano (61)-->yb_piano
+##4K (10)-->yb_4k
+##Shamanic (33)-->yb_shamanic
+##Delta Waves (59)-->yb_delta_waves
+##Nature (26)-->yb_nature

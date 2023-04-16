@@ -65,6 +65,29 @@
 ##OM HARI (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_hari
 ##OM NAMAH (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/meditative_mind/playlists/mm_om_namah
 
+@@@Yellow Brick Cinema
+##Reiki (52) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_reiki
+##Harp (5) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_harp
+##Classical (68) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_classical
+##Tibetan (97) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_tibetan
+##Deep Sleep (106) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_deep_sleep
+##Native American (2) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_native_american
+##Guitar (67) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_guitar
+##Flute (32) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_flute
+##Zen Meditation (36) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_zen_meditation
+##Chakra (107) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_chakra
+##Yoga (99) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_yoga
+##Binaural (90) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_binaural
+##Ocean Waves (3) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_ocean_waves
+##Concentration (59) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_concentration
+##Positive Energy (49) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_positive_energy
+##Piano (61) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_piano
+##4K (10) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_4k
+##Shamanic (33) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_shamanic
+##Delta Waves (59) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_delta_waves
+##Nature (26) -->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/yellowbrick/playlists/yb_nature
+
+
 @@@z20:UCuEGJ2eBN6wz8VnVK3T6JCQ. Gregorian Healing Chants
 ##2023-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2023
 ##2022-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/meditation/gregorianchants/2022
