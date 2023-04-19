@@ -1,0 +1,28 @@
+@@@Planets
+##Mercury (21)-->nasa_mercury
+##Venus (14)-->nasa_venus
+##Earth (204)-->nasa_earth
+##Mars (353)-->nasa_mars
+##Jupiter (35)-->nasa_jupiter
+##Saturn (16)-->nasa_saturn
+##Uranus (1)-->nasa_uranus
+##Pluto (31)-->nasa_pluto
+
+@@@Space Crafts & Telescopes
+##James Webb (22)-->nasa_james_webb
+##Hubble (53)-->nasa_hubble
+##Kepler (16)-->nasa_kepler
+##Chandra (9)-->nasa_chandra
+##Spitzer (5)-->nasa_spitzer
+##IRIS (18)-->nasa_iris
+##Swift (1)-->nasa_swift
+##Fermi (2)-->nasa_fermi
+##GALEX (1)-->nasa_galex
+##SHIELDS (1)-->nasa_shields
+##TESS (1)-->nasa_tess
+##International Space Station (261)-->nasa_international_space_station
+
+@@@Nature
+##Rising Waters (3)-->nasa_rising_waters
+##Hurricane (66)-->nasa_hurricane
+##Climate Change (10)-->nasa_climate_change
