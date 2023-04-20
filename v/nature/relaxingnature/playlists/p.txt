@@ -1,0 +1,50 @@
+@@@African Wildlife Relaxation
+##Great Migration (17)-->relaxingnature_great_migration
+##Lion (3)-->relaxingnature_lion
+##Buffalo (2)-->relaxingnature_buffalo
+##Elephant (1)-->relaxingnature_elephant
+##Leopard (1)-->relaxingnature_leopard
+##Cheetah (1)-->relaxingnature_cheetah
+##Eagle (1)-->relaxingnature_eagle
+##Our Planet -Africa(12)-->relaxingnature_our_planet
+
+@@@Beautiful Africa (National Parks)
+##Serengeti (12)-->relaxingnature_serengeti
+##Masai Mara (7)-->relaxingnature_masai_mara
+##Kruger (6)-->relaxingnature_kruger
+##Etosha (10)-->relaxingnature_etosha
+##Nairobi (4)-->relaxingnature_nairobi
+##Aberdare (1)-->relaxingnature_aberdare
+##Ranomafana (1)-->relaxingnature_ranomafana
+##Moremi (1)-->relaxingnature_moremi
+##Ruaha (1)-->relaxingnature_ruaha
+##Bwindi (1)-->relaxingnature_bwindi
+##Nxai Pan (1)-->relaxingnature_nxai_pan
+##Savuti (1)-->relaxingnature_savuti
+##Timbavati (1)-->relaxingnature_timbavati
+##Bardia (1)-->relaxingnature_bardia
+##Tsavo West (2)-->relaxingnature_tsavo_west
+##Bale  (2)-->relaxingnature_bale
+##Mana Pools (3)-->relaxingnature_mana_pools
+##Ngorongoro (4)-->relaxingnature_ngorongoro
+##Hwange (3)-->relaxingnature_hwange
+##Central Kalahari (1)-->relaxingnature_central_kalahari
+##Chobe (2)-->relaxingnature_chobe
+##Kwazulu-Natal (1)-->relaxingnature_kwazulu-natal
+##Okavango Delta (1)-->relaxingnature_okavango_delta
+##Mole  (1)-->relaxingnature_mole
+##Amboseli (3)-->relaxingnature_amboseli
+##Virunga (1)-->relaxingnature_virunga
+##Mikumi (1)-->relaxingnature_mikumi
+##Bwabwata (1)-->relaxingnature_bwabwata
+##Waza  (1)-->relaxingnature_waza
+##Lake Manyara (2)-->relaxingnature_lake_manyara
+##Nechisar (2)-->relaxingnature_nechisar
+##Kissama (1)-->relaxingnature_kissama
+##Kafue (2)-->relaxingnature_kafue
+
+@@@Calming Wildlife Music
+##Calming Music (26)-->relaxingnature_calming_music
+##Wildlife with African Music (17)-->relaxingnature_african_music
+##Birds Sounds (1)-->relaxingnature_birds_sounds
+##Winter Wildlife (1)-->relaxingnature_winter_wildlife
