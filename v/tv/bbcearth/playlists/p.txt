@@ -68,4 +68,86 @@
 ##Secret Life Of Elephants (6)-->bbcearth_secret_life_of_elephants
 ##Meet The Family (4)-->bbcearth_meet_the_family
 
+@@@BBC Cosmos
+##Space Mysteries (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_space_mysteries
+##Your Cosmos (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_your_cosmos
+##Moon Explorers (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_moon_explorers
+##Wonders Of The Solar System (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_wonders_of_the_solar_system
+##The Planets (11)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_the_planets
+##In Orbit (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_in_orbit
+##Universe (26)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_universe
+##Moon (11)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_moon
+##Wonders of the Universe (8)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_wonders_of_the_universe
+
+@@@BBC Planet
+##Earth: The Power Of The Planet (9)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_earth_the_power_of_the_planet
+##Planet Fix (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_planet_fix
+##Fractured Reality (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_fractured_reality
+##Unexplored (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_unexplored
+##Alien (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_alien
+##Volcanic (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_volcanic
+##My Amazing Earth (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_my_amazing_earth
+
+@@@BBC Science
+##Trailblazers (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_trailblazers
+##Guide to Net Zero (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_guide_to_net_zero
+##Weird Science (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_weird_science
+
+@@@BBC Health
+##Medical Myths (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_medical_myths
+##Curing Alzheimer (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_curing_alzheimer
+##Disease (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_disease
+##Diet (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_diet
+##Fast Food (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_fast_food
+##Gastric Bypass (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_gastric_bypass
+##Sugar (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_sugar
+##Sleep (9)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_sleep
+##Food (21)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_food
+
+@@@BBC Biology
+##Secrets Of The Human Body (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_secrets_of_the_human_body
+##Brain (19)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_brain
+##Hormone (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_hormone
+##Weight (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_weight
+##Stem Cells (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_stem_cells
+##Emotions (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_emotions
+##Transplant (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_transplant
+##Evolution (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_evolution
+
+@@@BBC Lifestyle
+##Living Off Grid (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_living_off_grid
+##Horizon (13)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_horizon
+##Inspirational Lives (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_inspirational_lives
+##The Big Question (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_the_big_question
+##Babies (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_babies
+
+@@@BBC Physics
+##Time (11)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_time
+##Rocket (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_rocket
+##Energy (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_energy
+##Nuclear (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_nuclear
+##Nitrogen (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_nitrogen
+
+@@@BBC Technology
+##Robot (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_robot
+##Car (21)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_car
+##Internet (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_internet
+##Telescope (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_telescope
+
+@@@BBC Prensters
+##Richard Hammond (5)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_richard_hammond
+##Greg Foot (42)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_greg_foot
+##Brian Cox (14)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_brian_cox
+##Jon Chase (8)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_jon_chase
+##Martin Archer (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_martin_archer
+##James May (108)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_james_may
+
+@@@BBC Head Squeeze
+##Head Squeeze (343)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_head_squeeze
+##Live Experiments (64)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_live_experiments
+##Sci Guide (46)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_sci_guide
+##Number Hub (25)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_number_hub
+##Ask an Astronaut (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearthlab/bbcearthlab_ask_an_astronaut
+
+
 ===line 492
