@@ -40,3 +40,54 @@
 ##Delta(2)-->delta
 ##Ocean(10)-->oceans
 ##Coral Reefs(10)-->reefs
+
+@@@African Wildlife Relaxation
+##Great Migration (17)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_great_migration
+##Lion (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_lion
+##Buffalo (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_buffalo
+##Elephant (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_elephant
+##Leopard (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_leopard
+##Cheetah (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_cheetah
+##Eagle (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_eagle
+##Our Planet -Africa(12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_our_planet
+
+@@@Beautiful Africa (National Parks)
+##Serengeti (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_serengeti
+##Masai Mara (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_masai_mara
+##Kruger (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kruger
+##Etosha (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_etosha
+##Nairobi (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_nairobi
+##Aberdare (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_aberdare
+##Ranomafana (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_ranomafana
+##Moremi (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_moremi
+##Ruaha (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_ruaha
+##Bwindi (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bwindi
+##Nxai Pan (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_nxai_pan
+##Savuti (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_savuti
+##Timbavati (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_timbavati
+##Bardia (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bardia
+##Tsavo West (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_tsavo_west
+##Bale  (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bale
+##Mana Pools (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_mana_pools
+##Ngorongoro (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_ngorongoro
+##Hwange (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_hwange
+##Central Kalahari (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_central_kalahari
+##Chobe (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_chobe
+##Kwazulu-Natal (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kwazulu-natal
+##Okavango Delta (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_okavango_delta
+##Mole  (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_mole
+##Amboseli (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_amboseli
+##Virunga (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_virunga
+##Mikumi (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_mikumi
+##Bwabwata (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bwabwata
+##Waza  (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_waza
+##Lake Manyara (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_lake_manyara
+##Nechisar (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_nechisar
+##Kissama (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kissama
+##Kafue (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kafue
+
+@@@Calming Wildlife Music
+##Calming Music (26)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_calming_music
+##Wildlife with African Music (17)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_african_music
+##Birds Sounds (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_birds_sounds
+##Winter Wildlife (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_winter_wildlife
