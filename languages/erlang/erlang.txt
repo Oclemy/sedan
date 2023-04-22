@@ -1,0 +1,159 @@
+##Introduction
+Introduction=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/introduction
+
+##Character Set and Source File Encoding
+Character Set=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/character_set
+Source File Encoding=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/character_set#source-file-encoding
+
+##Data Types
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types
+Number=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#number
+Atom=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#atom
+Bit Strings and Binaries=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#bit-strings-and-binaries
+Reference=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#reference
+Fun=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#fun
+Port Identifier=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#port-identifier
+PID=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#pid
+Tuple=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#tuple
+Map=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#map
+List=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#list
+String=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#string
+Record=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#record
+Boolean=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#boolean
+Escape Sequences=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#escape-sequences
+Type Conversions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/data_types#type-conversions
+
+##Pattern Matching
+Pattern Matching=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/patterns
+
+##Modules
+Module Syntax=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/modules#module-syntax
+Module Attributes=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/modules#module-attributes
+The feature directive=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/modules#the-feature-directive
+module_info/0 and module_info/1 functions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/modules#module_info-0-and-module_info-1-functions
+
+##Functions
+Function Declaration Syntax=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/functions#function-declaration-syntax
+Function Evaluation=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/functions#function-evaluation
+Tail recursion=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/functions#tail-recursion
+Built-In Functions (BIFs)=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/functions#built-in-functions--bifs
+
+##Types and Function Specifications
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/typespec
+The Erlang Type Language=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/typespec#the-erlang-type-language
+Types and their Syntax=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/typespec#types-and-their-syntax
+Type Declarations of User-Defined Types=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/typespec#type-declarations-of-user-defined-types
+Type Information in Record Declarations=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/typespec#type-information-in-record-declarations
+Specifications for Functions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/typespec#specifications-for-functions
+
+##Opaques
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/opaques
+Opaque Type Aliases=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/opaques#opaque-type-aliases
+
+##Expressions
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions
+Expression Evaluation=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#expression-evaluation
+Terms=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#terms
+Variables=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#variables
+Patterns=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#patterns
+Match=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#match
+Function Calls=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#function-calls
+If=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#if
+Case=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#case
+Maybe=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#maybe
+Send=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#send
+Receive=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#receive
+Term Comparisons=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#term-comparisons
+Arithmetic Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#arithmetic-expressions
+Boolean Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#boolean-expressions
+Short-Circuit Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#short-circuit-expressions
+List Operations=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#list-operations
+Map Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#map-expressions
+Bit Syntax Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#bit-syntax-expressions
+Fun Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#fun-expressions
+Catch and Throw=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#catch-and-throw
+Try=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#try
+Parenthesized Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#parenthesized-expressions
+Block Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#block-expressions
+List Comprehensions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#list-comprehensions
+Bit String Comprehensions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#bit-string-comprehensions
+Guard Sequences=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#guard-sequences
+Guard Expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#guard-expressions
+Operator Precedence=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/expressions#operator-precedence
+
+##Preprocessor
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros
+File Inclusion=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#file-inclusion
+Defining and Using Macros=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#defining-and-using-macros
+Predefined Macros=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#predefined-macros
+Macros Overloading=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#macros-overloading
+Flow Control in Macros=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#flow-control-in-macros
+The -feature( directive=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#feature-directive
+-error and -warning directives=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#error-and-warning-directives
+Stringifying Macro Arguments=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/macros#stringifying-macro-arguments
+
+##Records
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records
+Defining Records=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#defining-records
+Creating Records=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#creating-records
+Accessing Record Fields=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#accessing-record-fields
+Updating Records=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#updating-records
+Records in Guards=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#records-in-guards
+Records in Patterns=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#records-in-patterns
+Nested Records=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#nested-records
+Internal Representation of Records=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/records#internal-representation-of-records
+
+##Errors and Error Handling
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/errors
+Terminology=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/errors#terminology
+Exceptions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/errors#exceptions
+Handling of Run-time Errors in Erlang=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/errors#handling-of-run-time-errors-in-erlang
+Exit Reasons=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/errors#exit-reasons
+
+##Features
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/features
+Life cycle of features=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/features#life-cycle-of-features
+Enabling and Disabling Features=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/features#enabling-and-disabling-features
+Preprocessor Additions=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/features#preprocessor-additions
+Information about Existing Features=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/features#information-about-existing-features
+Existing Features=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/features#existing-features
+
+##Processes
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes
+Processes=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#processes
+Process Creation=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#process-creation
+Registered Processes=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#registered-processes
+Process Aliases=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#process-aliases
+Process Termination=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#process-termination
+Signals=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#signals
+Links=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#links
+Error Handling=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#error-handling
+Monitors=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#monitors
+Process Dictionary=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/processes#process-dictionary
+
+##Distributed Erlang
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed
+Distributed Erlang System=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#distributed-erlang-system
+Nodes=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#nodes
+Node Connections=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#node-connections
+epmd=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#epmd
+Hidden Nodes=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#hidden-nodes
+Dynamic Node Name=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#dynamic-node-name
+C Nodes=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#c-nodes
+Security=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#security
+Distribution BIFs=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#distribution-bifs
+Distribution Command-Line Flags=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#distribution-command-line-flags
+Distribution Modules=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/distributed#distribution-modules
+
+##Compilation and Code Loading
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/code_loading
+Compilation=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/code_loading#compilation
+Code Loading=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/code_loading#code-loading
+Code Replacement=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/code_loading#code-replacement
+Running a Function When a Module is Loaded=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/code_loading#running-a-function-when-a-module-is-loaded
+
+##Ports and Port Drivers
+Intro=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/ports
+Ports=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/ports#ports
+Port Drivers=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/ports#port-drivers
+Port BIFs=>https://apps.camposha.info/wp-content/uploads/md/languages/erlang/ports#port-bifs

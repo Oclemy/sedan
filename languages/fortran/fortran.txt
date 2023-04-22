@@ -1,61 +1,61 @@
 ##Welcome
-Introduction=>intro
+Introduction=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/intro
 
 ##Setting up your OS
-Setting up your OS=>os_setup
-Choosing a compiler=>choose_compiler
-Installing GFortran=>install_gfortran
-Text Editors=>text_editors
-IDEs=>ides
-Smart Tips=>tips
+Setting up your OS=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/os_setup
+Choosing a compiler=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/choose_compiler
+Installing GFortran=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/install_gfortran
+Text Editors=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/text_editors
+IDEs=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/ides
+Smart Tips=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/tips
 
 ##Quickstart tutorial
-Quickstart tutorial=>quickstart
-Hello world=>hello_world
-Variables=>variables
-Arrays and strings=>arrays_strings
-Operators and flow control=>operators_control_flow
-Organising code structure=>organising_code
-Derived Types=>derived_types
+Quickstart tutorial=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/quickstart
+Hello world=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/hello_world
+Variables=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/variables
+Arrays and strings=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/arrays_strings
+Operators and flow control=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/operators_control_flow
+Organising code structure=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/organising_code
+Derived Types=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/derived_types
 
 ##Building programs
-Building programs=>building_programs
-Compiling the source code=>compiling_source
-Linking the objects=>linking_pieces
-Run-time libraries=>runtime_libraries
-Include files and modules=>include_files
-Managing libraries (static and dynamic libraries)=>managing_libraries
-Build tools=>build_tools
-An introduction to make=>project_make
-Distributing your programs=>distributing
+Building programs=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/building_programs
+Compiling the source code=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/compiling_source
+Linking the objects=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/linking_pieces
+Run-time libraries=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/runtime_libraries
+Include files and modules=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/include_files
+Managing libraries (static and dynamic libraries)=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/managing_libraries
+Build tools=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/build_tools
+An introduction to make=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/project_make
+Distributing your programs=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/distributing
 
 ##Fortran Best Practices
-Best Practices=>best_practices
-Fortran Style Guide=>style_guide
-Floating Point Numbers=>floating_point
-Integer Division=>integer_division
-Modules and Programs=>modules_programs
-Arrays=>arrays
-Multidimensional Arrays=>multidim_arrays
-Element-wise Operations on Array=>element_operations
-Allocatable Arrays=>allocatable_arrays
-File Input/Output=>file_io
-Callbacks=>callbacks
-Type Casting in Callbacks=>type_casting
+Best Practices=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/best_practices
+Fortran Style Guide=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/style_guide
+Floating Point Numbers=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/floating_point
+Integer Division=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/integer_division
+Modules and Programs=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/modules_programs
+Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/arrays
+Multidimensional Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/multidim_arrays
+Element-wise Operations on Array=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/element_operations
+Allocatable Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/allocatable_arrays
+File Input/Output=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/file_io
+Callbacks=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/callbacks
+Type Casting in Callbacks=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/type_casting
 
 ##Fortran Intrinsics
-Fortran Intrinsics=>intrinsics
-Properties and attributes of arrays=>array
-Bit-level inquiry and manipulation=>bit
-Basic procedures for manipulating _character_ variables=>character
-Information about compiler and compiler options used for building=>compiler
-Procedures for binding to C interfaces=>cfi
-General mathematical functions=>math
-Controlling and querying the current numeric model=>model
-Manipulation and properties of numeric values=>numeric
-Parallel programming using co_arrays and co_indexed arrays=>parallel
-General and miscellaneous intrinsics=>state
-Accessing external system information=>system
-Matrix multiplication, dot product, and array shifts=>transform
-Types and kinds=>type
+Fortran Intrinsics=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/intrinsics
+Properties and attributes of arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/array
+Bit-level inquiry and manipulation=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/bit
+Basic procedures for manipulating _character_ variables=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/character
+Information about compiler and compiler options used for building=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/compiler
+Procedures for binding to C interfaces=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/cfi
+General mathematical functions=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/math
+Controlling and querying the current numeric model=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/model
+Manipulation and properties of numeric values=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/numeric
+Parallel programming using co_arrays and co_indexed arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/parallel
+General and miscellaneous intrinsics=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/state
+Accessing external system information=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/system
+Matrix multiplication, dot product, and array shifts=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/transform
+Types and kinds=>https://apps.camposha.info/wp-content/uploads/md/languages/fortran/type
 GNU Free Documentatio=>https://www.gnu.org/licenses/old-licenses/fdl-1.2.en.html
