@@ -1,5 +1,5 @@
 @@@Native Languages
-##Erlang Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/erlang/erlang.txt
+##Julia Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/julia/julia.txt
 ##Fortran Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran.txt
 ##Ocaml Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/ocaml/ocaml.txt
 
