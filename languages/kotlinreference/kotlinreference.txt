@@ -1,0 +1,116 @@
+##Basics
+Basic Syntax=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/basic-syntax
+Idioms=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/idioms
+Coding Conventions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/coding-conventions
+
+##Basic Types
+Basic Types Overview=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/basic-types
+Numbers=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/numbers
+Booleans=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/booleans
+Characters=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/characters
+Strings=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/strings
+Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/arrays
+Unsigned Integer Types=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/unsigned-integer-types
+
+##Typecasts
+Type checks and casts=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/typecasts
+
+##Control Flow
+Conditions and loops=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/control-flow
+Returns and jumps=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/returns
+Exceptions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/exceptions
+
+##Packages
+Packages and imports=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/packages
+
+##Classes and Objects
+Classes=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/classes
+Inheritance=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/inheritance
+Properties=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/properties
+Interfaces=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/interfaces
+Functional (SAM) interfaces=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/fun-interfaces
+Visibility modifiers=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/visibility-modifiers
+Extensions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/extensions
+Data classes=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/data-classes
+Sealed classes=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/sealed-classes
+Generics: in, out, where=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/generics
+Nested and inner classes=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/nested-classes
+Enum classes=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/enum-classes
+Inline classes=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/inline-classes
+Object expressions and declarations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/object-declarations
+Delegation=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/delegation
+Delegated properties=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/delegated-properties
+Type aliases=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/type-aliases
+
+##Functions
+Functions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/functions
+Lambdas=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/lambdas
+Inline functions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/inline-functions
+Operator overloading=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/operator-overloading
+Type-safe builders=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/type-safe-builders
+Using builders with builder type inference=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/using-builders-with-builder-inference
+Null safety=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/null-safety
+Equality=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/equality
+This expressions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/this-expressions
+Asynchronous programming techniques=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/async-programming
+Coroutines=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/coroutines-overview
+Annotations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/annotations
+Destructuring declarations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/destructuring-declarations
+Reflection=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/reflection
+Scope Functions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/scope-functions
+
+##Collections
+Collections Overview=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collections-overview
+Constructing collections=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/constructing-collections
+Iterators=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/iterators
+Ranges and progressions=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/ranges
+Sequences=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/sequences
+Operations overview=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-operations
+Transformations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-transformations
+Filter=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-filtering
+Plus and minus operators=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-plus-minus
+Group elements=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-grouping
+Retrieve collection parts=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-parts
+Retrieve single elements=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-elements
+Ordering=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-ordering
+Aggregate operations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-aggregate
+Write operations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/collection-write
+List-specific operations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/list-operations
+Set-specific operations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/set-operations
+Map-specific operations=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/map-operations
+
+##Serialization
+Serialization=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/serialization
+
+##Keyword Reference
+Keyword Reference=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/keyword-reference
+
+##Build Tools
+Gradle Overview=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/gradle
+Maven=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/maven
+Ant=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/ant
+
+##Gradle
+Gradle Overview=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/gradle
+Get started with Gradle – tutorial=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/get-started-with-jvm-gradle-project
+Configure a Gradle project=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/gradle-configure-project
+Compiler options=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/gradle-compiler-options
+Compilation and caches=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/gradle-compilation-and-caches
+
+##IDE
+IDE for Kotlin development=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/kotlin-ide
+Migrate to Kotlin code style with IntelliJ IDEA=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/code-style-migration-guide
+Run code snippets=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/run-code-snippets
+
+##Compiler
+Command-line compiler=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/command-line
+Compiler options=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/compiler-reference
+
+##Compiler Plugins
+All-open=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/all-open-plugin
+No-arg=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/no-arg-plugin
+SAM with receiver=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/sam-with-receiver-plugin
+kapt=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/kapt
+Lombok=>https://apps.camposha.info/wp-content/uploads/md/languages/kotlinreference/lombok
+
+
