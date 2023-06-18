@@ -1,10 +1,2 @@
-@@@Native Languages
-##Erlang Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/erlang/erlang.txt
-##Fortran Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran.txt
-##Ocaml Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/ocaml/ocaml.txt
-##Kotlin Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/kotlinreference.txt
-
-@@@Libraries
-##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries.txt
-##C Libraries--https://raw.githubusercontent.com/Oclemy/sedan/main/languages/c_libraries.txt
-##Go Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/go_libraries.txt
+@@@Swift VideoBooks
+##Swift Programming VideoBook-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/swift/swift_v.txt
