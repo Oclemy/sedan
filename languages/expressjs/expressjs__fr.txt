@@ -38,5 +38,3 @@ Moteurs de modèles=>moteurs de modèles
 Intergiciel => intergiciel
 Modules utilitaires=>utils
 Frameworks=>frameworks
-
-{{LANGUAGES:id-->expressjs;Spanish-->es;French-->fr}}
