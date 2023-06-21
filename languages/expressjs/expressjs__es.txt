@@ -1,8 +1,8 @@
 ##Introduction
-Introduction=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/v1
+Introduction=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/v1_free
 
 ##Getting Started
-Getting Started=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/getting-started
+Getting Started=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/getting-started_free
 
 ##Language Basics
 Variables=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/variables
