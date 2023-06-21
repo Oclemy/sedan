@@ -39,4 +39,4 @@ Intergiciel => intergiciel
 Modules utilitaires=>utils
 Frameworks=>frameworks
 
-::LANGUAGES::id-->expressjs;Spanish-->es;French-->fr
+{{LANGUAGES:id-->expressjs;Spanish-->es;French-->fr}}
