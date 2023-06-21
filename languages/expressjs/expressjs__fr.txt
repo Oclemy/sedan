@@ -38,3 +38,5 @@ Moteurs de modèles=>moteurs de modèles
 Intergiciel => intergiciel
 Modules utilitaires=>utils
 Frameworks=>frameworks
+
+::LANGUAGES:Spanish-->es;French-->fr
