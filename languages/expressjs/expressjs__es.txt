@@ -1,40 +1,148 @@
-##Empezando
-Instalación=>instalando
-Hola mundo=>hola-mundo
-Generador Express=>generador
-Enrutamiento básico => enrutamiento básico
-Archivos estáticos => archivos estáticos
-Más ejemplos => ejemplos
-Preguntas frecuentes => preguntas frecuentes
+##Introduction
+Introduction=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/v1
 
-##Guía
-Enrutamiento=>enrutamiento
-Escribir Middleware=>escribir-middleware
-Usando Middleware=>usando-middleware
-Anulación de Express API => anulación-express-api
-Uso de motores de plantilla => uso de motores de plantilla
-Manejo de errores => manejo de errores
-Depuración=>depuración
-Express Behind Proxies=>behind-proxies
-Migrando a Express 4=>migrando-4
-Migrando a Express 5=>migrando-5
-Integración de base de datos => integración de base de datos
+##Getting Started
+Getting Started=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/getting-started
 
-##Referencia API
-5.x=>api
+##Language Basics
+Variables=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/variables
+Integers and Floating-Point Numbers=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/integers-and-floating-point-numbers
+Mathematical Operations and Elementary Functions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/mathematical-operations
+Complex and Rational Numbers=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/complex-and-rational-numbers
+Strings=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/strings
+Functions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/functions
+Control Flow=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/control-flow
+Scope of Variables=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/variables-and-scoping
+Types=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/types
+Methods=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/methods
+Constructors=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/constructors
+Conversion and Promotion=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/conversion-and-promotion
+Interfaces=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/interfaces
+Modules=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/modules
+Documentation=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/documentation
 
-##Temas avanzados
-Motores de plantilla=>motores-de-plantilla-en-desarrollo
-Gestor de procesos=>pm
-Actualizaciones de seguridad=>actualizaciones de seguridad
-Prácticas recomendadas de seguridad=>mejores prácticas-seguridad
-Mejores prácticas de rendimiento => mejores prácticas de rendimiento
-Comprobaciones de estado y apagado correcto => control de estado-cierre elegante
+##Advanced Language Features
+Metaprogramming=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/metaprogramming
+Multi-dimensional Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/arrays
+Missing Values=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/missing
+Networking and Streams=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/networking-and-streams
+Parallel Computing=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/parallel-computing
+Asynchronous Programming=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/asynchronous-programming
+Multi-Threading=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/multi-threading
+Multi-processing and Distributed Computing=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/distributed-computing
+Running External Programs=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/running-external-programs
+Calling C and Fortran Code=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/calling-c-and-fortran-code
+Handling Operating System Variation=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/handling-operating-system-variation
+Environment Variables=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/environment-variables
+Embedding Julia=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/embedding
+Code Loading=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/code-loading
+Profiling=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/profile
+Stack Traces=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/stacktraces
+Performance Tips=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/performance-tips
+Workflow Tips=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/workflow-tips
+Style Guide=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/style-guide
+Frequently Asked Questions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/faq
+Noteworthy Differences from other Languages=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/noteworthy-differences
+Unicode Input=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/unicode-input
+Command-line Options=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/command-line-options
 
-##Recursos
-Comunidad=>comunidad
-Glosario=>glosario
-Motores de plantilla=>motores de plantilla
-Programa intermedio => programa intermedio
-Módulos de utilidades=>utils
-Marcos=>marcos
+##Base
+Essentials=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/base
+Collections and Data Structures=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/collections
+Mathematics=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/math
+Numbers=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/numbers
+Strings=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/strings
+Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/arrays
+Tasks=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/parallel
+Multi-Threading=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/multi-threading
+Constants=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/constants
+Filesystem=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/file
+I/O and Network=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/io-network
+Punctuation=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/punctuation
+Sorting and Related Functions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/sort
+Iteration utilities=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/iterators
+C Interface=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/c
+C Standard Library=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/libc
+StackTraces=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/stacktraces
+SIMD Support=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/simd-types
+
+##Standard Library
+ArgTools=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/ArgTools
+Artifacts=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Artifacts
+Base64=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Base64
+CRC32c=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/CRC32c
+Dates=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Dates
+Delimited Files=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/DelimitedFiles
+Distributed Computing=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Distributed
+Downloads=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Downloads
+File Events=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/FileWatching
+Future=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Future
+Interactive Utilities=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/InteractiveUtils
+Lazy Artifacts=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/LazyArtifacts
+LibCURL=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/LibCURL
+LibGit2=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/LibGit2
+Dynamic Linker=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Libdl
+Linear Algebra=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/LinearAlgebra
+Logging=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Logging
+Markdown=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Markdown
+Memory-mapped I/O=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Mmap
+NetworkOptions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/NetworkOptions
+Pkg=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Pkg
+Printf=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Printf
+Profiling=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Profile
+The Julia REPL=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/REPL
+Random Numbers=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Random
+SHA=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/SHA
+Serialization=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Serialization
+Shared Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/SharedArrays
+Sockets=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Sockets
+Sparse Arrays=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/SparseArrays
+Statistics=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Statistics
+Sparse Linear Algebra=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/SuiteSparse
+TOML=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/TOML
+Tar=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Tar
+Unit Testing=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Test
+UUIDs=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/UUIDs
+Unicode=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/Unicode
+
+##Developer Documentation
+Reflection and introspection=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/reflection
+Initialization of the Julia runtime=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/init
+Julia ASTs=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/ast
+More about types=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/types
+Memory layout of Julia Objects=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/object
+Eval of Julia code=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/eval
+Calling Conventions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/callconv
+High-level Overview of the Native-Code Generation Process=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/compiler
+Julia Functions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/functions
+Base.Cartesian=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/cartesian
+Talking to the compiler (the `:meta` mechanism)=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/meta
+SubArrays=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/subarrays
+isbits Union Optimizations=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/isbitsunionarrays
+System Image Building=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/sysimg
+Working with LLVM=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/llvm
+printf() and stdio in the Julia runtime=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/stdio
+Bounds checking=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/boundscheck
+Proper maintenance and care of multi-threading locks=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/locks
+Arrays with custom indices=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/offset-arrays
+Module loading=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/require
+Inference=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/inference
+Julia SSA-form IR=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/ssair
+`EscapeAnalysis`=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/EscapeAnalysis
+Static analyzer annotations for GC correctness in C code=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/gc-sa
+
+##Developing/debugging Julia's C code
+Reporting and analyzing crashes (segfaults)=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/backtraces
+gdb debugging tips=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/debuggingtips
+Using Valgrind with Julia=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/valgrind
+Sanitizer support=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/sanitizers
+Instrumenting Julia with DTrace, and bpftrace=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/probes
+
+##Building Julia
+Building Julia (Detailed)=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/build
+Linux=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/linux
+macOS=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/macos
+Windows=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/windows
+FreeBSD=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/freebsd
+ARM (Linux)=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/arm
+Binary distributions=>https://apps.camposha.info/wp-content/uploads/md/languages/julia/distributing
