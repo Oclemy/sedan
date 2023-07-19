@@ -1,7 +1,7 @@
-##Introduction
-Introduction=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/cherrypy/fr/intro
+##Pourquoi CherryPy?
+Pourquoi CherryPy?=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/cherrypy/fr/intro
 
-##Support and Enterprise
-Support=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/cherrypy/fr/support
+##Soutien
+Soutien=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/cherrypy/fr/support
 
 
