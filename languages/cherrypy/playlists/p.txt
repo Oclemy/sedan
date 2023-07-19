@@ -1,0 +1,8 @@
+@@@Python Frameworks
+##Flask Web Framework-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/flask/flask.txt
+
+@@@Client-side JavaScript
+##Learn ReactJS-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/react/react.txt
+
+@@@NodeJS Frameworks
+##ExpressJS-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/expressjs/expressjs.txt

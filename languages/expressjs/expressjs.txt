@@ -1,40 +1,40 @@
 ##Getting Started
-Installation=>installing
-Hello World=>hello-world
-Express Generator=>generator
-Basic Routing=>basic-routing
-Static Files=>static-files
-More Examples=>examples
-FAQ=>faq
+Installation=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/installing
+Hello World=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/hello-world
+Express Generator=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/generator
+Basic Routing=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/basic-routing
+Static Files=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/static-files
+More Examples=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/examples
+FAQ=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/faq
 
 ##Guide
-Routing=>routing
-Writing Middleware=>writing-middleware
-Using Middleware=>using-middleware
-Overriding Express API=>overriding-express-api
-Using Template Engines=>using-template-engines
-Error Handling=>error-handling
-Debugging=>debugging
-Express Behind Proxies=>behind-proxies
-Migrating to Express 4=>migrating-4
-Migrating to Express 5=>migrating-5
-Database Integration=>database-integration
+Routing=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/routing
+Writing Middleware=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/writing-middleware
+Using Middleware=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/using-middleware
+Overriding Express API=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/overriding-express-api
+Using Template Engines=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/using-template-engines
+Error Handling=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/error-handling
+Debugging=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/debugging
+Express Behind Proxies=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/behind-proxies
+Migrating to Express 4=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/migrating-4
+Migrating to Express 5=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/migrating-5
+Database Integration=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/database-integration
 
 ##API Reference
-5.x=>api
+5.x=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/api
 
 ##Advanced Topics
-Template Engines=>developing-template-engines
-Process Manager=>pm
-Security Updates=>security-updates
-Security Best Practices=>best-practice-security
-Performance Best Practices=>best-practice-performance
-Healthchecks and Graceful Shutdown=>healthcheck-graceful-shutdown
+Template Engines=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/developing-template-engines
+Process Manager=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/pm
+Security Updates=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/security-updates
+Security Best Practices=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/best-practice-security
+Performance Best Practices=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/best-practice-performance
+Healthchecks and Graceful Shutdown=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/healthcheck-graceful-shutdown
 
 ##Resources
-Community=>community
-Glossary=>glossary
-Template Engines=>template-engines
-Middleware=>middleware
-Utility Modules=>utils
-Frameworks=>frameworks
+Community=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/community
+Glossary=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/glossary
+Template Engines=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/template-engines
+Middleware=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/middleware
+Utility Modules=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/utils
+Frameworks=>https://apps.camposha.info/wp-content/uploads/md/node/expressjs/frameworks
