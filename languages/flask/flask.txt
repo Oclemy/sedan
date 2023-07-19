@@ -1,100 +1,100 @@
 ##Introduction
-Introduction=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/intro
-Installation=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/installation
-Quickstart=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/quickstart
+Introduction=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/intro
+Installation=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/installation
+Quickstart=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/quickstart
 
 ##Tutorials
-Tutorial=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/tutorial
-Project Layout=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/layout
-Application Setup=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/factory
-Define and Access the Database=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/database
-Blueprints and Views=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/views
-Templates=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/templates
-Static Files=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/static
-Blog Blueprint=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/blog
-Make the Project Installable=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/install
-Test Coverage=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/tests
-Deploy to Production=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/deploy
-Keep Developing!=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/next
+Tutorial=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/tutorial
+Project Layout=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/layout
+Application Setup=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/factory
+Define and Access the Database=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/database
+Blueprints and Views=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/views
+Templates=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/templates
+Static Files=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/static
+Blog Blueprint=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/blog
+Make the Project Installable=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/install
+Test Coverage=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/tests
+Deploy to Production=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/deploy
+Keep Developing!=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/next
 
 ##Templating
-Templates=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/templating
+Templates=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/templating
 
 ##Testing
-Testing Flask Applications=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/testing
+Testing Flask Applications=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/testing
 
 ##Error Handling and Debugging
-Handling Application Errors=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/errorhandling
-Debugging Application Errors=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/debugging
-Logging=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/logging
+Handling Application Errors=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/errorhandling
+Debugging Application Errors=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/debugging
+Logging=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/logging
 
 ##Configuration
-Configuration Handling=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/config
+Configuration Handling=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/config
 
 ##Signals
-Signals=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/signals
+Signals=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/signals
 
 ##Views
-Class-based Views=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/views
+Class-based Views=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/views
 
 ##Structure and Context
-Application Structure and Lifecycle=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/lifecycle
-The Application Context=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/appcontext
-The Request Context=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/reqcontext
+Application Structure and Lifecycle=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/lifecycle
+The Application Context=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/appcontext
+The Request Context=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/reqcontext
 
 ##Modularization
-Modular Applications with Blueprints=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/blueprints
+Modular Applications with Blueprints=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/blueprints
 
 ##Extensions
-Extensions=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/extensions
+Extensions=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/extensions
 
 ##Command Line
-Command Line Interface=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/cli
+Command Line Interface=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/cli
 
 ##Server
-Development Server=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/server
+Development Server=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/server
 
 ##Shell
-Working with the Shell=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/shell
+Working with the Shell=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/shell
 
 ##Flask Pattersn
-Patterns for Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/patterns
-Large Applications as Packages=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/packages
-Application Factories=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/appfactories
-Application Dispatching=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/appdispatch
-Using URL Processors=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/urlprocessors
-Using SQLite 3 with Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/sqlite3
-SQLAlchemy in Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/sqlalchemy
-Uploading Files=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/fileuploads
-Caching=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/caching
-View Decorators=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/viewdecorators
-Form Validation with WTForms=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/wtforms
-Template Inheritance=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/templateinheritance
-Message Flashing=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/flashing
-JavaScript, `fetch`, and JSON=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/javascript
-Lazily Loading Views=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/lazyloading
-MongoDB with MongoEngine=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/mongoengine
-Adding a favicon=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/favicon
-Streaming Contents=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/streaming
-Deferred Request Callbacks=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/deferredcallbacks
-Adding HTTP Method Overrides=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/methodoverrides
-Request Content Checksums=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/requestchecksum
-Background Tasks with Celery=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/celery
-Subclassing Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/subclassing
-Single-Page Applications=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/singlepageapplications
+Patterns for Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/patterns
+Large Applications as Packages=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/packages
+Application Factories=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/appfactories
+Application Dispatching=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/appdispatch
+Using URL Processors=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/urlprocessors
+Using SQLite 3 with Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/sqlite3
+SQLAlchemy in Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/sqlalchemy
+Uploading Files=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/fileuploads
+Caching=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/caching
+View Decorators=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/viewdecorators
+Form Validation with WTForms=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/wtforms
+Template Inheritance=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/templateinheritance
+Message Flashing=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/flashing
+JavaScript, `fetch`, and JSON=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/javascript
+Lazily Loading Views=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/lazyloading
+MongoDB with MongoEngine=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/mongoengine
+Adding a favicon=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/favicon
+Streaming Contents=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/streaming
+Deferred Request Callbacks=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/deferredcallbacks
+Adding HTTP Method Overrides=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/methodoverrides
+Request Content Checksums=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/requestchecksum
+Background Tasks with Celery=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/celery
+Subclassing Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/subclassing
+Single-Page Applications=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/singlepageapplications
 
 ##Security
-Security Considerations=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/security
+Security Considerations=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/security
 
 ##Deployment
-Deploying to Production=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/deploying
+Deploying to Production=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/deploying
 
 ##Async
-Using `async` and `await`=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/async-await
+Using `async` and `await`=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/async-await
 
 ##API Reference
-API Reference=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/api
+API Reference=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/api
 
 ##Additional Notes
-Design Decisions in Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/design
-Flask Extensions Development=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/extensiondev
+Design Decisions in Flask=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/design
+Flask Extensions Development=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/flask/en/extensiondev
