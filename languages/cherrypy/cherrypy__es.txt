@@ -1,5 +1,5 @@
-##¿Por qué CherryPy?
-¿Por qué CherryPy?=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/cherrypy/es/intro
+##Â¿Por quÃ© CherryPy?
+Â¿Por quÃ© CherryPy?=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/cherrypy/es/intro_free
 
 ##Soporte
 Soporte=>https://apps.camposha.info/wp-content/uploads/md/python/frameworks/cherrypy/en/support
