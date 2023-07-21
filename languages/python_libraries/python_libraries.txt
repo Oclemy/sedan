@@ -1,139 +1,141 @@
-##Admin Panels
+## Admin Panels
 ajenti=>ajenti/ajenti
+django-grappelli=>https://grappelliproject.com
 django-jet=>geex-arts/django-jet
+django-suit=>https://djangosuit.com
 django-xadmin=>sshwsfc/xadmin
 flask-admin=>flask-admin/flask-admin
 flower=>mher/flower
 jet-bridge=>jet-admin/jet-bridge
 wooey=>wooey/wooey
 
-##Algorithms
+## Algorithms and Design Patterns
 algorithms=>keon/algorithms
 python-ds=>prabhupant/python-ds
 sortedcontainers=>grantjenks/python-sortedcontainers
 TheAlgorithms=>TheAlgorithms/Python
-
-##Design Patterns
 PyPattyrn=>tylerlaberge/PyPattyrn
 python-patterns=>faif/python-patterns
 transitions=>pytransitions/transitions
 
-##ASGI Servers
+## ASGI Servers
 daphne=>django/daphne
 uvicorn=>encode/uvicorn
 
-##Asynchronous Programming
-awesome-asyncio=>timofurrer/awesome-asyncio
+## Asynchronous Programming
+asyncio=>https://docs.python.org/3/library/asyncio.html
 trio=>python-trio/trio
+Twisted=>https://twistedmatrix.com/trac
 uvloop=>MagicStack/uvloop
 
-##Audio
+## Audio
+audioread=>beetbox/audioread
+audioFlux=>libAudioFlux/audioFlux
 dejavu=>worldveil/dejavu
 kapre=>keunwoochoi/kapre
 librosa=>librosa/librosa
 matchering=>sergree/matchering
+mingus=>http://bspaans.github.io/python-mingus
 pyAudioAnalysis=>tyiannak/pyAudioAnalysis
 pydub=>jiaaro/pydub
 TimeSide=>Parisson/TimeSide
-audioread=>beetbox/audioread
-
-
-##Audio Metadata
 beets=>beetbox/beets
 eyeD3=>nicfit/eyeD3
 mutagen=>quodlibet/mutagen
 tinytag=>devsnd/tinytag
 
-##Authentication - OAuth
+## Authentication
 authlib=>lepture/authlib
 django-allauth=>pennersr/django-allauth
 django-oauth-toolkit=>evonove/django-oauth-toolkit
 oauthlib=>idan/oauthlib
 python-oauth2=>joestump/python-oauth2
 python-social-auth=>omab/python-social-auth
-
-##Authentication - JWT
 pyjwt=>jpadilla/pyjwt
-python-jose=>mpdavis/python-jose/
+python-jose=>mpdavis/python-jose
 python-jwt=>davedoesdev/python-jwt
 
-##Build Tools
+## Build Tools
+BitBake=>http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html
+buildout=>http://www.buildout.org/en/latest
 PlatformIO=>platformio/platformio-core
 pybuilder=>pybuilder/pybuilder
+SCons=>http://www.scons.org
 
-##Built-in Classes Enhancement
+## Built-in Classes Enhancement
 attrs=>python-attrs/attrs
 bidict=>jab/bidict
 Box=>cdgriffith/Box
+dataclasses=>https://docs.python.org/3/library/dataclasses.html
 DottedDict=>carlosescri/DottedDict
 
-##CMS
+## CMS
+django-cms=>https://www.django-cms.org/en
 feincms=>feincms/feincms
 indico=>indico/indico
 Kotti=>Kotti/Kotti
 mezzanine=>stephenmcd/mezzanine
+plone=>https://plone.org
 quokka=>rochacbruno/quokka
+wagtail=>https://wagtail.io
 
-##Caching
+## Caching
 beaker=>bbangert/beaker
 django-cache-machine=>django-cache-machine/django-cache-machine
 django-cacheops=>Suor/django-cacheops
+dogpile.cache=>http://dogpilecache.readthedocs.io/en/latest
+HermesCache=>https://pypi.org/project/HermesCache
 pylibmc=>lericson/pylibmc
+python-diskcache=>http://www.grantjenks.com/docs/diskcache
 
-##ChatOps Tools
+## ChatOps Tools
 errbot=>errbotio/errbot
 
-##Code Analysis
-coala=>coala/coala/
+## Code Analysis
+coala=>coala/coala
 code2flow=>scottrogowski/code2flow
 prospector=>PyCQA/prospector
 pycallgraph=>gak/pycallgraph
 vulture=>jendrikseipp/vulture
-
-##Code Linters
+flake8=>https://pypi.org/project/flake8
 awesome-flake8-extensions=>DmytroLitvinov/awesome-flake8-extensions
 pylama=>klen/pylama
+pylint=>https://www.pylint.org
 wemake-python-styleguide=>wemake-services/wemake-python-styleguide
-
-##Code Linters - Code Formatters
 black=>python/black
 isort=>timothycrosley/isort
 yapf=>google/yapf
-
-##Code Linters - Static Type Checkers
+mypy=>http://mypy-lang.org
 pyre-check=>facebook/pyre-check
 typeshed=>python/typeshed
-
-##Code Linters - Static Type Annotations Generators
 MonkeyType=>Instagram/MonkeyType
-pyannotate=>dropbox/pyannotate
 pytype=>google/pytype
 
-
-##Command-line Application Development
+## Command-line Interface Development
+cement=>http://builtoncement.com
+click=>http://click.pocoo.org/dev
+cliff=>https://docs.openstack.org/developer/cliff
+docopt=>http://docopt.org
 python-fire=>google/python-fire
 python-prompt-toolkit=>jonathanslenders/python-prompt-toolkit
-
-##Terminal Rendering
 alive-progress=>rsalmei/alive-progress
 asciimatics=>peterbrittain/asciimatics
 bashplotlib=>glamp/bashplotlib
+colorama=>https://pypi.org/project/colorama
 rich=>willmcgugan/rich
 tqdm=>tqdm/tqdm
 
-##Command-line Tools - Productivity
+## Command-line Tools
 copier=>pykong/copier
 cookiecutter=>audreyr/cookiecutter
 doitlive=>sloria/doitlive
 howdoi=>gleitz/howdoi
-Invoke=>pyinvoke/invoke
+Invoke=>pyinvoke/invoke#readme
 PathPicker=>facebook/PathPicker
 percol=>mooz/percol
 thefuck=>nvbn/thefuck
 tmuxp=>tony/tmuxp
 try=>timofurrer/try
-
-##CLI Enhancements
 httpie=>jakubroztocil/httpie
 iredis=>laixintao/iredis
 kube-shell=>cloudnativelabs/kube-shell
@@ -142,120 +144,129 @@ mycli=>dbcli/mycli
 pgcli=>dbcli/pgcli
 saws=>donnemartin/saws
 
-##Compatibility
+## Compatibility
+python-future=>http://python-future.org/index.html
 modernize=>PyCQA/modernize
+six=>https://pypi.org/project/six
 
-##Computer Vision
+## Computer Vision
 EasyOCR=>JaidedAI/EasyOCR
 Face Recognition=>ageitgey/face_recognition
-Kornia=>kornia/kornia/
+Kornia=>kornia/kornia
+OpenCV=>https://opencv.org
 pytesseract=>madmaze/pytesseract
 SimpleCV=>sightmachine/SimpleCV
 tesserocr=>sirfz/tesserocr
 
-##Concurrency and Parallelism
+## Concurrency and Parallelism
+concurrent.futures=>https://docs.python.org/3/library/concurrent.futures.html
+eventlet=>http://eventlet.net
+gevent=>http://www.gevent.org
+multiprocessing=>https://docs.python.org/3/library/multiprocessing.html
 scoop=>soravux/scoop
 uvloop=>MagicStack/uvloop
 
-##Configuration
+## Configuration
 configobj=>DiffSK/configobj
+configparser=>https://docs.python.org/3/library/configparser.html
 hydra=>facebookresearch/hydra
+profig=>https://profig.readthedocs.io/en/latest
 python-decouple=>henriquebastos/python-decouple
 
-##Cryptography
+## Cryptography
+cryptography=>https://cryptography.io/en/latest
 paramiko=>paramiko/paramiko
+passlib=>https://passlib.readthedocs.io/en/stable
 pynacl=>pyca/pynacl
 
-##Data Analysis
+## Data Analysis
 AWS Data Wrangler=>awslabs/aws-data-wrangler
 Blaze=>blaze/blaze
 Open Mining=>mining/mining
 Optimus=>ironmussa/Optimus
+Orange=>https://orange.biolab.si
+Pandas=>http://pandas.pydata.org
 
-##Data Validation
+## Data Validation
 Cerberus=>pyeve/cerberus
+colander=>https://docs.pylonsproject.org/projects/colander/en/latest
 jsonschema=>Julian/jsonschema
 schema=>keleshev/schema
 Schematics=>schematics/schematics
 valideer=>podio/valideer
 voluptuous=>alecthomas/voluptuous
 
-##Data Visualization
+## Data Visualization
 Altair=>altair-viz/altair
 Bokeh=>bokeh/bokeh
 bqplot=>bloomberg/bqplot
 Cartopy=>SciTools/cartopy
+Dash=>https://plot.ly/products/dash
 awesome-dash=>Acrotrend/awesome-dash
 diagrams=>mingrammer/diagrams
+Matplotlib=>http://matplotlib.org
 plotnine=>has2k1/plotnine
+Pygal=>http://www.pygal.org/en/latest
+PyGraphviz=>https://pypi.org/project/pygraphviz
+PyQtGraph=>http://www.pyqtgraph.org
 Seaborn=>mwaskom/seaborn
 VisPy=>vispy/vispy
 
-##Database
+## Database
 pickleDB=>patx/pickledb
 tinydb=>msiemens/tinydb
 ZODB=>zopefoundation/ZODB
 
-##Database Drivers
+## Database Drivers
 mysqlclient=>PyMySQL/mysqlclient-python
 PyMySQL=>PyMySQL/PyMySQL
-##PostgreSQL - [awesome-postgres=>dhamaniasad/awesome-postgres
+psycopg2=>http://initd.org/psycopg
 queries=>gmr/queries
-
-##Database Drivers - SQlite
+sqlite3=>https://docs.python.org/3/library/sqlite3.html
 SuperSQLite=>plasticityai/supersqlite
-awesome-sqlite=>planetopendata/awesome-sqlite
-
-##Database Drivers - Other Relational Databases
+pymssql=>https://pymssql.readthedocs.io/en/latest
 clickhouse-driver=>mymarilyn/clickhouse-driver
-
-##Database Drivers - NoSQL Databases
 cassandra-driver=>datastax/python-driver
 happybase=>wbolster/happybase
 kafka-python=>dpkp/kafka-python
+py2neo=>https://py2neo.org
 pymongo=>mongodb/mongo-python-driver
 redis-py=>andymccurdy/redis-py
-
-##Database Drivers - Asynchronous Clients
 motor=>mongodb/motor
 
-##Date and Time
+## Date and Time
+Arrow=>https://arrow.readthedocs.io/en/latest
 Chronyk=>KoffeinFlummi/Chronyk
 dateutil=>dateutil/dateutil
-delorean=>myusuf3/delorean/
+delorean=>myusuf3/delorean
 maya=>timofurrer/maya
 moment=>zachwill/moment
 Pendulum=>sdispater/pendulum
 PyTime=>shinux/PyTime
+pytz=>https://launchpad.net/pytz
 when.py=>dirn/When.py
 
-##Debugging Tools - pdb-like Debugger
+## Debugging Tools
 ipdb=>gotcha/ipdb
 pdb++=>antocuni/pdb
 pudb=>inducer/pudb
 wdb=>Kozea/wdb
-
-##Debugging Tools - Tracing
 lptrace=>khamidou/lptrace
 manhole=>ionelmc/python-manhole
 pyringe=>google/pyringe
 python-hunter=>ionelmc/python-hunter
-
-##Debugging Tools - Profiler
 line_profiler=>rkern/line_profiler
 memory_profiler=>fabianp/memory_profiler
 py-spy=>benfred/py-spy
 pyflame=>uber/pyflame
 vprof=>nvdv/vprof
-
-##Debugging Tools - Others
 django-debug-toolbar=>jazzband/django-debug-toolbar
 django-devserver=>dcramer/django-devserver
 flask-debugtoolbar=>mgood/flask-debugtoolbar
 icecream=>gruns/icecream
 pyelftools=>eliben/pyelftools
 
-##Deep Learning
+## Deep Learning
 caffe=>BVLC/caffe
 keras=>keras-team/keras
 mxnet=>dmlc/mxnet
@@ -263,101 +274,110 @@ pytorch=>pytorch/pytorch
 SerpentAI=>SerpentAI/SerpentAI
 tensorflow=>tensorflow/tensorflow
 Theano=>Theano/Theano
+lightning=>Lightning-AI/lightning
 
-##DevOps Tools - Configuration Management
+## DevOps Tools
 ansible=>ansible/ansible
+cloudinit=>https://cloudinit.readthedocs.io/en/latest
+OpenStack=>https://www.openstack.org
 pyinfra=>Fizzadar/pyinfra
 saltstack=>saltstack/salt
-
-##DevOps Tools - SSH-style Deployment
 cuisine=>sebastien/cuisine
 fabric=>fabric/fabric
 fabtools=>fabtools/fabtools
-
-##DevOps Tools - Process Management
 honcho=>nickstenning/honcho
 supervisor=>Supervisor/supervisor
-
-##DevOps Tools - Monitoring
 psutil=>giampaolo/psutil
+BorgBackup=>https://www.borgbackup.org
+docker-compose=>https://docs.docker.com/compose
 
-##Distributed Computing - Batch Processing
+## Distributed Computing
 dask=>dask/dask
 luigi=>spotify/luigi
 mrjob=>Yelp/mrjob
-Ray=>ray-project/ray/
-##Stream Processing
+PySpark=>https://pypi.org/project/pyspark
+Ray=>ray-project/ray
 faust=>robinhood/faust
 streamparse=>Parsely/streamparse
 
-##Distribution
+## Distribution
 dh-virtualenv=>spotify/dh-virtualenv
+Nuitka=>http://nuitka.net
+py2app=>http://pythonhosted.org/py2app
+py2exe=>http://www.py2exe.org
 pyarmor=>dashingsoft/pyarmor
 PyInstaller=>pyinstaller/pyinstaller
+pynsist=>http://pynsist.readthedocs.io/en/latest
 shiv=>linkedin/shiv
 
-##Documentation
+## Documentation
 sphinx=>sphinx-doc/sphinx
 awesome-sphinxdoc=>yoloseem/awesome-sphinxdoc
 pdoc=>mitmproxy/pdoc
 pycco=>pycco-docs/pycco
 
-##Downloader
+## Downloader
 akshare=>jindaxiang/akshare
 s3cmd=>s3tools/s3cmd
 s4cmd=>bloomreach/s4cmd
+you-get=>https://you-get.org
+youtube-dl=>https://rg3.github.io/youtube-dl
 
-##E-commerce
+## E-commerce
 alipay=>lxneng/alipay
 Cartridge=>stephenmcd/cartridge
+django-oscar=>http://oscarcommerce.com
 django-shop=>awesto/django-shop
 forex-python=>MicroPyramid/forex-python
 merchant=>agiliq/merchant
 money=>carlospalol/money
 python-currencies=>Alir3z4/python-currencies
+saleor=>https://saleor.io
+shoop=>https://www.shuup.com/en
 
-##Editor Plugins and IDEs - Emacs
+## Editor Plugins and IDEs
 elpy=>jorgenschaefer/elpy
-
-##Editor Plugins and IDEs - Sublime Text
 anaconda=>DamnWidget/anaconda
 SublimeJEDI=>srusskih/SublimeJEDI
-
-##Editor Plugins and IDEs - Vim
 jedi-vim=>davidhalter/jedi-vim
 python-mode=>python-mode/python-mode
 YouCompleteMe=>Valloric/YouCompleteMe
-
-##Editor Plugins and IDEs - Visual Studio
 PTVS=>Microsoft/PTVS
-
-##Editor Plugins and IDEs - IDE
+Python=>https://marketplace.visualstudio.com/items?itemName=ms-python.python
+PyCharm=>https://www.jetbrains.com/pycharm
 spyder=>spyder-ide/spyder
 
-##Email - Mail Servers
+## Email
 modoboa=>modoboa/modoboa
 salmon=>moggers87/salmon
-##Clients
 imbox=>martinrusev/imbox
 yagmail=>kootenpv/yagmail
-
-##Email - Others
 flanker=>mailgun/flanker
 mailer=>marrow/mailer
+
+## Enterprise Application Integrations
+Zato=>https://zato.io
 
 ##Environment Management
 pyenv=>pyenv/pyenv
 virtualenv=>pypa/virtualenv
 
-##Files
+## File
+mimetypes=>https://docs.python.org/3/library/mimetypes.html
 path.py=>jaraco/path.py
+pathlib=>https://docs.python.org/3/library/pathlib.html
 PyFilesystem2=>pyfilesystem/pyfilesystem2
 python-magic=>ahupp/python-magic
 Unipath=>mikeorr/Unipath
 watchdog=>gorakhargosh/watchdog
 
+## Foreign Function Interface
+cffi=>https://pypi.org/project/cffi
+ctypes=>https://docs.python.org/3/library/ctypes.html
+PyCUDA=>https://mathema.tician.de/software/pycuda
+SWIG=>http://www.swig.org/Doc1.3/Python.html
 
-##Forms
+## Forms
 Deform=>Pylons/deform
 django-bootstrap3=>dyve/django-bootstrap3
 django-bootstrap4=>zostera/django-bootstrap4
@@ -365,47 +385,71 @@ django-crispy-forms=>django-crispy-forms/django-crispy-forms
 django-remote-forms=>WiserTogether/django-remote-forms
 WTForms=>wtforms/wtforms
 
-##Functional Programming
+## Functional Programming
 Coconut=>evhub/coconut
-CyToolz=>pytoolz/cytoolz/
+CyToolz=>pytoolz/cytoolz
 fn.py=>kachayev/fn.py
 funcy=>Suor/funcy
 more-itertools=>erikrose/more-itertools
 returns=>dry-python/returns
 Toolz=>pytoolz/toolz
 
-##GUI Development
+## GUI Development
+curses=>https://docs.python.org/3/library/curses.html
 Eel=>ChrisKnott/Eel
 enaml=>nucleic/enaml
 Flexx=>zoofIO/flexx
 Gooey=>chriskiehl/Gooey
+kivy=>https://kivy.org
 pyglet=>pyglet/pyglet
+PyGObject=>https://wiki.gnome.org/Projects/PyGObject
+PyQt=>https://doc.qt.io/qtforpython
 PySimpleGUI=>PySimpleGUI/PySimpleGUI
-pywebview=>r0x0r/pywebview/
+pywebview=>r0x0r/pywebview
+Tkinter=>https://wiki.python.org/moin/TkInter
 Toga=>pybee/toga
-DearPyGui=>RaylockLLC/DearPyGui/
+urwid=>http://urwid.org
+wxPython=>https://wxpython.org
+DearPyGui=>RaylockLLC/DearPyGui
 
-##GraphQL
-graphene=>graphql-python/graphene/
-tartiflette-aiohttp=>tartiflette/tartiflette-aiohttp/
-tartiflette-asgi=>tartiflette/tartiflette-asgi/
+## GraphQL
+graphene=>graphql-python/graphene
+tartiflette-aiohttp=>tartiflette/tartiflette-aiohttp
+tartiflette-asgi=>tartiflette/tartiflette-asgi
+tartiflette=>https://tartiflette.io
 
+## Game Development
+Arcade=>https://api.arcade.academy/en/latest
+Cocos2d=>http://cocos2d.org
+Harfang3D=>http://www.harfang3d.com
+Panda3D=>https://www.panda3d.org
+Pygame=>http://www.pygame.org/news.html
+PyOgre=>http://www.ogre3d.org/tikiwiki/PyOgre
+PyOpenGL=>http://pyopengl.sourceforge.net
+PySDL2=>https://pysdl2.readthedocs.io
+RenPy=>https://www.renpy.org
 
-##Geolocation
+## Geolocation
 django-countries=>SmileyChris/django-countries
+GeoDjango=>https://docs.djangoproject.com/en/dev/ref/contrib/gis
 GeoIP=>maxmind/geoip-api-python
 geojson=>frewsxcv/python-geojson
 geopy=>geopy/geopy
 
-##HTML Manipulation
+## HTML Manipulation
+BeautifulSoup=>https://www.crummy.com/software/BeautifulSoup/bs4/doc
 bleach=>mozilla/bleach
+cssutils=>https://pypi.org/project/cssutils
 html5lib=>html5lib/html5lib-python
+lxml=>http://lxml.de
 MarkupSafe=>pallets/markupsafe
 pyquery=>gawel/pyquery
 untangle=>stchris/untangle
+WeasyPrint=>http://weasyprint.org
+xmldataset=>https://xmldataset.readthedocs.io/en/latest
 xmltodict=>martinblech/xmltodict
 
-##HTTP Clients
+## HTTP Clients
 grequests=>spyoungtech/grequests
 httplib2=>httplib2/httplib2
 httpx=>encode/httpx
@@ -413,141 +457,172 @@ requests=>psf/requests
 treq=>twisted/treq
 urllib3=>shazow/urllib3
 
-##Hardware
+## Hardware
+ino=>http://inotool.org
 keyboard=>boppreh/keyboard
 mouse=>boppreh/mouse
+Pingo=>http://www.pingo.io
 PyUserInput=>SavinaRoja/PyUserInput
 scapy=>secdev/scapy
 
-##Image Processing
+## Image Processing
 hmap=>rossgoodwin/hmap
+imgSeek=>https://sourceforge.net/projects/imgseek
 nude.py=>hhatto/nude.py
 pagan=>daboth/pagan
 pillow=>python-pillow/Pillow
 python-barcode=>WhyNotHugo/python-barcode
 pygram=>ajkumar25/pygram
+PyMatting=>http://github.com/pymatting/pymatting
 python-qrcode=>lincolnloop/python-qrcode
 pywal=>dylanaraps/pywal
 pyvips=>libvips/pyvips
 Quads=>fogleman/Quads
+scikit-image=>http://scikit-image.org
 thumbor=>thumbor/thumbor
 wand=>dahlia/wand
 
-##Implementations
+## Python Implementations
 CLPython=>metawilm/cl-python
 CPython=>python/cpython
+Cython=>http://cython.org
 Grumpy=>google/grumpy
 IronPython=>IronLanguages/ironpython3
+Jython=>https://hg.python.org/jython
 MicroPython=>micropython/micropython
+Numba=>http://numba.pydata.org
 PeachPy=>Maratyszcza/PeachPy
 Pyjion=>Microsoft/Pyjion
-Pyston=>dropbox/pyston
+PyPy=>https://foss.heptapod.net/pypy/pypy
+Pyston=>pyston/pyston
 Stackless Python=>stackless-dev/stackless
 
-##Interactive Interpreter
+## Interactive Interpreter
 bpython=>bpython/bpython
+Jupyter Notebook (IPython)=>https://jupyter.org
 awesome-jupyter=>markusschanta/awesome-jupyter
 ptpython=>jonathanslenders/ptpython
 
-##Internationalization
+## Internationalization
+Babel=>http://babel.pocoo.org/en/latest
 PyICU=>ovalhub/pyicu
 
-##Job Scheduler
+## Job Scheduler
+Airflow=>https://airflow.apache.org
+APScheduler=>http://apscheduler.readthedocs.io/en/latest
 django-schedule=>thauber/django-schedule
+doit=>http://pydoit.org
 gunnery=>gunnery/gunnery
+Joblib=>https://joblib.readthedocs.io
 Plan=>fengsp/plan
 Prefect=>PrefectHQ/prefect
 schedule=>dbader/schedule
 Spiff=>knipknap/SpiffWorkflow
+TaskFlow=>https://docs.openstack.org/developer/taskflow
 
-##Logging
+## Logging
+logbook=>http://logbook.readthedocs.io/en/stable
+logging=>https://docs.python.org/3/library/logging.html
 loguru=>Delgan/loguru
 sentry-python=>getsentry/sentry-python
+structlog=>https://www.structlog.org/en/stable
 
-##Machine Learning
+## Machine Learning
 gym=>openai/gym
 H2O=>h2oai/h2o-3
 Metrics=>benhamner/Metrics
 NuPIC=>numenta/nupic
+scikit-learn=>http://scikit-learn.org
+Spark ML=>http://spark.apache.org/docs/latest/ml-guide.html
 vowpal_porpoise=>josephreisinger/vowpal_porpoise
 xgboost=>dmlc/xgboost
 MindsDB=>mindsdb/mindsdb
 
-##Microsoft Windows
+## Microsoft Windows
+Python(x,y)=>http://python-xy.github.io
+pythonlibs=>http://www.lfd.uci.edu/~gohlke/pythonlibs
 PythonNet=>pythonnet/pythonnet
 PyWin32=>mhammond/pywin32
+WinPython=>https://winpython.github.io
 
-##Miscellaneous
+## Miscellaneous
 blinker=>jek/blinker
 boltons=>mahmoud/boltons
 itsdangerous=>pallets/itsdangerous
 magenta=>magenta/magenta
 pluginbase=>mitsuhiko/pluginbase
+tryton=>http://www.tryton.org
 
-##Natural Language Processing - General
+## Natural Language Processing
 gensim=>RaRe-Technologies/gensim
 langid.py=>saffsd/langid.py
+nltk=>http://www.nltk.org
 pattern=>clips/pattern
 polyglot=>aboSamoor/polyglot
 pytext=>facebookresearch/pytext
 PyTorch-NLP=>PetrochukM/PyTorch-NLP
+spacy=>https://spacy.io
 Stanza=>stanfordnlp/stanza
 
-##Natural Language Processing - Chinese
+## Natural Language Processing (Chinese)
 funNLP=>fighting41love/funNLP
 jieba=>fxsjy/jieba
 pkuseg-python=>lancopku/pkuseg-python
 snownlp=>isnowfy/snownlp
 
-##Network Virtualization
+## Network Virtualization
 mininet=>mininet/mininet
 napalm=>napalm-automation/napalm
 pox=>noxrepo/pox
 
-##News Feed
+## News Feed
 django-activity-stream=>justquick/django-activity-stream
 Stream Framework=>tschellenbach/Stream-Framework
 
-##ORM - Relational Databases
-awesome-sqlalchemy=>dahlia/awesome-sqlalchemy
+## Relational Databases ORM
+Django Models=>https://docs.djangoproject.com/en/dev/topics/db/models
+SQLAlchemy=>https://www.sqlalchemy.org
 dataset=>pudo/dataset
 orator=>sdispater/orator
 orm=>encode/orm
 peewee=>coleifer/peewee
-pony=>ponyorm/pony/
-pydal=>web2py/pydal/
+pony=>ponyorm/pony
+pydal=>web2py/pydal
 
-##ORM - NoSQL Databases
+## NoSQL Databases
 hot-redis=>stephenmcd/hot-redis
 mongoengine=>MongoEngine/mongoengine
 PynamoDB=>pynamodb/PynamoDB
 redisco=>kiddouk/redisco
 
-##Package Management
+## Package Management
+pip=>https://pip.pypa.io/en/stable
 pip-tools=>jazzband/pip-tools
-conda=>conda/conda/
+PyPI=>https://pypi.org/
+conda=>conda/conda
 poetry=>sdispater/poetry
 
-##Package Repositories
-bandersnatch=>pypa/bandersnatch/
+## Package Repositories
+bandersnatch=>pypa/bandersnatch
 devpi=>devpi/devpi
 localshop=>jazzband/localshop
 warehouse=>pypa/warehouse
 
-##Penetration Testing
+## Penetration Testing
 fsociety=>Manisso/fsociety
 setoolkit=>trustedsec/social-engineer-toolkit
 sqlmap=>sqlmapproject/sqlmap
 
-##Permissions
+## Permissions
 django-guardian=>django-guardian/django-guardian
 django-rules=>dfunckt/django-rules
 
-##Processes
+## Processes
 delegator.py=>amitt001/delegator.py
+sarge=>https://sarge.readthedocs.io/en/latest
 sh=>amoffat/sh
 
-##Recommender Systems
+## Recommender Systems
 annoy=>spotify/annoy
 fastFM=>ibayer/fastFM
 implicit=>benfred/implicit
@@ -557,67 +632,80 @@ spotlight=>maciejkula/spotlight
 Surprise=>NicolasHug/Surprise
 tensorrec=>jfkirk/tensorrec
 
-##Refactoring
+## Refactoring
+Bicycle Repair Man=>http://bicyclerepair.sourceforge.net
+Bowler=>https://pybowler.io
 Rope=>python-rope/rope
 
-##RESTful API - Flask
+## RESTful API
+django-rest-framework=>http://www.django-rest-framework.org
+django-tastypie=>http://tastypieapi.org
 eve=>pyeve/eve
 flask-api=>flask-api/flask-api
 flask-restful=>flask-restful/flask-restful
-
-##RESTful API - Pyramid
 cornice=>Cornices/cornice
-##Framework agnostic
 apistar=>encode/apistar
 falcon=>falconry/falcon
 fastapi=>tiangolo/fastapi
 hug=>hugapi/hug
 sandman2=>jeffknupp/sandman2
 sanic=>huge-success/sanic
+vibora=>https://vibora.io
 
-##Robotics
+## Robotics
 PythonRobotics=>AtsushiSakai/PythonRobotics
+rospy=>http://wiki.ros.org/rospy
 
-##RPC Servers
+## RPC Servers
 RPyC=>tomerfiliba/rpyc
 zeroRPC=>0rpc/zerorpc-python
 
-##Science
+## Science
+astropy=>http://www.astropy.org
 bcbio-nextgen=>chapmanb/bcbio-nextgen
 bccb=>chapmanb/bcbb
+Biopython=>http://biopython.org/wiki/Main_Page
+cclib=>http://cclib.github.io
+Colour=>http://colour-science.org
 Karate Club=>benedekrozemberczki/karateclub
-ObsPy=>obspy/obspy/wiki/
+NetworkX=>https://networkx.github.io
+NIPY=>http://nipy.org
+NumPy=>http://www.numpy.org
+ObsPy=>obspy/obspy/wiki
+Open Babel=>http://openbabel.org/wiki/Main_Page
+PyDy=>http://www.pydy.org
 PyMC=>pymc-devs/pymc3
+QuTiP=>http://qutip.org
+RDKit=>http://www.rdkit.org
+SciPy=>https://www.scipy.org
+SimPy=>https://gitlab.com/team-simpy/simpy
 statsmodels=>statsmodels/statsmodels
 SymPy=>sympy/sympy
 Zipline=>quantopian/zipline
 
-##Search
+## Search
 django-haystack=>django-haystack/django-haystack
 elasticsearch-dsl-py=>elastic/elasticsearch-dsl-py
+elasticsearch-py=>https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html
 pysolr=>django-haystack/pysolr
+whoosh=>http://whoosh.readthedocs.io/en/latest
 
-##Serialization
+## Serialization
 marshmallow=>marshmallow-code/marshmallow
 pysimdjson=>TkTech/pysimdjson
 python-rapidjson=>python-rapidjson/python-rapidjson
 ultrajson=>esnme/ultrajson
 
-##Serverless Frameworks
+## Serverless Frameworks
 python-lambda=>nficano/python-lambda
-Zappa=>Miserlou/Zappa
+Zappa=>zappa/Zappa
 
-##Shell
-xonsh=>xonsh/xonsh/
+## Shell
+xonsh=>xonsh/xonsh
 
-##Specific Formats Processing
-
-
-##Specific Formats Processing - General
-tablib=>jazzband/tablib
-
-##Specific Formats Processing - Office
+## Office
 docxtpl=>elapouya/python-docx-template
+openpyxl=>https://openpyxl.readthedocs.io/en/stable
 pyexcel=>pyexcel/pyexcel
 python-docx=>python-openxml/python-docx
 python-pptx=>scanny/python-pptx
@@ -625,101 +713,125 @@ unoconv=>unoconv/unoconv
 XlsxWriter=>jmcnamara/XlsxWriter
 xlwings=>ZoomerAnalytics/xlwings
 xlwt=>python-excel/xlwt
+xlrd=>python-excel/xlrd
+tablib=>jazzband/tablib
 
-##Specific Formats Processing - PDF
+## PDF
 PDFMiner=>euske/pdfminer
 PyPDF2=>mstamy2/PyPDF2
+ReportLab=>https://www.reportlab.com/opensource
 
-##Specific Formats Processing - Markdown
+## Markdown
 Mistune=>lepture/mistune
 Python-Markdown=>waylan/Python-Markdown
 
+## YAML
+PyYAML=>http://pyyaml.org
 
-##Specific Formats Processing - CSV
+## CSV
 csvkit=>wireservice/csvkit
 
-##Specific Formats Processing - Archive
+## Archive
 unp=>mitsuhiko/unp
 
-##Static Site Generator
+## Static Site Generator
 lektor=>lektor/lektor
 mkdocs=>mkdocs/mkdocs
 makesite=>sunainapai/makesite
 nikola=>getnikola/nikola
 pelican=>getpelican/pelican
 
-##Tagging
+## Tagging
 django-taggit=>jazzband/django-taggit
 
-##Task Queues
+## Task Queues
+celery=>https://docs.celeryproject.org/en/stable
 dramatiq=>Bogdanp/dramatiq
 huey=>coleifer/huey
 mrq=>pricingassistant/mrq
 rq=>rq/rq
 
-##Template Engine
+## Template Engine
+Genshi=>https://genshi.edgewall.org
 Jinja2=>pallets/jinja
+Mako=>http://www.makotemplates.org
 
-##Testing Frameworks
+## Testing Frameworks
 hypothesis=>HypothesisWorks/hypothesis
 nose2=>nose-devs/nose2
+pytest=>https://docs.pytest.org/en/latest
 Robot Framework=>robotframework/robotframework
+unittest=>https://docs.python.org/3/library/unittest.html
 
-##Test Runners
+## Test Runners
 green=>CleanCut/green
-##GUI / Web Testing
+mamba=>http://nestorsalceda.github.io/mamba
+tox=>https://tox.readthedocs.io/en/latest
+
+## GUI / Web Testing
 locust=>locustio/locust
 PyAutoGUI=>asweigart/pyautogui
 Schemathesis=>kiwicom/schemathesis
+Selenium=>https://pypi.org/project/selenium
 sixpack=>seatgeek/sixpack
 splinter=>cobrateam/splinter
 
-##Test Mock
+## Mock
+doublex=>https://pypi.org/project/doublex
 freezegun=>spulec/freezegun
 httmock=>patrys/httmock
 httpretty=>gabrielfalcao/HTTPretty
+mock=>https://docs.python.org/3/library/unittest.mock.html
 mocket=>mindflayer/python-mocket
 responses=>getsentry/responses
 VCR.py=>kevin1024/vcrpy
-##Object Factories
+
+## Object Factories
 factory_boy=>FactoryBoy/factory_boy
 mixer=>klen/mixer
 model_mommy=>vandersonmota/model_mommy
 
+## Code Coverage
+coverage=>https://pypi.org/project/coverage
 
-##Testing - Fake Data
+## Fake Data
 fake2db=>emirozer/fake2db
 faker=>joke2k/faker
 mimesis=>lk-geimfari/mimesis
+radar=>https://pypi.org/project/radar
 
-##Text Processing - General
+## Text Processing
 chardet=>chardet/chardet
+difflib=>https://docs.python.org/3/library/difflib.html
 ftfy=>LuminosoInsight/python-ftfy
 fuzzywuzzy=>seatgeek/fuzzywuzzy
-Levenshtein=>ztane/python-Levenshtein/
+Levenshtein=>ztane/python-Levenshtein
 pangu.py=>vinta/pangu.py
 pyfiglet=>pwaller/pyfiglet
 pypinyin=>mozillazg/python-pinyin
 textdistance=>orsinium/textdistance
+unidecode=>https://pypi.org/project/Unidecode
 
-##Text Processing - Slugify
+## Slugify
 awesome-slugify=>dimka665/awesome-slugify
 python-slugify=>un33k/python-slugify
 unicode-slugify=>mozilla/unicode-slugify
 
-##Text Processing - Unique identifiers
+##  Unique identifiers
 hashids=>davidaurelio/hashids-python
 shortuuid=>skorokithakis/shortuuid
 
-##Parser
+## Parser
 ply=>dabeaz/ply
+pygments=>http://pygments.org
 pyparsing=>pyparsing/pyparsing
 python-nameparser=>derek73/python-nameparser
 python-phonenumbers=>daviddrysdale/python-phonenumbers
 python-user-agents=>selwin/python-user-agents
 sqlparse=>andialbrecht/sqlparse
 
-##Third-party APIs
+## Third-party APIs
+apache-libcloud=>https://libcloud.apache.org
 boto3=>boto/boto3
 django-wordpress=>istrategylabs/django-wordpress
 facebook-sdk=>mobolic/facebook-sdk
@@ -727,24 +839,27 @@ google-api-python-client=>google/google-api-python-client
 gspread=>burnash/gspread
 twython=>ryanmcgrath/twython
 
-##URL Manipulation
+## URL Manipulation
 furl=>gruns/furl
 purl=>codeinthehole/purl
 pyshorteners=>ellisonleao/pyshorteners
 webargs=>marshmallow-code/webargs
 
-##Video
+## Video
+moviepy=>https://zulko.github.io/moviepy
 scikit-video=>aizvorski/scikit-video
 vidgear=>abhiTronix/vidgear
 
-##Web Asset Management
+## Web Asset Management
 django-compressor=>django-compressor/django-compressor
 django-pipeline=>jazzband/django-pipeline
 django-storages=>jschneier/django-storages
+fanstatic=>http://www.fanstatic.org/en/latest
+fileconveyor=>http://wimleers.com/fileconveyor
 flask-assets=>miracle2k/flask-assets
 webassets=>miracle2k/webassets
 
-##Web Content Extracting
+## Web Content Extracting
 html2text=>Alir3z4/html2text
 lassie=>michaelhelmick/lassie
 micawber=>coleifer/micawber
@@ -755,32 +870,31 @@ sumy=>miso-belica/sumy
 textract=>deanmalmgren/textract
 toapi=>gaojiuli/toapi
 
-##Web Crawling
+## Web Crawling
 cola=>chineking/cola
+feedparser=>https://pythonhosted.org/feedparser
 grab=>lorien/grab
 MechanicalSoup=>MechanicalSoup/MechanicalSoup
 portia=>scrapinghub/portia
 pyspider=>binux/pyspider
 robobrowser=>jmcarp/robobrowser
+scrapy=>https://scrapy.org
 
-##Web Frameworks - Synchronous
-awesome-django=>shahraizali/awesome-django
-awesome-django=>wsvincent/awesome-django
-awesome-flask=>humiaozuzu/awesome-flask
-awesome-pyramid=>uralbash/awesome-pyramid
+## Web Frameworks
+Django=>https://www.djangoproject.com
+Flask=>http://flask.pocoo.org
+Pyramid=>https://pylonsproject.org
 Masonite=>MasoniteFramework/masonite
+Tornado=>http://www.tornadoweb.org/en/latest
 
-##WebSocket
+## WebSocket
 autobahn-python=>crossbario/autobahn-python
 channels=>django/channels
 websockets=>aaugustin/websockets
 
-##WSGI Servers
+## WSGI Servers
 bjoern=>jonashaag/bjoern
 gunicorn=>benoitc/gunicorn
+uWSGI=>https://uwsgi-docs.readthedocs.io/en/latest
 waitress=>Pylons/waitress
 werkzeug=>pallets/werkzeug
-
-
-
-
