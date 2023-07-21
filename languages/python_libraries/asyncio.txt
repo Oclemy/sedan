@@ -1,0 +1,95 @@
+## Web Frameworks
+FastAPI=>tiangolo/fastapi
+Django=>https://www.djangoproject.com/
+Starlette=>encode/starlette
+aiohttp=>KeepSafe/aiohttp
+sanic=>channelcat/sanic
+Quart=>pallets/quart
+autobahn=>crossbario/autobahn-python
+websockets=>aaugustin/websockets/
+Tornado=>http://www.tornadoweb.org/en/stable/
+uvicorn=>encode/uvicorn
+
+## Message Queues
+aioamqp=>Polyconseil/aioamqp
+pyzmq=>zeromq/pyzmq
+aiozmq=>aio-libs/aiozmq
+crossbar=>crossbario/crossbar
+asyncio-nats=>nats-io/asyncio-nats
+aiokafka=>aio-libs/aiokafka
+
+## Database Drivers
+asyncpg=>MagicStack/asyncpg
+asyncpgsa=>CanopyTax/asyncpgsa
+aiopg=>aio-libs/aiopg/
+aiomysql=>aio-libs/aiomysql
+aioodbc=>aio-libs/aioodbc
+motor=>mongodb/motor
+redis-py=>redis/redis-py
+aiocouchdb=>aio-libs/aiocouchdb
+aioinflux=>plugaai/aioinflux
+aioes=>aio-libs/aioes
+peewee-async=>05bit/peewee-async
+GINO=>fantix/gino
+Tortoise ORM=>tortoise/tortoise-orm
+Databases=>encode/databases
+Prisma Client Python=>RobertCraigie/prisma-client-py
+Piccolo=>piccolo-orm/piccolo
+Beanie=>https://beanie-odm.dev/
+
+## Networking
+AsyncSSH=>ronf/asyncssh
+aiodns=>saghul/aiodns
+aioping=>stellarbit/aioping
+httpx=>encode/httpx
+
+## GraphQL
+Ariadne=>https://ariadnegraphql.org/
+Tartiflette=>https://tartiflette.io/
+Strawberry=>https://strawberry.rocks/
+
+## Testing
+aiomock=>nhumrich/aiomock/
+asynctest=>Martiusweb/asynctest/
+pytest-asyncio=>pytest-dev/pytest-asyncio
+aresponses=>CircleUp/aresponses
+aioresponses=>pnuckowski/aioresponses
+
+## Alternative Loops
+uvloop=>MagicStack/uvloop
+
+## Misc
+aiochan=>zh217/aiochan
+aiocache=>argaen/aiocache
+aiofiles=>Tinche/aiofiles/
+aiopath=>alexdelorenzo/aiopath
+aiodebug=>qntln/aiodebug
+aiorun=>cjrh/aiorun
+aiosc=>artfwo/aiosc
+aioserial=>changyuheng/aioserial
+aiozipkin=>aio-libs/aiozipkin
+asgiref=>django/asgiref
+async_property=>ryananguiano/async_property
+ruia=>howie6879/ruia
+kubernetes_asyncio=>tomplus/kubernetes_asyncio
+aiomisc=>aiokitchen/aiomisc
+taskiq=>https://taskiq-python.github.io/
+
+## Tutorials
+Official asyncio documentation=>https://docs.python.org/3/library/asyncio.html
+Short well-written intro to asyncio=>http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html
+AsyncIO for the Working Python Developer=>https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e
+Test limits of Python aiohttp=>https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+ASGI (Asynchronous Server Gateway Interface)=>https://asgi.readthedocs.io/en/latest/
+First Principles Introduction to Asyncio=>https://hackernoon.com/a-simple-introduction-to-pythons-asyncio-595d9c9ecf8c
+Developing and Testing an Asynchronous API with FastAPI and Pytest=>https://testdriven.io/blog/fastapi-crud/
+Python Concurrency with asyncio=>https://www.manning.com/books/python-concurrency-with-asyncio
+
+
+## Alternatives to asyncio
+curio=>dabeaz/curio
+Curio-Asyncio Bridge=>dabeaz/curio/issues/190
+trio=>python-trio/trio
+trio-asyncio=>python-trio/trio-asyncio
+AnyIO=>agronholm/anyio
+
