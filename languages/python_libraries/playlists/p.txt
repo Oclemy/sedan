@@ -7,3 +7,6 @@
 
 @@@Code Analysis
 ##Flake8 Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/flake8.txt
+
+@@@Data Science
+##Data Science Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/data-science.txt

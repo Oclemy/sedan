@@ -1,0 +1,427 @@
+
+## General Purpose Machine Learning
+scikit-learn=>http://scikit-learn.org/stable/
+Shogun=>http://www.shogun-toolbox.org/
+xLearn=>aksnzhy/xlearn
+cuML=>rapidsai/cuml
+modAL=>cosmic-cortex/modAL
+Sparkit-learn=>lensacom/sparkit-learn
+mlpack=>mlpack/mlpack
+dlib=>davisking/dlib
+MLxtend=>rasbt/mlxtend
+hyperlearn=>danielhanchen/hyperlearn
+Reproducible Experiment Platform=>yandex/rep
+scikit-multilearn=>scikit-multilearn/scikit-multilearn
+seqlearn=>larsmans/seqlearn
+pystruct=>pystruct/pystruct
+sklearn-expertsys=>tmadl/sklearn-expertsys
+RuleFit=>christophM/rulefit
+metric-learn=>all-umass/metric-learn
+pyGAM=>dswah/pyGAM
+Karate Club=>benedekrozemberczki/karateclub
+Little Ball of Fur=>benedekrozemberczki/littleballoffur
+causalml=>uber/causalml
+
+## Automated Machine Learning
+TPOT=>rhiever/tpot
+auto-sklearn=>automl/auto-sklearn
+MLBox=>AxeldeRomblay/MLBox
+AutoGluon=>awslabs/autogluon
+
+## Ensemble Methods
+ML-Ensemble=>http://ml-ensemble.com/
+Stacking=>ikki407/stacking
+stacked_generalization=>fukatani/stacked_generalization
+vecstack=>vecxoz/vecstack
+
+## Imbalanced Datasets
+imbalanced-learn=>scikit-learn-contrib/imbalanced-learn
+imbalanced-algorithms=>dialnd/imbalanced-algorithms
+
+## Random Forests
+rpforest=>lyst/rpforest
+sklearn-random-bits-forest=>tmadl/sklearn-random-bits-forest
+rgf_python=>fukatani/rgf_python
+
+## Extreme Learning Machine
+Python-ELM=>dclambert/Python-ELM
+Python Extreme Learning Machine=>acba/elm
+hpelm=>akusok/hpelm
+
+## Kernel Methods
+pyFM=>coreylynch/pyFM
+fastFM=>ibayer/fastFM
+tffm=>geffy/tffm
+liquidSVM=>liquidSVM/liquidSVM
+scikit-rvm=>JamesRitchie/scikit-rvm
+ThunderSVM=>Xtra-Computing/thundersvm
+
+## Gradient Boosting
+XGBoost=>dmlc/xgboost
+LightGBM=>Microsoft/LightGBM
+CatBoost=>catboost/catboost
+ThunderGBM=>Xtra-Computing/thundergbm
+
+## Deep Learning - PyTorch
+PyTorch=>pytorch/pytorch
+pytorch-lightning=>Lightning-AI/lightning
+torchvision=>pytorch/vision
+torchtext=>pytorch/text
+torchaudio=>pytorch/audio
+ignite=>pytorch/ignite
+skorch=>dnouri/skorch
+pytorch_geometric=>rusty1s/pytorch_geometric
+Catalyst=>catalyst-team/catalyst
+pytorch_geometric_temporal=>benedekrozemberczki/pytorch_geometric_temporal
+ChemicalX=>AstraZeneca/chemicalx
+
+## Deep Learning - TensorFlow
+TensorFlow=>tensorflow/tensorflow
+TensorLayer=>zsdonghao/tensorlayer
+TFLearn=>tflearn/tflearn
+Sonnet=>deepmind/sonnet
+tensorpack=>ppwwyyxx/tensorpack
+Polyaxon=>polyaxon/polyaxon
+NeuPy=>itdxer/neupy
+tfdeploy=>riga/tfdeploy
+tensorflow-upstream=>ROCmSoftwarePlatform/tensorflow-upstream
+TensorFlow Fold=>tensorflow/fold
+tensorlm=>batzner/tensorlm
+TensorLight=>bsautermeister/tensorlight
+Mesh TensorFlow=>tensorflow/mesh
+Ludwig=>uber/ludwig
+Keras=>https://keras.io/
+keras-contrib=>keras-team/keras-contrib
+Hyperas=>maxpumperla/hyperas
+Elephas=>maxpumperla/elephas
+Hera=>keplr-io/hera
+Spektral=>danielegrattarola/spektral
+qkeras=>google/qkeras
+
+## Deep Learning - MXNet
+MXNet=>apache/incubator-mxnet
+Gluon=>gluon-api/gluon-api
+MXbox=>Lyken17/mxbox
+gluon-cv=>dmlc/gluon-cv
+gluon-nlp=>dmlc/gluon-nlp
+Xfer=>amzn/xfer
+MXNet=>ROCmSoftwarePlatform/mxnet
+
+## Deep Learning - Others
+jax=>google/jax
+Tangent=>google/tangent
+autograd=>HIPS/autograd
+Myia=>mila-udem/myia
+nnabla=>sony/nnabla
+Caffe=>BVLC/caffe
+hipCaffe=>ROCmSoftwarePlatform/hipCaffe
+
+## Web Scraping
+BeautifulSoup=>https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Scrapy=>https://scrapy.org/
+Selenium=>https://selenium-python.readthedocs.io/installation.html#introduction
+Pattern=>clips/pattern
+twitterscraper=>taspinar/twitterscraper
+
+## Data Frames
+pandas=>https://pandas.pydata.org/pandas-docs/stable/
+pandas_profiling=>pandas-profiling/pandas-profiling
+cuDF=>rapidsai/cudf
+blaze=>blaze/blaze
+pandasql=>yhat/pandasql
+pandas-gbq=>pydata/pandas-gbq
+xpandas=>alan-turing-institute/xpandas
+pysparkling=>svenkreiss/pysparkling
+Arctic=>manahl/arctic
+datatable=>h2oai/datatable
+koalas=>databricks/koalas
+modin=>modin-project/modin
+swifter=>jmcarpenter2/swifter
+pandas_flavor=>Zsailer/pandas_flavor
+pandas-log=>eyaltrabelsi/pandas-log
+vaex=>vaexio/vaex
+xarray=>pydata/xarray
+sk-transformer=>chrislemke/sk-transformers
+polars=>pola-rs/polars
+
+## Data Pipelines
+pdpipe=>shaypal5/pdpipe
+SSPipe=>https://sspipe.github.io/
+pandas-ply=>coursera/pandas-ply
+Dplython=>dodger487/dplython
+sklearn-pandas=>scikit-learn-contrib/sklearn-pandas
+Dataset=>analysiscenter/dataset
+pyjanitor=>ericmjl/pyjanitor
+meza=>reubano/meza
+Prodmodel=>prodmodel/prodmodel
+dopanda=>dovpanda-dev/dovpanda
+Hamilton=>stitchfix/hamilton
+
+## Data-centric AI
+cleanlab=>cleanlab/cleanlab
+snorkel=>snorkel-team/snorkel
+dataprep=>sfu-db/dataprep
+
+## Synthetic Data
+ydata-synthetic=>ydataai/ydata-synthetic
+
+## Feature Engineering - General
+Featuretools=>Featuretools/featuretools
+Feature Engine=>feature-engine/feature_engine
+skl-groups=>dougalsutherland/skl-groups
+Feature Forge=>machinalis/featureforge
+few=>lacava/few
+scikit-mdr=>EpistasisLab/scikit-mdr
+tsfresh=>blue-yonder/tsfresh
+dirty_cat=>dirty-cat/dirty_cat
+NitroFE=>NITRO-AI/NitroFE
+
+## Feature Selection
+scikit-feature=>jundongl/scikit-feature
+boruta_py=>scikit-learn-contrib/boruta_py
+BoostARoota=>chasedehan/BoostARoota
+scikit-rebate=>EpistasisLab/scikit-rebate
+zoofs=>jaswinder9051998/zoofs
+
+## Visualization - General Purposes
+Matplotlib=>matplotlib/matplotlib
+seaborn=>mwaskom/seaborn
+prettyplotlib=>olgabot/prettyplotlib
+python-ternary=>marcharper/python-ternary
+missingno=>ResidentMario/missingno
+chartify=>spotify/chartify/
+physt=>janpipek/physt
+
+## Visualization - Interactive plots
+animatplot=>t-makaro/animatplot
+plotly=>https://plot.ly/python/
+Bokeh=>bokeh/bokeh
+Altair=>https://altair-viz.github.io/
+bqplot=>bqplot/bqplot
+pyecharts=>pyecharts/pyecharts
+
+## Visualization - Map
+folium=>https://python-visualization.github.io/folium/quickstart.html#Getting-Started
+geemap=>giswqs/geemap
+
+## Visualization - Automatic Plotting
+HoloViews=>ioam/holoviews
+AutoViz=>AutoViML/AutoViz
+SweetViz=>fbdesignpro/sweetviz
+
+## NLP
+pyLDAvis=>bmabey/pyLDAvis
+
+## Deployment
+fastapi=>https://fastapi.tiangolo.com/
+streamlit=>https://www.streamlit.io/
+gradio=>gradio-app/gradio
+datapane=>https://datapane.com/
+binder=>https://mybinder.org/
+
+## Model Explanation
+dalex=>ModelOriented/DALEX
+Shapley=>benedekrozemberczki/shapley
+Alibi=>SeldonIO/alibi
+anchor=>marcotcr/anchor
+aequitas=>dssg/aequitas
+Contrastive Explanation=>MarcelRobeer/ContrastiveExplanation
+yellowbrick=>DistrictDataLabs/yellowbrick
+scikit-plot=>reiinakano/scikit-plot
+shap=>slundberg/shap
+ELI5=>TeamHG-Memex/eli5
+Lime=>marcotcr/lime
+FairML=>adebayoj/fairml
+L2X=>Jianbo-Lab/L2X
+PDPbox=>SauceCat/PDPbox
+PyCEbox=>AustinRochford/PyCEbox
+Skater=>datascienceinc/Skater
+model-analysis=>tensorflow/model-analysis
+themis-ml=>cosmicBboy/themis-ml
+treeinterpreter=>andosa/treeinterpreter
+AI Explainability 360=>IBM/AIX360
+Auralisation=>keunwoochoi/Auralisation
+CapsNet-Visualization=>bourdakos1/CapsNet-Visualization
+lucid=>tensorflow/lucid
+Netron=>lutzroeder/Netron
+FlashLight=>dlguys/flashlight
+tensorboard-pytorch=>lanpa/tensorboard-pytorch
+mxboard=>awslabs/mxboard
+
+## Reinforcement Learning
+OpenAI Gym=>openai/gym
+Coach=>NervanaSystems/coach
+garage=>rlworkgroup/garage
+OpenAI Baselines=>openai/baselines
+Stable Baselines=>hill-a/stable-baselines
+RLlib=>https://ray.readthedocs.io/en/latest/rllib.html
+Horizon=>facebookresearch/Horizon
+TF-Agents=>tensorflow/agents
+TensorForce=>reinforceio/tensorforce
+TRFL=>deepmind/trfl
+Dopamine=>google/dopamine
+keras-rl=>keras-rl/keras-rl
+ChainerRL=>chainer/chainerrl
+
+## Probabilistic Methods
+pyro=>uber/pyro
+pomegranate=>jmschrei/pomegranate
+ZhuSuan=>http://zhusuan.readthedocs.io/en/latest/
+PyMC=>pymc-devs/pymc
+InferPy=>PGM-Lab/InferPy
+GPflow=>http://gpflow.readthedocs.io/en/latest/?badge=latest
+PyStan=>stan-dev/pystan
+sklearn-bayes=>AmazaspShumik/sklearn-bayes
+pgmpy=>pgmpy/pgmpy
+skpro=>alan-turing-institute/skpro
+PtStat=>stepelu/ptstat
+PyVarInf=>ctallec/pyvarinf
+emcee=>dfm/emcee
+hsmmlearn=>jvkersch/hsmmlearn
+pyhsmm=>mattjj/pyhsmm
+GPyTorch=>cornellius-gp/gpytorch
+MXFusion=>amzn/MXFusion
+sklearn-crfsuite=>TeamHG-Memex/sklearn-crfsuite
+
+## Genetic Programming
+gplearn=>trevorstephens/gplearn
+DEAP=>DEAP/deap
+karoo_gp=>kstaats/karoo_gp
+monkeys=>hchasestevens/monkeys
+sklearn-genetic=>manuel-calzolari/sklearn-genetic
+
+## Optimization
+Optuna=>optuna/optuna
+Spearmint=>HIPS/Spearmint
+BoTorch=>pytorch/botorch
+scikit-opt=>guofei9987/scikit-opt
+sklearn-genetic-opt=>rodrigo-arenas/Sklearn-genetic-opt
+SMAC3=>automl/SMAC3
+Optunity=>claesenm/optunity
+hyperopt=>hyperopt/hyperopt
+hyperopt-sklearn=>hyperopt/hyperopt-sklearn
+sklearn-deap=>rsteca/sklearn-deap
+sigopt_sklearn=>sigopt/sigopt_sklearn
+Bayesian Optimization=>fmfn/BayesianOptimization
+SafeOpt=>befelix/SafeOpt
+scikit-optimize=>scikit-optimize/scikit-optimize
+Solid=>100/Solid
+PySwarms=>ljvmiranda921/pyswarms
+Platypus=>Project-Platypus/Platypus
+GPflowOpt=>GPflow/GPflowOpt
+POT=>rflamary/POT
+Talos=>autonomio/talos
+nlopt=>stevengj/nlopt
+OR-Tools=>https://developers.google.com/optimization
+
+## Time Series
+sktime=>alan-turing-institute/sktime
+darts=>unit8co/darts
+statsforecast=>Nixtla/statsforecast
+mlforecast=>Nixtla/mlforecast
+neuralforecast=>Nixtla/neuralforecast
+tslearn=>rtavenar/tslearn
+tick=>X-DataInitiative/tick
+greykite=>linkedin/greykite
+Prophet=>facebook/prophet
+PyFlux=>RJT1990/pyflux
+bayesloop=>christophmark/bayesloop
+luminol=>linkedin/luminol
+dateutil=>https://dateutil.readthedocs.io/en/stable/
+maya=>timofurrer/maya
+Chaos Genius=>chaos-genius/chaos_genius
+
+## Natural Language Processing
+spaCy=>https://spacy.io/
+NLTK=>nltk/nltk
+CLTK=>cltk/cltk
+gensim=>https://radimrehurek.com/gensim/
+pyMorfologik=>dmirecki/pyMorfologik
+skift=>shaypal5/skift
+Phonemizer=>bootphon/phonemizer
+flair=>zalandoresearch/flair
+
+## Computer Audition
+librosa=>librosa/librosa
+Yaafe=>Yaafe/Yaafe
+aubio=>aubio/aubio
+Essentia=>MTG/essentia
+LibXtract=>jamiebullock/LibXtract
+Marsyas=>marsyas/marsyas
+muda=>bmcfee/muda
+madmom=>CPJKU/madmom
+
+## Computer Vision
+OpenCV=>opencv/opencv
+scikit-image=>scikit-image/scikit-image
+imgaug=>aleju/imgaug
+imgaug_extension=>cadenai/imgaug_extension
+Augmentor=>mdbloice/Augmentor
+albumentations=>albu/albumentations
+
+## Statistics
+pandas_summary=>mouradmourafiq/pandas-summary
+Pandas Profiling=>pandas-profiling/pandas-profiling
+statsmodels=>statsmodels/statsmodels
+stockstats=>jealous/stockstats
+weightedcalcs=>jsvine/weightedcalcs
+scikit-posthocs=>maximtrp/scikit-posthocs
+Alphalens=>quantopian/alphalens
+
+## Distributed Computing
+Horovod=>uber/horovod
+PySpark=>https://spark.apache.org/docs/0.9.0/python-programming-guide.html
+Veles=>Samsung/veles
+Jubatus=>jubatus/jubatus
+DMTK=>Microsoft/DMTK
+PaddlePaddle=>PaddlePaddle/Paddle
+dask-ml=>dask/dask-ml
+Distributed=>dask/distributed
+
+## Experimentation
+mlflow=>mlflow/mlflow
+Neptune=>https://neptune.ai/
+dvc=>iterative/dvc
+envd=>tensorchord/envd
+Sacred=>IDSIA/sacred
+Ax=>facebook/Ax
+
+## Data Validation
+great_expectations=>great-expectations/great_expectations
+pandera=>unionai-oss/pandera
+deepchecks=>deepchecks/deepchecks
+evidently=>evidentlyai/evidently
+TensorFlow Data Validation=>tensorflow/data-validation
+
+## Evaluation
+recmetrics=>statisticianinstilettos/recmetrics
+Metrics=>benhamner/Metrics
+sklearn-evaluation=>edublancas/sklearn-evaluation
+AI Fairness 360=>IBM/AIF360
+
+## Computations
+numpy=>http://www.numpy.org/
+Dask=>dask/dask
+bottleneck=>kwgoodman/bottleneck
+CuPy=>cupy/cupy
+scikit-tensor=>mnick/scikit-tensor
+numdifftools=>pbrod/numdifftools
+quaternion=>moble/quaternion
+adaptive=>python-adaptive/adaptive
+NumExpr=>pydata/numexpr
+
+## Spatial Analysis
+GeoPandas=>geopandas/geopandas
+PySal=>pysal/pysal
+
+## Quantum Computing
+qiskit=>Qiskit/qiskit
+cirq=>quantumlib/Cirq
+PennyLane=>XanaduAI/pennylane
+QML=>qmlcode/qml
+
+## Conversion
+sklearn-porter=>nok/sklearn-porter
+ONNX=>onnx/onnx
+MMdnn=>Microsoft/MMdnn
+
