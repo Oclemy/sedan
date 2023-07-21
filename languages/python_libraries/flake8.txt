@@ -1,0 +1,167 @@
+## All-in-one
+dlint=>dlint-py/dlint
+flake8-bugbear=>PyCQA/flake8-bugbear
+flake8-pie=>sbdchd/flake8-pie
+flake8-simplify=>MartinThoma/flake8-simplify
+hacking=>openstack/hacking
+wemake-python-styleguide=>wemake-services/wemake-python-styleguide
+
+## Bugs
+flake8-2020=>asottile/flake8-2020
+flake8-alfred=>datatheorem/flake8-alfred
+flake8-async=>cooperlees/flake8-async
+flake8-dunder-all=>python-formate/flake8-dunder-all
+flake8-encodings=>python-formate/flake8-encodings
+flake8-requirements=>Arkq/flake8-requirements
+flake8-secure-coding-standard=>Takishima/flake8-secure-coding-standard
+flake8-slots=>python-formate/flake8-slots
+flake8-strftime=>python-formate/flake8_strftime
+flake8-string-format=>xZise/flake8-string-format
+flake8-unused-arguments=>nhoad/flake8-unused-arguments
+flake8-useless-assert=>decorator-factory/flake8-useless-assert
+flake8-warnings=>orsinium-labs/flake8-warnings
+
+## Clean code
+flake8-class-attributes-order=>best-doctor/flake8-class-attributes-order
+flake8-clean-block=>cyyc1/flake8-clean-block
+flake8-commas=>PyCQA/flake8-commas
+flake8-comprehensions=>adamchainz/flake8-comprehensions
+flake8-datetime-utcnow-plugin=>expobrain/flake8-datetime-utcnow-plugin
+flake8-datetimez=>pjknkda/flake8-datetimez
+flake8-implicit-str-concat=>keisheiled/flake8-implicit-str-concat
+flake8-indent-in-def=>cyyc1/flake8-indent-in-def
+flake8-literal=>plinss/flake8-literal
+flake8-multiline-containers=>jsfehler/flake8-multiline-containers
+flake8-newspaper-style=>mobility-university/flake8-newspaper-style
+flake8-obey-import-goat=>Melevir/flake8-obey-import-goat
+flake8-picky-parentheses=>robsdedude/flake8-picky-parentheses
+flake8-quotes=>zheller/flake8-quotes
+flake8-return=>afonasev/flake8-return
+flake8-scream=>MartinThoma/flake8-scream
+flake8-sql=>pgjones/flake8-sql
+flake8-strict=>smarkets/flake8-strict
+flake8-too-many=>queensferryme/flake8-too-many
+tryceratops=>guilatrova/tryceratops
+
+## Limitations
+flake8-broken-line=>sobolevn/flake8-broken-line
+flake8-debugger=>JBKahn/flake8-debugger
+flake8-forbidden-func=>tripcher/flake8-forbidden-func
+flake8-logging-format=>globality-corp/flake8-logging-format
+flake8-match=>asottile/flake8-match
+flake8-no-implicit-concat=>10sr/flake8-no-implicit-concat
+flake8-no-pep420=>adamchainz/flake8-no-pep420
+flake8-pep3101=>gforcada/flake8-pep3101
+flake8-print=>JBKahn/flake8-print
+flake8-printf-formatting=>atugushev/flake8-printf-formatting
+flake8-use-fstring=>MichaelKim0407/flake8-use-fstring
+flake8-use-pathlib=>https://gitlab.com/RoPP/flake8-use-pathlib
+flake8-walrus=>asottile/flake8-walrus
+
+## Naming
+flake8-builtins=>gforcada/flake8-builtins
+flake8-functions-names=>Melevir/flake8-functions-names
+flake8-test-name=>bagerard/flake8-test-name
+flake8-variables-names=>best-doctor/flake8-variables-names
+pep8-naming=>PyCQA/pep8-naming
+
+## Complexity
+cohesion=>mschwager/cohesion#flake8-support
+flake8-annotations-complexity=>best-doctor/flake8-annotations-complexity
+flake8-cognitive-complexity=>Melevir/flake8-cognitive-complexity
+flake8-expression-complexity=>best-doctor/flake8-expression-complexity
+flake8-functions=>best-doctor/flake8-functions
+flake8-length=>orsinium-labs/flake8-length
+
+## Comments
+flake8-ado=>DanielKusyDev/flake8-ado
+flake8-author=>jparise/flake8-author
+flake8-coding=>tk0miya/flake8-coding
+flake8-comments=>orsinium-labs/flake8-comments
+flake8-copyright=>savoirfairelinux/flake8-copyright
+flake8-eradicate=>sobolevn/flake8-eradicate
+flake8-executable=>xuhdev/flake8-executable
+flake8-fixme=>tommilligan/flake8-fixme
+flake8-jira-todo-checker=>simonstjg/flake8-jira-todo-checker
+flake8-noqa=>plinss/flake8-noqa
+flake8-ownership=>decafjoe/flake8-ownership
+flake8-todo=>schlamar/flake8-todo
+flake8-todos=>orsinium-labs/flake8-todos
+
+## Docstrings
+flake8-docstring-checker=>https://gitlab.com/JakobDev/flake8-docstring-checker
+flake8-docstrings=>pycqa/flake8-docstrings
+flake8-docstrings-complete=>jdkandersson/flake8-docstrings-complete
+flake8-rst-docstrings=>peterjc/flake8-rst-docstrings
+flake8-spellcheck=>MichaelAquilina/flake8-spellcheck
+flake8-sphinx-links=>python-formate/flake8-sphinx-links
+pydoclint=>jsh9/pydoclint
+
+## Tools
+flake8-codes=>orsinium-labs/flake8-codes
+flake8-pyproject=>john-hen/Flake8-pyproject
+flake8-pyprojecttoml=>https://gitlab.com/durko/flake8-pyprojecttoml
+flake8-ruler=>orsinium-labs/flake8-ruler
+flakehell=>flakehell/flakehell
+flakes=>https://flakes.orsinium.dev/
+nitpick=>andreoliwa/nitpick
+wps-playground=>orsinium-labs/wps-playground
+yesqa=>asottile/yesqa
+
+## Imports
+flake8-absolute-import=>bskinn/flake8-absolute-import
+flake8-alphabetize=>tlocke/flake8-alphabetize
+flake8-datetime-import=>marcgibbons/flake8-datetime-import
+flake8-future-import=>xZise/flake8-future-import
+flake8-import-conventions=>joaopalmeiro/flake8-import-conventions
+flake8-import-order-spoqa=>spoqa/flake8-import-order-spoqa
+flake8-import-order=>PyCQA/flake8-import-order
+flake8-import-style=>sfstpala/flake8-import-style
+flake8-tidy-imports=>adamchainz/flake8-tidy-imports
+flake8-type-checking=>sondrelg/flake8-type-checking
+
+## Testing
+flake8-aaa=>jamescooke/flake8-aaa
+flake8-assertive=>jparise/flake8-assertive
+flake8-mock=>aleGpereira/flake8-mock
+flake8-mock-spec=>jdkandersson/flake8-mock-spec
+flake8-pytest-style=>m-burst/flake8-pytest-style
+flake8-pytest=>vikingco/flake8-pytest
+flake8-pytestrail=>and-semakin/flake8-pytestrail
+
+## Type annotations
+flake8-annotations-coverage=>best-doctor/flake8-annotations-coverage
+flake8-annotations=>sco1/flake8-annotations
+flake8-future-annotations=>tyleryep/flake8-future-annotations
+flake8-new-union-types=>xome4ok/flake8-new-union-types
+flake8-pep585=>decorator-factory/flake8-pep585
+flake8-pep604=>https://gitlab.com/matthewhughes/flake-pep604
+flake8-type-checking=>snok/flake8-type-checking
+flake8-typing-imports=>asottile/flake8-typing-imports
+
+## Library-specific checks
+flake8-django-migrations=>browniebroke/flake8-django-migrations
+flake8-django=>rocioar/flake8-django
+flake8-fastapi=>Kludex/flake8-fastapi
+flake8-scrapy=>stummjr/flake8-scrapy
+pandas-vet=>deppen8/pandas-vet
+
+## Integrations
+flake8-markdown=>johnfraney/flake8-markdown
+flake8-nb=>s-weigand/flake8-nb
+flake8-pyi=>ambv/flake8-pyi
+flake8-rst=>kataev/flake8-rst
+jupyterlab-flake8=>mlshapiro/jupyterlab-flake8
+
+## Wrappers
+flake8-bandit=>tylerwince/flake8-bandit
+flake8-black=>peterjc/flake8-black
+flake8-isort=>gforcada/flake8-isort
+flake8-pylint=>orsinium-labs/flake8-pylint
+
+## Formatters
+flake8-dashboard=>aperezhortal/flake8-dashboard
+flake8-for-pycharm=>https://gitlab.com/ramast/flake8-for-pycharm
+flake8-gl-codeclimate=>awelzel/flake8-gl-codeclimate
+flake8-html=>lordmauve/flake8-html
+flake8-json=>PyCQA/flake8-json
