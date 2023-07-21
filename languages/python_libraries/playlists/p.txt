@@ -5,8 +5,9 @@
 @@@Concurrency in Python
 ##Asyncio Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/asyncio.txt
 
-@@@Code Analysis
+@@@Code Analysis and Typing
 ##Flake8 Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/flake8.txt
+##Static Typing-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/static-typing.txt
 
 @@@Science
 ##Data Science Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/data-science.txt

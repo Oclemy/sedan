@@ -1,0 +1,139 @@
+## Static type checkers
+basedmypy=>KotlinIsland/basedmypy
+mypy=>python/mypy
+pyanalyze=>quora/pyanalyze
+pycharm=>https://www.jetbrains.com/pycharm/
+pylyzer=>mtshiba/pylyzer/
+pyre=>https://pyre-check.org/
+pyright=>Microsoft/pyright
+pytype=>google/pytype
+
+## Dynamic type checkers
+beartype=>beartype/beartype
+pydantic=>samuelcolvin/pydantic
+pytypes=>Stewori/pytypes
+strongtyping=>FelixTheC/strongtyping
+typedpy=>loyada/typedpy
+typeguard=>agronholm/typeguard
+typical=>seandstewart/typical/
+trycast=>davidfstr/trycast
+
+## Stub packages
+asgiref=>django/asgiref
+boto3-stubs=>https://vemel.github.io/boto3_stubs_docs/
+types-aiobotocore=>https://vemel.github.io/types_aiobotocore_docs/
+botostubs=>jeshan/botostubs
+celery-types=>sbdchd/celery-types
+data-science-types=>predictive-analytics-lab/data-science-types
+django-stubs=>typeddjango/django-stubs
+djangorestframework-stubs=>typeddjango/djangorestframework-stubs
+grpc-stubs=>shabbyrobe/grpc-stubs
+lxml-stubs=>lxml/lxml-stubs
+ordered-set-stubs=>rominf/ordered-set-stubs
+PyQt5-stubs=>stlehmann/PyQt5-stubs
+pyspark-stubs=>zero323/pyspark-stubs
+pythonista-stubs=>hbmartin/pythonista-stubs
+sqlalchemy-stubs=>dropbox/sqlalchemy-stubs
+sqlalchemy2-stubs=>https://docs.sqlalchemy.org/en/14/orm/extensions/mypy.html
+torchtyping=>patrick-kidger/torchtyping
+typeshed=>python/typeshed
+wsgitypes=>shabbyrobe/wsgitypes
+
+## Additional types
+meiga=>alice-biometrics/meiga
+option=>MaT1g3R/option
+phantom-types=>antonagestam/phantom-types
+returns=>dry-python/returns
+safetywrap=>mplanchard/safetywrap
+typet=>contains-io/typet
+
+## Backports and improvements
+future-typing=>PrettyWood/future-typing
+typed-ast=>python/typed_ast
+typing-extensions=>python/typing/tree/master/typing_extensions
+typing-utils=>bojiang/typing_utils
+typingplus=>contains-io/typingplus/
+
+### Linters
+flake8-annotations-complexity=>best-doctor/flake8-annotations-complexity
+flake8-annotations=>sco1/flake8-annotations
+flake8-pyi=>ambv/flake8-pyi
+flake8-type-checking=>snok/flake8-type-checking
+flake8-typing-imports=>asottile/flake8-typing-imports
+flake8-typing-only-imports=>sondrelg/flake8-typing-only-imports
+flake8-type-ignore=>https://gitlab.com/jonafato/flake8-type-ignore/
+wemake-python-styleguide=>wemake-services/wemake-python-styleguide
+
+### Testing
+mypy-test=>orsinium-labs/mypy-test
+pytest-mypy-plugins=>typeddjango/pytest-mypy-plugins
+pytest-mypy-testing=>davidfritzsche/pytest-mypy-testing
+pytest-mypy=>dbader/pytest-mypy
+
+### Working with types
+com2ann=>ilevkivskyi/com2ann
+merge-pyi=>google/pytype/tree/master/pytype/tools/merge_pyi
+mypy-baseline=>orsinium-labs/mypy-baseline
+mypy-protobuf=>dropbox/mypy-protobuf
+mypy-silent=>whtsky/mypy-silent/
+mypyc=>python/mypy/tree/master/mypyc
+pep585-upgrade=>snok/pep585-upgrade
+retype=>ambv/retype
+typeforce=>orsinium-labs/typeforce
+typesplainer=>wasi-master/typesplainer
+typing-inspect=>ilevkivskyi/typing_inspect
+typing-json=>https://pypi.org/project/typing-json/
+
+### Helper tools to add annotations to existing code
+autotyping=>JelleZijlstra/autotyping
+infer-types=>orsinium-labs/infer-types
+jsonschema-gentypes=>camptocamp/jsonschema-gentypes
+monkeytype=>instagram/MonkeyType
+pyannotate=>dropbox/pyannotate
+PyTypes=>pvs-hd-tea/PyTypes
+pyre infer=>facebook/pyre-check
+pytest-annotate=>kensho-technologies/pytest-annotate
+pytest-monkeytype=>mariusvniekerk/pytest-monkeytype
+pytype annotate-ast=>google/pytype/tree/master/pytype/tools/annotate_ast
+type4py=>saltudelft/type4py
+typilus=>typilus/typilus
+auto-optional=>Luttik/auto-optional
+
+### Mypy plugins
+kubernetes-typed=>gordonbondon/kubernetes-typed
+loguru-mypy=>kornicameister/loguru-mypy
+mypy-zope=>Shoobx/mypy-zope
+mypy/plugins=>python/mypy/tree/master/mypy/plugins
+numpy=>https://numpy.org/devdocs/reference/typing.html
+pynamodb-mypy=>pynamodb/pynamodb-mypy
+
+## Integrations
+emacs-flycheck-mypy=>lbolla/emacs-flycheck-mypy
+linter-mypy=>https://atom.io/packages/linter-mypy
+mypy-playground=>ymyzk/mypy-playground
+mypy-pycharm-plugin=>dropbox/mypy-PyCharm-plugin
+pylance=>microsoft/pylance-release
+vim-mypy=>Integralist/vim-mypy
+nbQA=>nbQA-dev/nbQA
+
+### PEPs
+PEP-3107=>https://www.python.org/dev/peps/pep-3107
+PEP-482=>https://www.python.org/dev/peps/pep-0482/
+PEP-483=>https://www.python.org/dev/peps/pep-0483/
+PEP-484=>https://www.python.org/dev/peps/pep-0484/
+PEP-526=>https://www.python.org/dev/peps/pep-0526/
+PEP-544=>https://www.python.org/dev/peps/pep-0544/
+PEP-557=>https://www.python.org/dev/peps/pep-0557/
+PEP-560=>https://www.python.org/dev/peps/pep-0560/
+PEP-561=>https://www.python.org/dev/peps/pep-0561/
+PEP-563=>https://www.python.org/dev/peps/pep-0563/
+PEP-585=>https://www.python.org/dev/peps/pep-0585/
+PEP-586=>https://www.python.org/dev/peps/pep-0586/
+PEP-589=>https://www.python.org/dev/peps/pep-0589/
+PEP-591=>https://www.python.org/dev/peps/pep-0591/
+PEP-593=>https://www.python.org/dev/peps/pep-0593/
+PEP-604=>https://www.python.org/dev/peps/pep-0604/
+PEP-612=>https://www.python.org/dev/peps/pep-0612/
+PEP-613=>https://www.python.org/dev/peps/pep-0613/
+
+
