@@ -4,3 +4,6 @@
 
 @@@Concurrency in Python
 ##Asyncio Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/asyncio.txt
+
+@@@Code Analysis
+##Flake8 Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/flake8.txt
