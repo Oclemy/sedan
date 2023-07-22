@@ -1,0 +1,934 @@
+## Package Managers
+jam=>caolan/jam
+jspm=>jspm/jspm-cli
+Ender=>ender-js/Ender
+volo=>volojs/volo
+Duo=>duojs/duo
+npm=>https://www.npmjs.com/
+Bower=>bower/bower
+component=>componentjs/component
+spm=>spmjs/spm
+yarn=>https://yarnpkg.com/
+pnpm=>https://pnpm.io/
+
+## Component Management
+Bit=>teambit/bit
+
+## Loaders
+RequireJS=>requirejs/requirejs
+browserify=>substack/node-browserify
+SeaJS=>seajs/seajs
+HeadJS=>headjs/headjs
+lazyload=>rgrove/lazyload/
+script.js=>ded/script.js
+systemjs=>systemjs/systemjs
+LodJS=>yanhaijing/lodjs
+ESL=>ecomfe/esl
+modulejs=>lrsjng/modulejs
+
+## Transpilers
+
+
+SWC=>https://swc.rs/
+
+## Bundlers
+
+webpack=>webpack/webpack
+Rollup=>rollup/rollup
+Brunch=>brunch/brunch
+Parcel=>parcel-bundler/parcel
+Microbundle=>developit/microbundle
+FuseBox=>fuse-box/fuse-box
+Snowpack=>https://www.snowpack.dev/
+
+## Minimizers
+
+Terser=>terser/terser
+Uglify=>mishoo/UglifyJS
+
+## Type Checkers
+
+TypeScript=>https://www.typescriptlang.org/
+Flow.js=>https://flow.org/
+Hegel=>https://hegel.js.org/
+TypL=>getify/TypL
+Hindley Milner Definitions=>xodio/hm-def
+
+
+## Test Frameworks
+
+mocha=>mochajs/mocha
+jasmine=>jasmine/jasmine
+qunit=>jquery/qunit
+jest=>facebook/jest
+prova=>azer/prova
+DalekJS=>dalekjs/dalek
+Protractor=>angular/protractor
+tape=>substack/tape
+TestCafe=>DevExpress/testcafe
+ava=>avajs/ava
+Cypress=>https://www.cypress.io/
+
+## Assertion
+
+chai=>chaijs/chai
+Enzyme=>https://airbnb.io/enzyme/index.html
+react testing library=>kentcdodds/react-testing-library
+Sinon.JS=>sinonjs/sinon
+expect.js=>Automattic/expect.js
+proxyquire=>thlorenz/proxyquire
+
+## Coverage
+
+istanbul=>gotwarlost/istanbul
+blanket=>alex-seville/blanket
+JSCover=>tntim96/JSCover
+
+## Runner
+
+phantomjs=>ariya/phantomjs
+slimerjs=>laurentj/slimerjs
+casperjs=>casperjs/casperjs
+zombie=>assaf/zombie
+totoro=>totorojs/totoro
+karma=>karma-runner/karma
+nightwatch=>nightwatchjs/nightwatch
+intern=>theintern/intern
+puppeteer=>GoogleChrome/puppeteer
+webdriverio=>webdriverio/webdriverio
+taiko=>getgauge/taiko
+Playwright=>microsoft/playwright
+
+## QA Tools
+
+prettier=>prettier/prettier
+JSHint=>jshint/jshint/
+jscs=>jscs-dev/node-jscs
+jsfmt=>rdio/jsfmt
+jsinspect=>danielstjules/jsinspect
+buddy.js=>danielstjules/buddy.js
+ESLint=>eslint/eslint
+JSLint=>douglascrockford/JSLint
+JavaScript Standard Style=>feross/standard
+Pre-evaluate code at buildtime=>kentcdodds/preval.macro
+JS-Beautifier=>beautify-web/js-beautify
+husky=>typicode/husky
+
+## MVC Frameworks and Libraries
+
+angular.js=>angular/angular.js
+angular=>angular/angular
+aurelia=>http://aurelia.io
+backbone=>jashkenas/backbone
+ember.js=>emberjs/ember.js
+meteor=>meteor/meteor
+ractive=>ractivejs/ractive
+vue=>vuejs/vue
+svelte=>sveltejs/svelte
+knockout=>knockout/knockout
+spine=>spine/spine
+espresso.js=>techlayer/espresso.js
+canjs=>canjs/canjs
+react=>https://reactjs.org/
+hyperapp=>hyperapp/hyperapp
+preact=>developit/preact
+nativescript=>NativeScript/NativeScript
+react-native=>facebook/react-native
+riot=>riot/riot
+thorax=>walmartlabs/thorax
+chaplin=>chaplinjs/chaplin
+marionette=>marionettejs/backbone.marionette
+ripple=>ripplejs/ripple
+rivets=>mikeric/rivets
+derby=>derbyjs/derby
+    derby-awesome=>russll/awesome-derby
+way.js=>gwendall/way.js
+mithril.js=>lhorie/mithril.js
+jsblocks=>astoilkov/jsblocks
+feathers=>feathersjs/feathers
+Keo=>Wildhoney/Keo
+atvjs=>emadalam/atvjs
+Alpine.js=>alpinejs/alpine
+inferno=>infernojs/inferno
+FoalTS=>https://foalts.org
+Lucia=>aidenybai/lucia
+Adonis=>adonisjs/core
+GrapesJS=>artf/grapesjs
+Rete.js=>retejs/rete
+litegraph.js=>jagenjo/litegraph.js
+Drawflow=>jerosoler/Drawflow
+Blockly=>google/blockly
+Million=>aidenybai/million
+Whatsup=>whatsup/whatsup
+
+## Node-Powered CMS Frameworks
+
+KeystoneJS=>keystonejs/keystone
+Reaction Commerce=>reactioncommerce/reaction
+Ghost=>tryghost/Ghost
+Apostrophe=>punkave/apostrophe
+We.js=>wejs/we/
+Hatch.js=>inventures/hatchjs
+TaracotJS=>xtremespb/taracotjs-generator/
+Nodizecms=>nodize/nodizecms
+Cody=>jcoppieters/cody
+PencilBlue=>pencilblue/pencilblue/
+Strapi=>strapi/strapi
+Factor=>fiction-com/factor
+
+## Templating Engines
+
+mustache.js=>janl/mustache.js
+handlebars.js=>handlebars-lang/handlebars.js
+nunjucks=>https://mozilla.github.io/nunjucks/
+hogan.js=>twitter/hogan.js
+doT=>olado/doT
+dustjs=>linkedin/dustjs/
+eco=>sstephenson/eco/
+JavaScript-Templates=>blueimp/JavaScript-Templates
+t.js=>jasonmoo/t.js
+Pug=>pugjs/pug
+EJS=>mde/ejs
+xtemplate=>xtemplate/xtemplate
+marko=>marko-js/marko
+swig=>paularmstrong/swig
+
+## Game Engines
+
+A-Frame=>https://aframe.io
+Cocos=>https://www.cocos.com
+Impact=>https://impactjs.com
+GDevelop=>https://gdevelop.io
+Kaboom.js=>https://kaboomjs.com
+Matter.js=>https://brm.io/matter-js
+melonJS=>https://melonjs.org
+Phaser=>https://phaser.io
+PixiJS=>https://pixijs.com
+PlayCanvas=>https://playcanvas.com
+
+
+## Data Visualization
+
+d3=>d3/d3
+metrics-graphics=>mozilla/metrics-graphics
+three.js=>mrdoob/three.js
+Chart.js=>chartjs/Chart.js
+paper.js=>paperjs/paper.js
+fabric.js=>kangax/fabric.js
+peity=>benpickles/peity
+raphael=>DmitryBaranovskiy/raphael
+echarts=>apache/echarts
+visjs=>visjs
+two.js=>jonobr1/two.js
+g.raphael=>DmitryBaranovskiy/g.raphael
+sigma.js=>jacomyal/sigma.js
+arbor=>samizdatco/arbor
+cubism=>square/cubism
+dc.js=>dc-js/dc.js
+vega=>trifacta/vega
+processing.js=>http://processingjs.org/
+envisionjs=>HumbleSoftware/envisionjs
+rickshaw=>shutterstock/rickshaw
+flot=>flot/flot
+morris.js=>morrisjs/morris.js
+nvd3=>novus/nvd3
+svg.js=>wout/svg.js
+heatmap.js=>pa7/heatmap.js
+jquery.sparkline=>gwatts/jquery.sparkline
+trianglify=>qrohlf/trianglify
+d3-cloud=>jasondavies/d3-cloud
+d4=>heavysixer/d4
+dimple.js=>http://dimplejs.org
+chartist-js=>gionkunz/chartist-js
+epoch=>epochjs/epoch
+c3=>c3js/c3
+BabylonJS=>BabylonJS/Babylon.js
+recharts=>recharts/recharts
+GraphicsJS=>AnyChart/GraphicsJS
+mxGraph=>jgraph/mxgraph
+Frappe Charts=>frappe/charts
+Frappe Gantt=>frappe/gantt
+G2=>antvis/G2
+G2Plot=>antvis/G2Plot
+Cytoscape.js=>cytoscape/cytoscape.js
+cola.js=>https://ialab.it.monash.edu/webcola/
+jointjs=>clientIO/joint
+vizzu=>vizzuhq/vizzu-lib
+
+
+## Timeline
+
+TimelineJS v3=>NUKnightLab/TimelineJS3
+timesheet.js=>sbstjn/timesheet.js
+
+## Spreadsheet
+
+HANDSONTABLE=>handsontable/handsontable
+Frappe Datatable=>frappe/datatable
+Luckysheet=>mengshukeji/Luckysheet
+Jspreadsheet CE=>jspreadsheet/ce
+
+## Editors
+
+ace=>ajaxorg/ace
+CodeMirror=>codemirror/CodeMirror
+esprima=>ariya/esprima
+quill=>quilljs/quill
+medium-editor=>yabwe/medium-editor
+pen=>sofish/pen
+jquery-notebook=>raphaelcruzeiro/jquery-notebook
+bootstrap-wysiwyg=>mindmup/bootstrap-wysiwyg
+ckeditor-releases=>ckeditor/ckeditor-releases
+editor=>lepture/editor
+EpicEditor=>OscarGodson/EpicEditor
+jsoneditor=>josdejong/jsoneditor
+vim.js=>coolwanglu/vim.js
+Squire=>neilj/Squire
+TinyMCE=>tinymce/tinymce
+trix=>basecamp/trix
+Trumbowyg=>Alex-D/Trumbowyg
+Draft.js=>facebook/draft-js
+bootstrap-wysihtml5=>jhollingworth/bootstrap-wysihtml5
+wysihtml5=>xing/wysihtml5
+raptor-editor=>PANmedia/raptor-editor
+popline=>kenshin54/popline
+Summernote=>summernote/summernote
+Everright-formEditor=>Liberty-liu/Everright-formEditor
+
+## Documentation
+
+DevDocs=>https://devdocs.io/
+docco=>http://ashkenas.com/docco/
+styledocco=>http://jacobrask.github.io/styledocco/
+Ronn=>rtomayko/ronn
+dox=>tj/dox
+jsdox=>sutoiku/jsdox
+ESDoc=>esdoc/esdoc
+YUIDoc=>http://yui.github.io/yuidoc/
+coddoc=>http://doug-martin.github.io/coddoc/
+sphinx=>http://www.sphinx-doc.org/
+Beautiful docs=>beautiful-docs/beautiful-docs
+documentation.js=>http://documentation.js.org
+jsduck=>senchalabs/jsduck
+codecrumbs=>Bogdan-Lyashenko/codecrumbs
+
+## Files
+
+
+Papa Parse=>mholt/PapaParse
+jBinary=>jDataView/jBinary
+diff2html=>rtfpessoa/diff2html
+jsPDF=>MrRio/jsPDF
+PDF.js=>mozilla/pdf.js
+
+## Functional Programming
+
+underscore=>jashkenas/underscore
+lodash=>lodash/lodash
+Sugar=>andrewplummer/Sugar
+lazy.js=>dtao/lazy.js
+ramda=>ramda/ramda
+mout=>mout/mout
+preludejs=>alanrsoares/prelude-js
+rambda=>selfrefactor/rambda
+fxts=>marpple/FxTS
+wild-wild-path=>ehmicky/wild-wild-path
+
+## Reactive Programming
+RxJS=>ReactiveX/rxjs
+Bacon=>baconjs/bacon.js
+Kefir=>pozadi/kefir
+Highland=>https://caolan.github.io/highland/
+Most.js=>cujojs/most
+MobX=>mobxjs/mobx
+Cycle.js=>https://cycle.js.org
+concent=>concentjs/concent
+
+## Data Structure
+
+
+immutable-js=>facebook/immutable-js
+mori=>swannodette/mori
+buckets=>mauriciosantos/Buckets-JS
+hashmap=>flesler/hashmap
+ngraph.graph=>anvaka/ngraph.graph
+js-sdsl=>zly201/js-sdsl
+
+## Date
+
+moment=>moment/moment
+moment-timezone=>moment/moment-timezone
+jquery-timeago=>rmm5t/jquery-timeago
+timezone-js=>mde/timezone-js
+date=>MatthewMueller/date
+ms.js=>rauchg/ms.js
+countdown.js=>gumroad/countdown.js
+timeago.js=>hustcc/timeago.js
+fecha=>taylorhakes/fecha
+date-fns=>date-fns/date-fns
+map-countdown=>dawidjaniga/map-countdown
+dayjs=>iamkun/dayjs
+luxon=>moment/luxon
+
+## String
+
+
+voca=>panzerdp/voca
+selecting=>EvandroLG/selecting
+underscore.string=>epeli/underscore.string
+string.js=>jprichardson/string.js
+he=>mathiasbynens/he
+multiline=>sindresorhus/multiline
+query-string=>sindresorhus/query-string
+URI.js=>medialize/URI.js/
+jsurl=>Mikhus/domurl
+sprintf.js=>alexei/sprintf.js
+url-pattern=>snd/url-pattern
+plexis=>plexis-js/plexis
+url-state-machine=>anonrig/url-js
+
+## Number
+
+Numeral-js=>adamwdraper/Numeral-js
+chance.js=>chancejs/chancejs
+odometer=>HubSpot/odometer
+accounting.js=>josscrowcroft/accounting.js
+money.js=>josscrowcroft/money.js
+Fraction.js=>infusion/Fraction.js
+Complex.js=>infusion/Complex.js
+Polynomial.js=>infusion/Polynomial.js
+Quaternion.js=>infusion/Quaternion.js
+
+## Storage
+
+store.js=>marcuswestin/store.js
+localForage=>mozilla/localForage
+jStorage=>andris9/jStorage
+cross-storage=>zendesk/cross-storage
+basket.js=>addyosmani/basket.js
+bag.js=>nodeca/bag.js
+basil.js=>Wisembly/basil.js
+jquery-cookie=>carhartl/jquery-cookie
+js-cookie=>js-cookie/js-cookie
+Cookies=>ScottHamper/Cookies
+DB.js=>aaronpowell/db.js/
+lawnchair.js=>brianleroux/lawnchair/
+sql.js=>kripken/sql.js
+pouchdb=>pouchdb/pouchdb
+crumbsjs=>nirtz89/crumbsjs
+awesome-web-storage=>softvar/awesome-web-storage
+datavore=>StanfordHCI/datavore
+Hoodie=>hoodiehq/hoodie
+NeDB=>louischatriot/nedb
+Lovefield=>https://google.github.io/lovefield
+Dexie.js=>dexie/Dexie.js
+proxy-web-storage=>KID-joker/proxy-web-storage
+
+## Color
+
+randomColor=>davidmerfield/randomColor
+chroma.js=>gka/chroma.js
+color=>Qix-/color
+colors=>mrmrs/colors
+PleaseJS=>Fooidge/PleaseJS
+TinyColor=>bgrins/TinyColor
+Vibrant.js=>jariz/vibrant.js/
+
+## I18n And L10n
+
+
+i18next=>i18next/i18next
+polyglot=>airbnb/polyglot.js
+babelfish=>nodeca/babelfish/
+ttag=>ttag-org/ttag
+attranslate=>fkirc/attranslate
+
+##  Control Flow
+
+async=>caolan/async
+q=>kriskowal/q
+step=>creationix/step/
+contra=>bevacqua/contra/
+Bluebird=>petkaantonov/bluebird/
+when=>cujojs/when
+ObjectEventTarget=>gartz/ObjectEventTarget
+sporadic=>marcoonroad/sporadic
+
+##  Routing
+
+director=>flatiron/director
+page.js=>visionmedia/page.js
+pathjs=>mtrpcic/pathjs
+crossroads=>millermedeiros/crossroads.js
+davis.js=>olivernn/davis.js
+navaid=>lukeed/navaid
+
+##  Security
+
+DOMPurify=>cure53/DOMPurify
+js-xss=>leizongmin/js-xss
+xss-filters=>yahoo/xss-filters
+sanitize-html=>apostrophecms/sanitize-html
+
+## Log
+
+log=>adamschwartz/log
+Conzole=>Oaxoa/Conzole
+console.log-wrapper=>patik/console.log-wrapper
+loglevel=>pimterry/loglevel
+minilog=>http://mixu.net/minilog/
+storyboard=>http://guigrpa.github.io/storyboard/
+
+## RegExp
+
+RegEx101=>https://regex101.com/#javascript
+RegExr=>https://regexr.com/
+
+## Voice Command
+
+annyang=>TalAter/annyang
+voix.js=>pazguille/voix
+
+## API
+
+axios=>axios/axios
+bottleneck=>SGrondin/bottleneck
+oauth-signature-js=>bettiolo/oauth-signature-js
+amygdala=>lincolnloop/amygdala
+jquery.rest=>jpillora/jquery.rest
+Rails Ranger=>victor-am/rails-ranger
+wretch=>elbywan/wretch
+Bearer.sh=>Bearer/bearer-js
+FarFetch=>WebsiteBeaver/far-fetch
+Optic=>opticdev/optic
+SWR=>vercel/swr
+React Query=>tannerlinsley/react-query
+SWRV=>Kong/swrv
+Vue Query=>DamianOsipiuk/vue-query
+
+## Streaming
+
+Tailor=>zalando/tailor
+
+## Vision Detection
+
+tracking.js=>eduardolundgren/tracking.js
+ocrad.js=>antimatter15/ocrad.js
+
+## Machine Learning
+
+ConvNetJS=>karpathy/convnetjs
+DN2A=>dn2a/dn2a-javascript
+Brain.js=>harthur/brain
+Mind.js=>stevenmiller888/mind
+Synaptic.js=>cazala/synaptic
+TensorFlow.js=>https://www.tensorflow.org/js/
+ml5.js=>https://ml5js.org
+Synapses=>mrdimosthenis/Synapses
+m2cgen=>BayesWitnesses/m2cgen
+
+## [Browser Detection
+
+bowser=>ded/bowser
+
+## Operating System
+
+os.js=>os-js/OS.js
+
+## Benchmark
+
+benchmark.js=>bestiejs/benchmark.js
+matcha=>logicalparadox/matcha
+
+## Web Worker
+
+partytown=>BuilderIO/partytown
+comlink=>GoogleChromeLabs/comlink
+greenlet=>developit/greenlet
+workerize=>developit/workerize
+worker-dom=>ampproject/worker-dom
+threads.js=>andywer/threads.js
+workly=>pshihn/workly
+stockroom=>developit/stockroom
+workerpool=>josdejong/workerpool
+clooney=>GoogleChromeLabs/clooney
+
+## Code highlighting
+
+Highlight.js=>isagalaev/highlight.js
+PrismJS=>PrismJS/prism
+
+## Loading Status
+
+
+Mprogress.js=>lightningtgc/MProgress.js
+NProgress=>https://ricostacruz.com/nprogress/
+Spin.js=>fgnass/spin.js
+progress.js=>usablica/progress.js
+progressbar.js=>kimmobrunfeldt/progressbar.js
+pace=>HubSpot/pace
+topbar=>buunguyen/topbar
+nanobar=>jacoborus/nanobar
+PageLoadingEffects=>codrops/PageLoadingEffects
+SpinKit=>tobiasahlin/SpinKit
+Ladda=>hakimel/Ladda
+css-loaders=>lukehaas/css-loaders
+
+## Validation
+
+Parsley.js=>guillaumepotier/Parsley.js
+jquery-validation=>jzaefferer/jquery-validation
+validator.js=>chriso/validator.js
+validate.js=>rickharrison/validate.js
+validatr=>jaymorrow/validatr/
+FormValidation=>https://formvalidation.io/
+is.js=>arasatasaygin/is.js
+FieldVal=>FieldVal/fieldval-js
+Funval=>neuledge/funval
+vest=>ealush/vest
+
+## Keyboard Wrappers
+
+mousetrap=>ccampbell/mousetrap
+keymaster=>madrobby/keymaster
+Keypress=>dmauro/Keypress
+KeyboardJS=>RobertWHurst/KeyboardJS
+jquery.hotkeys=>jeresig/jquery.hotkeys
+jwerty=>keithamus/jwerty
+
+## Tours And Guides
+
+intro.js=>usablica/intro.js
+shepherd=>HubSpot/shepherd
+bootstrap-tour=>sorich87/bootstrap-tour
+tourist=>easelinc/tourist
+hopscotch=>linkedin/hopscotch
+joyride=>zurb/joyride
+focusable=>zzarcon/focusable
+driver.js=>kamranahmedse/driver.js
+
+## Notifications
+
+iziToast=>dolce/iziToast
+messenger=>HubSpot/messenger
+noty=>needim/noty
+pnotify=>sciactive/pnotify
+toastr=>CodeSeven/toastr
+humane-js=>wavded/humane-js
+smoke.js=>hxgf/smoke.js
+notie=>jaredreich/notie
+notifire=>notifirehq/notifire
+toastify-js=>apvarun/toastify-js
+
+## Sliders
+
+Swiper=>nolimits4web/Swiper
+slick=>kenwheeler/slick
+slidesJs=>http://www.slidesjs.com
+FlexSlider=>woothemes/FlexSlider
+sly=>darsain/sly
+vegas=>jaysalvat/vegas
+Sequence=>IanLunn/Sequence
+reveal.js=>hakimel/reveal.js
+impress.js=>impress/impress.js
+bespoke.js=>bespokejs/bespoke
+Strut=>tantaman/Strut
+PhotoSwipe=>dimsemenov/PhotoSwipe
+jcSlider=>JoanClaret/jcSlider
+basic-jquery-slider=>jcobb/basic-jquery-slider
+jQuery.adaptive-slider=>creative-punch/jQuery.adaptive-slider/
+slidr=>bchanx/slidr
+Flickity=>metafizzy/flickity
+Glide.js=>jedrzejchalubek/glidejs
+Embla Carousel=>davidcetinkaya/embla-carousel
+
+## Range Sliders
+
+Ion.RangeSlider=>IonDen/ion.rangeSlider
+jQRangeSlider=>ghusse/jQRangeSlider
+noUiSlider=>leongersen/noUiSlider
+rangeslider.js=>andreruffert/rangeslider.js
+
+
+## Input
+
+typeahead.js=>twitter/typeahead.js
+tag-it=>aehlke/tag-it
+At.js=>ichord/At.js
+Placeholders.js=>jamesallardice/Placeholders.js
+fancyInput=>yairEO/fancyInput
+jQuery-Tags-Input=>xoxco/jQuery-Tags-Input
+vanilla-masker=>BankFacil/vanilla-masker
+Ion.CheckRadio=>IonDen/ion.checkRadio
+awesomplete=>LeaVerou/awesomplete
+
+## Calendar
+
+pickadate.js=>amsul/pickadate.js
+bootstrap-datepicker=>eternicode/bootstrap-datepicker
+Pikaday=>dbushell/Pikaday
+fullcalendar=>fullcalendar/fullcalendar
+rome=>bevacqua/rome
+Date Range Picker=>dangrossman/daterangepicker
+Duet Date Picker=>duetds/date-picker
+tui.calendar=>nhn/tui.calendar
+
+## Select
+
+selectize.js=>selectize/selectize.js
+select2=>select2/select2
+chosen=>harvesthq/chosen
+
+## File Uploader
+
+jQuery-File-Upload=>blueimp/jQuery-File-Upload
+dropzone=>enyo/dropzone
+flow.js=>flowjs/flow.js
+fine-uploader=>FineUploader/fine-uploader
+FileAPI=>mailru/FileAPI
+plupload=>moxiecode/plupload
+filepond=>pqina/filepond
+
+## Other Form Widgets
+
+form=>jquery-form/form
+Garlic.js=>guillaumepotier/Garlic.js
+Countable=>RadLikeWhoa/Countable
+card=>jessepollak/card
+stretchy=>LeaVerou/stretchy
+analytics=>davidwells/analytics
+dat.GUI=>dataarts/dat.gui
+
+## Tips
+
+tipsy=>jaz303/tipsy
+opentip=>enyo/opentip
+qTip2=>qTip2/qTip2
+tooltipster=>iamceege/tooltipster
+simptip=>arashmanteghi/simptip
+toolbar=>paulkinzett/toolbar
+hint.css=>chinchang/hint.css
+
+## Modals and Popups
+
+Magnific-Popup=>dimsemenov/Magnific-Popup
+jquery-popbox=>gristmill/jquery-popbox
+jquery.avgrund.js=>voronianski/jquery.avgrund.js
+vex=>HubSpot/vex
+bootstrap-modal=>jschr/bootstrap-modal
+css-modal=>drublic/css-modal
+jquery-popup-overlay=>vast-engineering/jquery-popup-overlay
+SweetAlert=>t4t5/sweetalert
+SweetAlert2=>sweetalert2/sweetalert2
+baguetteBox.js=>feimosi/baguetteBox.js
+colorbox=>jackmoore/colorbox
+fancyBox=>fancyapps/fancyBox
+swipebox=>brutaldesign/swipebox
+jBox=>StephanWagner/jBox
+lightGallery=>sachinchoolur/lightGallery
+keukenhof=>Alexandrshy/keukenhof
+screenfull.js=>sindresorhus/screenfull.js
+
+## Scroll
+
+scrollMonitor=>stutrek/scrollMonitor
+headroom=>WickyNilliams/headroom.js
+onepage-scroll=>peachananr/onepage-scroll
+iscroll=>cubiq/iscroll
+skrollr=>Prinzhorn/skrollr
+parallax=>wagerfield/parallax
+stellar.js=>markdalgleish/stellar.js
+plax=>cameronmcefee/plax
+jparallax=>stephband/jparallax
+fullPage=>alvarotrigo/fullPage.js
+ScrollMenu=>s-yadav/ScrollMenu
+Clusterize.js=>NeXTs/Clusterize.js
+simpleParallax=>geosigno/simpleParallax
+rellax=>dixonandmoe/rellax
+asscroll=>ashthornton/asscroll
+stroll=>hakimel/stroll.js
+locomotive-scroll=>locomotivemtl/locomotive-scroll
+elevator.js=>tholman/elevator.js
+
+## Menu
+
+jQuery-menu-aim=>kamens/jQuery-menu-aim
+jQuery contextMenu=>swisnl/jQuery-contextMenu
+Slideout=>mango/slideout
+Slide and swipe=>JoanClaret/slide-and-swipe-menu
+mmenu=>FrDH/jQuery.mmenu
+
+## Table/Grid
+
+jTable=>hikalkan/jtable
+DataTables=>https://www.datatables.net/
+Tabulator=>http://olifolkerd.github.io/tabulator/
+Bootstrap Table=>https://bootstrap-table.com/
+floatThead=>mkoryak/floatThead
+Masonry=>https://masonry.desandro.com/
+Packery=>https://packery.metafizzy.co/
+Isotope=>https://isotope.metafizzy.co/
+flexboxgrid=>kristoferjoseph/flexboxgrid/
+
+## Frameworks
+
+Semantic UI=>https://semantic-ui.com/
+w2ui=>http://w2ui.com/
+fluidity=>mrmrs/fluidity
+Ink=>sapo/Ink
+DataFormsJS=>dataformsjs/dataformsjs
+EHTML=>Guseyn/EHTML
+
+## Boilerplates
+
+html5-boilerplate=>h5bp/html5-boilerplate
+mobile-boilerplate=>h5bp/mobile-boilerplate
+webplate=>chrishumboldt/webplate
+Cerberus=>TedGoas/Cerberus
+full-page-intro-and-navigation=>CodyHouse/full-page-intro-and-navigation
+Fluid-Squares=>crozynski/Fluid-Squares
+Mobile-First-RWD=>bradfrost/Mobile-First-RWD
+this-is-responsive=>bradfrost/this-is-responsive
+npm run-scripts=>https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0
+Wasp=>wasp-lang/wasp
+
+## Images
+
+Drift=>imgix/drift
+Magnificent.js=>AndersDJohnson/magnificent.js
+Panolens.js=>pchen66/panolens.js
+
+## Gesture
+
+hammer.js=>hammerjs/hammer.js
+touchemulator=>hammerjs/touchemulator
+Dragula=>bevacqua/dragula/
+
+## Maps
+
+Leaflet=>Leaflet/Leaflet
+Cesium=>AnalyticalGraphicsInc/cesium
+gmaps=>HPNeo/gmaps
+polymaps=>simplegeo/polymaps
+kartograph.js=>kartograph/kartograph.js
+mapbox.js=>mapbox/mapbox.js
+jqvmap=>manifestinteractive/jqvmap
+OpenLayers3=>https://openlayers.org/
+H3js=>uber/h3
+
+## Video/Audio
+
+prettyembed.js=>mike-zarandona/prettyembed.js
+Play-em JS=>adrienjoly/playemjs
+polyplayer=>Acconut/polyplayer
+flowplayer=>flowplayer/flowplayer
+mediaelement=>johndyer/mediaelement
+SoundJS=>CreateJS/SoundJS
+video.js=>videojs/video.js
+FitVids.js=>davatron5000/FitVids.js
+Ion.Sound=>IonDen/ion.sound
+photobooth-js=>WolframHempel/photobooth-js
+clappr=>clappr/clappr
+exifr=>MikeKovarik/exifr
+ts-audio=>EvandroLG/ts-audio
+AmplitudeJS=>https://521dimensions.com/open-source/amplitudejs
+ractive-player=>ysulyma/ractive-player
+ffmpeg.js=>Kagami/ffmpeg.js
+flv.js=>bilibili/flv.js
+hls.js=>video-dev/hls.js
+
+## Typography
+
+FlowType.JS=>simplefocus/FlowType.JS
+BigText=>zachleat/BigText
+circletype=>peterhry/circletype
+slabText=>freqDec/slabText/
+simple-text-rotator=>peachananr/simple-text-rotator
+novacancy.js=>chuckyglitch/novacancy.js
+jquery-responsive-text=>ghepting/jquery-responsive-text
+FitText.js=>davatron5000/FitText.js
+Lettering.js=>davatron5000/Lettering.js
+
+## Animations
+
+velocity=>julianshapiro/velocity
+jquery.transit=>rstacruz/jquery.transit
+bounce.js=>tictail/bounce.js
+GreenSock-JS=>greensock/GreenSock-JS
+TransitionEnd=>EvandroLG/transitionEnd
+Dynamic.js=>michaelvillar/dynamics.js
+the-cube=>pstadler/the-cube
+Effeckt.css=>h5bp/Effeckt.css
+animate.css=>daneden/animate.css
+textillate=>jschr/textillate
+move.js=>visionmedia/move.js
+animatable=>LeaVerou/animatable
+shuffle-images=>peachananr/shuffle-images
+smoothState.js=>miguel-perez/smoothState.js
+Anime.js=>https://animejs.com/
+Mo.js=>http://mojs.io
+particles.js=>VincentGarreau/particles.js
+tsParticles=>matteobruni/tsparticles
+particles-bg=>lindelof/particles-bg
+barbajs=>barbajs/barba
+typicaljs=>camwiegert/typical
+AutoAnimate=>https://auto-animate.formkit.com
+
+## Image Processing
+
+lena.js=>davidsonfellipe/lena.js
+pica=>nodeca/pica
+cropper=>fengyuanchen/cropper
+
+## ES6
+
+es6features=>lukehoban/es6features
+es6-features=>rse/es6-features
+es6-cheatsheet=>DrkSephy/es6-cheatsheet
+ECMAScript 6 compatibility table=>http://kangax.github.io/compat-table/es6/
+Babel (Formerly 6to5)=>babel/babel
+Traceur compiler=>google/traceur-compiler
+
+## Generators
+
+Gatsby.js=>gatsbyjs/gatsby
+Gridsome=>gridsome/gridsome
+Docusaurus=>facebook/docusaurus
+Next.js=>vercel/next.js
+
+## SDK
+javascript-sdk-design=>huei90/javascript-sdk-design
+Spotify SDK=>loverajoel/spotify-sdk
+Square Node.js SDK=>square/connect-nodejs-sdk/
+
+## Full Text Search
+lunr=>olivernn/lunr.js
+flexsearch=>nextapps-de/flexsearch
+Elasticlunr=>weixsong/elasticlunr.js
+
+## Misc
+echo=>toddmotto/echo
+picturefill=>scottjehl/picturefill
+platform.js=>bestiejs/platform.js
+json3=>bestiejs/json3
+Logical Or Not=>https://gabinaureche.com/logicalornot/
+BitSet.js=>infusion/BitSet.js
+spoiler-alert=>joshbuddy/spoiler-alert
+jquery.vibrate.js=>illyism/jquery.vibrate.js
+list.js=>javve/list.js
+mixitup=>patrickkunka/mixitup
+grid=>hootsuite/grid
+jquery-match-height=>liabru/jquery-match-height
+SurveyJS=>surveyjs/survey-library
+Array Explorer=>sdras/array-explorer
+Clipboard.js=>https://clipboardjs.com/
+ky=>sindresorhus/ky
+Fcal=>5anthosh/fcal
+emoji-button=>joeattardi/emoji-button
+iooxa=>iooxa/article
+Idyll=>idyll-lang/idyll
+javascript-algorithms=>trekhleb/javascript-algorithms
+FingerprintJS=>fingerprintjs/fingerprintjs
+Peg.js=>pegjs/pegjs
+lune=>ryanseys/lune
+jsemu=>fcambus/jsemu

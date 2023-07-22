@@ -1,0 +1,4 @@
+@@@More JS Libraries
+##Promise Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/promise.txt
+##Network Layer Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/network_layer.txt
+##Functional Programming Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/fp.txt

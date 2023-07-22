@@ -1,0 +1,141 @@
+## Libraries
+Ramda=>ramda/ramda
+Ramda Adjunct=>char0n/ramda-adjunct
+Ramda-extension=>tommmyy/ramda-extension
+Rambda=>selfrefactor/rambda
+Rambdax=>selfrefactor/rambdax
+Folktale=>http://folktale.origamitower.com/
+lodash/fp=>lodash/lodash/wiki/FP-Guide
+functional.js=>functionaljs/functional-js
+101=>tjmehta/101
+fnuc=>algesten/fnuc
+barely-functional=>cullophid/barely-functional
+bluebird-promisell=>zhangchiqing/bluebird-promisell
+prelude.ls=>http://gkz.github.io/prelude-ls/
+preludejs=>alanrsoares/prelude-js
+1-liners=>1-liners/1-liners
+fn-curry=>thunklife/fn-curry
+curry=>thisables/curry
+compose-function=>stoeffel/compose-function
+functionize=>paldepind/functionize
+lambdajs=>loop-recur/lambdajs
+fp-dom=>fp-dom/
+react-on-lambda=>sultan99/react-on-lambda
+trifl=>algesten/trifl
+funcy=>bramstein/funcy
+date-fp=>cullophid/date-fp
+js-joda=>js-joda/js-joda
+claire=>robotlolita/claire
+FPO.js=>getify/fpo
+Javascript Parser Combinator=>d-plaindoux/parsec
+fun-task=>rpominov/fun-task
+most=>cujojs/most
+zen-signals=>joaomilho/zen-signals
+funfix=>funfix/funfix
+pico-lambda=>trainyard/pico-lambda
+pareto-js=>concretesolutions/pareto.js/
+fpEs=>TeaEntityLab/fpEs/
+Creed=>http://blog.briancavalier.com/creed/
+TGrid=>samchon/tgrid
+Ferrum=>adobe/ferrum
+fp-ts=>https://gcanti.github.io/fp-ts/
+iter-tools=>iter-tools/iter-tools
+remeda=>https://remedajs.com/
+futil-js=>smartprocure/futil-js
+rubico=>a-synchronous/rubico
+rocket-pipes=>darky/rocket-pipes
+omg-curry=>Debdut/omg-curry
+lfi=>TomerAberbach/lfi
+ts-multimethod=>darky/ts-multimethod
+ts-fp-di=>darky/ts-fp-di
+effect-ts=>Effect-TS/core
+qio=>tusharmath/qio
+Ditox.js=>mnasyrov/ditox
+RxEffects=>mnasyrov/rx-effects
+fxts=>marpple/FxTS
+ts-belt=>https://mobily.github.io/ts-belt/
+fp-multik=>lulldev/fp-multik
+true-myth=>true-myth/true-myth
+ts-pattern=>gvergnaud/ts-pattern
+
+### Data Structures
+Icepick=>aearly/icepick
+Immutable.js=>facebook/immutable-js
+Immer=>mweststrate/immer
+Mori=>swannodette/mori
+Baobab=>Yomguithereal/baobab
+immutable-sequence.js=>qiao/immutable-sequence.js
+Timm=>http://guigrpa.github.io/timm/
+Lazy.js=>dtao/lazy.js
+DerivableJS=>ds300/derivablejs
+imlazy=>benji6/imlazy
+collectable=>frptools/collectable
+List=>funkia/list
+prelude.ts=>emmanueltouzery/prelude.ts
+TSTL=>samchon/tstl
+
+### Algebraic Data Types
+Fantasy Land=>fantasyland/fantasy-land
+Static Land=>rpominov/static-land
+immutable-ext=>DrBoolean/immutable-ext
+daggy=>puffnfresh/daggy
+Sanctuary=>plaid/sanctuary
+monet.js=>http://cwmyers.github.io/monet.js/
+union-type=>paldepind/union-type
+freeky=>DrBoolean/freeky
+Fluture=>Avaq/Fluture
+fantasy-combinators=>fantasyland/fantasy-combinators
+fantasy-birds=>fantasyland/fantasy-birds
+crocks=>evilsoft/crocks
+kudo-js=>blitzritz/kudojs
+purify=>gigobyte/purify
+MojiScript=>joelnet/MojiScript
+Pratica=>rametta/pratica
+Tifi=>mobily/tifi
+
+### Lenses
+lenses=>DrBoolean/lenses
+optics=>flunc/optics
+ramda-lens=>ramda/ramda-lens
+fantasy-lenses=>fantasyland/fantasy-lenses
+nanoscope=>5outh/nanoscope
+partial.lenses=>calmm-js/partial.lenses
+shades=>jamesmcnamara/shades
+
+## Functional Languages that Compile to JavaScript
+ClojureScript=>clojure/clojurescript
+Elm=>http://elm-lang.org/
+Fable=>http://fable.io/
+PureScript=>http://www.purescript.org/
+Idris=>http://www.idris-lang.org/
+GHCJS=>ghcjs/ghcjs
+ElixirScript=>bryanjos/elixirscript
+Js_of_ocaml=>http://ocsigen.org/js_of_ocaml/
+Reason=>https://reasonml.github.io/
+ReScript=>https://rescript-lang.org/
+Scala.js=>http://www.scala-js.org/
+LiveScript=>http://gkz.github.io/LiveScript/
+Quack=>quack/quack
+ion=>ion-lang/ion
+RamdaScript=>yosbelms/ramdascript
+RacketScript=>vishesh/racketscript
+Koka=>https://www.microsoft.com/en-us/research/project/koka/
+TypeScript=>https://www.typescriptlang.org/
+Gleam=>https://gleam.run/
+
+## Programming Tools
+eslint-plugin-fp=>jfmengels/eslint-plugin-fp
+4.5=>TylorS/4.5
+hm-def=>xodio/hm-def
+ftor=>kongware/ftor
+
+### Examples and Exercises
+FPJS-Class=>loop-recur/FPJS-Class
+functional-javascript-workshop=>timoxley/functional-javascript-workshop
+functional-frontend-architecture=>paldepind/functional-frontend-architecture
+cube-composer=>sharkdp/cube-composer
+FP Youtube Search=>jaysoo/example-fp-youtube-search
+Escape from Callback Mountain=>justsml/escape-from-callback-mountain
+Learn Rx=>http://reactivex.io/learnrx/
+Holdem Evaluator=>laberin/holdem-eval
+
