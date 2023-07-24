@@ -1,0 +1,188 @@
+## React Development Tools
+create-react-app=>facebook/create-react-app
+vite=>vitejs/vite
+reactotron=>skellock/reactotron
+eslint-plugin-react=>yannickcr/eslint-plugin-react
+why-did-you-render=>welldone-software/why-did-you-render
+
+## React Frameworks
+next=>vercel/next.js
+blitz=>blitz-js/blitz
+remix=>https://remix.run/
+gatsby=>gatsbyjs/gatsby
+react-admin=>marmelab/react-admin
+refine=>refinedev/refine
+aleph=>alephjs/aleph.js
+
+## React Component Libraries
+material-ui=>mui/material-ui
+ant-design=>ant-design/ant-design
+chakra-ui=>chakra-ui/chakra-ui/
+fluentui=>microsoft/fluentui
+blueprint=>palantir/blueprint
+mantine=>mantinedev/mantine
+framework7=>framework7io/framework7
+react-bootstrap=>react-bootstrap/react-bootstrap
+reactstrap=>reactstrap/reactstrap
+semantic-ui-react=>Semantic-Org/Semantic-UI-React
+evergreen=>segmentio/evergreen
+grommet=>grommet/grommet
+ariakit=>ariakit/ariakit
+rsuite=>rsuite/rsuite
+baseweb=>uber/baseweb
+eui=>elastic/eui
+react-spectrum=>adobe/react-spectrum
+ring-ui=>JetBrains/ring-ui
+radix-primitives=>radix-ui/primitives
+nextui=>nextui-org/nextui
+
+## React State Management and Data Fetching
+redux=>reduxjs/redux
+mobx=>mobxjs/mobx
+zustand=>pmndrs/zustand
+tanstack-query=>TanStack/query
+swr=>vercel/swr
+apollo-client=>apollographql/apollo-client
+relay=>facebook/relay
+recoil=>facebookexperimental/Recoil
+jotai=>pmndrs/jotai
+xstate=>statelyai/xstate
+effector=>zerobias/effector
+immer=>immerjs/immer
+immutable-js=>immutable-js/immutable-js
+rxdb=>pubkey/rxdb
+watermelondb=>Nozbe/WatermelonDB
+valtio=>pmndrs/valtio
+
+## React Styling
+styled-components=>styled-components/styled-components
+emotion=>emotion-js/emotion
+linaria=>callstack/linaria
+vanilla-extract=>seek-oss/vanilla-extract
+jss=>cssinjs/jss
+
+## React Routing
+react-router=>remix-run/react-router
+wouter=>molefrog/wouter
+tanstack-router=>TanStack/router
+
+## React Libraries
+preact=>preactjs/preact
+floating-ui=>floating-ui/floating-ui
+loadable-components=>gregberge/loadable-components
+reapop=>LouisBarranqueiro/reapop
+react-uploady=>rpldy/react-uploady
+downshift=>downshift-js/downshift
+
+## React Testing
+jest=>facebook/jest
+enzyme=>enzymejs/enzyme
+react-testing-library=>testing-library/react-testing-library
+react-hooks-testing-library=>testing-library/react-hooks-testing-library
+cypress=>cypress-io/cypress
+
+## React Awesome Components
+Awesome React Components=>brillout/awesome-react-components
+react-select=>JedWatson/react-select
+react-dnd=>react-dnd/react-dnd
+react-rnd=>bokuweb/react-rnd
+react-dropzone=>react-dropzone/react-dropzone
+react-big-calendar=>jquense/react-big-calendar
+react-datepicker=>Hacker0x01/react-datepicker/
+react-loading-skeleton=>dvtng/react-loading-skeleton
+react-qrcode=>zpao/qrcode.react
+react-archer=>pierpo/react-archer
+react-device-detect=>duskload/react-device-detect
+react-colorful=>omgovich/react-colorful
+react-icons=>react-icons/react-icons
+react-complex-tree=>lukasbach/react-complex-tree
+react-insta-stories=>mohitk05/react-insta-stories
+swiper=>nolimits4web/swiper
+keen-slider=>rcbyr/keen-slider
+cookie-consent-banner=>porscheofficial/cookie-consent-banner
+heart-switch=>anatoliygatt/heart-switch
+kbar=>timc1/kbar
+tagify=>yairEO/tagify
+
+## React Components Sandboxes
+storybook=>storybookjs/storybook
+react-styleguidist=>styleguidist/react-styleguidist
+react-cosmos=>react-cosmos/react-cosmos
+
+## React Forms
+react-hook-form=>react-hook-form/react-hook-form
+formik=>jaredpalmer/formik
+react-jsonschema-form=>mozilla-services/react-jsonschema-form
+react-final-form=>final-form/react-final-form
+formily=>alibaba/formily
+vest=>ealush/vest
+
+## React Tables and Grids
+react-grid-layout=>react-grid-layout/react-grid-layout
+tanstack-table=>TanStack/table
+react-data-grid=>adazzle/react-data-grid
+
+## React Maps
+react-map-gl=>visgl/react-map-gl
+react-leaflet=>PaulLeCam/react-leaflet
+
+## React Charts
+recharts=>recharts/recharts
+visx=>airbnb/visx
+victory=>FormidableLabs/victory
+react-vis=>uber/react-vis
+nivo=>plouc/nivo
+
+## React Renderers
+react-three-fiber=>pmndrs/react-three-fiber
+ink=>vadimdemedes/ink
+remotion=>remotion-dev/remotion
+react-pdf=>diegomura/react-pdf
+react-figma=>react-figma/react-figma
+
+## React Internationalization
+formatjs=>formatjs/formatjs
+react-i18next=>i18next/react-i18next
+typesafe-i18n=>ivanhofer/typesafe-i18n
+
+## React Graphics and Animations
+react-spring=>pmndrs/react-spring
+framer-motion=>framer/motion
+react-transition-group=>reactjs/react-transition-group
+auto-animate=>formkit/auto-animate
+react-tsparticles=>matteobruni/tsparticles
+react-parallax-tilt=>mkosir/react-parallax-tilt
+gooey-react=>luukdv/gooey-react
+
+## React Integration
+rescript-compiler=>rescript-lang/rescript-compiler
+react-rails=>reactjs/react-rails
+reagent=>reagent-project/reagent
+fulcro=>fulcrologic/fulcro
+tailwind-react=>https://tailwind-elements.com/docs/standard/integrations/react-integration/
+
+## React Real Apps
+mattermost-server=>mattermost/mattermost-server
+kibana=>elastic/kibana
+webamp=>captbaritone/webamp
+overreacted=>gaearon/overreacted.io
+
+## React Native General Resources
+React Native Official Website=>https://reactnative.dev/
+React Native GitHub=>facebook/react-native
+React Native Community=>https://reactnative.dev/community/overview
+Expo=>https://expo.dev/
+Expo Snack Playground=>https://snack.expo.dev/
+
+## React Native Navigation
+react-navigation=>react-navigation/react-navigation
+expo-router=>expo/router
+
+## React Native Awesome Components
+react-native-vector-icons=>oblador/react-native-vector-icons
+react-native-gifted-chat=>FaridSafi/react-native-gifted-chat
+
+## React Native Libraries
+realm-js=>realm/realm-js
+react-native-device-info=>react-native-device-info/react-native-device-info
+

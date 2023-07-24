@@ -1,0 +1,63 @@
+## Boilerplates
+Polymer boilerplate=>https://developers.google.com/web/tools/polymer-starter-kit/
+Seed element=>polymerlabs/seed-elementPolymer
+Admin=>akveo/polymer-admin
+Meteor-Polymer Starter Kit=>aruntk/kickstart-meteor-polymer
+
+## Generators
+Generator Polymer=>yeoman/generator-polymer
+Generator element=>https://www.npmjs.com/package/generator-element
+
+## Official Elements
+Elements Catalog=>https://www.webcomponents.org/collection/Polymer/elementsIron=>https://www.webcomponents.org/collection/PolymerElements/iron-elements
+Paper=>https://www.webcomponents.org/collection/PolymerElements/paper-elements
+Google web components=>https://www.webcomponents.org/collection/GoogleWebComponents/google-web-componentsGold=>https://www.webcomponents.org/collection/PolymerElements/gold-elements
+Platinum=>https://www.webcomponents.org/collection/PolymerElements/platinum-elements
+Molecules=>https://www.webcomponents.org/collection/PolymerElements/molecules
+App=>https://www.webcomponents.org/collection/PolymerElements/app-elements
+Data=>https://www.webcomponents.org/collection/PolymerElements/data-elements
+Layout=>https://www.webcomponents.org/collection/PolymerElements/layout-elements
+Neon=>https://elements.polymer-project.org/browse?package=neon-elements
+
+## Directories
+Built with Polymer=>http://builtwithpolymer.org/
+Webcomponents.org=>https://webcomponents.org/Components
+Kitchen=>http://component.kitchen/
+open-elements=>http://open-elements.org
+
+## Tools
+App Toolbox=>https://www.polymer-project.org/2.0/toolbox/
+Polyserve=>polymerlabs/polyserve
+Polybuild=>PolymerLabs/polybuild
+Polyup=>PolymerLabs/polyup
+Polylint=>PolymerLabs/polylint
+Polygit=>http://polygit.org/
+Polydev=>PolymerLabs/polydev
+Polymer Ready=>https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk
+Vulcanize=>Polymer/vulcanize
+Crisper=>PolymerLabs/crisper
+Snippets for Atom editor=>https://atom.io/packages/polymer-snippetsSnippets 
+MWC-Layout=>meteorwebcomponents/layout
+WC-Loader=>aruntk/wc-loader
+Polymer Webpack Loader=>webpack-contrib/polymer-webpack-loader
+Polymer CDN=>download/polymer-cdn
+lit-html=>Polymer/lit-html
+
+## Testing
+Web components tester=>Polymer/web-component-tester
+Web components tester istambul=>thedeeno/web-component-tester-istanbul
+test-fixture=>PolymerElements/test-fixture
+iron-test-helpers=>PolymerElements/iron-test-helpers
+
+## Behaviors
+Polymer-Apollo=>aruntk/polymer-apollo
+MWC-Mixin=>meteorwebcomponents/mixin
+MWC-Router=>meteorwebcomponents/router
+Polymer-Redux=>tur-nr/polymer-redux
+
+## Theming/Styling
+Polymer Themes=>https://polymerthemes.com/
+Material Palette=>https://www.materialpalette.com/
+Polystyle=>https://poly-style.appspot.com/demo/
+
+

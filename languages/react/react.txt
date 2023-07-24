@@ -1,87 +1,87 @@
 ##Installation
-Getting Started=>getting-started
-Add React to a website=>add-react-to-a-website
-Create a New React App=>create-a-new-react-app
-CDN Links=>cdn-links
-Release Channels=>release-channels
+Getting Started=>https://apps.camposha.info/wp-content/uploads/md/js/react/getting-started
+Add React to a website=>https://apps.camposha.info/wp-content/uploads/md/js/react/add-react-to-a-website
+Create a New React App=>https://apps.camposha.info/wp-content/uploads/md/js/react/create-a-new-react-app
+CDN Links=>https://apps.camposha.info/wp-content/uploads/md/js/react/cdn-links
+Release Channels=>https://apps.camposha.info/wp-content/uploads/md/js/react/release-channels
 
 ##Main Concepts
-Hello World=>hello-world
-Introducing JSX=>introducing-jsx
-Rendering Elements=>rendering-elements
-Components and Props=>components-and-props
-State and Lifecycle=>state-and-lifecycle
-Handling Events=>handling-events
-Conditional Rendering=>conditional-rendering
-Lists and Keys=>lists-and-keys
-Forms=>forms
-Lifting State Up=>lifting-state-up
-Composition vs Inheritance=>composition-vs-inheritance
-Thinking In React=>thinking-in-react
+Hello World=>https://apps.camposha.info/wp-content/uploads/md/js/react/hello-world
+Introducing JSX=>https://apps.camposha.info/wp-content/uploads/md/js/react/introducing-jsx
+Rendering Elements=>https://apps.camposha.info/wp-content/uploads/md/js/react/rendering-elements
+Components and Props=>https://apps.camposha.info/wp-content/uploads/md/js/react/components-and-props
+State and Lifecycle=>https://apps.camposha.info/wp-content/uploads/md/js/react/state-and-lifecycle
+Handling Events=>https://apps.camposha.info/wp-content/uploads/md/js/react/handling-events
+Conditional Rendering=>https://apps.camposha.info/wp-content/uploads/md/js/react/conditional-rendering
+Lists and Keys=>https://apps.camposha.info/wp-content/uploads/md/js/react/lists-and-keys
+Forms=>https://apps.camposha.info/wp-content/uploads/md/js/react/forms
+Lifting State Up=>https://apps.camposha.info/wp-content/uploads/md/js/react/lifting-state-up
+Composition vs Inheritance=>https://apps.camposha.info/wp-content/uploads/md/js/react/composition-vs-inheritance
+Thinking In React=>https://apps.camposha.info/wp-content/uploads/md/js/react/thinking-in-react
 
 ##Advanced Guides
-Accessibility=>accessibility
-Code-Splitting=>code-splitting
-Context=>context
-Error Boundaries=>error-boundaries
-Forwarding Refs=>forwarding-refs
-Fragments=>fragments
-Higher-Order Components=>higher-order-components
-Integrating with Other Libraries=>integrating-with-other-libraries
-JSX In Depth=>jsx-in-depth
-Optimizing Performance=>optimizing-performance
-Portals=>portals
-Profiler=>profiler
-React Without ES6=>react-without-es6
-React Without JSX=>react-without-jsx
-Reconciliation=>reconciliation
-Refs and the DOM=>refs-and-the-dom
-Render Props=>render-props
-Static Type Checking=>static-type-checking
-Strict Mode=>strict-mode
-Typechecking With PropTypes=>typechecking-with-proptypes
-Uncontrolled Components=>uncontrolled-components
-Web Components=>web-components
+Accessibility=>https://apps.camposha.info/wp-content/uploads/md/js/react/accessibility
+Code-Splitting=>https://apps.camposha.info/wp-content/uploads/md/js/react/code-splitting
+Context=>https://apps.camposha.info/wp-content/uploads/md/js/react/context
+Error Boundaries=>https://apps.camposha.info/wp-content/uploads/md/js/react/error-boundaries
+Forwarding Refs=>https://apps.camposha.info/wp-content/uploads/md/js/react/forwarding-refs
+Fragments=>https://apps.camposha.info/wp-content/uploads/md/js/react/fragments
+Higher-Order Components=>https://apps.camposha.info/wp-content/uploads/md/js/react/higher-order-components
+Integrating with Other Libraries=>https://apps.camposha.info/wp-content/uploads/md/js/react/integrating-with-other-libraries
+JSX In Depth=>https://apps.camposha.info/wp-content/uploads/md/js/react/jsx-in-depth
+Optimizing Performance=>https://apps.camposha.info/wp-content/uploads/md/js/react/optimizing-performance
+Portals=>https://apps.camposha.info/wp-content/uploads/md/js/react/portals
+Profiler=>https://apps.camposha.info/wp-content/uploads/md/js/react/profiler
+React Without ES6=>https://apps.camposha.info/wp-content/uploads/md/js/react/react-without-es6
+React Without JSX=>https://apps.camposha.info/wp-content/uploads/md/js/react/react-without-jsx
+Reconciliation=>https://apps.camposha.info/wp-content/uploads/md/js/react/reconciliation
+Refs and the DOM=>https://apps.camposha.info/wp-content/uploads/md/js/react/refs-and-the-dom
+Render Props=>https://apps.camposha.info/wp-content/uploads/md/js/react/render-props
+Static Type Checking=>https://apps.camposha.info/wp-content/uploads/md/js/react/static-type-checking
+Strict Mode=>https://apps.camposha.info/wp-content/uploads/md/js/react/strict-mode
+Typechecking With PropTypes=>https://apps.camposha.info/wp-content/uploads/md/js/react/typechecking-with-proptypes
+Uncontrolled Components=>https://apps.camposha.info/wp-content/uploads/md/js/react/uncontrolled-components
+Web Components=>https://apps.camposha.info/wp-content/uploads/md/js/react/web-components
 
 ##API Reference
-React=>reference-react
-React.Component=>reference-react-component
-ReactDOM=>reference-react-dom
-ReactDOMServer=>reference-react-dom-server
-DOM Elements=>reference-dom-elements
-SyntheticEvent=>reference-events
+React=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-react
+React.Component=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-react-component
+ReactDOM=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-react-dom
+ReactDOMServer=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-react-dom-server
+DOM Elements=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-dom-elements
+SyntheticEvent=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-events
 ---Test Utilities=test-utils---
-Test Renderer=>reference-test-renderer
-JS Environment Requirements=>reference-javascript-environment-requirements
-Glossary=>reference-glossary
+Test Renderer=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-test-renderer
+JS Environment Requirements=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-javascript-environment-requirements
+Glossary=>https://apps.camposha.info/wp-content/uploads/md/js/react/reference-glossary
 
 ##Hooks
-Introducing Hooks=>hooks-intro
-Hooks at a Glance=>hooks-overview
-Using the State Hook=>hooks-state
-Using the Effect Hook=>hooks-effect
-Rules of Hooks=>hooks-rules
-Building Your Own Hooks=>hooks-custom
-Hooks API Reference=>hooks-reference
-Hooks FAQ=>hooks-faq
+Introducing Hooks=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-intro
+Hooks at a Glance=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-overview
+Using the State Hook=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-state
+Using the Effect Hook=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-effect
+Rules of Hooks=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-rules
+Building Your Own Hooks=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-custom
+Hooks API Reference=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-reference
+Hooks FAQ=>https://apps.camposha.info/wp-content/uploads/md/js/react/hooks-faq
 
 ##Testing
-Testing Overview=>testing
-Testing Recipes=>testing-recipes
-Testing Environments=>testing-environments
+Testing Overview=>https://apps.camposha.info/wp-content/uploads/md/js/react/testing
+Testing Recipes=>https://apps.camposha.info/wp-content/uploads/md/js/react/testing-recipes
+Testing Environments=>https://apps.camposha.info/wp-content/uploads/md/js/react/testing-environments
 
 ##Contributing
-How to Contribute=>how-to-contribute
-Codebase Overview=>codebase-overview
-Implementation Notes=>implementation-notes
-Design Principles=>design-principles
+How to Contribute=>https://apps.camposha.info/wp-content/uploads/md/js/react/how-to-contribute
+Codebase Overview=>https://apps.camposha.info/wp-content/uploads/md/js/react/codebase-overview
+Implementation Notes=>https://apps.camposha.info/wp-content/uploads/md/js/react/implementation-notes
+Design Principles=>https://apps.camposha.info/wp-content/uploads/md/js/react/design-principles
 
 ##FAQ
-AJAX and APIs=>faq-ajax
-Babel, JSX, and Build Steps=>faq-build
-Passing Functions to Components=>faq-functions
-Component State=>faq-state
-Styling and CSS=>faq-styling
-File Structure=>faq-structure
-Versioning Policy=>faq-versioning
-Virtual DOM and Internals=>faq-internals
+AJAX and APIs=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-ajax
+Babel, JSX, and Build Steps=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-build
+Passing Functions to Components=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-functions
+Component State=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-state
+Styling and CSS=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-styling
+File Structure=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-structure
+Versioning Policy=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-versioning
+Virtual DOM and Internals=>https://apps.camposha.info/wp-content/uploads/md/js/react/faq-internals

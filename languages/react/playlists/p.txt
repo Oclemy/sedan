@@ -1,0 +1,11 @@
+@@@JS Frameworks Libraries
+##ReactJS Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/react/react_libraries.txt
+##Angular Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/learn_angular/angular_libraries.txt
+##Polymer Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/polymer_libraries.txt
+
+@@@JavaScript Libraries
+##JavaScript Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/javascript_libraries.txt
+##Promise Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/promise.txt
+
+@@@NodeJS Frameworks
+##ExpressJS-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/expressjs/expressjs.txt

@@ -1,0 +1,481 @@
+### Server-Side Rendering
+Angular Universal Repository=>angular/universal
+ng-web-apis/universal=>ng-web-apis/universal
+
+## Material Design
+Official Angular Material Design=>angular/material2
+md2=>https://www.npmjs.com/package/md2
+ng2-material=>https://www.npmjs.com/package/ng2-material
+angular2-mdl=>https://www.npmjs.com/package/angular2-mdl
+mdl-ext=>https://www.npmjs.com/package/mdl-ext
+ng2-materialize=>sherweb/ng2-materialize
+Material Light=>YagoLopez/material-light
+Blox Material=>src-zone/material
+Material Web Components=>https://trimox.github.io/angular-mdc-web
+MDBootstrap=>mdbootstrap/Angular-Bootstrap-with-Material-Design
+
+## Cheatsheet
+Official Angular Cheatsheet=>https://angular.io/guide/cheatsheet
+Dart API Cheatsheet=>https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3
+Angular Dart cheatsheet=>andresaraujo/angular2_cheatsheet_dart
+Angular Performance Checklist=>mgechev/angular-performance-checklist
+List of 100 Angular Interview questions and answers=>sudheerj/angular-interview-questions
+Angular References=>https://ngrefs.com/
+Angular Developer Roadmap=>https://roadmap.sh/angular
+
+
+### HTTP
+Official HttpClient=>https://angular.io/guide/http
+
+### Router
+Official Routing & Navigation=>https://angular.io/guide/router
+
+### Test
+Testing Http services in Angular 2 with Jasmine=>https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/
+Testing UI Components with the TestComponentBuilder=>https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/
+Marble testing for RxJS observables in Angular=>https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/
+Testing Angular – A Guide to Robust Angular Applications=>https://testing-angular.com/
+
+### Ahead-of-Time Compilation
+Official Documentation=>https://angular.io/guide/aot-compiler
+Ahead-of-Time Compilation in Angular=>https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/
+Building an Angular Application for Production=>https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
+Demystifying Ahead-Of-Time Compilation In Angular 2=>https://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit
+Code Example with Webpack=>blacksonic/angular2-aot-webpack
+Code Example with Rollup=>mgechev/angular2-ngc-rollup-build
+
+## Angular CLI
+Official web page=>https://cli.angular.io/
+Official repository=>angular/angular-cli
+ng-cli-hooks=>smartin85/ng-cli-hooks
+
+## Webpack
+Official web page=>https://webpack.js.org/
+Angular Webpack Starter from PatrickJS=>gdi2290/angular-starter
+Angular Webpack from preboot=>preboot/angular-webpack
+Angular Nightly Webpack Starter=>qdouble/angular-webpack2-starter
+Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden=>damienbod/AngularWebpackVisualStudio
+Angular Typescript Webpack from schempy=>schempy/angular2-typescript-webpack
+Angular Webpack Tour of Heroes from michaelbazos=>michaelbazos/angular-starter
+Angular Webpack + rxjs + modules=>jorgeas80/angular2-webpack-toh
+
+## Integrations
+Angular2-Meteor=>https://angular-meteor.com/angular2
+nativescript-angular=>NativeScript/nativescript-angular
+react-native-renderer=>angular/react-native-renderer
+ng-sapphiredb=>SapphireDb/ng-sapphiredb
+GraphQL + Angular=>apollographql/apollo-angular
+ckeditor5-angular=>ckeditor/ckeditor5-angular
+ckeditor4-angular=>ckeditor/ckeditor4-angular
+
+## Decorators
+segal-decorators=>danrevah/segal-decorators
+ng-portal=>nigrosimone/ng-portal
+ng-lock=>https://www.npmjs.com/package/ng-lock
+
+## Site Templates
+NG-Dashboard=>YagoLopez/ng-dashboard
+HowToKeepAngularDeploymentSizeSmall=>younos1986/HowToKeepAngularDeploymentSizeSmall
+Angular Material Dashboard=>flatlogic/angular-material-dashboard
+
+## Pipes
+fuel-ui=>FuelInteractive/fuel-ui
+ngx-filter-pipe=>VadimDez/ngx-filter-pipe
+ngx-pipes=>danrevah/ngx-pipes
+ngx-order-pipe=>VadimDez/ngx-order-pipe
+angular2-camelcase=>previousdeveloper/angular2-camelcase
+ng-generic-pipe=>nigrosimone/ng-generic-pipe
+
+## Generators
+TheVelourFog/slush-angular2=>RyanMetin/slush-angular2
+swirlycheetah/generator-angular2=>chrisdwheatley/generator-angular2
+ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
+ngx-rocket/generator-ngx-rocket=>ngx-rocket/generator-ngx-rocket
+ngx-rocket/cli=>ngx-rocket/cli
+ngx-rocket/core=>ngx-rocket/core
+dart-lang/stagehand=>dart-lang/stagehand
+    ScaffoldHub.io=>https://scaffoldhub.io/
+
+## Documentation tools
+Storybook=>storybooks/storybook
+Compodoc=>compodoc/compodoc
+NgModule-Viz=>politie/ngmodule-viz
+ng-app-counter=>Jamaks/ng-app-counter
+    
+
+## Developer tools
+Angular State Inspector=>https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem
+Augury=>https://augury.rangle.io/
+CodeSandbox=>https://codesandbox.io/s/angular-angular
+Bugfender=>https://bugfender.com/platforms/angular-logging/
+Angular Dev Tools=>https://angular.io/guide/devtools/
+
+## TodoMVC
+Official Angular 2.0=>http://todomvc.com/examples/angular2/
+
+## Schematics
+Cypress=>briebug/cypress-schematic
+Jest=>briebug/jest-schematic
+Prettier=>schuchard/prettier-schematic
+Tailwind CSS=>ngneat/tailwind
+Threejs=>JohnnyDevNull/ng-three-template
+
+
+## Animations
+lottie-angular2=>chenqingspring/ng-lottie
+ng-animate=>jiayihu/ng-animate
+ngx-interactive-paycard=>milantenk/ngx-interactive-paycard
+ng-particles=>matteobruni/tsparticles/blob/master/components/angular
+
+## Auth Components
+casl-angular=>stalniy/casl/tree/master/packages/casl-angular
+ng2-permission=>JavadRasouli/ng2-permission
+ngx-auth-firebaseui=>AnthonyNahas/ngx-auth-firebaseui
+ngx-auth=>fulls1z3/ngx-auth
+ngx-permissions=>AlexKhymenko/ngx-permissions
+
+## Backend Components
+Cloudinary=>cloudinary/cloudinary_angular/tree/angular_next
+ng-s-resource=>hiyali/ng-s-resource
+ngx-restangular=>2muchcoffeecom/ngx-restangular
+
+## Calendars
+angular-calendar=>mattlewis92/angular-calendar
+ng-data-picker=>hiyali/ng-data-picker
+ng-fullcalendar=>ng-fullcalendar/ng-fullcalendar
+
+## Charts
+@ctrl/ngx-chartjs=>TypeCtrl/ngx-chartjs
+dl-chart=>Chtau/dlChart
+ng2-charts=>valor-software/ng2-charts
+ngx-charts=>swimlane/ngx-charts
+ngx-f2=>hamdiwanis/ngx-f2
+ngx-trend=>scttcper/ngx-trend
+
+## Drag/Drop
+angular2-grid=>BTMorton/angular2-grid
+ng2-dragula=>valor-software/ng2-dragula
+
+## Editor Components
+@ctrl/ngx-codemirror=>TypeCtrl/ngx-codemirror
+@instechnologies/ng-rooster=>insurance-technologies/ng-rooster
+angular2-froala-wysiwyg=>froala/angular-froala-wysiwyg
+ng2-ace=>seiyria/ng2-ace
+ng2-quill-editor=>surmon-china/ngx-quill-editor
+
+## File Upload
+@ctrl/ngx-droppable=>typectrl/ngx-droppable
+file-droppa=>chenyukunJoshHub/fileDroppa
+ng2-file-upload=>valor-software/ng2-file-upload
+ngx-awesome-uploader=>https://www.npmjs.com/package/ngx-awesome-uploader
+ngx-dropzone=>peterfreeman/ngx-dropzone
+ngx-flow=>flowjs/ngx-flow
+
+## Form Controls
+@ctrl/ngx-emoji-mart=>TypeCtrl/ngx-emoji-mart
+angular-imask=>uNmAnNeR/imaskjs/tree/master/packages/angular-imask
+angular2-multiselect-dropdown=>CuppaLabs/angular2-multiselect-dropdown
+angular2-text-mask=>text-mask/text-mask
+ng-fveh=>guilhermewaess/ng-fveh
+ng-select=>ng-select/ng-select
+ng2-dropdown=>pleerock/ngx-dropdown
+ng2-radio-group=>pleerock/ngx-select-controls
+ng2-select=>valor-software/ng2-select
+ngx-color=>scttcper/ngx-color
+ngx-credit-cards=>https://www.npmjs.com/package/ngx-credit-cards
+ngx-flag-picker=>iamartyom/ngx-flag-picker
+ngx-flexible-select=>andreysyagrovskiy/ngx-flexible-select
+ngx-recursive-form=>hsbalar/ngx-recursive-form
+
+## Icons
+angular2-fontawesome=>travelist/angular2-fontawesome
+ng2-fontawesome=>seiyria/ng2-fontawesome
+ngx-icon-blur=>wadie/ngx-icon-blur
+
+## Keyboard Mouse
+@ctrl/ngx-rightclick=>TypeCtrl/ngx-rightclick
+angular-clickable-click=>DanielKucal/angular-clickable-click
+angular-esc=>DanielKucal/angular-esc
+ngx-konami=>lauthieb/ngx-konami
+ngx-focus-control=>Raiper34/ngx-focus-control
+
+## Layout Components
+angular-fullpage=>alvarotrigo/angular-fullpage
+angular-split=>bertrandg/angular-split
+angular2-infinite-scroll=>https://www.npmjs.com/package/angular2-infinite-scroll
+egjs-infinitegrid=>naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid
+ng2-card=>c-bata/ng2-card
+ng2-fullpage=>meiblorn/ngx-fullpage
+ng2-sheet=>lexikteam/ng2-sheet
+ng2-swipeable-card=>JayKan/ng2-swipeable-card
+ngx-scrolltop=>bartholomej/ngx-scrolltop
+od-virtualscroll=>dinony/od-virtualscroll
+
+## Loaders
+@kken94/ngx-progress=>kKen94/ngx-progress
+angular-epic-spinners=>hackafro/angular-epic-spinners
+angular2-busy=>devyumao/angular2-busy
+angular2-promise-buttons=>johannesjo/angular2-promise-buttons
+isLoading? service=>https://gitlab.com/service-work/is-loading
+ng-spinners=>JoshK2/ng-spinners
+ng2-progress-bar=>pleerock/ngx-progress-bar
+ngx-config=>fulls1z3/ngx-config
+ngx-img-fallback=>VadimDez/ngx-img-fallback
+ngx-progressbar=>MurhafSousli/ngx-progressbar
+
+## Maps
+angular-cesium=>TGFTech/angular-cesium
+angular2-google-maps=>SebastianM/angular-google-maps
+ngx-mapbox-gl=>Wykks/ngx-mapbox-gl
+
+## Notifications
+ng-snotify=>artemsky/ng-snotify/
+ng2-sweetalert2=>seiyria/ng2-sweetalert2
+ngx-popper=>MrFrankel/ngx-popper
+ngx-toastr=>scttcper/ngx-toastr
+
+## State Management
+angular2-query-builder=>zebzhao/Angular-QueryBuilder
+angular2-jwt=>auth0/angular2-jwt
+angular2-cookie=>salemdar/angular2-cookie
+angular-safeguard=>MikaAK/angular-safeguard
+ng2-storage=>seiyria/ng2-storage
+ngx-store=>zoomsphere/ngx-store
+ngx-liquid-cache=>luckyseven/ngx-liquid-cache
+ng-http-cache=>davguij/angular-http-cache
+ngx-cache=>fulls1z3/ngx-cache
+universal-model-angular=>universal-model/universal-model-angular
+ng-http-caching=>nigrosimone/ng-http-caching
+ng-simple-state=>nigrosimone/ng-simple-state
+
+## Tables
+ag-grid=>https://www.ag-grid.com/
+ng2-handsontable=>valor-software/ng2-handsontable
+ng2-smart-table=>akveo/ng2-smart-table
+ng2-table=>valor-software/ng2-table
+ngfb-sortable-table=>NodeArt/Angular-Firebase-Sortable-Table
+ngx-datatable=>swimlane/ngx-datatable
+
+### Material Based UI
+@angular-material-extensions/contacts=>angular-material-extensions/contacts
+@angular-material-extensions/faq=>angular-material-extensions/faq
+@angular-material-extensions/google-maps-autocomplete=>angular-material-extensions/google-maps-autocomplete
+@angular-material-extensions/link-preview=>angular-material-extensions/link-preview
+@angular-material-extensions/pages=>angular-material-extensions/pages
+@angular-material-extensions/password-strength=>angular-material-extensions/password-strength
+angular-jqwidgets=>https://www.jqwidgets.com/angular/
+Covalent=>https://teradata.github.io/covalent/
+Material 2=>angular/material2
+Teradata covalent=>Teradata/covalent/
+
+### Bootstrap Based
+@firebaseui/ng-bootstrap=>firebaseui/ng-bootstrap
+angular-bootstrap-md=>https://mdbootstrap.com/docs/angular/
+fuel-ui=>FuelInteractive/fuel-ui
+ng-bootstrap=>https://ng-bootstrap.github.io/
+ng2-bootstrap=>valor-software/ngx-bootstrap
+ng2-bs=>pkozlowski-opensource/ng2-bs
+ng2-modal=>pleerock/ngx-modal
+ng2-paginator=>pleerock/ngx-paginator
+ng2-tabs=>pleerock/ngx-tabs
+
+## UX Components
+angular-shepherd=>shipshapecode/angular-shepherd
+ng2-archwizard=>madoar/ng2-archwizard
+ngx-app-tour=>hamdiwanis/ngx-app-tour
+
+## Viewers
+
+egjs-flicking=>naver/egjs-flicking/tree/master/packages/ngx-flicking
+ng2-pdf-viewer=>VadimDez/ng2-pdf-viewer
+ng2-safe-img=>hyzhak/ng2-safe-img
+ngu-carousel=>sheikalthaf/ngu-carousel
+ngx-siema=>lexzhukov/ngx-siema
+
+## Misc Components
+
+@ngx-context=>ng-turkey/ngx-context
+Angular SizeObserver=>https://gitlab.com/service-work/size-observer
+angular2-simple-countdown=>previousdeveloper/angular2-simple-countdown
+ng-chat=>rpaschoal/ng-chat
+ng-google-sheets-db=>FranzDiebold/ng-google-sheets-db-library
+ng-katex=>garciparedes/ng-katex
+ng-wormhole=>topaxi/ng-wormhole
+ng2-adsense=>scttcper/ng2-adsense
+ngx-avatar=>HaithemMosbahi/ngx-avatar
+ngx-cdmon=>https://www.npmjs.com/package/ngx-cdmon
+ngx-countdown=>cipchk/ngx-countdown
+@ngneat/transloco=>ngneat/transloco
+ngx-i18n-router=>fulls1z3/ngx-i18n-router
+ngx-linkifyjs=>AnthonyNahas/ngx-linkifyjs
+ngx-meta=>fulls1z3/ngx-meta
+ngx-wheel=>Sayegh7/ngx-wheel
+@tolgee/ngx=>tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee
+xng-breadcrumb=>udayvunnam/xng-breadcrumb
+ng-let=>nigrosimone/ng-let
+ng-for-track-by-property=>nigrosimone/ng-for-track-by-property
+
+### JAM Stack
+
+scully=>scullyio/scully
+
+
+## Universal General Resources
+
+Universal Angular 2 Repository=>angular/universal
+
+## Universal Seed Projects
+
+universal-starter=>angular/universal-starter
+ng-seed/universal=>ng-seed/universal
+angular-universal=>enten/angular-universal
+angular-universal-heroku-starter=>Alex61NN5/angular-universal-heroku-starter
+
+
+## TypeScript General Resources
+TypeScript=>https://www.typescriptlang.org/
+REPL=>https://www.typescriptlang.org/play/
+TypeScript Repository=>Microsoft/TypeScript
+DefinitelyTyped Repository=>DefinitelyTyped/DefinitelyTyped
+
+## TypeScript Seed Projects
+
+Angular Seed=>https://mgechev.github.io/angular-seed/
+ng2-play=>pkozlowski-opensource/ng2-play
+Angular Lab=>rolandjitsu/angular-lab
+Angular 2 Samples=>thelgevold/angular-2-samples
+Todo app with Firebase, OAuth, and Immutable=>r-park/todo-angular-firebase
+Spring Boot and Angular2 tutorial=>springboot-angular2-tutorial/angular2-app
+Angular 2 Goldilocks seed=>ColinEberhardt/angular2-goldilocks-seed
+Angular 2 Starter=>antonybudianto/angular-starter
+Angular 2 Leaflet Starter=>haoliangyu/ngx-leaflet-starter
+Angular 2 MapboxGL Starter=>haoliangyu/ngx-mapboxgl-starter
+Angular 2 reconnecting websockets quickstart=>mkusz/ng2_websockets_quickstart
+ng2-start=>cebor/ng2-start
+ng-kitchen-sink=>born2net/Angular-kitchen-sink
+ng-skeleton=>born2net/ng-skeleton
+angular2-demo=>amcdnl/angular2-demo
+Angular 2 Dashboard Starter=>hasanhameed07/angular2-dashboard-starter
+ngx-admin=>akveo/ngx-admin
+Angular 2 full code coverage=>danday74/angular2-coverage
+Angular 2 webpack=>michaelbazos/angular2-starter
+ng2-boiler=>amcdnl/ng2-boiler
+Angular Webpack Starter=>antonybudianto/angular-webpack-starter
+Reaper=>Xamber/Reaper
+famn=>implustech/famn
+Angular NPM Module Seed=>davguij/angular-npm-module-seed
+Angular2 D3v4 Seed=>gp187/angular2-d3v4-graph
+ng-seed/spa=>ng-seed/spa
+Reboard=>ksiabani/reboard
+Angular5 + Redux + Graphql + MySQL quickstart=>rafaesc/fullstack-graphql-angular
+Angular5 + Firebase + Structure=>naologic/angular5-starter
+angular-app-example=>daixianceng/angular-app-example
+NG-MATERO=>ng-matero/ng-matero
+TinkoffCreditSystems/angular-open-source-starter=>TinkoffCreditSystems/angular-open-source-starter
+truonghungit/angular-starter=>truonghungit/angular-starter
+Eoapi=>eolinker/eoapi
+**{{** add_your_repo **}}**=>gdi2290/awesome-angular/edit/gh-pages/README.md
+
+___
+
+## Ionic 2 in Angular 2
+Ionic Framework=>https://ionicframework.com/
+Ionic Documentation=>https://ionicframework.com/docs/
+
+### Ionic 2 General Resources
+Ionic 2 Repository=>/ionic-team/ionic
+Ionic 2 Awesome=>candelibas/awesome-ionic
+
+## Angular 2 in Cordova
+Cordova Framework=>https://cordova.apache.org/
+Cordova Documentation=>https://cordova.apache.org/docs/en/latest/
+
+### Cordova Seed Projects
+Angular 2 Seed CLI Admin=>jvitor83/angular-pwa-seed
+
+
+## Dart General Resources
+Dart=>https://www.dartlang.org/
+Dartpad=>https://dartpad.dartlang.org/
+Dart Organization=>dart-lang
+Pub=>https://pub.dartlang.org/
+Dartisans=>https://plus.google.com/communities/114566943291919232850
+Dart Slack Channel=>https://dartlang-slack.herokuapp.com/
+
+## Dart Seed Projects
+Angular 2 Dart Quickstart=>andresaraujo/ng2_dart_quickstart
+
+## Dart Demo, Samples, and Examples
+Hackernews App=>andresaraujo/ng2_hackernews
+Router Demo=>andresaraujo/ng2_dart_router_demo
+
+## Traceur General Resources
+Traceur Repository=>google/traceur-compiler
+
+## Traceur Seed Projects
+GitHub: Angular2 ES6 Seed=>evanplaice/angular2-es6-seed/
+
+## Babel General Resources
+Babel=>https://babeljs.io/
+REPL=>https://babeljs.io/repl/
+Babel Repository=>babel/babel
+
+## Babel Angular 2 Online Playground
+Plunker: Angular 2 + Babel=>https://plnkr.co/edit/PxCzCu?p=preview
+
+## Babel Seed Projects
+babel-angular2-app=>shuhei/babel-angular2-app
+angular2-fullstack-starter=>jgodi/angular2-fullstack-starter
+angular2-es6-starter=>blacksonic/angular2-babel-esnext-starter
+angular-babel-seed=>rbnlffl/angular-babel-seed
+
+## Babel Demo, Samples, and Examples
+angular2-es6-todomvc=>blacksonic/angular2-esnext-todomvc
+ng1-ng2-webpack-lazy-uirouter=>swimlane/ng1-ng4-webpack-lazy-uirouter
+
+## Babel Plugins
+babel-preset-angular2=>shuhei/babel-preset-angular2
+babel-plugin-type-assertion=>shuhei/babel-plugin-type-assertion
+
+## ES5 Seed Projects
+angular2-es5-starter-kit=>islam-muhammad/angular2-es5
+
+### Meteor General Resources
+Angular Meteor=>https://angular-meteor.com/
+Angular 2 Meteor=>https://www.angular-meteor.com/angular2
+
+## Meteor Seed Projects
+Angular2 Meteor Seed=>KyneSilverhide/angular2-meteor-seed
+
+### NativeScript General Resources
+NativeScript=>https://www.nativescript.org/
+Using NativeScript=>https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0
+
+## NativeScript Seed Projects
+sample-Angular2=>NativeScript/sample-Angular2
+angular2-seed-advanced=>NathanWalker/angular-seed-advanced
+
+### React Native General Resources
+React Native=>https://facebook.github.io/react-native/
+
+## React Native Projects
+Angular 2 React Native Renderer=>angular/react-native-renderer
+
+### Haxe General Resources
+Haxe.org=>https://haxe.org/
+Haxe on Wikipedia=>https://en.wikipedia.org/wiki/Haxe
+Haxe Playground=>https://try.haxe.org/
+Haxe compiler targets=>https://haxe.org/documentation/introduction/compiler-targets.html
+Haxe Usage Survey results=>PatrickJS/awesome-angular/blob/gh-pages/blog.onthewings.net/2015/11/14/haxe_usage_survey
+Haxe discussion group=>https://groups.google.com/forum/#!forum/haxelang
+Haxe and Node.js=>PatrickJS/awesome-angular/blob/gh-pages/matthijskamstra.github.io/haxenode
+Haxe: working with JavaScript libraries=>https://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/
+Learn haxe in Y minutes=>https://learnxinyminutes.com/docs/haxe/
+A success story for Haxe=>https://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe
+News And Information For Haxe Developers=>https://haxe.io/
+
+## Haxe Seed Projects
+angular2haxe=>nweedon/angular2haxe
+
+
+

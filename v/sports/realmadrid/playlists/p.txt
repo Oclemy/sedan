@@ -1,0 +1,11 @@
+@@@Jude Bellingham
+##Jude Bellingham Goals-->bellingham_goals
+##Jude Bellingham Assists-->bellingham_assists
+##Jude Bellingham Passes-->bellingham_passes
+##Jude Bellingham Skills-->bellingham_skills
+
+@@@Luka Modric
+##Luka Modric Goals-->modric_goals
+##Luka Modric Assists-->modric_assists
+##Luka Modric Passes-->modric_passes
+##Luka Modric Skills-->modric_skills
