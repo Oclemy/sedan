@@ -1,0 +1,383 @@
+## Algorithms and Data Structures
+OCamlgraph=>backtracking/ocamlgraph
+ods=>owainlewis/ods
+combine=>backtracking/combine
+Decompress=>mirage/decompress
+Ke=>mirage/ke
+Duff=>mirage/duff
+ORaft=>komamitsu/oraft
+ML Algorithm Implemented in F# and OCaml=>https://philtomson.github.io/blog/2014-05-29-comparing-a-machine-learning-algorithm-implemented-in-f-sharp-and-ocaml/
+
+
+## Application Libraries
+Batteries Included=>ocaml-batteries-team/batteries-included
+Cmdliner=>dbuenzli/cmdliner
+Core=>janestreet/core
+Base=>janestreet/base
+React=>http://erratique.ch/software/react
+Minicli=>UnixJunkie/minicli
+easy-format=>mjambon/easy-format
+ocaml-rpc=>mirage/ocaml-rpc
+ocaml-containers=>c-cube/ocaml-containers
+
+## Benchmarking
+core_bench=>janestreet/core_bench
+benchmark=>Chris00/ocaml-benchmark
+
+## Blogs
+Gagallium=>http://gallium.inria.fr/blog/
+Type OCaml – Many things about OCaml=>http://typeocaml.com/
+OCaml Platform=>https://opam.ocaml.org/blog/
+Drup's Thingies=>https://drup.github.io/
+
+## Code Analysis and Linters
+Mascot=>http://mascot.x9c.fr/
+pfff=>returntocorp/pfff
+Infer=>facebook/infer
+Frama-C=>http://frama-c.com
+flow=>facebook/flow
+SLAyer=>Microsoft/SLAyer
+MemCAD=>Antique-team/memcad
+Camelot=>upenn-cis1xx/camelot
+coq-of-ocaml=>formal-land/coq-of-ocaml
+
+## Program analysis
+BAP=>BinaryAnalysisPlatform/bap
+BinCat=>airbus-seclab/bincat
+cwe_checker=>fkie-cad/cwe_checker
+
+## Compilers
+Caramel=>https://caramel.run/
+cDuce=>http://www.cduce.org/
+Compcert C Compiler=>http://compcert.inria.fr/
+Eff Programming Language=>http://www.eff-lang.org/
+Hack Programming Language=>https://hacklang.org/
+Haxe Programming Language=>https://haxe.org/
+Neko Programming Language=>https://nekovm.org/
+Mezzo Programming Language=>https://protz.github.io/mezzo/
+OCaml-Java=>http://www.ocamljava.org/
+Opa Programming Language=>http://opalang.org/
+Rhine=>artagnon/rhine-ml
+Rust Programming Language=>https://www.rust-lang.org/
+Quick C-- Target Language=>http://www.cminusminus.org/
+tis-interpreter=>TrustInSoft/tis-interpreter
+Reason=>http://facebook.github.io/reason/
+RaML=>http://raml.co/index.html
+
+## Parser and Lexer Generators
+Opal=>pyrocat101/opal
+Sedlex=>ocaml-community/sedlex
+Menhir=>http://gallium.inria.fr/~fpottier/menhir/
+ocaml-parsing=>smolkaj/ocaml-parsing
+Obelisk=>Lelio-Brun/Obelisk
+ocamllex/ocamlyacc=>http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html
+Angstrom=>inhabitedtype/angstrom
+
+## Concurrency
+Lwt=>http://ocsigen.org/lwt/
+Async=>https://opensource.janestreet.com/async/
+Cooperative Concurrency in OCaml: A Core.Std.Async Example=>http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/
+
+## Database
+Dbm=>https://forge.ocamlcore.org/projects/camldbm/
+Mongo.ml=>https://massd.github.io/mongo/
+PG'OCaml=>http://pgocaml.forge.ocamlcore.org/
+ppx_pgsql=>tizoc/ppx_pgsql
+PostgreSQL-OCaml=>https://mmottl.github.io/postgresql-ocaml/
+SQLite3=>mmottl/sqlite3-ocaml
+Sqlite3EZ=>https://mlin.github.io/ocaml-sqlite3EZ/
+ocaml-redis=>0xffea/ocaml-redis
+mysql=>http://ygrek.org.ua/p/ocaml-mysql/
+pgx=>arenadotio/pgx
+mysql_protocol=>slegrand45/mysql_protocol
+Irmin=>mirage/irmin
+Obigstore=>http://obigstore.forge.ocamlcore.org/
+RunOrg=>RunOrg/RunOrg
+dokeysto=>UnixJunkie/dokeysto
+Sequoia=>andrenth/sequoia
+Macaque=>ocsigen/macaque
+ORM=>mirage/orm
+Caqti=>paurkedal/ocaml-caqti
+Binary Memcached Protocol with Ocaml and Bitstring=>https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/
+Caqti setence preparation, ppx_rapper=>roddyyaga/ppx_rapper
+
+## Datetime
+ISO8601=>sagotch/ISO8601.ml
+calendar=>http://calendar.forge.ocamlcore.org/
+odate=>hhugo/odate
+ptime=>http://erratique.ch/software/ptime
+
+## Developer Tools
+Try OCaml=>https://try.ocamlpro.com/
+BetterOCaml=>https://betterocaml.ml
+codingground=>https://www.tutorialspoint.com/compile_ocaml_online.php
+OCaml: Learn & Code iOS app=>https://apps.apple.com/app/ocaml-learn-code/id1547506826
+Jupyter=>akabe/ocaml-jupyter
+utop=>ocaml-community/utop
+ocamlformat=>ocaml-ppx/ocamlformat
+ocamlbrowser=>http://caml.inria.fr/pub/docs/manual-ocaml/browser.html
+ghim=>samoht/ghim
+OCaml Yeoman Generator=>mabrasil/generator-ocaml
+
+## Foreign Function Interface
+ctypes=>ocamllabs/ocaml-ctypes
+ocaml-main-program-in-c=>johnwhitington/ocaml-main-program-in-c
+Modular foreign function bindings=>http://openmirage.org/blog/modular-foreign-function-bindings
+Py.ml=>thierry-martinez/pyml
+
+## Editor Integration
+ocaml-lsp=>ocaml/ocaml-lsp
+merlin=>ocaml/merlin
+tuareg=>ocaml/tuareg
+merlin-eldoc=>Khady/merlin-eldoc
+vscode-ocaml=>hackwaly/vscode-ocaml
+OCaml Debugger=>hackwaly/ocamlearlybird
+Sublime better ocaml=>whitequark/sublime-better-ocaml
+Sublime text package=>def-lkb/sublime-text-merlin
+ocp-index=>http://www.typerex.org/ocp-index.html
+ocp-browser=>http://www.typerex.org/ocp-index.html#ocp-browser
+ocp-index-top=>reynir/ocp-index-top
+Sublime text package=>https://sublime.wbond.net/packages/OCaml%20Autocompletion
+ocp-indent=>http://www.typerex.org/ocp-indent.html
+Vim plugin=>def-lkb/ocp-indent-vim
+
+## Code coverage
+Bisect_ppx=>aantron/bisect_ppx
+
+## Exercises and Short Examples
+99 problems=>https://ocaml.org/learn/tutorials/99problems.html
+99% solutions=>MassD/99
+Rosetta Code=>http://rosettacode.org/wiki/Category:OCaml
+
+## Formal Software Verification
+Coq=>https://coq.inria.fr/
+Why3=>http://why3.lri.fr/
+Alt-Ergo=>http://alt-ergo.lri.fr/
+
+
+## Graphics
+archimedes=>http://archimedes.forge.ocamlcore.org/
+cairo2=>Chris00/ocaml-cairo
+Vg=>dbuenzli/vg
+glMLite=>fccm/glMLite
+lablgl=>https://forge.ocamlcore.org/projects/lablgl/
+tgls=>http://erratique.ch/software/tgls
+
+## Internationalization
+Camomile=>yoriyuki/Camomile/
+ocaml-m17n=>whitequark/ocaml-m17n
+Uucd=>dbuenzli/uucd
+Uucp=>dbuenzli/uucp
+Uunf=>dbuenzli/uunf
+Uuseg=>dbuenzli/uuseg
+Uutf=>dbuenzli/uutf
+
+## User Interface
+lablgtk=>https://garrigue.github.io/lablgtk/
+lablqml=>Kakadu/lablqml
+labltk=>https://forge.ocamlcore.org/projects/labltk/
+TSDL=>http://erratique.ch/software/tsdl
+Lambda-Term=>ocaml-community/lambda-term
+Notty=>pqwy/notty
+ocaml-linenoise=>ocaml-community/ocaml-linenoise
+
+
+## Large Source Code Examples
+Base=>janestreet/base
+cil=>cil-project/cil
+coq=>coq/coq
+Dark=>darklang/dark
+frama-c=>https://git.frama-c.com/pub/frama-c
+libguestfs=>libguestfs/libguestfs
+Liquidsoap=>savonet/liquidsoap
+mirage=>mirage/mirage
+MLDonkey=>ygrek/mldonkey
+Oni2=>onivim/oni2
+pfff=>returntocorp/pfff
+WHY3=>https://gitlab.inria.fr/why3/why3
+xen-api=>xapi-project/xen-api
+
+## Logging
+dolog=>UnixJunkie/dolog
+Volt=>codinuum/volt
+Logs=>http://erratique.ch/software/logs
+
+## Machine Learning
+Ocaml-sklearn=>lehy/ocaml-sklearn
+Owl=>https://ocaml.xyz/
+Object detection convolutional neural network with OCaml=>owlbarn/owl_mask_rcnn
+PyTorch bindings=>LaurentMazare/ocaml-torch
+
+## Messaging
+ocaml-zmq=>issuu/ocaml-zmq
+onanomsg=>rgrinberg/onanomsg
+Kafka=>didier-wenzek/ocaml-kafka
+AMQP=>andersfugmann/amqp-client
+MPI=>xavierleroy/ocamlmpi
+MQTT=>j0sh/ocaml-mqtt
+capnp-ocaml=>capnproto/capnp-ocaml
+
+## Syntax Extensions
+ppx_import=>ocaml-ppx/ppx_import
+ppx_string_interpolate=>sheijk/ppx_string_interpolate
+ppx_monad=>rizo/ppx_monad
+ppx_deriving_yojson=>whitequark/ppx_deriving_yojson
+
+## Tools and Language Extensions
+MetaOCaml=>http://okmij.org/ftp/ML/MetaOCaml.html
+Fan=>http://zhanghongbo.me/fan/
+camlp5=>https://camlp5.github.io/
+camlp4=>http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html
+
+## Metrics
+prometheus=>mirage/prometheus
+
+## Networking
+ocaml-cohttp=>mirage/ocaml-cohttp
+ocurl=>ygrek/ocurl
+httpaf=>inhabitedtype/httpaf
+piaf=>anmonteiro/piaf
+ocaml-dns=>mirage/ocaml-dns
+fluent-logger=>fluent/fluent-logger-ocaml
+charrua-unix=>haesbaert/charrua-unix
+
+
+## Package Management
+OPAM=>http://opam.ocamlpro.com/
+ocamlfind=>http://projects.camlcity.org/projects/findlib.html
+OCaml for Windows=>https://fdopen.github.io/opam-repository-mingw
+Diskuv OCaml=>diskuv/dkml-installer-ocaml#readme
+makorel=>sagotch/makorel
+esy=>esy/esy
+
+## Build Tools
+dune=>ocaml/dune
+Oasis=>http://oasis.forge.ocamlcore.org/
+oasis2opam=>ocaml/oasis2opam
+obuild=>ocaml-obuild/obuild
+ocaml-makefile=>mmottl/ocaml-makefile
+topkg=>dbuenzli/topkg
+Bazel=>jin/rules_ocaml
+
+## Parallelism
+Parmap=>http://rdicosmo.github.io/parmap/
+ForkWork=>mlin/forkwork
+Functory=>http://functory.lri.fr/About.html
+Rpc.Parallel=>janestreet/rpc_parallel
+Ocamlnet=>http://projects.camlcity.org/projects/ocamlnet.html
+Nproc=>MyLifeLabs/nproc
+Parany=>UnixJunkie/parany
+Sklml=>http://sklml.inria.fr
+SPOC=>mathiasbourgoin/SPOC
+
+
+
+## Printers helpers
+**Dum**=>mjambon/dum
+**Inspect**=>krohrer/caml-inspect
+**ppx_deriving**=>ocaml-ppx/ppx_deriving
+**refl**=>thierry-martinez/refl
+**lrt**=>LexiFi/lrt
+**tpf**=>pqwy/tpf
+**typerep**=>janestreet/typerep
+**repr**=>https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json
+**data-encoding**=>https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding
+**cmon**=>let-def/cmon
+**Genprint**=>progman1/genprintlib
+**OCaml@p**=>tsubame-sp/ocaml_at_p
+
+## Project Starter Templates
+drom=>OCamlPro/drom/
+spin=>tmattio/spin
+modern-ocaml=>Khady/modern-ocaml
+
+
+## Science and Technical Computing
+biocaml=>biocaml/biocaml
+bistro=>pveber/bistro
+lacaml=>https://mmottl.github.io/lacaml/
+obandit=>http://freux.fr/oss/obandit.html
+onumerical=>cheshire/onumerical
+oml=>hammerlab/oml
+ocephes=>rleonid/ocephes
+slap=>akabe/slap
+tensorflow-ocaml=>LaurentMazare/tensorflow-ocaml
+owl=>owlbarn/owl
+
+## Regular Expressions
+Re=>ocaml/ocaml-re
+ocaml-pcre=>mmottl/pcre-ocaml
+Humane-re=>rgrinberg/humane-re
+Tyre=>Drup/tyre
+
+## Security and Cryptography
+ocaml-tls=>mirleft/ocaml-tls
+Digestif=>mirage/digestif
+cryptokit=>xavierleroy/cryptokit
+nocoiner=>marcoonroad/nocoiner
+nocrypto=>mirleft/ocaml-nocrypto
+
+## Semantic Technology
+OCaml-RDF=>https://framagit.org/zoggy/ocaml-rdf
+
+## Serialization
+bencode=>rgrinberg/bencode
+biniou=>mjambon/biniou
+cbor=>ygrek/ocaml-cbor
+jsonm=>http://erratique.ch/software/jsonm
+xmlm=>http://erratique.ch/software/xmlm
+yojson=>ocaml-community/yojson
+sexplib=>janestreet/sexplib
+
+## System Programming
+Mirage OS=>mirage/mirage
+ocaml-fat=>mirage/ocaml-fat
+ocaml-git=>mirage/ocaml-git
+ocaml-vchan=>mirage/ocaml-vchan
+
+## Embedded systems
+OMicroB=>stevenvar/omicrob
+OCaPIC=>http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC
+ocaml-esp32=>sadiqj/ocaml-esp32
+
+## Testing
+Alcotest=>mirage/alcotest
+OUnit=>http://ounit.forge.ocamlcore.org/
+QCheck=>c-cube/qcheck
+iTeML=>vincent-hugot/iTeML
+Kaputt=>http://kaputt.x9c.fr/
+Pa_test=>https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test
+TestSimple=>hcarty/ocaml-testsimple
+expect-test=>janestreet/ppx_expect
+
+## Utilities
+ocaml-cuid=>marcoonroad/ocaml-cuid
+Uuidm=>https://erratique.ch/software/uuidm
+
+## Web Development Frameworks
+Opium=>rgrinberg/opium
+Ocsigen Eliom=>http://ocsigen.org/eliom/
+Dream=>https://aantron.github.io/dream/
+webmachine=>inhabitedtype/ocaml-webmachine
+incr_dom=>janestreet/incr_dom
+ocaml-vdom=>LexiFi/ocaml-vdom
+
+## Web Dev Tools
+COW=>mirage/ocaml-cow
+Ocamlnet=>http://projects.camlcity.org/projects/ocamlnet.html
+tyxml=>http://ocsigen.org/tyxml
+js_of_ocaml=>http://ocsigen.org/js_of_ocaml
+commonjs_of_ocaml=>AngryLawyer/commonjs_of_ocaml
+ReScript=>https://rescript-lang.org/
+ocaml-uri=>mirage/ocaml-uri
+Goji=>klakplok/goji
+Syndic=>Cumulus/Syndic
+ocaml-mustache=>rgrinberg/ocaml-mustache
+atdjs=>barko/atdjs
+jingoo=>tategakibunko/jingoo
+dispatch=>inhabitedtype/ocaml-dispatch
+Lambda Soup=>aantron/lambda-soup
+Markup.ml=>aantron/markup.ml
+gen_js_api=>LexiFi/gen_js_api
+routes=>anuragsoni/routes
+Cumulus=>Cumulus/Cumulus

@@ -1,0 +1,67 @@
+## Functional Libraries
+Functional Fortran=>wavebitscientific/functional-fortran
+
+## Graphics Libraries
+DISLIN=>https://www.mps.mpg.de/dislin/
+f90gl=>https://math.nist.gov/f90gl/
+F03GL=>http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml
+gtk-fortran=>vmagnin/gtk-fortran/wiki
+PGPLOT=>https://www.astro.caltech.edu/~tjp/pgplot/
+VTKFortran=>szaghi/VTKFortran
+
+## Math Libs
+BLAS=>http://www.netlib.org/blas/
+CERNLIB=>http://cernlib.web.cern.ch/cernlib/
+EISPACK=>http://www.netlib.org/eispack/
+FGSL=>https://www.lrz.de/services/software/mathematik/gsl/fortran/index.html
+IMSL=>https://www.imsl.com/products/imsl-fortran-libraries
+Lis=>https://www.ssisc.org/lis/index.en.html
+NAG Fortran Library=>https://www.nag.co.uk/content/nag-library-fortran
+netCDF=>Unidata/netcdf-fortran
+OpenBLAS=>xianyi/OpenBLAS
+
+## JSON Manipulation
+FSON=>josephalevin/fson
+json-fortran=>jacobwilliams/json-fortran
+
+## XML Manipulation
+fox=>andreww/fox
+xml-fortran=>https://sourceforge.net/projects/xml-fortran/
+
+## Date and time manipulation
+datetime-fortran=>wavebitscientific/datetime-fortran
+
+## Testing
+FRUIT=>https://sourceforge.net/projects/fortranxunit/
+Ftunit=>http://flibs.sourceforge.net/ftnunit.html
+pFUnit=>https://sourceforge.net/projects/pfunit/
+Vegetables=>https://gitlab.com/everythingfunctional/vegetables
+
+## Encoding-Decoding
+BeFoR64=>szaghi/BeFoR64
+
+## Portability enabling
+PENF=>szaghi/PENF
+
+## Command-Line parsing
+FLAP=>szaghi/FLAP
+options.f90=>cngilbreth/optionsf90
+
+## Compiling and building
+FoBiS=>szaghi/FoBiS
+
+## Preprocessor
+Blockit/PyF95++=>http://blockit.sourceforge.net/
+PreForM=>szaghi/PreForM
+
+## Automatic documentation
+FORD=>cmacmackin/ford
+
+## Computational Fluid Dynamics
+OFF=>szaghi/OFF/tree/testing
+
+## Docker
+Unoficial Image=>https://hub.docker.com/r/baekjoon/onlinejudge-fortran/
+
+## Web
+Fortran Machine=>mapmeld/fortran-machine
