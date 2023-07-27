@@ -1,0 +1,109 @@
+## Dojo Documentation
+API=>http://dojotoolkit.org/api/
+Roadmap=>dojo/meta/wiki/Roadmap
+Blog=>http://dojotoolkit.org/blog/
+Demos=>http://demos.dojotoolkit.org/demos/
+Reference guide=>dojo/docs
+Tutorials=>http://dojotoolkit.org/documentation/
+Dojo Meta=>dojo/meta
+Dojo Website=>dojo/dojowebsite
+
+## Bootstraps and boilerplates
+dboostrap=>atoha/dbootstrap
+Dojo Boilerplate=>csnover/dojoboilerplate
+Dojo Twitter bootstrap=>xsokev/DojoBootstrap
+dojo.js=>gpedro/dojo.js
+dojonodeboilerplate=>kitsonk/dojonodeboilerplate
+
+
+## Packages, libraries and scripts
+AngularJS Dojo=>adrobisch/angulardojo
+delite=>ibmjs/delite
+deliteful=>ibmjs/deliteful
+Dojo Foundation packages=>http://packages.dojofoundation.org/
+dojosmore=>kfranqueiro/dojosmore
+generatordojo=>bryanforbes/generatordojo
+
+## Grids
+dgrid=>http://dgrid.io/
+gridx=>http://oria.github.io/gridx/
+xgrid=>xblox/xgrid
+gruntdojo=>phated/gruntdojo
+gruntdojo2=>dojo/gruntdojo2
+karmadojo=>garcimouche/karmadojo
+Leadfoot=>theintern/leadfoot
+Sitepen dstore=>SitePen/dstore
+xaction=>xblox/xaction
+
+#### Dojo 2
+Dojo core=>dojo/core
+DOM Utilities=>dojo/dom
+Dojo Command Line Tooling=>dojo/cli
+Dojo loader=>dojo/loader
+Dojo routing=>dojo/routing
+Dojo compose=>dojo/compose
+Dojo widgets=>dojo/widgets
+Dojo has=>dojo/has
+Dojo shim=>dojo/shim
+Dojo parse=>dojo/parser
+Dojo2 App=>dojo/app
+
+
+## Dojo - Serverside integrations
+Dojango=>klipstein/dojango/
+dojorails=>http://robin850.github.io/dojorails/
+Dojo Maven=>cometd/dojomaven
+
+## Dojo - ASP.NET
+Dojo & ASP.NET=>https://www.codeproject.com/Articles/650443/DataGridViewwithSortingand
+Dojo.NET=>lstratman/Dojo.NET
+Reactive Extensions=>ReactiveExtensions/RxJSDojo
+
+## Dojo - Java
+Dojofaces=>http://www.dojofaces.org/
+DWR=>http://directwebremoting.org/dwr/index.html
+Grails=>https://grails.org/
+LightStreamer=>http://www.lightstreamer.com/
+Spring=>https://www.sitepen.com/blog/2011/08/11/howdoyouusethedojostorejsonrestapiwithspring/
+Websphere=>http://www03.ibm.com/software/products/en/appservwas
+
+## Dojo - Node.js
+dojonode=>agebrock/dojonode
+Dojos=>supnate/dojos
+Node.js integration=>http://dojotoolkit.org/documentation/tutorials/1.10/node/
+
+## Dojo - PHP
+Dojo & Composer=>zoopcommerce/pixie
+Dojo & Symfony PHP framework=>https://www.sitepen.com/blog/2011/09/06/whatisthebestwaytousedojowithasymfonybackend/
+Dojo & Zend PHP framework=>superdweebie/DojoModule
+
+## Testing
+Intern User guide=>https://theintern.github.io/intern/#whatisintern
+Intern Yeoman page objects=>glamb/generatorinternjspageobjects/
+Intern Yeoman generator=>naglalakk/generatorintern
+
+## Applications
+AuShada=>dreaswar/AuShadha
+dapi=>dojo/dapi
+Dig Dug=>theintern/digdug
+Dojo Demo=>rmurphey/dojodemo
+dojorama=>sirprize/dojorama
+Dojox application=>dmachi/dojox_application
+jsdocparse=>dojo/jsdocparse
+rstwiki=>phiggins42/rstwiki
+Scripted=>scriptededitor
+todomvc=>tastejs/todomvc
+Dojo2 Example=>dojo/examples
+xamiro=>xblox/xamiro
+Windowsdist=>flysurfer28/windowsdist
+
+## Themes
+dijitclarostylus=>kfranqueiro/dijitclarostylus
+Flat Dojo Theme=>http://yiweima.github.io/flatdojo/
+Semantic Dojo Theme=>http://websemantics.github.io/semanticdojo/
+
+## TypeScript
+Definitive TypeScript Guide=>https://www.sitepen.com/blog/2013/12/31/definitiveguidetotypescript/
+Dojo to Typescript Converter=>stopyoukid/DojoToTypescriptConverter
+DojoTypeScript=>schungx/DojoTypeScript
+Dojo Typings=>dojo/typings

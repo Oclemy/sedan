@@ -2,9 +2,16 @@
 ##Promise Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/promise.txt
 ##Network Layer Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/network_layer.txt
 ##Functional Programming Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/fp.txt
+##Canvas Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/canvas.txt
+##SVG Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/svg.txt
 
 @@@Client-side JavaScript
 ##Learn ReactJS-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/react/react.txt
+
+@@@Other JS Framework Libraries
+##KnockoutJS Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/knockout_libraries.txt
+##Dojo Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/javascript_libraries/dojo.txt
+
 
 @@@NodeJS Frameworks
 ##ExpressJS-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/expressjs/expressjs.txt

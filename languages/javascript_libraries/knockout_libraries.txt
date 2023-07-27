@@ -1,0 +1,50 @@
+## Frameworks
+
+Knockout=>knockout/knockout
+Knockback=>kmalakoff/knockback
+Durandal=>BlueSpire/Durandal/
+Falconjs=>stoodder/falconjs
+
+## Integrations
+
+Knockout UI=>madcapnmckay/KnockoutUI
+Kendo=>kendolabs/knockoutkendo
+Bootstrap=>billpull/knockoutbootstrap
+ASP.NET MVC=>AndreyAkinshin/knockoutmvc
+Rails=>dnagir/knockoutrails
+Meteor=>steveluscher/knockout.meteor
+
+## Plugins and libraries
+
+Mapping=>SteveSanderson/knockout.mapping
+Validation=>KnockoutContrib/KnockoutValidation
+Sortable=>rniemeyer/knockoutsortable
+Grid=>KnockoutContrib/KoGrid
+External Template Engine=>ifandelse/Knockout.jsExternalTemplateEngine
+Postbox=>rniemeyer/knockoutpostbox
+Deferred Updates=>mbest/knockoutdeferredupdates
+Delegated Events=>rniemeyer/knockoutdelegatedEvents
+Projections=>profiscience/koprojections
+Viewmodel=>coderenaissance/knockout.viewmodel
+Observable Dictionary=>jamesfoster/knockout.observableDictionary
+Model=>thelinuxlich/knockout.model
+Namespaces=>hunterloftis/knockout.namespaces
+Rest=>frapontillo/knockoutrest
+Local Storage=>jimrhoskins/knockout.localStorage
+Router=>profiscience/kocomponentrouter
+
+## Custom Bindings
+
+Punches=>mbest/knockout.punches
+Switch Case=>mbest/knockoutswitchcase
+Repeat=>mbest/knockoutrepeat
+Table=>mbest/knockouttable
+
+## Components
+
+Cart=>robconery/knockoutcart
+Testing=>profiscience/kocomponenttester
+
+## Examples
+
+WebSockets=>carlhoerberg/knockoutwebsocketexample

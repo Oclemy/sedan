@@ -1,0 +1,326 @@
+### Automation
+
+autopilot=>divywork/autopilotdeno
+
+### CLI utils
+
+cac=>cacjs/cac
+charmd=>littletof/charmd
+chart=>maximousblk/chart
+clispinner=>ameerthehacker/clispinners
+cliffy=>c4spar/denocliffy
+kia=>HarryPeach/kia
+terminalimages=>mjrlowe/terminal_images
+withenv=>bcheidemann/withenv
+yargs=>yargs/yargs
+
+### Cloud APIs
+
+awsapi=>https://awsapi.deno.dev/
+googleapis=>https://googleapis.deno.dev/
+
+### Database
+
+aloedb=>Kirlovon/AloeDB
+cotton=>rahmanfadhil/cotton
+dangoDB=>oslabsbeta/dangoDB
+denodb=>eveningkid/denodb
+denomongo=>denodrivers/deno_mongo
+denomysql=>denodrivers/mysql
+dndb=>denyncrawford/dndb
+dongoose=>roonie007/dongoose
+dsddb=>MaximilianHeidenreich/DsDDB
+dso=>manyuanrong/dso
+maxminddb=>joshhemphill/maxminddbdeno
+nessie=>halvardssm/denonessie
+postgres=>denodrivers/postgres
+r2d2=>iuioiua/r2d2
+redis=>denodrivers/redis
+sqlbuilder=>manyuanrong/sqlbuilder
+yongo=>yooneskh/yongo
+
+### Editor framework
+
+Denops=>vimdenops/denops.vim
+
+### Frontend development
+
+postcss=>postcss/postcssdeno
+
+### Frontend framework
+
+aleph.js=>postui/aleph.js
+fresh=>denoland/fresh
+packup=>kt3k/packup
+ultra=>exhibitionistdigital/ultra
+
+### Game engine
+
+caviar=>load1n9/caviar
+neko=>load1n9/neko
+sdl2=>littledivy/deno_sdl2
+
+### Image
+
+ImageScript=>matmen/ImageScript
+monke=>retraigo/monke
+
+### Logging
+
+sentrydeno=>GJZwiers/sentry_deno
+dlog=>dpmland/dlog
+
+### Machine learning
+
+classylala=>retraigo/classylala
+netsaur=>denosaurs/netsaur
+synaptic=>load1n9/synaptic
+vectorizer=>retraigo/vectorizer
+
+### Mail
+
+denosmtp=>manyuanrong/denosmtp
+
+### Markdown
+
+marked=>denolib/marked/
+
+### Math
+
+neo=>denosaurs/neo/
+
+### Online Playgrounds
+
+Deno Starter in Codesandbox=>https://codesandbox.io/s/y56n2
+myCompiler.io=>https://www.mycompiler.io/new/deno
+Repl.it=>https://repl.it/languages/deno
+
+
+### Static site generator
+
+lume=>lumeland/lume
+pagic=>xcatliu/pagic
+
+### String utils
+
+camelcase=>denolib/camelcase
+denocasestyle=>zekth/deno_case_style
+denojsoncolorizer=>dpmland/denojsoncolorizer
+denoprettystring=>OnikurYH/denoprettystring
+denoslugify=>jcardama/deno_slugify
+normalizediacritics=>motss/deno_mod/tree/master/normalize_diacritics
+written=>vixalien/written
+
+### Social Platform APIs
+
+grammY=>grammyjs/grammy
+grm=>dcdunkan/grm
+twi=>roj1512/twi
+discordeno=>https://discordeno.mod.land/
+
+### Template engine
+
+dejs=>syumai/dejs
+denotinytemplates=>zekth/deno_tiny_templates
+eta=>etadev/eta
+handlebars=>alosaur/handlebars
+mustache=>alosaur/mustache
+
+### Testing
+
+denopuppeteer=>lucacasonato/denopuppeteer
+expect=>allain/expect
+merlin=>crewdevio/merlin
+prettybenching=>littletof/prettyBenching
+rhum=>drashland/rhum
+superdeno=>asoscraigmorten/superdeno
+superoak=>asoscraigmorten/superoak
+tepi=>https://deno.land/x/tepi
+tincan=>gcaptn/tincan
+unexpected=>unexpectedjs/unexpected
+unitest=>TomokiMiyauci/unitest
+
+### Utils
+
+bettermap=>retraigo/bettermap
+beno=>dpmland/beno
+buckets=>jacoborus/denobuckets
+bytesformater=>manyuanrong/bytes_formater
+coffee=>irandeno/coffee
+colors=>retraigo/colors
+croner=>hexagon/croner
+computedtypes=>neuledge/computedtypes
+dcc=>BoltDoggy/deno#dcc
+denon=>denosaurs/denon/blob/master/mod.ts
+denoconfig=>yooneskh/denoconfig
+denocontext=>codehex/denocontext
+denocron=>rbrahul/deno_cron
+denodeamon=>manyuanrong/denodeamon
+   denodotenv
+pietvanzoen/denodotenv=>pietvanzoen/denodotenv
+cardosomarcos/denodotenv=>cardosomarcos/denodotenv
+denoenvconfig=>fernandolguevara/denoenvconfig
+denofnparse=>hashrock/denofnparse
+denoglobrex=>hayd/denoglobrex
+denonotify=>PandawanFr/deno_notify
+denoopn=>hashrock/denoopn
+denopluginprepare=>manyuanrong/denopluginprepare
+denorandominterval=>zekth/deno_random_interval
+denotokenizer=>eliassjogreen/deno_tokenizer
+denousing=>hayd/denousing
+denovalidation=>ethandunford/denovalidation
+dinoenv=>https://deno.land/x/dinoenv
+durationjs=>retraigo/duration.js
+draco=>dpmland/draco
+ensure=>eankeen/ensure
+evt=>garronej/evt
+fastestvalidator=>icebob/fastestvalidator
+fortuna=>retraigo/fortuna
+fossil=>matteocrippa/fossil
+garnyaml=>jupegarnica/garnyaml
+garnvalidator=>jupegarnica/garnvalidator
+invertkv=>denorg/invertkv
+lazy=>luvies/lazy
+localekit=>https://deno.land/x/localekit
+mazegenerator=>mjrlowe/maze_generator
+ms=>denolib/ms
+online=>denorg/online
+optionals=>OliverBrotchie/optionals
+qrcode=>denorg/qrcode
+recursivereaddir=>denorg/recursivereaddir
+rubico=>richytong/rubico
+solc=>denoweb3/solc
+tryify=>twilsoft/tryify
+typefest=>denoserverless/typefest
+unifieddenolock=>yooneskh/unifieddenolock
+wasmgzip=>manyuanrong/wasm_gzip
+watch=>jinjor/denowatch
+wudiffjs=>bokuweb/wudiffjs
+PLS=>roj1512/pls
+
+### Validation
+
+zod=>colinhacks/zod
+
+### Video
+
+Fast Forward=>c4spar/denofastforward
+
+### Web framework
+
+abc=>zhmushan/abc
+alosaur=>alosaur/alosaur
+attain=>aaronwlee/Attain
+aqua=>l2ig/aqua
+cheetah=>azurystudio/cheetah
+danet=>Savory/Danet
+denoexpress=>NMathar/denoexpress
+dinatra=>syumai/dinatra
+drash=>drashland/denodrash
+fast=>danteissaias/fast
+faster=>hviana/faster
+hono=>honojs/hono
+oak=>oakserver/oak
+oakhttpproxy=>asoscraigmorten/oakhttpproxy
+opine=>asoscraigmorten/opine
+opinehttpproxy=>asoscraigmorten/opinehttpproxy
+pogo=>sholladay/pogo
+wren=>zaiste/wren
+
+### WebSocket
+
+denowebsocket=>ryoma/denowebsocket
+dropper=>denyncrawford/dropperdeno
+websocketserver=>JohanWinther/websocket_server
+wocket=>drashland/wocket
+
+### Web utils
+
+compression=>denolibs/compression
+djwt=>timonson/djwt
+forwarded=>denolibs/forwarded
+freshchart=>denoland/fresh_charts
+gentleRpc=>timonson/gentleRpc
+gql=>denolibs/gql
+graphqltag=>denolibs/graphqltag
+nats=>natsio/nats.deno
+obsidian=>oslabsbeta/obsidian
+qs=>denolib/qs
+reacticons=>https://reacticons.deno.dev/
+router=>zhmushan/router
+rpc=>denolibs/rpc
+status=>denosaurs/status
+squishycookies=>omar2205/squishy_cookies
+tsprometheus=>marcopacini/tsprometheus
+up=>denorg/up
+youtubedeno=>akshgpt7/youtubedeno
+
+### Webview
+
+Astrodon=>astrodon/astrodon
+webview=>eliassjogreen/deno_webview
+
+### XML
+
+denoxmlparser=>nekobato/denoxmlparser
+saxts=>MaximMazurok/saxts
+
+## Registries
+crux.land=>https://crux.land/
+Deno PKG=>https://denopkg.com/
+Denopkg.dev=>https://denopkg.dev/
+deno.land/x/=>https://deno.land/x/
+nest.land=>https://nest.land/
+
+## Showcases
+Deno Rest=>vickygonsalves/deno_rest
+Deno Seed=>tamasszoke/denoseed
+Edrys=>edrysorg/edrys
+Fresh Showcase=>https://fresh.deno.dev/showcase
+GitHub Profile Trophy=>ryoma/githubprofiletrophy
+Saleor Deno Merch=>saleor/denomerch
+The Official Showcase=>https://deno.land/showcase
+UsingDeno=>https://usingdeno.com/
+
+## Tools
+clone=>ekaragodin/clone
+decense=>vinliao/decense
+dedep=>egoist/dedep
+denoflow=>denoflow/denoflow
+denoify=>garronej/denoify
+denoinit=>syumai/denolibs/tree/master/denoinit
+denoliver=>joakimunge/denoliver
+denomander=>siokas/denomander
+denon=>denosaurs/denon
+denopendabot=>apps/denopendabot
+denopkg=>denopkg/denopkg.com
+denoversion=>lucascaro/denoversion
+denox=>BentoumiTech/denox
+deno.mk=>MarkTiedemann/deno.mk
+denodocker=>denoland/deno_docker
+devserver=>zhmushan/dev_server
+dmm=>drashland/dmm
+dnt=>denoland/dnt
+## Tools(dpm)
+BoltDoggy/deno#dpm=>BoltDoggy/deno#dpm
+dpmland/dpm=>dpmland/dpm
+## Tools(dvm)
+asdfcommunity/asdfdeno=>asdfcommunity/asdfdeno.git
+justjavac/dvm=>justjavac/dvm
+axetroy/dvm=>axetroy/dvm
+dvm.cmd=>MarkTiedemann/dvm.cmd
+ghosind/dvm=>ghosind/dvm
+kopocli=>littletof/kopocli
+makedenoedition=>bevry/makedenoedition
+packerprovisionerdeno=>dontlaugh/packerprovisionerdeno
+precommitdeno=>nozaq/precommitdeno
+pup=>hexagon/pup
+starter=>denorg/starter
+trex=>crewdevio/Trex
+udd=>hayd/denoudd
+velociraptor=>umbopepato/velociraptor
+vscodedeno=>denoland/vscode_deno
+vscodedenostarter=>twilsoft/vscodedenostarter
+Update Deno=>marketplace/actions/updatedeno
+denofnselfhosted=>denofn/denofnselfhosted
+
