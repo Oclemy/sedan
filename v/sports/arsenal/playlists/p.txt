@@ -1,3 +1,15 @@
 @@@Declan Rice
 ##Declan Rice Goals-->rice_goals
 ##Declan Rice Skills-->rice_skills
+
+@@@Kai Havertz
+##Kai Havertz Goals-->kai_goals
+##Kai Havertz Skills-->kai_skills
+
+@@@Leandro Trossard
+##Leandro Trossard Goals-->trossard_goals
+##Leandro Trossard Assists-->trossard_assists
+
+@@@Gabriel Martinelli
+##Gabriel Martinelli Goals-->martinelli_goals
+##Gabriel Martinelli Assists-->martinelli_assists
