@@ -13,3 +13,12 @@
 @@@Gabriel Martinelli
 ##Gabriel Martinelli Goals-->martinelli_goals
 ##Gabriel Martinelli Assists-->martinelli_assists
+
+@@@Jurrien Timber
+##Jurrien Timber Skills-->timber_skills
+
+@@@William Saliba
+##William Saliba Skills-->timber_skills
+
+@@@Gabriel Magalhaes
+##Gabriel Magalhaes Skills-->timber_skills
