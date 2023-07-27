@@ -15,3 +15,12 @@
 ##Luka Modric Assists-->modric_assists
 ##Luka Modric Passes-->modric_passes
 ##Luka Modric Skills-->modric_skills
+
+@@@Eduardo Camavinga
+##Eduardo Camavinga Skills-->camavinga_skills
+##Eduardo Camavinga Passes-->camavinga_passes
+
+@@@Aurelien Tchouameni
+##Aurelien Tchouameni Skills-->tchouameni_skills
+##Aurelien Tchouameni Passes-->tchouameni_passes
+
