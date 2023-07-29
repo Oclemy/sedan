@@ -1,0 +1,26 @@
+@@@Mohamed Salah
+##Mo Salah Goals-->mo_salah_goals
+##Mo Salah Assists-->mo_salah_assists
+##Mo Salah Skills-->mo_salah_skills
+##Mo Salah Dribbling-->mo_salah_dribbling
+
+@@@Alexis Mac Allister
+##Alexis Mac Allister Goals-->alexis_mac_allister_goals
+##Alexis Mac Allister Assists-->alexis_mac_allister_assists
+##Alexis Mac Allister Passes-->alexis_mac_allister_passes
+
+@@@Cody Gakpo
+##Cody Gakpo Assists-->cody_gakpo_assists
+##Cody Gakpo Goals-->cody_gakpo_goals
+##Cody Gakpo Dribbling-->cody_gakpo_dribbling
+
+@@@Darwin Nunez
+##Darwin Nunez Skills-->darwin_nunez_skills
+##Darwin Nunez Goals-->darwin_nunez_goals
+##Darwin Nunez Assists-->darwin_nunez_assists
+
+@@@Luis Diaz
+##Luis Diaz Goals-->luis_diaz_goals
+##Luis Diaz Assists-->luis_diaz_assists
+##Luis Diaz Skills-->luis_diaz_skills
+

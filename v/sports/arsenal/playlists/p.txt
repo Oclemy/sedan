@@ -36,3 +36,7 @@
 ##Thomas Partey Skills-->thomas_partey_skills
 ##Thomas Partey Passes-->thomas_partey_passes
 
+@@@Thierry Henry
+##Thierry Henry Goals-->thierry_henry_goals
+##Thierry Henry Asists-->thierry_henry_asists
+##Thierry Henry Dribbling-->thierry_henry_dribbling
