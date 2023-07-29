@@ -1,13 +1,17 @@
 @@@Mohamed Salah
 ##Mo Salah Goals-->mo_salah_goals
-##Mo Salah Assists-->mo_salah_assists
-##Mo Salah Skills-->mo_salah_skills
+##Mohamed Salah Assists-->mo_salah_assists
+##Mohamed Salah Skills-->mo_salah_skills
 ##Mo Salah Dribbling-->mo_salah_dribbling
 
 @@@Alexis Mac Allister
 ##Alexis Mac Allister Goals-->alexis_mac_allister_goals
 ##Alexis Mac Allister Assists-->alexis_mac_allister_assists
 ##Alexis Mac Allister Passes-->alexis_mac_allister_passes
+
+@@@Dominik Szoboszlai
+##Dominik Szoboszlai Skills-->dominik_szoboszlai_skills
+##Dominik Szoboszlai Passes-->dominik_szoboszlai_passes
 
 @@@Cody Gakpo
 ##Cody Gakpo Assists-->cody_gakpo_assists
@@ -24,3 +28,8 @@
 ##Luis Diaz Assists-->luis_diaz_assists
 ##Luis Diaz Skills-->luis_diaz_skills
 
+@@@Sadio Mane
+##Sadio Mane Goals-->sadio_mane_goals
+##Sadio Mane Assists-->sadio_mane_assists
+##Sadio Mane Skills-->sadio_mane_skills
+##Sadio Mane Dribbling-->sadio_mane_dribbling
