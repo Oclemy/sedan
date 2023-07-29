@@ -1,14 +1,19 @@
+@@@Bukayo Saka
+##Bukayo Saka Goals-->bukayo_saka_goals
+##Bukayo Saka Assists-->bukayo_saka_assists
+##Bukayo Saka Dribbling-->bukayo_saka_dribbling
+
 @@@Declan Rice
-##Declan Rice Goals-->rice_goals
 ##Declan Rice Skills-->rice_skills
+##Declan Rice Goals-->rice_goals
 
 @@@Kai Havertz
 ##Kai Havertz Goals-->kai_goals
 ##Kai Havertz Skills-->kai_skills
 
 @@@Leandro Trossard
-##Leandro Trossard Goals-->trossard_goals
 ##Leandro Trossard Assists-->trossard_assists
+##Leandro Trossard Goals-->trossard_goals
 
 @@@Gabriel Martinelli
 ##Gabriel Martinelli Goals-->martinelli_goals
@@ -18,7 +23,16 @@
 ##Jurrien Timber Skills-->timber_skills
 
 @@@William Saliba
-##William Saliba Skills-->timber_skills
+##William Saliba Skills-->saliba_skills
 
 @@@Gabriel Magalhaes
-##Gabriel Magalhaes Skills-->timber_skills
+##Gabriel Magalhaes Skills-->gabriel_skills
+
+@@@Gabriel Jesus
+##Gabriel Jesus Goals-->gabriel_jesus_goals
+##Gabriel Jesus Skills-->gabriel_jesus_skills
+
+@@@Thomas Partey
+##Thomas Partey Skills-->thomas_partey_skills
+##Thomas Partey Passes-->thomas_partey_passes
+
