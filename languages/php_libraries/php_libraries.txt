@@ -1,0 +1,640 @@
+##Date and Time
+Carbon=>briannesbitt/Carbon
+Chronos=>cakephp/chronos
+Moment.php=>fightbulc/moment.php
+CalendR=>https://yohan.giarel.li/CalendR/
+Yasumi=>azuyalabs/yasumi
+
+##URL
+PHP Domain Parser=>jeremykendall/php-domain-parser
+Purl=>jwage/purl
+sabre/uri=>sabre-io/uri
+Uri=>thephpleague/uri
+
+##Email
+CssToInlineStyles=>tijsverkoyen/CssToInlineStyles
+Email Reply Parser=>willdurand/EmailReplyParser
+Email Validator=>nojacko/email-validator
+Fetch=>tedious/Fetch
+Mautic=>mautic/mautic
+PHPMailer=>PHPMailer/PHPMailer
+PHP IMAP=>barbushin/php-imap
+Stampie=>Stampie/Stampie
+SwiftMailer=>https://swiftmailer.symfony.com
+Symfony Mailer=>symfony/mailer
+
+##Files
+CSV=>thephpleague/csv
+Flysystem=>thephpleague/Flysystem
+Gaufrette=>KnpLabs/Gaufrette
+PHP FFmpeg=>PHP-FFmpeg/PHP-FFmpeg/
+UnifiedArchive=>wapmorgan/UnifiedArchive
+
+##Dependency Management
+Pickle=>FriendsOfPHP/pickle
+Composer Installers=>composer/installers
+Composer=>https://getcomposer.org/
+Phive=>https://phar.io/
+
+##Dependency Management Extras
+Composed=>joshdifabio/composed
+Composer Merge Plugin=>wikimedia/composer-merge-plugin
+Composer Normalize=>ergebnis/composer-normalize
+Composer Patches=>cweagans/composer-patches
+Composer Require Checker=>maglnet/ComposerRequireChecker
+Composer Unused=>composer-unused/composer-unused
+Prestissimo=>hirak/prestissimo
+Repman=>https://repman.io
+Satis=>composer/satis
+Tooly=>tommy-muehle/tooly-composer-script
+Toran Proxy=>https://toranproxy.com
+
+##Frameworks
+CakePHP=>https://cakephp.org/
+Laminas=>https://getlaminas.org/
+Laravel=>https://laravel.com/
+Nette=>https://nette.org
+Phalcon=>https://phalcon.io/en-us
+Spiral=>https://spiral.dev/
+Symfony=>https://symfony.com/
+Yii2=>yiisoft/yii2/
+
+##Framework Extras
+CakePHP CRUD=>friendsofcake/crud
+Knp RAD Components=>https://rad.knplabs.com/
+LaravelS=>hhxsv5/laravel-s
+Symfony CMF=>symfony-cmf/symfony-cmf
+Livewire=>https://laravel-livewire.com/
+
+##Content Management Systems (CMS)
+Backdrop=>https://backdropcms.org
+Concrete5=>https://www.concretecms.com/
+CraftCMS=>craftcms/cms
+Drupal=>https://www.drupal.org
+Grav=>getgrav/grav
+Joomla=>https://www.joomla.org/
+Kirby=>https://getkirby.com/
+Magento=>https://business.adobe.com/products/magento/magento-commerce.html
+Moodle=>https://moodle.org/
+Pico CMS=>https://picocms.org/
+Statamic=>https://statamic.com/
+WordPress=>https://wordpress.org/
+
+##Components
+Aura=>https://auraphp.com/
+CakePHP Plugins=>https://plugins.cakephp.org/
+Laravel Components=>illuminate
+League of Extraordinary Packages=>https://thephpleague.com/
+Spatie Open Source=>https://spatie.be/open-source
+Symfony Components=>https://symfony.com/components
+Laminas Components=>https://docs.laminas.dev/components/
+
+##Micro Frameworks
+Radar=>radarphp/Radar.Adr
+Silly=>mnapoli/silly
+Laravel-Zero=>https://laravel-zero.com
+Lumen=>https://lumen.laravel.com/
+Mezzio=>https://getexpressive.org/
+Slim=>https://www.slimframework.com/
+
+##Micro Framework Extras
+Slim Skeleton=>slimphp/Slim-Skeleton
+Slim Twig View=>slimphp/Slim-Views
+Slim PHP View=>slimphp/PHP-View
+
+##Routers
+Aura.Router=>auraphp/Aura.Router
+Fast Route=>nikic/FastRoute
+Klein=>klein/klein.php
+Pux=>c9s/Pux
+Route=>thephpleague/route
+
+##Templating
+Latte=>https://latte.nette.org/
+MtHaml=>arnaud-lb/MtHaml
+Mustache=>bobthecow/mustache.php
+PHPTAL=>https://phptal.org/
+Plates=>http://platesphp.com/
+Smarty=>https://www.smarty.net/
+Twig=>https://twig.symfony.com/
+
+##Static Site Generators
+Couscous=>http://couscous.io
+Jigsaw=>https://jigsaw.tighten.com/
+Sculpin=>https://sculpin.io
+Spress=>http://spress.yosymfony.com
+
+##HTTP
+Buzz=>kriswallsmith/Buzz
+Guzzle=>guzzle/guzzle
+HTTPlug=>http://httplug.io
+Nyholm PSR-7=>Nyholm/psr7
+PHP VCR=>https://php-vcr.github.io/
+Requests=>WordPress/Requests
+Retrofit=>tebru/retrofit-php
+Symfony HTTP Client=>symfony/http-client
+Laminas Diactoros=>laminas/laminas-diactoros
+
+##Scraping
+Chrome PHP=>chrome-php/chrome
+DiDOM=>Imangazaliev/DiDOM
+Embed=>oscarotero/Embed
+Goutte=>FriendsOfPHP/Goutte
+Symfony Panther=>symfony/panther
+PHP Spider=>mvdbos/php-spider
+
+##Middlewares
+PSR-7 Middlewares=>oscarotero/psr7-middlewares
+Relay=>relayphp/Relay.Relay
+Stack=>stackphp
+Laminas Stratigility=>laminas/laminas-stratigility
+
+##Streams
+Streamer=>fzaninotto/Streamer
+ByteStream=>https://amphp.org/byte-stream/
+
+##Dependency Injection
+Aura.Di=>auraphp/Aura.Di
+Acclimate=>AcclimateContainer/acclimate-container
+Auryn=>rdlowrey/Auryn
+Container=>thephpleague/container
+Disco=>bitExpert/disco
+PHP-DI=>https://php-di.org/
+Pimple=>https://pimple.symfony.com/
+Symfony DI=>symfony/dependency-injection
+
+##Imagery
+Color Extractor=>thephpleague/color-extractor
+Glide=>thephpleague/glide
+Image Hash=>jenssegers/imagehash
+Image Optimizer=>psliwa/image-optimizer
+Imagine=>https://imagine.readthedocs.io/en/latest/index.html
+Intervention Image=>Intervention/image
+PHP Image Workshop=>Sybio/ImageWorkshop
+
+##Testing
+Alice=>nelmio/alice
+AspectMock=>Codeception/AspectMock
+Atoum=>atoum/atoum
+Behat=>https://docs.behat.org/en/latest/
+Codeception=>Codeception/Codeception
+Faker=>fakerphp/faker
+Foundry=>zenstruck/foundry
+HTTP Mock=>InterNations/http-mock
+Infection=>infection/infection
+Kahlan=>kahlan/kahlan
+Mink=>https://mink.behat.org/en/latest/
+Mockery=>mockery/mockery
+ParaTest=>paratestphp/paratest
+Pest=>https://pestphp.com/
+Peridot=>peridot-php/peridot
+Phake=>phake/phake
+Pho=>danielstjules/pho
+PHP-Mock=>php-mock/php-mock
+PHP MySQL Engine=>vimeo/php-mysql-engine
+PHPSpec=>phpspec/phpspec
+PHPT=>https://qa.php.net/write-test.php
+PHPUnit=>sebastianbergmann/phpunit
+Prophecy=>phpspec/prophecy
+VFS Stream=>bovigo/vfsStream
+
+##Continuous Integration
+CircleCI=>https://circleci.com
+GitlabCi=>https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/
+Jenkins=>https://www.jenkins.io/
+JoliCi=>jolicode/JoliCi
+PHPCI=>dancryer/phpci
+SemaphoreCI=>https://semaphoreci.com/
+Shippable=>https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/
+Travis CI=>https://travis-ci.org/
+Setup PHP=>shivammathur/setup-php
+
+##Documentation
+APIGen=>apigen/apigen
+daux.io=>dauxio/daux.io
+PHP Documentor 2=>phpDocumentor/phpDocumentor
+phpDox=>https://phpdox.net/
+
+##Security
+Halite=>https://paragonie.com/project/halite
+HTML Purifier=>ezyang/htmlpurifier
+IniScan=>psecio/iniscan
+Optimus=>jenssegers/optimus
+PHPGGC=>ambionics/phpggc
+PHP Encryption=>defuse/php-encryption
+PHP SSH=>Herzult/php-ssh
+PHPSecLib=>http://phpseclib.sourceforge.net/
+random\_compat=>paragonie/random_compat
+RandomLib=>ircmaxell/RandomLib
+Symfony Security Monitoring=>https://security.symfony.com/
+SQLMap=>sqlmapproject/sqlmap
+TCrypto=>timoh6/TCrypto
+VAddy=>https://vaddy.net/
+Zap=>https://owasp.org/www-project-zap/
+
+##Passwords
+GenPhrase=>timoh6/GenPhrase
+Password Compat=>ircmaxell/password_compat
+Password Policy=>ircmaxell/password-policy
+Password Validator=>jeremykendall/password-validator
+Password-Generator=>hackzilla/password-generator
+PHP Password Lib=>ircmaxell/PHP-PasswordLib
+phpass=>https://www.openwall.com/phpass/
+Zxcvbn PHP=>bjeavons/zxcvbn-php
+
+##Code Analysis
+Better Reflection=>Roave/BetterReflection
+Code Climate=>https://codeclimate.com
+GrumPHP=>phpro/grumphp
+PHP Parser=>nikic/PHP-Parser
+PHP Semantic Versioning Checker=>tomzx/php-semver-checker
+Phpactor=>phpactor/phpactor
+PHPLOC=>sebastianbergmann/phploc
+PHPQA=>EdgedesignCZ/phpqa
+Qafoo Quality Analyzer=>Qafoo/QualityAnalyzer
+Rector=>rectorphp/rector
+Scrutinizer=>https://scrutinizer-ci.com/
+UBench=>devster/ubench
+
+##Code Quality
+CaptainHook=>captainhookphp/captainhook
+PHP CodeSniffer=>squizlabs/PHP_CodeSniffer
+PHP CS Fixer=>FriendsOfPHP/PHP-CS-Fixer
+PHP Mess Detector=>phpmd/phpmd
+PHPCheckstyle=>PHPCheckstyle/phpcheckstyle
+PHPCPD=>sebastianbergmann/phpcpd
+
+##Static Analysis
+Exakat=>exakat/exakat
+Deptrac=>qossmic/deptrac
+Mondrian=>Trismegiste/Mondrian
+phan=>phan/phan
+PHP Architecture Tester=>carlosas/phpat
+PHPCompatibility=>PHPCompatibility/PHPCompatibility
+PhpDependencyAnalysis=>mamuz/PhpDependencyAnalysis
+PHP Metrics=>phpmetrics/PhpMetrics
+PHP Migration=>monque/PHP-Migration
+PHPStan=>phpstan/phpstan
+Psalm=>vimeo/psalm
+
+##Architectural
+Design Patterns PHP=>DesignPatternsPHP/DesignPatternsPHP
+Finite=>https://yohan.giarel.li/Finite/
+Functional PHP=>lstrojny/functional-php
+Iter=>nikic/iter
+Patchwork=>https://patchwork2.org/
+Pipeline=>thephpleague/pipeline
+Porter=>ScriptFUSION/Porter
+RulerZ=>K-Phoen/rulerz
+
+##Debugging and Profiling
+APM=>https://pecl.php.net/package/APM
+Barbushin PHP Console=>barbushin/php-console
+Blackfire.io=>https://www.blackfire.io
+Kint=>kint-php/kint
+Metrics=>beberlei/metrics
+PCOV=>krakjoe/pcov
+PHP Console=>Seldaek/php-console
+PHP Debug Bar=>http://phpdebugbar.com/
+PHPBench=>phpbench/phpbench
+PHPSpy=>adsr/phpspy
+Symfony VarDumper=>symfony/var-dumper
+Tideways.io=>https://tideways.com/
+Tracy=>nette/tracy
+Whoops=>filp/whoops
+xDebug=>xdebug/xdebug
+XHProf=>phacility/xhprof
+Z-Ray=>https://www.zend.com/products/z-ray
+
+##Build Tools
+Box=>box-project/box
+Construct=>jonathantorres/construct
+Phing=>https://www.phing.info/
+RMT=>liip/RMT
+
+##Task Runners
+Bldr=>https://bldr.io/
+Jobby=>jobbyphp/jobby
+Robo=>consolidation/Robo
+Task=>https://taskphp.github.io/
+
+##Navigation
+KnpMenu=>KnpLabs/KnpMenu
+Menu=>spatie/menu
+
+##Asset Management
+JShrink=>tedious/JShrink
+Laravel Mix=>laravel-mix/laravel-mix
+Symfony Asset=>symfony/asset
+Symfony Encore=>symfony/webpack-encore
+
+##Geolocation
+Country List=>umpirsky/country-list
+GeoCoder=>https://geocoder-php.org/
+GeoJSON=>jmikola/geojson
+GeoTools=>thephpleague/geotools
+PHPGeo=>mjaschen/phpgeo
+
+##Event
+Amp=>amphp/amp
+Broadway=>broadway/broadway
+CakePHP Event=>cakephp/event
+Elephant.io=>Wisembly/Elephant.io
+Evenement=>igorw/evenement
+Event=>thephpleague/event
+Pawl=>ratchetphp/Pawl
+Prooph Event Store=>prooph/event-store
+PHP Defer=>php-defer/php-defer
+Ratchet=>ratchetphp/Ratchet
+ReactPHP=>reactphp/reactphp
+RxPHP=>ReactiveX/RxPHP
+Swoole=>swoole/swoole-src
+Workerman=>walkor/Workerman
+
+##Logging
+Monolog=>Seldaek/monolog
+
+##E-commerce
+Money=>moneyphp/money
+Brick\\Money=>brick/money
+OmniPay=>thephpleague/omnipay
+Payum=>payum/payum
+Shopware=>shopware/shopware
+Swap=>florianv/swap
+Sylius=>https://sylius.com/
+
+##PDF
+Dompdf=>dompdf/dompdf
+PHPPdf=>psliwa/PHPPdf
+Snappy=>KnpLabs/snappy
+WKHTMLToPDF=>wkhtmltopdf/wkhtmltopdf
+
+##Office
+PHPPowerPoint=>PHPOffice/PHPPresentation
+PHPWord=>PHPOffice/PHPWord
+PHPSpreadsheet=>PHPOffice/PhpSpreadsheet
+Spout=>box/spout
+
+##Database
+Atlas.Orm=>atlasphp/Atlas.Orm
+Aura.Sql=>auraphp/Aura.Sql
+Aura.SqlQuery=>auraphp/Aura.SqlQuery
+Baum=>etrepat/baum
+CakePHP ORM=>cakephp/orm
+Cycle ORM=>cycle/orm
+Doctrine Extensions=>doctrine-extensions/DoctrineExtensions
+Doctrine=>https://www.doctrine-project.org/
+Laravel Eloquent=>illuminate/database
+Pomm=>chanmix51/Pomm
+ProxyManager=>Ocramius/ProxyManager
+RedBean=>https://redbeanphp.com/index.php
+Slimdump=>webfactory/slimdump
+Spot2=>spotorm/spot2
+
+##Migrations
+Migrations=>icomefromthenet/Migrations
+Phinx=>cakephp/phinx
+PHPMig=>davedevelopment/phpmig
+Ruckusing=>ruckus/ruckusing-migrations
+Doctrine Migrations=>https://www.doctrine-project.org/projects/migrations.html
+
+##NoSQL
+PHPMongo=>sokil/php-mongo
+Predis=>predis/predis
+
+##Queue
+Bernard=>bernardphp/bernard
+BunnyPHP=>jakubkulhan/bunny
+Pheanstalk=>pheanstalk/pheanstalk
+PHP AMQP=>php-amqplib/php-amqplib
+Tarantool Queue=>tarantool-php/queue
+Thumper=>php-amqplib/Thumper
+Enqueue=>php-enqueue/enqueue-dev
+
+##Search
+Elastica=>ruflin/Elastica
+ElasticSearch PHP=>elastic/elasticsearch-php
+Solarium=>https://www.solarium-project.org/
+SphinxQL Query Builder=>https://foolcode.github.io/SphinxQL-Query-Builder/
+
+##Command Line
+Aura.Cli=>auraphp/Aura.Cli
+Boris=>borisrepl/boris
+Cilex=>Cilex/Cilex
+CLI Menu=>php-school/cli-menu
+CLIFramework=>c9s/CLIFramework
+CLImate=>thephpleague/climate
+Commando=>nategood/commando
+Cron Expression=>mtdowling/cron-expression
+GetOpt=>getopt-php/getopt-php
+GetOptionKit=>c9s/GetOptionKit
+PsySH=>bobthecow/psysh
+ShellWrap=>MrRio/shellwrap
+
+##Authentication and Authorization
+Aura.Auth=>auraphp/Aura.Auth
+SocialConnect Auth=>socialConnect/auth
+Json Web Token=>lcobucci/jwt
+OAuth 1.0 Client=>thephpleague/oauth1-client
+OAuth 2.0 Client=>thephpleague/oauth2-client
+OAuth2 Server=>https://bshaffer.github.io/oauth2-server-php-docs/
+OAuth2 Server=>https://oauth2.thephpleague.com/
+Opauth=>opauth/opauth
+Paseto=>paragonie/paseto
+PHP oAuthLib=>Lusitanian/PHPoAuthLib
+Sentinel Social=>https://cartalyst.com/manual/sentinel-social/2.0
+Sentinel=>https://cartalyst.com/manual/sentinel/2.0
+TwitterOAuth=>abraham/twitteroauth
+
+##Markup and CSS
+Cebe Markdown=>cebe/markdown
+CommonMark PHP=>thephpleague/commonmark
+Decoda=>milesj/decoda
+Essence=>essence/essence
+Embera=>mpratt/Embera
+HTML to Markdown=>thephpleague/html-to-markdown
+HTML5 PHP=>Masterminds/html5-php
+Parsedown=>erusev/parsedown
+PHP CSS Parser=>sabberworm/PHP-CSS-Parser
+PHP Markdown=>michelf/php-markdown
+Shiki PHP=>spatie/shiki-php
+VObject=>sabre-io/vobject
+
+##JSON
+JSON Lint=>Seldaek/jsonlint
+JSONMapper=>JsonMapper/JsonMapper
+
+##Strings
+Agent=>jenssegers/agent
+ANSI to HTML5=>sensiolabs/ansi-to-html
+Color Jizz=>mikeemoo/ColorJizz-PHP
+Device Detector=>matomo-org/device-detector
+Jieba-PHP=>fukuball/jieba-php
+Mobile-Detect=>serbanghita/Mobile-Detect
+Patchwork UTF-8=>nicolas-grekas/Patchwork-UTF8
+Portable ASCII=>voku/portable-ascii
+Portable UTF-8=>voku/portable-utf8
+Slugify=>cocur/slugify
+SQL Formatter=>jdorn/sql-formatter/
+Stringy=>voku/Stringy
+UA Parser=>tobie/ua-parser/tree/master/php
+URLify=>jbroadway/urlify
+UUID=>ramsey/uuid
+
+##Numbers
+Brick\\Math=>brick/math
+ByteUnits=>gabrielelana/byte-units
+DecimalObject=>spryker/decimal-object
+IP=>darsyn/ip
+LibPhoneNumber for PHP=>giggsey/libphonenumber-for-php
+PHP Conversion=>Crisu83/php-conversion
+PHP Units of Measure=>triplepoint/php-units-of-measure
+MathPHP=>markrogoyski/math-php
+
+##Filtering and Validation
+Assert=>beberlei/assert
+Aura.Filter=>auraphp/Aura.Filter
+CakePHP Validation=>cakephp/validation
+Filterus=>ircmaxell/filterus
+ISO-codes=>ronanguilloux/IsoCodes
+JSON Schema=>justinrainbow/json-schema
+MetaYaml=>romaricdrigon/MetaYaml
+Respect Validation=>Respect/Validation
+Upload=>brandonsavage/Upload
+Valitron=>vlucas/valitron
+Volan=>serkin/Volan
+
+##API
+Drest=>leedavis81/drest
+HAL=>blongden/hal
+Hateoas=>willdurand/Hateoas
+Jane=>janephp/janephp/
+Negotiation=>willdurand/Negotiation
+Restler=>Luracast/Restler
+wsdl2phpgenerator=>wsdl2phpgenerator/wsdl2phpgenerator
+API Platform=>https://api-platform.com
+Laminas API Tool Skeleton=>laminas-api-tools/api-tools-skeleton
+
+
+##Caching and Locking
+APIx Cache=>apix/cache
+CacheTool=>gordalina/cachetool
+CakePHP Cache=>cakephp/cache
+Doctrine Cache=>doctrine/cache
+Metaphore=>sobstel/metaphore
+Stash=>tedious/Stash
+Laminas Cache=>laminas/laminas-cache
+Lock=>php-lock/lock
+
+##Data Structure and Storage
+CakePHP Collection=>cakephp/collection
+Fractal=>thephpleague/fractal
+Ginq=>akanehara/ginq
+JsonMapper=>cweiske/jsonmapper
+JSON Machine=>halaxa/json-machine
+Knapsack=>DusanKasan/Knapsack
+msgpack.php=>rybakit/msgpack.php
+PINQ=>TimeToogo/Pinq
+Serializer=>schmittjoh/serializer
+YaLinqo=>Athari/YaLinqo
+Laminas Serializer=>laminas/laminas-serializer
+
+##Notifications
+JoliNotif=>jolicode/JoliNotif
+Notification Pusher=>Ph3nol/NotificationPusher
+Notificato=>mac-cain13/notificato
+Notificator=>namshi/notificator
+Php-pushwoosh=>gomoob/php-pushwoosh
+
+##Deployment
+Deployer=>deployphp/deployer
+Envoy=>laravel/envoy
+Rocketeer=>rocketeers/rocketeer
+
+##Internationalisation and Localisation
+Aura.Intl=>auraphp/Aura.Intl
+CakePHP I18n=>cakephp/i18n
+
+##Serverless
+Bref=>https://bref.sh/
+OpenWhisk=>https://openwhisk.apache.org/
+Serverless Framework=>https://www.serverless.com/framework
+Laravel Vapor=>https://vapor.laravel.com/
+
+##Configuration
+PHP Dotenv=>vlucas/phpdotenv
+Symfony Dotenv=>symfony/dotenv
+Yo! Symfony TOML=>yosymfony/toml
+
+##Third Party APIs
+Amazon Web Service SDK=>aws/aws-sdk-php
+AsyncAWS=>https://async-aws.com/
+Campaign Monitor=>https://campaignmonitor.github.io/createsend-php/
+Github=>KnpLabs/php-github-api
+Mailgun=>mailgun/mailgun-php
+Square=>square/connect-php-sdk
+Stripe=>stripe/stripe-php
+Twilio=>twilio/twilio-php
+
+##Extensions
+PHP CPP=>https://www.php-cpp.com/
+Zephir=>zephir-lang/zephir
+
+##Miscellaneous
+Annotations=>doctrine/annotations
+BotMan=>botman/botman
+ClassPreloader=>ClassPreloader/ClassPreloader
+Hprose-PHP=>hprose/hprose-php
+noCAPTCHA=>ARCANEDEV/noCAPTCHA
+Pagerfanta=>whiteoctober/Pagerfanta
+Safe=>thecodingmachine/safe
+SuperClosure=>jeremeamia/super_closure
+
+##PHP Installation
+Brew PHP Switcher=>philcook/brew-php-switcher
+HomeBrew=>https://brew.sh/
+Laravel Valet=>https://laravel.com/docs/master/valet
+PHP Brew=>phpbrew/phpbrew
+PHP Build=>php-build/php-build
+PHP OSX=>https://php-osx.liip.ch/
+
+##Development Environment
+Ansible=>https://www.ansible.com/
+Docker=>https://www.docker.com/
+Docker PHP Extension Installer=>mlocati/docker-php-extension-installer
+Expose=>beyondcode/expose
+Lando=>https://lando.dev/
+Laravel Homestead=>https://laravel.com/docs/master/homestead
+Laradock=>http://laradock.io/
+Puppet=>https://puppet.com/
+Takeout=>tighten/takeout
+Vagrant=>https://www.vagrantup.com/
+
+##Virtual Machines
+Hack=>https://hacklang.org/
+HHVM=>facebook/hhvm
+PeachPie=>peachpiecompiler/peachpie
+
+##Text Editors and IDEs
+Eclipse for PHP Developers=>https://www.eclipse.org/downloads/
+Apache NetBeans=>https://netbeans.apache.org/
+PhpStorm=>https://www.jetbrains.com/phpstorm/
+VS Code=>https://code.visualstudio.com/
+
+##Web Applications
+3V4L=>https://3v4l.org/
+Adminer=>https://www.adminer.org/
+Cachet=>cachethq/cachet
+DBV=>victorstanciu/dbv
+Lychee=>electerious/Lychee
+MailCatcher=>sj26/mailcatcher
+phpMyAdmin=>phpmyadmin/phpmyadmin
+PHP Queue=>CoderKungfu/php-queue
+phpRedisAdmin=>ErikDubbelboer/phpRedisAdmin
+PHPSandbox=>https://phpsandbox.io
+
+##Infrastructure
+appserver.io=>appserver-io/appserver
+php-pm=>php-pm/php-pm
+RoadRunner=>roadrunner-server/roadrunner
+

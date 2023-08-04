@@ -5,10 +5,10 @@
 ##Jude Bellingham Skills-->bellingham_skills
 
 @@@Vinicius Jr
-##Vinicius Jr Goals-->vinícius_goals
-##Vinicius Jr Assists-->vinícius_assists
-##Vinicius Jr Skills-->vinícius_skills
-##Vinicius Jr Dribbling-->vinícius_dribbling
+##Vinicius Jr Goals-->vinicius_goals
+##Vinicius Jr Assists-->vinicius_assists
+##Vinicius Jr Skills-->vinicius_skills
+##Vinicius Jr Dribbling-->vinicius_dribbling
 
 @@@Luka Modric
 ##Luka Modric Goals-->modric_goals
