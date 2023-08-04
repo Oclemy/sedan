@@ -8,3 +8,9 @@
 @@@Science
 ##Data Science Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/data-science.txt
 ##Scientific Audio Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/scientific-audio.txt
+
+@@@Native Libraries
+##C Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/c_libraries/c_libraries.txt
+##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries/cpp_libraries.txt
+##Fortran Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran_libraries.txt
+##Rust Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/rustlibraries/rustlibraries.txt

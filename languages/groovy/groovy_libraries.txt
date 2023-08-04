@@ -1,0 +1,146 @@
+## Build tools, setup and CI
+Gradle=>https://www.gradle.org/
+GMavenPlus=>groovy/GMavenPlus
+SDKMAN=>https://sdkman.io/
+skeletal=>cbmarcum/skeletal
+Lazybones=>pledbrook/lazybones
+Jenkins jobdslplugin=>jenkinsci/jobdslplugin
+travisgroovy=>kdabir/travisgroovy
+Android Groovy Shell=>https://play.google.com/store/apps/details?id=com.tambapps.android.grooidshell
+
+
+## IDE and Editor Support
+IntelliJ IDEA=>http://www.jetbrains.com/idea/
+Groovy Grails Tool Suite=>https://marketplace.eclipse.org/content/groovygrailstoolsuiteggtseclipse
+Groovy Web Console=>http://groovyconsole.appspot.com/
+LightTable Plugin=>rundis/LightTableGroovy
+SpaceVim=>https://spacevim.org/layers/lang/groovy/
+Sublime Text 2/3=>https://gist.github.com/kdabir/2203530
+
+
+## Web Frameworks
+Grails=>grails/grails
+Micronaut=>http://micronaut.io/
+SpringBoot=>https://projects.spring.io/springboot
+Gaelyk=>gaelyk/gaelyk
+Glide=>kdabir/glide
+Ratpack=>ratpack/ratpack
+gServ=>javaConductor/gserv
+
+
+## Database
+GORM=>https://gorm.grails.org/
+Gmongo=>poiati/gmongo
+Gstorm=>kdabir/gstorm
+Tayra=>EqualExperts/Tayra
+Groovyliquibase=>tlberglund/groovyliquibase
+Effigy=>cjstehno/effigy
+elasticsearchgroovy=>elastic/elasticsearchgroovy
+
+
+## Rich Application
+Griffon=>http://griffonframework.org/
+GroovyFx=>http://groovyfx.org/
+
+
+## HTTP
+HttpBuilder=>jgritman/httpbuilder
+HTTP Builder NG=>httpbuilderng/httpbuilderng
+HTTP Builder NG Gradle Plugin=>httpbuilderng/gradlehttpplugin
+AsyncRestClient=>eginez/AsyncRestClient
+Groovywslite=>jwagenleitner/groovywslite
+Hyperpoet=>tambapps/hyperpoet
+
+
+## Testing
+Spock=>spockframework/spock
+Geb=>geb/geb
+Betamax=>betamaxteam/betamax
+HTTP Mock Server=>TouK/httpmockserver
+Ersatz Mock Server=>cjstehno/ersatz
+Dru=>https://agorapulse.github.io/dru/
+Gru=>https://agorapulse.github.io/gru/
+
+
+## Concurrency
+GPars=>GPars/GPars
+RxGroovy=>ReactiveX/RxGroovy
+Vertx=>https://vertx.io/
+
+
+## Code Analysis
+CodeNarc=>http://codenarc.sourceforge.net/
+SonarGroovy=>pmayweg/sonargroovy
+
+
+## Transpilers
+Grooscript=>chiquitinxx/grooscript
+
+
+## Static Web
+Grain=>sysgears/grain
+Gaiden=>kobo/gaiden
+
+
+## Language Utilities
+Functionalgroovy=>mperry/functionalgroovy
+Groovystream=>timyates/groovystream
+Flipside=>johnnywey/flipside
+groovycommonextensions=>timyates/groovycommonextensions
+groovyextralistbehaviour=>dnahodil/groovyextralistbehaviour
+GPerfUtils=>gperfutils
+gprof=>gperfutils/gprof
+gbench=>gperfutils/gbench
+FuzzyCSV=>kayr/fuzzycsv
+
+
+## Data Processing
+Nextflow=>https://www.nextflow.io/
+
+
+## File System Utilities
+GroovyVfs=>ysb33r/groovyvfs
+Directree=>kdabir/directree
+
+
+## DSLs
+
+documentbuilder=>craigburke/documentbuilder
+spreadsheetbuilder=>http://spreadsheet.dsl.builders/
+GroovyCSV=>http://xlson.com/groovycsv/
+Groogle=>https://groogle.gitlab.io/groogle/latest/index.html
+
+
+## Scripting Tools
+EasyDokkaPlugin=>Vorlonsoft/EasyDokkaPlugin
+GradleMavenPush=>Vorlonsoft/GradleMavenPush
+picocli=>remkop/picocli
+sshoogr=>aestasit/sshoogr
+
+
+## Rule Engines
+grules=>zhaber/grules
+ncube=>jdereg/ncube
+
+## Try Groovy in Browser
+Groovy Web Console=>https://gwcexperiment.appspot.com/
+Groovy Playground=>https://groovyplayground.appspot.com/
+
+
+## Groovy Code Examples
+MrHaKi's Goodness=>http://mrhaki.blogspot.com/
+PLEAC Groovy=>http://pleac.sourceforge.net/pleac_groovy/
+
+
+## Interactive Learning
+GroovyKoans=>http://nadavc.github.io/groovykoans/
+
+
+
+## Conferences
+Community Over Code=>https://communityovercode.org/
+Greachconf=>http://greachconf.com/
+GR8Conf Europe=>https://gr8conf.eu/
+GR8Conf USA=>http://gr8conf.us/
+
+

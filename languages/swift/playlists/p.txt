@@ -1,8 +1,15 @@
+@@@Android Development
+##Kotlin Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/kotlinreference.txt
+##Android Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/androidlibraries/androidlibraries.txt
+
+@@@Hybrid Development
+##Flutter Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/flutter_libraries/flutter_libraries.txt
+##Dart Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/dart/dart_libraries.txt
+
 @@@Native Languages
 ##Julia Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/julia/julia.txt
 ##Fortran Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran.txt
 ##Erlang Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/erlang/erlang.txt
-##Kotlin Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/kotlinreference.txt
 
 @@@Libraries
 ##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries.txt

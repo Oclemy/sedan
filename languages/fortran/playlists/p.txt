@@ -1,13 +1,15 @@
+@@@Libraries
+##Fortran Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran_libraries.txt
+##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries/cpp_libraries.txt
+##C Libraries--https://raw.githubusercontent.com/Oclemy/sedan/main/languages/c_libraries/c_libraries.txt
+##Go Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/go_libraries/go_libraries.txt
+
 @@@Native Languages
 ##Erlang Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/erlang/erlang.txt
 ##Julia Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/julia/julia.txt
 ##Ocaml Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/ocaml/ocaml.txt
 ##Kotlin Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/kotlinreference.txt
 
-@@@Libraries
-##Fortran Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran_libraries.txt
-##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries.txt
-##C Libraries--https://raw.githubusercontent.com/Oclemy/sedan/main/languages/c_libraries.txt
-##Go Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/go_libraries.txt
+
 
 

@@ -1,0 +1,70 @@
+## Data Science
+Kotlin Jupyter=>Kotlin/kotlin-jupyter
+krangl=>holgerbrandl/krangl
+kmath=>mipt-npm/kmath
+Let's plot=>JetBrains/lets-plot-kotlin
+Kotlin Statistics=>thomasnield/kotlin-statistics
+Data Science Overview=>https://kotlinlang.org/docs/reference/data-science-overview.html
+KotlinDL=>https://jetbrains.github.io/KotlinDL/
+
+## Tools
+KtLint=>pinterest/ktlint
+detect=>detekt/detekt
+dokka=>Kotlin/dokka
+refreshVersions=>jmfayard/refreshVersions
+kover=>Kotlin/kotlinx-kover
+
+## Web Frameworks
+ktor=>https://ktor.io/
+http4k=>https://www.http4k.org/
+kotless=>jetbrains/kotless
+
+## Testing
+mockk=>mockk/mockk
+mockito=>nhaarman/mockito-kotlin
+spek=>JetBrains/spek
+agoda-com/Kakao
+
+## Database
+Exposed=>JetBrains/Exposed
+SQLDelight=>square/sqldelight
+xodus=>JetBrains/xodus
+
+## Misc
+Kotlinx dateTime=>Kotlin/kotlinx-datetime
+Kotlinx atmicfu=>Kotlin/kotlinx.atomicfu
+
+## Serialization
+kotlinx.serialization=>Kotlin/kotlinx.serialization
+Jackson Kotlin=>FasterXML/jackson-module-kotlin
+
+## Dependency Injection
+Koin=>Ekito/koin
+Kodein=>Kodein-Framework/Kodein-DI
+
+## Coroutines
+coroutines=>Kotlin/kotlinx.coroutines
+
+## Configuration
+config4k=>config4k/config4k
+
+## Editors
+Intellij Community=>JetBrains/intellij-community
+
+## API Clients
+Space Kotlin SDk=>JetBrains/space-kotlin-sdk
+
+## I/O
+Okio=>https://square.github.io/okio
+
+## Javascript Example
+kotlin-fullstack-sample=>Kotlin/kotlin-fullstack-sample
+
+## Javascript Build Tools
+kotlin-frontend-plugin=>Kotlin/kotlin-frontend-plugin
+
+## Javascript Integration
+Dukat=>Kotlin/dukat
+
+## Native projects
+Native Projects=>JetBrains/kotlin-native
