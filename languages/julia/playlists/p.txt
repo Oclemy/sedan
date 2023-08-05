@@ -6,5 +6,5 @@
 
 @@@Libraries
 ##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries/cpp_libraries.txt
-##C Libraries--https://raw.githubusercontent.com/Oclemy/sedan/main/languages/c_libraries/c_libraries.txt
+##C Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/c_libraries/c_libraries.txt
 ##Go Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/go_libraries/go_libraries.txt

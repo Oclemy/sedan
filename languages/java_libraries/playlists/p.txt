@@ -1,4 +1,4 @@
-@@@Libraries
+@@@More Libraries
 ##Kotlin Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/kotlin_libraries.txt
 ##Groovy Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/groovy/groovy_libraries.txt
 ##Dart Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/dart/dart_libraries.txt
@@ -6,12 +6,6 @@
 @@@Mobile Development
 ##Android Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/androidlibraries/androidlibraries.txt
 ##Flutter Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/flutter_libraries/flutter_libraries.txt
-
-@@@Learn Native Languages
-##Julia Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/julia/julia.txt
-##Fortran Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran.txt
-##Ocaml Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/ocaml/ocaml.txt
-##Erlang Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/erlang/erlang.txt
 
 @@@Native Languages
 ##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries.txt

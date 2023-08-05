@@ -1,0 +1,945 @@
+### Bean Mapping 
+
+dOOv=>doovio/doov
+JMapper=>jmapperframework/jmappercore
+MapStruct=>mapstruct/mapstruct
+ModelMapper=>modelmapper/modelmapper
+Orika=>orikamapper/orika
+reMap=>remondisit/remap
+Selma=>xebiafrance/selma 
+
+### Build 
+Apache Maven=>https://maven.apache.org/
+Bazel=>https://bazel.build/
+Buck=>facebook/buck
+Gradle=>https://gradle.org/ 
+
+### Bytecode Manipulation 
+ASM=>https://asm.ow2.io/
+Byte Buddy=>https://bytebuddy.net/
+bytecodeviewer=>Konloch/bytecodeviewer
+Byteman=>https://byteman.jboss.org/
+cglib=>cglib/cglib
+Javassist=>jbossjavassist/javassist
+Maker=>cojen/maker
+Mixin=>SpongePowered/Mixin
+Perses=>nicolasmanic/perses
+Recaf=>https://www.coley.software/Recaf/ 
+
+### Caching 
+cache2k=>https://cache2k.org/
+Caffeine=>benmanes/caffeine
+Ehcache=>http://www.ehcache.org/
+Infinispan=>https://infinispan.org/ 
+
+### CLI 
+ASCII Table=>vdmeer/asciitable
+Airline=>airlift/airline
+args4j=>http://args4j.kohsuke.org/
+Jansi=>fusesource/jansi
+Java ASCII Render=>indvd00m/javaasciirender
+JCommander=>http://jcommander.org/
+jbock=>jbockjava/jbock
+Jexer=>https://gitlab.com/klamonte/jexer
+JLine=>jline/jline3
+JOpt Simple=>https://joptsimple.github.io/joptsimple/
+picocli=>https://picocli.info/
+TextIO=>beryx/textio
+Lanterna=>mabe02/lanterna 
+
+### Cluster Management 
+Apache Aurora=>https://aurora.apache.org/
+Singularity=>http://getsingularity.com/ 
+
+### Code Analysis 
+Checkstyle=>checkstyle/checkstyle
+Error Prone=>google/errorprone
+Error Prone Support=>PicnicSupermarket/errorpronesupport
+Infer=>facebook/infer
+jQAssistant=>https://jqassistant.org/
+NullAway=>uber/NullAway
+PMD=>pmd/pmd
+p3c=>alibaba/p3c
+RefactorFirst=>jimbethancourt/RefactorFirst
+SonarJava=>SonarSource/sonarjava
+Spoon=>INRIA/spoon
+Spotbugs=>spotbugs/spotbugs 
+
+### Code Coverage 
+ 
+Clover=>https://www.atlassian.com/software/clover
+Cobertura=>https://cobertura.github.io/cobertura/
+JaCoCo=>https://www.eclemma.org/jacoco/ 
+
+### Code Generators 
+
+ADT4J=>sviperll/adt4j
+Auto=>google/auto
+Avaje Http Server=>https://avaje.io/http/
+FreeBuilder=>inferred/FreeBuilder
+Geci=>verhas/javageci
+Immutables=>https://immutables.github.io
+JavaPoet=>square/javapoet
+JHipster=>jhipster/generator-jhipster
+Joda-Beans=>https://www.joda.org/joda-beans/
+Lombok=>https://projectlombok.org
+Record-Builder=>Randgalt/record-builder
+Telosys=>https://www.telosys.org/
+
+### Compiler-compiler 
+ 
+ANTLR=>https://www.antlr.org/
+JavaCC=>https://javacc.github.io/javacc/
+JFlex=>https://jflex.de/ 
+
+### Computer Vision 
+ 
+BoofCV=>https://boofcv.org/
+ImageJ=>https://imagej.net/ImageJ
+JavaCV=>bytedeco/javacv 
+
+### Configuration 
+ 
+avaje config=>https://avaje.io/config/
+centraldogma=>line/centraldogma
+cfg4j=>cfg4j/cfg4j
+config=>lightbend/config
+Configurate=>SpongePowered/Configurate
+Curator Framework=>https://curator.apache.org/
+dotenv=>shyiko/dotenv
+Externalized Properties=>joeljeremy/externalizedproperties
+ini4j=>http://ini4j.sourceforge.net/
+KAConf=>mariomac/kaconf
+microconfig=>https://microconfig.io/
+owner=>lviggiano/owner 
+
+### Constraint Satisfaction Problem Solver 
+Choco=>https://chocosolver.org/
+JaCoP=>radsz/jacop
+OptaPlanner=>https://www.optaplanner.org/
+Timefold=>TimefoldAI/timefoldsolver 
+
+### CSV 
+FastCSV=>osiegmar/FastCSV
+jacksondataformatcsv=>FasterXML/jacksondataformatcsv
+opencsv=>http://opencsv.sourceforge.net/
+Super CSV=>https://supercsv.github.io/supercsv/
+uniVocityparsers=>uniVocity/univocityparsers 
+
+### Data Structures 
+Apache Avro=>https://avro.apache.org/
+Apache Orc=>https://orc.apache.org/
+Apache Parquet=>https://parquet.apache.org/
+Apache Thrift=>https://thrift.apache.org/
+Big Queue=>bulldog2011/bigqueue
+HyperMinHashjava=>LiveRamp/HyperMinHashjava
+Persistent Collection=>hrldcpr/pcollections
+Protobuf=>protocolbuffers/protobuf
+RoaringBitmap=>RoaringBitmap/RoaringBitmap
+SBE=>reallogic/simplebinaryencoding
+Tape=>square/tape
+Wire=>square/wire 
+
+### Database 
+Apache Calcite=>https://calcite.apache.org/
+Apache Drill=>https://drill.apache.org/
+Apache Phoenix=>https://phoenix.apache.org/
+ArangoDB=>arangodb/arangodbjavadriver
+Chronicle Map=>OpenHFT/ChronicleMap
+Debezium=>https://debezium.io/
+druid=>https://druid.apache.org/
+eXist=>eXistdb/exist
+FlexyPool=>vladmihalcea/flexypool
+Flyway=>https://flywaydb.org/
+H2=>https://h2database.com/
+HikariCP=>brettwooldridge/HikariCP
+HSQLDB=>https://hsqldb.org/
+JDBI=>http://jdbi.org/
+Jedis=>xetorthio/jedis
+Jest=>searchboxio/Jest
+jetcd=>justinsb/jetcd
+Jinq=>my2iu/Jinq
+jOOQ=>https://www.jooq.org/
+Leaf=>MeituanDianping/Leaf
+Lettuce=>https://lettuce.io/
+Liquibase=>http://www.liquibase.org/
+MapDB=>http://www.mapdb.org/
+MariaDB4j=>vorburger/MariaDB4j
+Modality=>arkanovicz/modality
+OpenDJ=>OpenIdentityPlatform/OpenDJ
+Querydsl=>http://www.querydsl.com/
+QueryStream=>querystream/querystream
+QuestDB=>questdb/questdb
+Realm=>realm/realmjava
+Redisson=>redisson/redisson
+requery=>requery/requery
+Speedment=>speedment/speedment
+Spring Data JPA MongoDB Expressions=>mhewedy/springdatajpamongodbexpressions
+Trino=>https://trino.io/
+Vibur DBCP=>https://www.vibur.org/
+Xodus=>JetBrains/xodus
+CosId=>AhooWang/CosId 
+
+### Date and Time 
+iCal4j=>ical4j/ical4j
+Jollyday=>svendiedrichsen/jollyday
+ThreeTenExtra=>ThreeTen/threetenextra
+Time4J=>MenoData/Time4J 
+
+### Dependency Injection 
+Apache DeltaSpike=>https://deltaspike.apache.org/
+Avaje Inject=>https://avaje.io/inject/
+Dagger=>https://dagger.dev/
+Feather=>zsoltherpai/feather
+Governator=>Netflix/governator
+Guice=>google/guice
+HK2=>https://javaee.github.io/hk2/
+JayWire=>vanillasource/jaywire 
+
+### Development 
+AspectJ=>https://www.eclipse.org/aspectj/
+DCEVM=>https://dcevm.github.io/
+Faux Pas=>zalando/fauxpas
+HotswapAgent=>HotswapProjects/HotswapAgent
+JavaParser=>javaparser/javaparser
+JavaSymbolSolver=>javaparser/javasymbolsolver
+Manifold=>manifoldsystems/manifold
+NoException=>https://noexception.machinezoo.com/
+SneakyThrow=>rainerhahnekamp/sneakythrow
+Tail=>https://nrktkt.github.io/tail/ 
+
+### Distributed Applications 
+Apache Geode=>https://geode.apache.org/
+Apache Storm=>https://storm.apache.org/
+Apache ZooKeeper=>https://zookeeper.apache.org/
+Atomix=>https://atomix.io/
+Axon=>https://axoniq.io/
+Dropwizard Circuit Breaker=>mtakaki/dropwizardcircuitbreaker
+Failsafe=>jhalterman/failsafe
+Hazelcast=>hazelcast/hazelcast
+JGroups=>http://www.jgroups.org/
+Quasar=>http://docs.paralleluniverse.co/quasar/
+resilience4j=>resilience4j/resilience4j
+OpenIG=>OpenIdentityPlatform/OpenIG
+ScaleCube Services=>scalecube/scalecubeservices
+Zuul=>Netflix/zuul 
+
+### Distributed Transactions 
+Atomikos=>https://www.atomikos.com/
+Bitronix=>bitronix/btm
+Narayana=>https://narayana.io/
+Seata=>seata/seata 
+
+### Distribution 
+
+Artipie=>artipie/artipie
+Boxfuse !=>https://boxfuse.com
+Capsule=>puniverse/capsule
+Central Repository=>https://search.maven.org
+Cloudsmith=>https://cloudsmith.io
+Getdown=>threerings/getdown
+IzPack=>http://izpack.org
+JavaPackager=>fvarrui/JavaPackager
+jDeploy=>https://www.jdeploy.com
+jlink.online=>AdoptOpenJDK/jlink.online
+Nexus !=>https://www.sonatype.com
+packr=>libgdx/packr
+really-executable-jars-maven-plugin=>brianm/really-executable-jars-maven-plugin
+
+ 
+ 
+### Document Processing 
+Apache POI=>https://poi.apache.org/
+documents4j=>https://documents4j.com/#/
+docx4j=>https://www.docx4java.org/trac/docx4j
+fastexcel=>dhatim/fastexcel
+zerocell=>creditdatamw/zerocell 
+
+### Financial 
+Cassandre=>cassandretech/cassandretradingbot
+Parity=>paritytrading/parity
+Philadelphia=>paritytrading/philadelphia
+Square=>square/connectjavasdk
+Stripe=>stripe/stripejava
+ta4j=>ta4j/ta4j 
+
+### Formal Verification 
+CATG=>ksen007/janala2
+Checker Framework=>https://checkerframework.org/
+Daikon=>https://plse.cs.washington.edu/daikon/
+JMLOK 2.0=>https://massoni.computacao.ufcg.edu.br/home/jmlok
+KeY=>https://www.keyproject.org/
+OpenJML=>http://www.openjml.org/ 
+
+### Functional Programming 
+Cyclops=>aol/cyclops
+derive4j=>derive4j/derive4j
+Fugue=>https://bitbucket.org/atlassian/fugue
+Functional Java=>http://www.functionaljava.org/
+jOOλ=>jOOQ/jOOL
+protonpack=>poetix/protonpack
+StreamEx=>amaembo/streamex
+Vavr=>https://www.vavr.io/ 
+
+### Game Development 
+FXGL=>https://almasb.github.io/FXGL/
+JBox2D=>http://www.jbox2d.org/
+jMonkeyEngine=>https://jmonkeyengine.org/
+libGDX=>https://libgdx.com/
+Litiengine=>https://litiengine.com/
+LWJGL=>https://www.lwjgl.org/
+Mini2Dx=>https://mini2dx.org/
+Void2D=>xzripper/Void2D 
+
+### Geospatial 
+Apache SIS=>https://sis.apache.org/
+Geo=>davidmoten/geo
+GeoTools=>https://geotools.org/
+GraphHopper=>graphhopper/graphhopper
+H2GIS=>http://www.h2gis.org/
+Jgeohash=>https://astrapi69.github.io/jgeohash/
+Mapsforge=>mapsforge/mapsforge
+Spatial4j=>locationtech/spatial4j 
+
+### GUI 
+JavaFX=>https://wiki.openjdk.java.net/display/OpenJFX/Main
+Scene Builder=>https://gluonhq.com/products/scenebuilder/
+SWT=>https://www.eclipse.org/swt/ 
+
+### High Performance 
+Agrona=>reallogic/Agrona
+Disruptor=>https://lmaxexchange.github.io/disruptor/
+Eclipse Collections=>eclipse/eclipsecollections
+fastutil=>http://fastutil.di.unimi.it/
+HPPC=>https://labs.carrotsearch.com/hppc.html
+JCTools=>JCTools/JCTools
+Koloboke=>leventov/Koloboke 
+
+### HTTP Clients 
+Apache HttpComponents=>https://hc.apache.org/
+Async Http Client=>AsyncHttpClient/asynchttpclient
+Avaje Http Client=>https://avaje.io/httpclient
+Feign=>OpenFeign/feign
+Google HTTP Client=>googleapis/googlehttpjavaclient
+methanol=>mizosoft/methanol
+Retrofit=>https://square.github.io/retrofit/
+Ribbon=>Netflix/ribbon
+Riptide=>zalando/riptide
+unirestjava=>Kong/unirestjava 
+
+### Hypermedia Types 
+ 
+ 
+hate=>blackdoor/hate
+JSONLD=>jsonldjava/jsonldjava
+Siren4J=>eseratingchwy/siren4j 
+
+### IDE 
+Eclipse=>https://www.eclipse.org/
+jGRASP=>https://www.jgrasp.org/
+NetBeans=>https://netbeans.apache.org/
+Visual Studio Code=>https://code.visualstudio.com/docs/languages/java 
+
+### Imagery 
+Imgscalr=>rkalla/imgscalr
+Tess4J=>nguyenq/tess4j
+Thumbnailator=>coobird/thumbnailator
+TwelveMonkeys=>haraldk/TwelveMonkeys
+ZXing=>zxing/zxing
+imagecomparison=>romankh3/imagecomparison 
+
+### Introspection 
+ClassGraph=>classgraph/classgraph
+jOOR=>jOOQ/jOOR
+Mirror=>http://projetos.vidageek.net/mirror/mirror/
+Objenesis=>http://objenesis.org/
+ReflectASM=>EsotericSoftware/reflectasm
+Reflections=>ronmamo/reflections 
+
+### Job Scheduling 
+JobRunr=>jobrunr/jobrunr
+Quartz=>quartzscheduler/quartz
+Sundial=>knowm/Sundial
+Wisp=>Coreoz/Wisp
+dbscheduler=>kagkarlsson/dbscheduler
+easybatch=>jeasy/easybatch
+shedlock=>lukaskrecan/ShedLock 
+
+### JSON 
+Avaje Jsonb=>https://avaje.io/jsonb/
+DSLJSON=>ngsdoo/dsljson
+Genson=>http://genson.io/
+Gson=>google/gson
+HikariJSON=>brettwooldridge/HikariJSON
+jacksonmodulesjava8=>FasterXML/jacksonmodulesjava8
+Jacksondatatypemoney=>zalando/jacksondatatypemoney
+Jackson=>FasterXML/jackson
+JSONio=>jdereg/jsonio
+jsoniter=>http://jsoniter.com/
+LoganSquare=>bluelinelabs/LoganSquare
+Moshi=>square/moshi
+Yasson=>eclipseee4j/yasson
+fastjson=>alibaba/fastjson
+Jolt=>bazaarvoice/jolt
+JsonPath=>jsonpath/JsonPath
+JsonSurfer=>jsurfer/JsonSurfer 
+
+### JVM and JDK 
+Adopt Open JDK=>https://adoptopenjdk.net/
+Avian=>ReadyTalk/avian
+Corretto=>https://aws.amazon.com/corretto/
+Dragonwell8=>alibaba/dragonwell8
+Graal=>oracle/graal
+Liberica JDK=>https://bellsw.com/
+OpenJ9=>eclipse/openj9
+Open JDK=>https://openjdk.java.net/
+ParparVM=>codenameone/CodenameOne/tree/master/vm
+RedHat Open JDK=>https://developers.redhat.com/products/openjdk/overview
+SAP Machine=>https://sap.github.io/SapMachine/
+Zulu=>https://www.azul.com/products/zulucommunity/ 
+
+### Logging 
+ 
+ 
+Apache Log4j 2=>https://logging.apache.org/log4j/
+Echopraxia=>tersesystems/echopraxia
+Graylog=>https://www.graylog.org/
+Kibana=>https://www.elastic.co/kibana
+Logback=>http://logback.qos.ch/
+Logbook=>zalando/logbook
+Logstash=>https://www.elastic.co/logstash
+p6spy=>p6spy/p6spy
+SLF4J=>http://www.slf4j.org/
+tinylog=>https://tinylog.org/v2/
+OpenTracing Toolbox=>zalando/opentracingtoolbox 
+
+### Machine Learning 
+ 
+ 
+Apache Flink=>https://flink.apache.org/
+Apache Mahout=>https://mahout.apache.org/
+DatumBox=>http://www.datumbox.com/
+Deeplearning4j=>https://deeplearning4j.org/
+DJL=>https://djl.ai/
+Intelligent java=>Barqawiz/IntelliJava
+JSAT=>EdwardRaff/JSAT
+m2cgen=>BayesWitnesses/m2cgen
+oj! Algorithms=>https://www.ojalgo.org/
+Oryx 2=>OryxProject/oryx
+Siddhi=>siddhiio/siddhi
+Smile=>haifengl/smile
+Tribuo=>https://tribuo.org/
+Weka=>https://www.cs.waikato.ac.nz/ml/weka/ 
+
+### Messaging 
+ 
+ 
+Aeron=>reallogic/Aeron
+Apache ActiveMQ=>https://activemq.apache.org/
+Apache Camel=>https://camel.apache.org/
+Apache Kafka=>https://kafka.apache.org/
+Apache Pulsar=>https://pulsar.apache.org/
+Apache RocketMQ=>https://rocketmq.apache.org/
+Apache Qpid=>https://qpid.apache.org/
+Deezpatch=>joeljeremy/deezpatch
+EventBus=>greenrobot/EventBus
+Hermes=>http://hermes.allegro.tech/
+JeroMQ=>zeromq/jeromq
+Nakadi=>zalando/nakadi
+RabbitMQ Java client=>rabbitmq/rabbitmqjavaclient
+Smack=>igniterealtime/Smack
+NATS client=>natsio/nats.java 
+
+### Microservice 
+ 
+ 
+ActiveRPC=>https://rpc.activej.io/
+Apollo=>https://spotify.github.io/apollo/
+Armeria=>line/armeria
+consulapi=>Ecwid/consulapi
+Eureka=>Netflix/eureka
+Helidon=>https://helidon.io/
+JDA=>DV8FromTheWorld/JDA
+KeenType=>DaveJarvis/KeenType
+kubernetesclient=>fabric8io/kubernetesclient
+Micronaut=>https://micronaut.io/
+Nacos=>https://nacos.io/
+OpenAIJava=>TheoKanning/openaijava
+Quarkus=>https://quarkus.io/
+Sentinel=>alibaba/Sentinel 
+
+### Miscellaneous 
+ 
+ 
+AWS SDK for Java 2.0=>aws/awssdkjavav2
+CQEngine=>npgall/cqengine
+Design Patterns=>iluwatar/javadesignpatterns
+FF4J=>ff4j/ff4j
+FizzBuzz Enterprise Edition=>EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+J2ObjC=>google/j2objc
+JBake=>https://jbake.org/
+JBot=>rampatra/jbot
+JCuda=>http://jcuda.org/
+Jimfs=>google/jimfs
+JodaMoney=>https://www.joda.org/jodamoney/
+jOOX=>jooq/joox
+JPad=>http://jpad.io/
+jsweet=>cincheo/jsweet
+Maven Wrapper=>takari/mavenwrapper
+Membrane Service Proxy=>membrane/serviceproxy
+MinimalFTP=>Guichaguri/MinimalFTP
+LittleProxy=>adamfisk/LittleProxy
+Modern Java  A Guide to Java 8=>winterbe/java8tutorial
+Modernizer=>gaul/modernizermavenplugin
+OctoLinker=>OctoLinker/OctoLinker
+OpenRefine=>http://openrefine.org/
+PipelinR=>sizovs/pipelinr
+Polyglot for Maven=>takari/polyglotmaven
+RR4J=>Kartikvk1996/RR4J
+Simple Java Mail=>bbottema/simplejavamail
+Smooks=>smooks/smooks
+Svix=>svix/svixwebhooks/tree/main/java
+Togglz=>https://www.togglz.org/
+TypeTools=>jhalterman/typetools
+XMLBeam=>SvenEwald/xmlbeam
+yGuard=>yWorks/yGuard 
+
+### Mobile Development 
+ 
+ 
+Codename One=>https://www.codenameone.com/
+MobileUI=>https://mobileui.dev/
+MultiOS Engine=>https://multiosengine.org/ 
+
+### Monitoring 
+Automon=>stevensouza/automon
+Failsafe Actuator=>zalando/failsafe-actuator
+Glowroot=>https://glowroot.org
+HertzBeat=>dromara/hertzbeat
+inspectIT=>https://www.inspectit.rocks
+Instrumental=>https://instrumentalapp.com
+JavaMelody=>javamelody/javamelody
+Jaeger client=>jaegertracing/jaeger-client-java
+jmxtrans=>jmxtrans/jmxtrans
+Jolokia=>https://jolokia.org
+Metrics=>dropwizard/metrics
+Datadog=>DataDog/dd-trace-java
+nudge4j=>lorenzoongithub/nudge4j
+Pinpoint=>naver/pinpoint
+Prometheus=>prometheus/client_java
+Sentry=>getsentry/sentry-java
+SPM=>sematext/sematext-agent-java
+Stagemonitor=>stagemonitor/stagemonitor
+Sysmon=>palantir/Sysmon
+zipkin=>https://zipkin.io
+hippo4j=>opengoofy/hippo4j/
+ 
+ 
+### Native 
+ 
+ 
+Aparapi=>Syncleus/aparapi
+JavaCPP=>bytedeco/javacpp
+JNA=>javanativeaccess/jna
+JNR=>jnr/jnrffi 
+
+### Natural Language Processing 
+ 
+ 
+CogCompNLP=>CogComp/cogcompnlp
+CoreNLP=>https://nlp.stanford.edu/software/corenlp.shtml
+DKPro=>https://dkpro.github.io/
+LingPipe=>http://aliasi.com/lingpipe/ 
+
+### Networking 
+ 
+ 
+Commonsnetworking=>CiscoSE/commonsnetworking
+Comsat=>puniverse/comsat
+Dubbo=>apache/dubbo
+Grizzly=>https://javaee.github.io/grizzly/
+gRPC=>grpc/grpcjava
+KryoNet=>EsotericSoftware/kryonet
+MINA=>https://mina.apache.org/
+Netty=>https://netty.io/
+Drift=>airlift/drift
+ServiceTalk=>apple/servicetalk
+sshj=>hierynomus/sshj
+TLS Channel=>marianobarrios/tlschannel
+Undertow=>http://undertow.io/
+urnlib=>slub/urnlib
+Fluency=>komamitsu/fluency 
+
+### ORM 
+ 
+ 
+Apache Cayenne=>https://cayenne.apache.org/
+Doma=>domaframework/doma
+Ebean=>https://ebean.io/
+EclipseLink=>https://www.eclipse.org/eclipselink/
+Hibernate=>http://hibernate.org/orm/
+MyBatis=>mybatis/mybatis3
+ObjectiveSql=>braisdom/ObjectiveSql
+Permazen=>permazen/permazen
+SimpleFlatMapper=>arnaudroger/SimpleFlatMapper 
+
+### PaaS 
+ 
+ AWS Elastic Beanstalk=>https://aws.amazon.com/elasticbeanstalk/
+AWS Lambda=>https://aws.amazon.com/lambda/
+Google Cloud=>https://cloud.google.com
+Heroku=>https://www.heroku.com
+Microsoft Azure=>https://azure.microsoft.com/en-us/
+OpenShift=>https://www.openshift.com
+
+
+ 
+### PDF 
+ 
+ 
+Apache FOP=>https://xmlgraphics.apache.org/fop/
+Apache PDFBox=>https://pdfbox.apache.org/
+Dynamic Jasper=>http://dynamicjasper.com/
+DynamicReports=>dynamicreports/dynamicreports
+Eclipse BIRT=>https://www.eclipse.org/birt
+flyingsaucer=>flyingsaucerproject/flyingsaucer
+JasperReports=>https://community.jaspersoft.com/project/jasperreportslibrary
+Open HTML to PDF=>danfickle/openhtmltopdf
+OpenPDF=>LibrePDF/OpenPDF
+Tabula=>tabulapdf/tabulajava 
+
+### Performance analysis 
+ 
+fastThread=>https://fastthread.io
+GCeasy=>https://gceasy.io
+honest-profiler=>jvm-profiling-tools/honest-profiler
+jHiccup=>giltene/jHiccup
+JITWatch=>AdoptOpenJDK/jitwatch
+JMH=>http://openjdk.java.net/projects/code-tools/jmh/
+LatencyUtils=>LatencyUtils/LatencyUtils
+
+ 
+#### Apache Commons 
+ 
+BCEL=>http://commons.apache.org/proper/commonsbcel/
+BeanUtils=>http://commons.apache.org/proper/commonsbeanutils/
+BeanUtils2=>http://commons.apache.org/sandbox/commonsbeanutils2/
+BSF=>http://commons.apache.org/proper/commonsbsf/
+Chain=>http://commons.apache.org/proper/commonschain/
+ClassScan=>http://commons.apache.org/sandbox/commonsclassscan/
+CLI=>http://commons.apache.org/proper/commonscli/
+CLI2=>http://commons.apache.org/sandbox/commonscli2/
+Codec=>http://commons.apache.org/proper/commonscodec/
+Collections=>http://commons.apache.org/proper/commonscollections/
+Compress=>http://commons.apache.org/proper/commonscompress/
+Configuration=>http://commons.apache.org/proper/commonsconfiguration/
+Convert=>http://commons.apache.org/sandbox/commonsconvert/
+CSV=>http://commons.apache.org/proper/commonscsv/
+Daemon=>http://commons.apache.org/proper/commonsdaemon/
+DBCP=>http://commons.apache.org/proper/commonsdbcp/
+DbUtils=>http://commons.apache.org/proper/commonsdbutils/
+Digester=>http://commons.apache.org/proper/commonsdigester/
+Email=>http://commons.apache.org/proper/commonsemail/
+Exec=>http://commons.apache.org/proper/commonsexec/
+FileUpload=>http://commons.apache.org/proper/commonsfileupload/
+Finder=>http://commons.apache.org/sandbox/commonsfinder/
+Flatfile=>http://commons.apache.org/sandbox/commonsflatfile/
+Functor=>http://commons.apache.org/proper/commonsfunctor/
+Graph=>http://commons.apache.org/sandbox/commonsgraph/
+I18n=>http://commons.apache.org/sandbox/commonsi18n/
+Id=>http://commons.apache.org/sandbox/commonsid/
+Imaging=>http://commons.apache.org/proper/commonsimaging/
+IO=>http://commons.apache.org/proper/commonsio/
+Javaflow=>http://commons.apache.org/sandbox/commonsjavaflow/
+JCI=>http://commons.apache.org/proper/commonsjci/
+JCS=>http://commons.apache.org/proper/commonsjcs/
+Jelly=>http://commons.apache.org/proper/commonsjelly/
+Jexl=>http://commons.apache.org/proper/commonsjexl/
+JNet=>http://commons.apache.org/sandbox/commonsjnet/
+JXPath=>http://commons.apache.org/proper/commonsjxpath/
+Lang=>http://commons.apache.org/proper/commonslang/
+Logging=>https://commons.apache.org/proper/commonslogging/
+Math=>http://commons.apache.org/proper/commonsmath/
+Monitoring=>http://commons.apache.org/sandbox/commonsmonitoring/
+Nabla=>http://commons.apache.org/sandbox/commonsnabla/
+Net=>http://commons.apache.org/proper/commonsnet/
+OGNL=>http://commons.apache.org/proper/commonsognl/
+OpenPGP=>http://commons.apache.org/sandbox/commonsopenpgp/
+Performance=>http://commons.apache.org/sandbox/commonsperformance/
+Pipeline=>http://commons.apache.org/sandbox/commonspipeline/
+Pool=>http://commons.apache.org/proper/commonspool/
+Proxy=>http://commons.apache.org/proper/commonsproxy/
+RDF=>https://commons.apache.org/proper/commonsrdf/
+RNG=>https://commons.apache.org/proper/commonsrng/
+SCXML=>http://commons.apache.org/proper/commonsscxml/
+Validator=>http://commons.apache.org/proper/commonsvalidator/
+VFS=>http://commons.apache.org/proper/commonsvfs/
+Weaver=>http://commons.apache.org/proper/commonsweaver/ 
+
+#### Other 
+ 
+CUBA Platform=>https://www.cubaplatform.com/
+Light4J=>networknt/light4j/
+Orienteer=>OrienteerBAP/Orienteer/
+Spring=>https://spring.io/projects/ 
+
+### Processes 
+ 
+ 
+ch.vorburger.exec=>vorburger/ch.vorburger.exec
+ztexec=>zeroturnaround/ztexec
+ztprocesskiller=>zeroturnaround/ztprocesskiller 
+
+### Reactive libraries 
+ 
+ 
+Akka=>https://akka.io/
+Reactive Streams=>reactivestreams/reactivestreamsjvm
+Reactor=>reactor/reactorcore
+RxJava=>ReactiveX/RxJava
+vert.x=>https://vertx.io/ 
+
+### REST Frameworks 
+ 
+ 
+Dropwizard=>dropwizard/dropwizard
+Elide=>https://elide.io/
+Jersey=>https://jersey.github.io/
+Microserver=>aol/microserver
+Rapidoid=>https://www.rapidoid.org/
+rest.li=>linkedin/rest.li
+RESTEasy=>https://resteasy.github.io/
+RestExpress=>RestExpress/RestExpress
+Restlet Framework=>restlet/restletframeworkjava
+Spark=>http://sparkjava.com/
+Crnk=>http://www.crnk.io/
+springdocopenapi=>springdoc/springdocopenapi
+Swagger=>https://swagger.io/ 
+
+### Science 
+ 
+ 
+BioJava=>https://biojava.org/
+ChartFX=>GSICSCO/chartfx
+DataMelt=>https://datamelt.org/
+Erdos=>ErdosGraphFramework/Erdos
+GraphStream=>http://graphstreamproject.org/
+JFreeChart=>http://www.jfree.org/jfreechart/
+JGraphT=>jgrapht/jgrapht
+JGraphX=>jgraph/jgraphx
+LogicNG=>logicng/LogicNG
+Mines Java Toolkit=>MinesJTK/jtk
+Morpheus=>zavtech/morpheuscore
+OrsonCharts=>jfree/orsoncharts
+Tablesaw=>jtablesaw/tablesaw
+XChart=>knowm/XChart 
+
+### Search 
+ 
+ 
+Apache Lucene=>https://lucene.apache.org/
+Apache Solr=>https://lucene.apache.org/solr/
+Elasticsearch=>https://www.elastic.co/
+Indexer4j=>haeungun/indexer4j 
+
+### Security 
+ 
+ 
+Apache Shiro=>https://shiro.apache.org/
+Bouncy Castle=>https://www.bouncycastle.org/java.html
+DependencyCheck=>jeremylong/DependencyCheck
+Cryptomator=>https://cryptomator.org/
+Hdiv=>hdiv/hdiv
+jjwt=>jwtk/jjwt
+jwtjava=>BastiaanJansen/jwtjava
+Jwks RSA=>auth0/jwksrsajava
+Kalium=>abstractj/kalium
+Keycloak=>https://www.keycloak.org/
+Keywhiz=>square/keywhiz
+Nbvcxz=>GoSimpleLLC/nbvcxz
+OACC=>http://oaccframework.org/
+OpenAM=>OpenIdentityPlatform/OpenAM
+OTPJava=>BastiaanJansen/OTPJava
+pac4j=>pac4j/pac4j
+Passay=>http://www.passay.org/
+Password4j=>Password4j/password4j
+SecurityBuilder=>tersesystems/securitybuilder
+SSLContextKickstart=>Hakky54/sslcontextkickstart
+Themis=>cossacklabs/themis
+Tink=>google/tink
+Topaz=>https://www.topaz.sh/ 
+
+### Serialization 
+ 
+ 
+FlatBuffers=>google/flatbuffers
+FST=>RuedigerMoeller/fastserialization
+Kryo=>EsotericSoftware/kryo
+MessagePack=>msgpack/msgpackjava
+PHP Serializer=>marcospassos/javaphpserializer 
+
+### Server 
+ 
+ 
+Apache Tomcat=>https://tomcat.apache.org/
+Apache TomEE=>https://tomee.apache.org/
+Jetty=>https://www.eclipse.org/jetty/
+nanohttpd=>NanoHttpd/nanohttpd
+WildFly=>https://www.wildfly.org/ 
+
+### Template Engine 
+ 
+ 
+Freemarker=>https://freemarker.apache.org/
+Handlebars.java=>https://jknack.github.io/handlebars.java/
+Jade4J=>neuland/jade4j
+Jamal=>verhas/jamal
+jstachio=>jstachio/jstachio
+jte=>casid/jte
+Jtwig=>jtwig/jtwig
+Pebble=>https://pebbletemplates.io/
+Rocker=>fizzed/rocker
+StringTemplate=>antlr/stringtemplate4
+Thymeleaf=>https://www.thymeleaf.org/ 
+
+ 
+#### Asynchronous Testing
+ 
+ 
+Awaitility=>awaitility/awaitility
+ConcurrentUnit=>jhalterman/concurrentunit
+GreenMail=>http://www.icegreen.com/greenmail/
+Hoverfly Java=>SpectoLabs/hoverflyjava
+Karate=>intuit/karate
+REST Assured=>restassured/restassured
+WebTau=>testingisdocumenting/webtau 
+
+#### BDD 
+ 
+ 
+Cucumber=>cucumber/cucumberjvm
+CukesREST=>ctco/cukes
+J8Spec=>j8spec/j8spec
+JBehave=>https://jbehave.org/
+JGiven=>http://jgiven.org/
+Lamdba Behave=>RichardWarburton/lambdabehave
+Serenity BDD=>serenitybdd/serenitycore 
+
+#### Fixtures 
+ 
+ 
+Beanmother=>keepcosmos/beanmother
+Fixture Factory=>six2six/fixturefactory
+jFairy=>Devskiller/jfairy
+Instancio=>instancio/instancio
+Randomized Testing=>randomizedtesting/randomizedtesting
+Java Faker=>DiUS/javafaker
+Mockneat=>nomemory/mockneat 
+
+#### Frameworks 
+ 
+ 
+ArchUnit=>TNG/ArchUnit
+Apache JMeter=>http://jmeter.apache.org/
+Arquillian=>http://arquillian.org/
+Citrus=>https://citrusframework.org/
+Gatling=>https://gatling.io/
+JUnit=>https://junit.org/junit5/
+jqwik=>https://jqwik.net/
+Pact JVM=>DiUS/pactjvm
+PIT=>http://pitest.org/ 
+
+#### Matchers 
+ 
+ 
+AssertJ=>https://joelcostigliola.github.io/assertj/
+Hamcrest=>http://hamcrest.org/JavaHamcrest/
+JSONAssert=>http://jsonassert.skyscreamer.org/
+JsonUnit=>lukaskrecan/JsonUnit
+Truth=>https://truth.dev/
+XMLUnit=>xmlunit/xmlunit 
+
+#### Miscellaneous 
+ 
+ 
+ConsoleCaptor=>Hakky54/consolecaptor
+junitdataprovider=>TNG/junitdataprovider
+LogCaptor=>Hakky54/logcaptor
+logcapture=>dmdrogeriemarkt/logcapture
+Mutability Detector=>MutabilityDetector/MutabilityDetector
+ramltester=>nidi3/ramltester
+TestContainers=>testcontainers/testcontainersjava
+pojotester=>https://www.pojo.pl/ 
+
+#### Mocking 
+ 
+ 
+JMockit=>http://jmockit.github.io/
+Mockito=>mockito/mockito
+MockServer=>https://www.mockserver.com/
+Moco=>dreamhead/moco
+PowerMock=>powermock/powermock
+WireMock=>http://wiremock.org/ 
+
+### Utility 
+ 
+ 
+Arthas=>alibaba/arthas
+bucket4j=>vladimirbukhtoyarov/bucket4j
+cactoos=>yegor256/cactoos
+Chocotea=>cleopatra27/chocotea
+CRaSH=>http://www.crashub.org/
+Dex=>PatMartin/Dex
+Embulk=>embulk/embulk
+fswatch=>vorburger/ch.vorburger.fswatch
+Gephi=>gephi/gephi
+Guava=>google/guava
+JADE=>http://jade.tilab.com/
+Java Diff Utils=>https://javadiffutils.github.io/javadiffutils/
+JavaVerbalExpressions=>VerbalExpressions/JavaVerbalExpressions
+JGit=>https://www.eclipse.org/jgit/
+miniojava=>minio/miniojava
+Protégé=>https://protege.stanford.edu/
+Underscorejava=>javadev/underscorejava 
+
+### Version Managers 
+ 
+ 
+jabba=>shyiko/jabba
+jenv=>jenv/jenv
+SDKMan=>sdkman/sdkmancli 
+
+### Web Crawling 
+ 
+ 
+Apache Nutch=>https://nutch.apache.org/
+Crawler4j=>yasserg/crawler4j
+jsoup=>https://jsoup.org/
+StormCrawler=>http://stormcrawler.net/
+webmagic=>code4craft/webmagic 
+
+### Web Frameworks 
+ 
+ 
+ActiveJ=>https://activej.io/
+Apache Tapestry=>https://tapestry.apache.org/
+Apache Wicket=>https://wicket.apache.org/
+Blade=>letsblade/blade
+Bootique=>https://bootique.io/
+Firefly=>http://www.fireflysource.com/
+Javalin=>https://javalin.io/
+Jooby=>http://www.jooby.org/
+Ninja=>http://www.ninjaframework.org/
+Pippo=>http://www.pippo.ro/
+Play=>https://www.playframework.com/
+PrimeFaces=>https://www.primefaces.org/
+Ratpack=>https://ratpack.io/
+Takes=>yegor256/takes
+Vaadin=>https://vaadin.com/ 
+
+### Workflow Orchestration Engines 
+ 
+Cadence=>https://cadenceworkflow.io/
+flowable=>flowable/flowableengine
+Temporal=>https://temporal.io/ 
+
