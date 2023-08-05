@@ -1,20 +1,14 @@
-### Bean Mapping 
-
-dOOv=>doovio/doov
-JMapper=>jmapperframework/jmappercore
+﻿## Bean Mapping 
 MapStruct=>mapstruct/mapstruct
 ModelMapper=>modelmapper/modelmapper
-Orika=>orikamapper/orika
-reMap=>remondisit/remap
-Selma=>xebiafrance/selma 
 
-### Build 
+## Build 
 Apache Maven=>https://maven.apache.org/
 Bazel=>https://bazel.build/
 Buck=>facebook/buck
 Gradle=>https://gradle.org/ 
 
-### Bytecode Manipulation 
+## Bytecode Manipulation 
 ASM=>https://asm.ow2.io/
 Byte Buddy=>https://bytebuddy.net/
 bytecodeviewer=>Konloch/bytecodeviewer
@@ -26,13 +20,13 @@ Mixin=>SpongePowered/Mixin
 Perses=>nicolasmanic/perses
 Recaf=>https://www.coley.software/Recaf/ 
 
-### Caching 
+## Caching 
 cache2k=>https://cache2k.org/
 Caffeine=>benmanes/caffeine
 Ehcache=>http://www.ehcache.org/
 Infinispan=>https://infinispan.org/ 
 
-### CLI 
+## CLI 
 ASCII Table=>vdmeer/asciitable
 Airline=>airlift/airline
 args4j=>http://args4j.kohsuke.org/
@@ -47,11 +41,11 @@ picocli=>https://picocli.info/
 TextIO=>beryx/textio
 Lanterna=>mabe02/lanterna 
 
-### Cluster Management 
+## Cluster Management 
 Apache Aurora=>https://aurora.apache.org/
 Singularity=>http://getsingularity.com/ 
 
-### Code Analysis 
+## Code Analysis 
 Checkstyle=>checkstyle/checkstyle
 Error Prone=>google/errorprone
 Error Prone Support=>PicnicSupermarket/errorpronesupport
@@ -65,13 +59,13 @@ SonarJava=>SonarSource/sonarjava
 Spoon=>INRIA/spoon
 Spotbugs=>spotbugs/spotbugs 
 
-### Code Coverage 
+## Code Coverage 
  
 Clover=>https://www.atlassian.com/software/clover
 Cobertura=>https://cobertura.github.io/cobertura/
 JaCoCo=>https://www.eclemma.org/jacoco/ 
 
-### Code Generators 
+## Code Generators 
 
 ADT4J=>sviperll/adt4j
 Auto=>google/auto
@@ -86,19 +80,19 @@ Lombok=>https://projectlombok.org
 Record-Builder=>Randgalt/record-builder
 Telosys=>https://www.telosys.org/
 
-### Compiler-compiler 
+## Compiler-compiler 
  
 ANTLR=>https://www.antlr.org/
 JavaCC=>https://javacc.github.io/javacc/
 JFlex=>https://jflex.de/ 
 
-### Computer Vision 
+## Computer Vision 
  
 BoofCV=>https://boofcv.org/
 ImageJ=>https://imagej.net/ImageJ
 JavaCV=>bytedeco/javacv 
 
-### Configuration 
+## Configuration 
  
 avaje config=>https://avaje.io/config/
 centraldogma=>line/centraldogma
@@ -113,20 +107,20 @@ KAConf=>mariomac/kaconf
 microconfig=>https://microconfig.io/
 owner=>lviggiano/owner 
 
-### Constraint Satisfaction Problem Solver 
+## Constraint Satisfaction Problem Solver 
 Choco=>https://chocosolver.org/
 JaCoP=>radsz/jacop
 OptaPlanner=>https://www.optaplanner.org/
 Timefold=>TimefoldAI/timefoldsolver 
 
-### CSV 
+## CSV 
 FastCSV=>osiegmar/FastCSV
 jacksondataformatcsv=>FasterXML/jacksondataformatcsv
 opencsv=>http://opencsv.sourceforge.net/
 Super CSV=>https://supercsv.github.io/supercsv/
 uniVocityparsers=>uniVocity/univocityparsers 
 
-### Data Structures 
+## Data Structures 
 Apache Avro=>https://avro.apache.org/
 Apache Orc=>https://orc.apache.org/
 Apache Parquet=>https://parquet.apache.org/
@@ -140,7 +134,7 @@ SBE=>reallogic/simplebinaryencoding
 Tape=>square/tape
 Wire=>square/wire 
 
-### Database 
+## Database 
 Apache Calcite=>https://calcite.apache.org/
 Apache Drill=>https://drill.apache.org/
 Apache Phoenix=>https://phoenix.apache.org/
@@ -180,13 +174,13 @@ Vibur DBCP=>https://www.vibur.org/
 Xodus=>JetBrains/xodus
 CosId=>AhooWang/CosId 
 
-### Date and Time 
+## Date and Time 
 iCal4j=>ical4j/ical4j
 Jollyday=>svendiedrichsen/jollyday
 ThreeTenExtra=>ThreeTen/threetenextra
 Time4J=>MenoData/Time4J 
 
-### Dependency Injection 
+## Dependency Injection 
 Apache DeltaSpike=>https://deltaspike.apache.org/
 Avaje Inject=>https://avaje.io/inject/
 Dagger=>https://dagger.dev/
@@ -196,7 +190,7 @@ Guice=>google/guice
 HK2=>https://javaee.github.io/hk2/
 JayWire=>vanillasource/jaywire 
 
-### Development 
+## Development 
 AspectJ=>https://www.eclipse.org/aspectj/
 DCEVM=>https://dcevm.github.io/
 Faux Pas=>zalando/fauxpas
@@ -208,7 +202,7 @@ NoException=>https://noexception.machinezoo.com/
 SneakyThrow=>rainerhahnekamp/sneakythrow
 Tail=>https://nrktkt.github.io/tail/ 
 
-### Distributed Applications 
+## Distributed Applications 
 Apache Geode=>https://geode.apache.org/
 Apache Storm=>https://storm.apache.org/
 Apache ZooKeeper=>https://zookeeper.apache.org/
@@ -224,13 +218,13 @@ OpenIG=>OpenIdentityPlatform/OpenIG
 ScaleCube Services=>scalecube/scalecubeservices
 Zuul=>Netflix/zuul 
 
-### Distributed Transactions 
+## Distributed Transactions 
 Atomikos=>https://www.atomikos.com/
 Bitronix=>bitronix/btm
 Narayana=>https://narayana.io/
 Seata=>seata/seata 
 
-### Distribution 
+## Distribution 
 
 Artipie=>artipie/artipie
 Boxfuse !=>https://boxfuse.com
@@ -248,14 +242,14 @@ really-executable-jars-maven-plugin=>brianm/really-executable-jars-maven-plugin
 
  
  
-### Document Processing 
+## Document Processing 
 Apache POI=>https://poi.apache.org/
 documents4j=>https://documents4j.com/#/
 docx4j=>https://www.docx4java.org/trac/docx4j
 fastexcel=>dhatim/fastexcel
 zerocell=>creditdatamw/zerocell 
 
-### Financial 
+## Financial 
 Cassandre=>cassandretech/cassandretradingbot
 Parity=>paritytrading/parity
 Philadelphia=>paritytrading/philadelphia
@@ -263,7 +257,7 @@ Square=>square/connectjavasdk
 Stripe=>stripe/stripejava
 ta4j=>ta4j/ta4j 
 
-### Formal Verification 
+## Formal Verification 
 CATG=>ksen007/janala2
 Checker Framework=>https://checkerframework.org/
 Daikon=>https://plse.cs.washington.edu/daikon/
@@ -271,7 +265,7 @@ JMLOK 2.0=>https://massoni.computacao.ufcg.edu.br/home/jmlok
 KeY=>https://www.keyproject.org/
 OpenJML=>http://www.openjml.org/ 
 
-### Functional Programming 
+## Functional Programming 
 Cyclops=>aol/cyclops
 derive4j=>derive4j/derive4j
 Fugue=>https://bitbucket.org/atlassian/fugue
@@ -281,7 +275,7 @@ protonpack=>poetix/protonpack
 StreamEx=>amaembo/streamex
 Vavr=>https://www.vavr.io/ 
 
-### Game Development 
+## Game Development 
 FXGL=>https://almasb.github.io/FXGL/
 JBox2D=>http://www.jbox2d.org/
 jMonkeyEngine=>https://jmonkeyengine.org/
@@ -291,7 +285,7 @@ LWJGL=>https://www.lwjgl.org/
 Mini2Dx=>https://mini2dx.org/
 Void2D=>xzripper/Void2D 
 
-### Geospatial 
+## Geospatial 
 Apache SIS=>https://sis.apache.org/
 Geo=>davidmoten/geo
 GeoTools=>https://geotools.org/
@@ -301,12 +295,12 @@ Jgeohash=>https://astrapi69.github.io/jgeohash/
 Mapsforge=>mapsforge/mapsforge
 Spatial4j=>locationtech/spatial4j 
 
-### GUI 
+## GUI 
 JavaFX=>https://wiki.openjdk.java.net/display/OpenJFX/Main
 Scene Builder=>https://gluonhq.com/products/scenebuilder/
 SWT=>https://www.eclipse.org/swt/ 
 
-### High Performance 
+## High Performance 
 Agrona=>reallogic/Agrona
 Disruptor=>https://lmaxexchange.github.io/disruptor/
 Eclipse Collections=>eclipse/eclipsecollections
@@ -315,7 +309,7 @@ HPPC=>https://labs.carrotsearch.com/hppc.html
 JCTools=>JCTools/JCTools
 Koloboke=>leventov/Koloboke 
 
-### HTTP Clients 
+## HTTP Clients 
 Apache HttpComponents=>https://hc.apache.org/
 Async Http Client=>AsyncHttpClient/asynchttpclient
 Avaje Http Client=>https://avaje.io/httpclient
@@ -327,20 +321,20 @@ Ribbon=>Netflix/ribbon
 Riptide=>zalando/riptide
 unirestjava=>Kong/unirestjava 
 
-### Hypermedia Types 
+## Hypermedia Types 
  
  
 hate=>blackdoor/hate
 JSONLD=>jsonldjava/jsonldjava
 Siren4J=>eseratingchwy/siren4j 
 
-### IDE 
+## IDE 
 Eclipse=>https://www.eclipse.org/
 jGRASP=>https://www.jgrasp.org/
 NetBeans=>https://netbeans.apache.org/
 Visual Studio Code=>https://code.visualstudio.com/docs/languages/java 
 
-### Imagery 
+## Imagery 
 Imgscalr=>rkalla/imgscalr
 Tess4J=>nguyenq/tess4j
 Thumbnailator=>coobird/thumbnailator
@@ -348,7 +342,7 @@ TwelveMonkeys=>haraldk/TwelveMonkeys
 ZXing=>zxing/zxing
 imagecomparison=>romankh3/imagecomparison 
 
-### Introspection 
+## Introspection 
 ClassGraph=>classgraph/classgraph
 jOOR=>jOOQ/jOOR
 Mirror=>http://projetos.vidageek.net/mirror/mirror/
@@ -356,7 +350,7 @@ Objenesis=>http://objenesis.org/
 ReflectASM=>EsotericSoftware/reflectasm
 Reflections=>ronmamo/reflections 
 
-### Job Scheduling 
+## Job Scheduling 
 JobRunr=>jobrunr/jobrunr
 Quartz=>quartzscheduler/quartz
 Sundial=>knowm/Sundial
@@ -365,7 +359,7 @@ dbscheduler=>kagkarlsson/dbscheduler
 easybatch=>jeasy/easybatch
 shedlock=>lukaskrecan/ShedLock 
 
-### JSON 
+## JSON 
 Avaje Jsonb=>https://avaje.io/jsonb/
 DSLJSON=>ngsdoo/dsljson
 Genson=>http://genson.io/
@@ -384,7 +378,7 @@ Jolt=>bazaarvoice/jolt
 JsonPath=>jsonpath/JsonPath
 JsonSurfer=>jsurfer/JsonSurfer 
 
-### JVM and JDK 
+## JVM and JDK 
 Adopt Open JDK=>https://adoptopenjdk.net/
 Avian=>ReadyTalk/avian
 Corretto=>https://aws.amazon.com/corretto/
@@ -398,7 +392,7 @@ RedHat Open JDK=>https://developers.redhat.com/products/openjdk/overview
 SAP Machine=>https://sap.github.io/SapMachine/
 Zulu=>https://www.azul.com/products/zulucommunity/ 
 
-### Logging 
+## Logging 
  
  
 Apache Log4j 2=>https://logging.apache.org/log4j/
@@ -413,7 +407,7 @@ SLF4J=>http://www.slf4j.org/
 tinylog=>https://tinylog.org/v2/
 OpenTracing Toolbox=>zalando/opentracingtoolbox 
 
-### Machine Learning 
+## Machine Learning 
  
  
 Apache Flink=>https://flink.apache.org/
@@ -431,7 +425,7 @@ Smile=>haifengl/smile
 Tribuo=>https://tribuo.org/
 Weka=>https://www.cs.waikato.ac.nz/ml/weka/ 
 
-### Messaging 
+## Messaging 
  
  
 Aeron=>reallogic/Aeron
@@ -450,7 +444,7 @@ RabbitMQ Java client=>rabbitmq/rabbitmqjavaclient
 Smack=>igniterealtime/Smack
 NATS client=>natsio/nats.java 
 
-### Microservice 
+## Microservice 
  
  
 ActiveRPC=>https://rpc.activej.io/
@@ -468,7 +462,7 @@ OpenAIJava=>TheoKanning/openaijava
 Quarkus=>https://quarkus.io/
 Sentinel=>alibaba/Sentinel 
 
-### Miscellaneous 
+## Miscellaneous 
  
  
 AWS SDK for Java 2.0=>aws/awssdkjavav2
@@ -504,14 +498,14 @@ TypeTools=>jhalterman/typetools
 XMLBeam=>SvenEwald/xmlbeam
 yGuard=>yWorks/yGuard 
 
-### Mobile Development 
+## Mobile Development 
  
  
 Codename One=>https://www.codenameone.com/
 MobileUI=>https://mobileui.dev/
 MultiOS Engine=>https://multiosengine.org/ 
 
-### Monitoring 
+## Monitoring 
 Automon=>stevensouza/automon
 Failsafe Actuator=>zalando/failsafe-actuator
 Glowroot=>https://glowroot.org
@@ -535,7 +529,7 @@ zipkin=>https://zipkin.io
 hippo4j=>opengoofy/hippo4j/
  
  
-### Native 
+## Native 
  
  
 Aparapi=>Syncleus/aparapi
@@ -543,7 +537,7 @@ JavaCPP=>bytedeco/javacpp
 JNA=>javanativeaccess/jna
 JNR=>jnr/jnrffi 
 
-### Natural Language Processing 
+## Natural Language Processing 
  
  
 CogCompNLP=>CogComp/cogcompnlp
@@ -551,7 +545,7 @@ CoreNLP=>https://nlp.stanford.edu/software/corenlp.shtml
 DKPro=>https://dkpro.github.io/
 LingPipe=>http://aliasi.com/lingpipe/ 
 
-### Networking 
+## Networking 
  
  
 Commonsnetworking=>CiscoSE/commonsnetworking
@@ -570,7 +564,7 @@ Undertow=>http://undertow.io/
 urnlib=>slub/urnlib
 Fluency=>komamitsu/fluency 
 
-### ORM 
+## ORM 
  
  
 Apache Cayenne=>https://cayenne.apache.org/
@@ -583,7 +577,7 @@ ObjectiveSql=>braisdom/ObjectiveSql
 Permazen=>permazen/permazen
 SimpleFlatMapper=>arnaudroger/SimpleFlatMapper 
 
-### PaaS 
+## PaaS 
  
  AWS Elastic Beanstalk=>https://aws.amazon.com/elasticbeanstalk/
 AWS Lambda=>https://aws.amazon.com/lambda/
@@ -594,7 +588,7 @@ OpenShift=>https://www.openshift.com
 
 
  
-### PDF 
+## PDF 
  
  
 Apache FOP=>https://xmlgraphics.apache.org/fop/
@@ -608,7 +602,7 @@ Open HTML to PDF=>danfickle/openhtmltopdf
 OpenPDF=>LibrePDF/OpenPDF
 Tabula=>tabulapdf/tabulajava 
 
-### Performance analysis 
+## Performance analysis 
  
 fastThread=>https://fastthread.io
 GCeasy=>https://gceasy.io
@@ -619,7 +613,7 @@ JMH=>http://openjdk.java.net/projects/code-tools/jmh/
 LatencyUtils=>LatencyUtils/LatencyUtils
 
  
-#### Apache Commons 
+### Apache Commons 
  
 BCEL=>http://commons.apache.org/proper/commonsbcel/
 BeanUtils=>http://commons.apache.org/proper/commonsbeanutils/
@@ -676,21 +670,21 @@ Validator=>http://commons.apache.org/proper/commonsvalidator/
 VFS=>http://commons.apache.org/proper/commonsvfs/
 Weaver=>http://commons.apache.org/proper/commonsweaver/ 
 
-#### Other 
+### Other 
  
 CUBA Platform=>https://www.cubaplatform.com/
 Light4J=>networknt/light4j/
 Orienteer=>OrienteerBAP/Orienteer/
 Spring=>https://spring.io/projects/ 
 
-### Processes 
+## Processes 
  
  
 ch.vorburger.exec=>vorburger/ch.vorburger.exec
 ztexec=>zeroturnaround/ztexec
 ztprocesskiller=>zeroturnaround/ztprocesskiller 
 
-### Reactive libraries 
+## Reactive libraries 
  
  
 Akka=>https://akka.io/
@@ -699,7 +693,7 @@ Reactor=>reactor/reactorcore
 RxJava=>ReactiveX/RxJava
 vert.x=>https://vertx.io/ 
 
-### REST Frameworks 
+## REST Frameworks 
  
  
 Dropwizard=>dropwizard/dropwizard
@@ -716,7 +710,7 @@ Crnk=>http://www.crnk.io/
 springdocopenapi=>springdoc/springdocopenapi
 Swagger=>https://swagger.io/ 
 
-### Science 
+## Science 
  
  
 BioJava=>https://biojava.org/
@@ -734,7 +728,7 @@ OrsonCharts=>jfree/orsoncharts
 Tablesaw=>jtablesaw/tablesaw
 XChart=>knowm/XChart 
 
-### Search 
+## Search 
  
  
 Apache Lucene=>https://lucene.apache.org/
@@ -742,7 +736,7 @@ Apache Solr=>https://lucene.apache.org/solr/
 Elasticsearch=>https://www.elastic.co/
 Indexer4j=>haeungun/indexer4j 
 
-### Security 
+## Security 
  
  
 Apache Shiro=>https://shiro.apache.org/
@@ -769,7 +763,7 @@ Themis=>cossacklabs/themis
 Tink=>google/tink
 Topaz=>https://www.topaz.sh/ 
 
-### Serialization 
+## Serialization 
  
  
 FlatBuffers=>google/flatbuffers
@@ -778,7 +772,7 @@ Kryo=>EsotericSoftware/kryo
 MessagePack=>msgpack/msgpackjava
 PHP Serializer=>marcospassos/javaphpserializer 
 
-### Server 
+## Server 
  
  
 Apache Tomcat=>https://tomcat.apache.org/
@@ -787,7 +781,7 @@ Jetty=>https://www.eclipse.org/jetty/
 nanohttpd=>NanoHttpd/nanohttpd
 WildFly=>https://www.wildfly.org/ 
 
-### Template Engine 
+## Template Engine 
  
  
 Freemarker=>https://freemarker.apache.org/
@@ -803,7 +797,7 @@ StringTemplate=>antlr/stringtemplate4
 Thymeleaf=>https://www.thymeleaf.org/ 
 
  
-#### Asynchronous Testing
+### Asynchronous Testing
  
  
 Awaitility=>awaitility/awaitility
@@ -814,7 +808,7 @@ Karate=>intuit/karate
 REST Assured=>restassured/restassured
 WebTau=>testingisdocumenting/webtau 
 
-#### BDD 
+### BDD 
  
  
 Cucumber=>cucumber/cucumberjvm
@@ -825,7 +819,7 @@ JGiven=>http://jgiven.org/
 Lamdba Behave=>RichardWarburton/lambdabehave
 Serenity BDD=>serenitybdd/serenitycore 
 
-#### Fixtures 
+### Fixtures 
  
  
 Beanmother=>keepcosmos/beanmother
@@ -836,7 +830,7 @@ Randomized Testing=>randomizedtesting/randomizedtesting
 Java Faker=>DiUS/javafaker
 Mockneat=>nomemory/mockneat 
 
-#### Frameworks 
+### Frameworks 
  
  
 ArchUnit=>TNG/ArchUnit
@@ -849,7 +843,7 @@ jqwik=>https://jqwik.net/
 Pact JVM=>DiUS/pactjvm
 PIT=>http://pitest.org/ 
 
-#### Matchers 
+### Matchers 
  
  
 AssertJ=>https://joelcostigliola.github.io/assertj/
@@ -859,7 +853,7 @@ JsonUnit=>lukaskrecan/JsonUnit
 Truth=>https://truth.dev/
 XMLUnit=>xmlunit/xmlunit 
 
-#### Miscellaneous 
+### Miscellaneous 
  
  
 ConsoleCaptor=>Hakky54/consolecaptor
@@ -871,7 +865,7 @@ ramltester=>nidi3/ramltester
 TestContainers=>testcontainers/testcontainersjava
 pojotester=>https://www.pojo.pl/ 
 
-#### Mocking 
+### Mocking 
  
  
 JMockit=>http://jmockit.github.io/
@@ -881,7 +875,7 @@ Moco=>dreamhead/moco
 PowerMock=>powermock/powermock
 WireMock=>http://wiremock.org/ 
 
-### Utility 
+## Utility 
  
  
 Arthas=>alibaba/arthas
@@ -902,14 +896,14 @@ miniojava=>minio/miniojava
 Protégé=>https://protege.stanford.edu/
 Underscorejava=>javadev/underscorejava 
 
-### Version Managers 
+## Version Managers 
  
  
 jabba=>shyiko/jabba
 jenv=>jenv/jenv
 SDKMan=>sdkman/sdkmancli 
 
-### Web Crawling 
+## Web Crawling 
  
  
 Apache Nutch=>https://nutch.apache.org/
@@ -918,7 +912,7 @@ jsoup=>https://jsoup.org/
 StormCrawler=>http://stormcrawler.net/
 webmagic=>code4craft/webmagic 
 
-### Web Frameworks 
+## Web Frameworks 
  
  
 ActiveJ=>https://activej.io/
@@ -937,7 +931,7 @@ Ratpack=>https://ratpack.io/
 Takes=>yegor256/takes
 Vaadin=>https://vaadin.com/ 
 
-### Workflow Orchestration Engines 
+## Workflow Orchestration Engines 
  
 Cadence=>https://cadenceworkflow.io/
 flowable=>flowable/flowableengine
