@@ -1,3 +1,8 @@
+@@@Awesome Python
+##Document and Files-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/document_and_files.txt
+##Media Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/media.txt
+##Git API-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/git.txt
+
 @@@Concurrency in Python
 ##Asyncio Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/asyncio.txt
 
