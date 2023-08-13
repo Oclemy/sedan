@@ -1,11 +1,14 @@
 ## Client Web App Frameworks
-AngularDart Community=>angulardartcommunity
+
+AngularDart Community=>angulardart-community
 Flutter=>https://flutter.dev/
 MDL/Dart=>http://mdl.mikemitterer.at//
 OverReact=>https://workiva.github.io/over_react/
 
+
 ## Server Frameworks
-Jaguar=>Jaguardart/jaguar
+
+Jaguar=>Jaguar-dart/jaguar
 Start=>lvivski/start
 Shelf=>https://pub.dartlang.org/packages/shelf
 Vane=>Scorpiion/Vane
@@ -13,126 +16,153 @@ Rikulo Stream=>rikulo/stream
 Alfred=>rknell/alfred
 Dart Frog=>VeryGoodOpenSource/dart_frog
 
+
+
 ## Cross-platform development
 universalio=>terrier989/universal_io
 universalhtml=>terrier989/universal_html
 
+
 ## Game Development
-Flame=>luanpotter/flame
+Flame=>luanpotter/flame#readme
 StageXL=>http://www.stagexl.org/
 DartRocket=>StrykerKKD/dartrocket
 Pixi Dart=>FedeOmoto/pixi
-Ranger=>wdevore/RangerDart
+Ranger=>wdevore/Ranger-Dart
+
 
 ## Animation
-Universal Tween Engine=>xaguzman/tweenenginedart
+Universal Tween Engine=>xaguzman/tween-engine-dart
 Spine Dart=>FedeOmoto/spine
+
 
 ## Template
 mustachetemplate=>https://pub.dev/packages/mustache_template
 jaded=>dartist/jaded
 mason=>felangel/mason
 
-## Database
 
-Postgres=>stablekernel/postgresqldart
+## Database
+Postgres=>stablekernel/postgresql-dart
 SQLJockey=>jamesots/sqljocky
 PostgreSQL=>xxgreg/dart_postgresql
 
-## Package Managers
 
+## Package Managers
 Pub=>https://pub.dartlang.org/
-Cloudsmith=>https://cloudsmith.io/l/dartrepository/
+Cloudsmith=>https://cloudsmith.io/l/dart-repository/
+
 
 ## Utilities
+
 Archive=>https://pub.dartlang.org/packages/archive
 builtcollection=>google/built_collection.dart
 builtvalue=>google/built_value.dart
 Frappe=>https://pub.dartlang.org/packages/frappe
-Quiver=>google/quiverdart
+Quiver=>google/quiver-dart
 routehierarchical=>angular/route.dart
 Darq=>https://pub.dev/packages/darq
-Basics=>google/dartbasics
+Basics=>google/dart-basics
+
 
 ## Dependency Injection
 
-Angular DI=>https://webdev.dartlang.org/angular/guide/dependencyinjection
+Angular DI=>https://webdev.dartlang.org/angular/guide/dependency-injection
 Dependencies=>marcguilera/dependencies.dart
 package: inject=>google/inject.dart
+
 
 ## Parsers
 
 html=>https://pub.dartlang.org/packages/html
-markdown=>dartlang/markdown
-PetitParser=>petitparser/dartpetitparser
+markdown=>dart-lang/markdown
+PetitParser=>petitparser/dart-petitparser
 XML=>https://pub.dartlang.org/packages/xml
 xmlstream=>https://pub.dartlang.org/packages/xml
 YAML=>https://pub.dartlang.org/packages/yaml
 Dart Tags=>https://pub.dartlang.org/packages/dart_tags
 
+
 ## Validation
+
+
 
 Constrain=>https://pub.dartlang.org/packages/constrain
 validator.dart=>karan/validator.dart
 
+
 ## ORM
+
+
 
 Objectory=>vadimtsushko/objectory
 
+
 ## Image
 
-image=>brendanduncan/image
+
+
+image=>brendan-duncan/image
+
 
 ## Testing
+
+
+
 Guinness=>vsavkin/guinness
 test=>https://pub.dartlang.org/packages/test
 spec=>https://pub.dev/packages/spec
 
+
 ## Unions
+
+
+
 Freezed=>rrousselGit/freezed
 
+
 ## Crash monitoring
-Sentry=>getsentry/sentrydart
+
+
+
+Sentry=>getsentry/sentry-dart
+
 
 ## Tools
-DevTools=>https://dart.dev/tools/dartdevtools
+
+
+
+DevTools=>https://dart.dev/tools/dart-devtools
 dart2js=>https://www.dartlang.org/tools/dart2js/
 js2dart=>vojtajina/js2dart
-Stagehand=>dartlang/stagehand
+Stagehand=>dart-lang/stagehand
 Crossdart=>https://crossdart.info/
-Crossdart Github Chrome Extension=>https://chrome.google.com/webstore/detail/crossdartchromeextensio/jmdjoliiaibifkklhipgmnciiealomhd
-gulpdart=>agudulin/gulpdart
-devcompiler=>dartlang/dev_compiler
+Crossdart Github Chrome Extension=>https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd
+gulp-dart=>agudulin/gulp-dart
+devcompiler=>dart-lang/dev_compiler
 json2dart=>https://javiercbk.github.io/json_to_dart
 webdevproxy=>Workiva/webdev_proxy
-Dart Code Metrics=>dartcodechecker/dartcodemetrics
+Dart Code Metrics=>dart-code-checker/dart-code-metrics
 m2cgen=>BayesWitnesses/m2cgen
 Lakos=>https://pub.dev/packages/lakos
 
+
 ## Multithreading
+
 isolator=>https://pub.dev/packages/isolator
 
-## Tutorials
-Hello Dart=>http://code.makery.ch/library/hellodart/
-Getting Started with Dart & React=>https://www.leejamesrobinson.com/blog/gettingstartedwithdartandreact/
-Tour of Heroes=>https://webdev.dartlang.org/angular/tutorial
-Dart for beginner=>https://www.myfreax.com/tag/dart/
-Resolving Dart package version conflicts, faster than ever=>https://iiro.dev/2018/08/28/resolvingdartpackageversionconflicts/
-## Community
-Dartlang SubReddit=>https://www.reddit.com/r/dartlang/
-Gitter Chat Channel=>https://gitter.im/dartlang/home
-Google Group=>https://groups.google.com/a/dartlang.org/d/forum/misc
-Stack Overflow=>https://stackoverflow.com/tags/dart
 
 ## IDEs, Editors, and Plugins
-IntlliJ Plugin=>https://www.dartlang.org/tools/webstorm/
-Sublime Text Package=>guillermooo/dartsublimebundle
-Emacs Plugin=>nex3/dartmode
-Vim Plugin=>dartlang/dartvimplugin
-Atom Plugin=>https://atom.io/packages/atomdart
+
+IntelliJ Plugin=>https://www.dartlang.org/tools/webstorm/
+Sublime Text Package=>guillermooo/dart-sublime-bundle
+Emacs Plugin=>nex3/dart-mode
+Vim Plugin=>dart-lang/dart-vim-plugin
+Atom Plugin=>https://atom.io/packages/atom-dart
 VSCode Plugin=>https://dartcode.org/
 DartPad=>https://dartpad.dartlang.org/
-Dart Code=>https://marketplace.visualstudio.com/items?itemName=DartCode.dartcode
-Module Linker=>http://fiatjaf.alhur.es/modulelinker/#/dart
+Dart Code=>https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
+Module Linker=>http://fiatjaf.alhur.es/module-linker/#/dart
 Dart Barrel File Generator=>mikededo/dartBarrelFileGenerator
+
 
