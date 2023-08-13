@@ -14,6 +14,11 @@
 ##Data Science Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/data-science.txt
 ##Scientific Audio Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/scientific-audio.txt
 
+@@@Python Alternatives
+##Ruby Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/ruby/ruby_libraries.txt
+##Java Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/java_libraries/java_libraries.txt
+##Kotlin Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/kotlin_libraries.txt
+
 @@@Native Libraries
 ##C Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/c_libraries/c_libraries.txt
 ##C++ Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cpp_libraries/cpp_libraries.txt

@@ -4,6 +4,7 @@
 ##Go Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/go_libraries/go_libraries.txt
 ##Fortran Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/fortran/fortran_libraries.txt
 ##Ocaml Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/ocaml/ocaml_libraries.txt
+##Elixir Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/elixir/elixir_libraries.txt
 
 @@@Dynamic Languages
 ##Python Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/python_libraries.txt

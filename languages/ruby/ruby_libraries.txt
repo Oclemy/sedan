@@ -1,0 +1,1277 @@
+
+## Admin Interface
+Administrate=>thoughtbot/administrate
+ActiveScaffold=>activescaffold/active_scaffold
+ActiveAdmin=>http://activeadmin.info/
+Avo=>https://avohq.io/
+bhf=>http://antpaw.github.io/bhf/
+MotorAdmin=>motor-admin/motor-admin-rails
+RailsAdmin=>sferik/rails_admin
+Trestle=>TrestleAdmin/trestle
+
+## Analytics
+
+Ahoy=>ankane/ahoy
+Impressionist=>charlotte-ruby/impressionist
+Legato=>tpitale/legato
+Rack::Tracker=>railslove/rack-tracker
+Staccato=>tpitale/staccato
+
+## API Builder and Discovery
+
+ActiveModel::Serializers=>rails-api/active_model_serializers
+Acts_As_Api=>fabrik42/acts_as_api
+Alba=>okuramasafumi/alba
+Blanket=>inf0rmer/blanket
+Blueprinter=>procore/blueprinter
+cache_crispies=>codenoble/cache-crispies
+Crepe=>crepe/crepe
+Grape=>http://www.ruby-grape.org/
+Her=>remiprev/her
+jbuilder=>rails/jbuilder
+jsonapi-rb=>http://jsonapi-rb.org/
+jsonapi-serializer=>jsonapi-serializer/jsonapi-serializer
+JSONAPI::Resources=>cerebris/jsonapi-resources
+JSONAPI::Utils=>tiagopog/jsonapi-utils
+Jsonite=>crepe/jsonite
+Pliny=>interagent/pliny
+rabl=>nesquena/rabl
+Roar=>apotonick/roar
+Spyke=>balvig/spyke
+Version Cake=>bwillis/versioncake
+versionist=>bploetz/versionist
+
+## Assets
+
+Asset Sync=>AssetSync/asset_sync
+Autoprefixer=>ai/autoprefixer-rails
+Bourbon=>thoughtbot/bourbon
+bower-rails=>rharriso/bower-rails
+Emoji=>wpeterson/emoji
+Less Rails=>metaskills/less-rails
+Rails Assets=>https://rails-assets.org/
+Sass=>http://sass-lang.com/
+Sprockets=>rails/sprockets
+Torba=>torba-rb/torba
+Webpacker=>rails/webpacker
+Vite Ruby=>elmassimo/vite_ruby
+
+## Authentication and OAuth
+
+API Guard=>Gokul595/api_guard
+Authentication Zero=>lazaronixon/authentication-zero
+Authlogic=>binarylogic/authlogic
+Clearance=>thoughtbot/clearance
+Devise=>heartcombo/devise
+JWT=>jwt/ruby-jwt
+Monban=>halogenandtoast/monban
+OmniAuth=>omniauth/omniauth
+Rodauth=>jeremyevans/rodauth
+Sorcery=>Sorcery/sorcery
+warden=>hassox/warden
+  OAuth:
+Doorkeeper=>doorkeeper-gem/doorkeeper
+OAuth2=>intridea/oauth2
+Rodauth-Oauth=>https://gitlab.com/honeyryderchuck/rodauth-oauth
+
+## Authorization
+
+acl9=>be9/acl9
+AccessGranted=>chaps-io/access-granted
+ActionPolicy=>palkan/action_policy
+CanCanCan=>CanCanCommunity/cancancan
+Consul=>makandra/consul
+Petergate=>elorest/petergate
+Pundit=>elabs/pundit
+
+## Automation
+
+ActiveWorkflow=>automaticmode/active_workflow
+Danger=>danger/danger
+Huginn=>cantino/huginn
+Neovim=>alexgenco/neovim-ruby
+Runbook=>braintree/runbook
+
+## Breadcrumbs
+
+Breadcrumbs on Rails=>weppos/breadcrumbs_on_rails
+Gretel=>lassebunk/gretel
+loaf=>peter-murach/loaf
+Simple Navigation=>codeplant/simple-navigation
+
+## Business logic
+
+ActiveInteraction=>AaronLasseigne/active_interaction
+Interactor=>collectiveidea/interactor
+Light Service=>adomokos/light-service
+Mutations=>cypriss/mutations
+Surrounded=>saturnflyer/surrounded
+Waterfall=>apneadiving/waterfall
+wisper=>krisleech/wisper
+
+## Caching
+
+Action caching for Action Pack=>rails/actionpack-action_caching
+Dalli=>mperham/dalli
+Garner=>artsy/garner
+IdentityCache=>Shopify/identity_cache
+Kashmir=>IFTTT/kashmir
+Readthis=>sorentwo/readthis
+Record Cache=>orslumen/record-cache
+redis-store=>http://redis-store.org/
+Second Level Cache=>hooopo/second_level_cache
+
+## Captchas and anti-spam
+
+ActsAsTextcaptcha=>matthutchinson/acts_as_textcaptcha
+Invisible Captcha=>markets/invisible_captcha
+Rakismet=>joshfrench/rakismet
+reCAPTCHA=>ambethia/recaptcha
+Voight-Kampff=>biola/Voight-Kampff
+
+## CLI Builder
+
+Clamp=>mdub/clamp
+cmdparse=>http://cmdparse.gettalong.org/
+Commander=>commander-rb/commander
+dry-cli=>dry-rb/dry-cli
+GLI=>davetron5000/gli
+Main=>ahoward/main
+Optimist=>ManageIQ/optimist
+Rake=>ruby/rake
+Runfile=>DannyBen/runfile
+Slop=>leejarvis/slop
+Terrapin=>thoughtbot/terrapin
+Thor=>http://whatisthor.com/
+TTY=>peter-murach/tty
+
+## CLI Utilities
+
+Awesome Print=>awesome-print/awesome_print
+Betty=>pickhardt/betty
+colorize=>fazibear/colorize
+colorls=>athityakumar/colorls
+formatador=>geemus/formatador
+Paint=>janlelis/paint
+Pastel=>peter-murach/pastel
+Ru=>tombenner/ru
+Ruby/Progressbar=>jfelchner/ruby-progressbar
+Tabulo=>matt-harvey/tabulo
+TablePrint=>arches/table_print
+Terminal Table=>tj/terminal-table
+Tmuxinator=>tmuxinator/tmuxinator
+Whirly=>janlelis/whirly
+
+## Cloud
+
+AWS SDK for Ruby=>aws/aws-sdk-ruby
+browse-everything=>projecthydra/browse-everything
+Fog=>fog/fog
+humidifier=>kddeisz/humidifier
+
+## CMS
+
+Alchemy CMS=>https://alchemy-cms.com/
+Camaleon CMS=>http://camaleon.tuzitio.com/
+ComfortableMexicanSofa=>comfy/comfortable-mexican-sofa
+Fae=>wearefine/fae
+LocomotiveCMS=>https://www.locomotivecms.com/
+Publify=>publify/publify
+PushType=>http://www.pushtype.org/
+Radiant=>http://radiantcms.org/
+Refinery CMS=>https://www.refinerycms.com/
+Sitepress=>https://sitepress.cc/
+Spina CMS=>https://www.spinacms.com/
+Storytime=>CultivateLabs/storytime
+
+## Code Analysis and Metrics
+
+Brakeman=>presidentbeef/brakeman
+Coverband=>danmayer/coverband
+Fasterer=>DamirSvrtan/fasterer
+Flay=>seattlerb/flay
+Flog=>seattlerb/flog
+fukuzatsu=>https://gitlab.com/coraline/fukuzatsu#fukuzatsu
+MetricFu=>metricfu/metric_fu
+Pippi=>tcopeland/pippi
+Pronto=>mmozuras/pronto
+rails_best_practices=>railsbp/rails_best_practices
+Reek=>troessner/reek
+Rubycritic=>whitesmith/rubycritic
+Scientist=>github/scientist
+SimpleCov=>colszowka/simplecov
+Sorbet=>sorbet/sorbet
+Suture=>testdouble/suture
+Traceroute=>amatsuda/traceroute
+
+## Code Formatting
+
+niceql=>alekseyl/niceql
+prettier=>prettier/plugin-ruby
+RuboCop=>rubocop-hq/rubocop
+Rubocop Rails=>rubocop-hq/rubocop-rails
+Rubocop Rspec=>rubocop-hq/rubocop-rspec
+Rubocop Performance=>rubocop-hq/rubocop-performance
+Standard=>testdouble/standard
+
+## Code Highlighting
+
+CodeRay=>rubychan/coderay
+pygments.rb=>tmm1/pygments.rb
+Rouge=>jneen/rouge
+
+## Code Loaders
+
+Zeitwerk=>fxn/zeitwerk
+
+## Coding Style Guides
+
+Best-Ruby=>franzejr/best-ruby
+fast-ruby=>JuanitoFatas/fast-ruby
+Fundamental Ruby=>khusnetdinov/ruby.fundamental
+Rails style guide=>bbatsov/rails-style-guide
+RSpec style guide=>andreareginato/betterspecs
+Ruby Operators=>http://ruby-operators.herokuapp.com/
+Ruby style guide=>bbatsov/ruby-style-guide
+
+## Concurrency and Parallelism
+
+Concurrent Ruby=>ruby-concurrency/concurrent-ruby
+EventMachine=>eventmachine/eventmachine
+forkoff=>ahoward/forkoff
+Parallel=>grosser/parallel
+Polyphony=>digital-fabric/polyphony
+
+## Configuration
+
+Chamber=>thekompanee/chamber
+Configatron=>markbates/configatron
+Configus=>kaize/configus
+dotenv=>bkeepers/dotenv
+Econfig=>elabs/econfig
+ENVied=>eval/envied
+Envyable=>philnash/envyable
+Figaro=>laserlemon/figaro
+Global=>railsware/global
+RailsConfig=>railsconfig/config
+Sail=>vinistock/sail
+
+## Core Extensions
+
+ActiveSupport=>rails/rails/tree/master/activesupport
+Addressable=>sporkmonger/addressable
+Bitwise=>kenn/bitwise
+Finishing Moves=>forgecrafted/finishing_moves
+Docile=>ms-ati/docile
+dry-rb=>dry-rb
+Hamster=>hamstergem/hamster
+Hanami::Utils=>hanami/utils
+MemoWise=>panorama-ed/memo_wise
+Ruby Facets=>rubyworks/facets
+Trick Bag=>keithrbennett/trick_bag
+  Attributes
+ActiveAttr=>cgriego/active_attr
+Virtus=>solnic/virtus
+AttrExtras=>barsoom/attr_extras
+  Hash
+Hashie=>intridea/hashie
+  String
+string_pattern=>MarioRuiz/string_pattern
+
+## Country Data
+
+Carmen=>jim/carmen
+Countries=>hexorx/countries
+i18n_data=>grosser/i18n_data
+normalize_country=>sshaw/normalize_country
+Phonelib=>daddyz/phonelib
+Phony=>floere/phony
+validates_zipcode=>dgilperez/validates_zipcode
+
+## CRM
+
+Fat Free CRM=>fatfreecrm/fat_free_crm
+Hitobito=>hitobito/hitobito
+
+## Cryptocurrencies and Blockchains
+
+Blockchain Lite=>openblockchains/blockchain.lite.rb
+Ciri=>ciri-ethereum/ciri
+MoneyTree=>GemHQ/money-tree
+Peatio=>rubykube/peatio
+
+## Dashboards
+
+Blazer=>ankane/blazer
+Smashing=>https://smashing.github.io/
+Dashing-Rails=>gottfrois/dashing-rails
+
+## Data Processing and ETL
+
+attr-gather=>ianks/attr-gather
+CSV Reader=>csvreader/csvreader
+Kiba=>http://www.kiba-etl.org/
+ruby-stemmer=>aurelian/ruby-stemmer
+
+## Data Visualization
+
+Chartkick=>http://chartkick.com/
+GeoPattern=>jasonlong/geo_pattern
+LazyHighCharts=>michelson/lazy_high_charts
+ApexCharts.rb=>styd/apexcharts.rb
+RailRoady=>preston/railroady
+Rails Erd=>voormedia/rails-erd
+Ruby/GraphViz=>glejeune/Ruby-Graphviz
+
+## Database Drivers
+
+Cassandra Driver=>datastax/ruby-driver
+mongo-ruby-driver=>mongodb/mongo-ruby-driver
+mysql2=>brianmario/mysql2
+Neography=>maxdemarzi/neography
+Redic=>amakawa/redic
+redis-rb=>redis/redis-rb
+ruby-pg=>ged/ruby-pg
+SQLite3=>sparklemotion/sqlite3-ruby
+SQL Server=>rails-sqlserver/activerecord-sqlserver-adapter
+TinyTDS=>rails-sqlserver/tiny_tds
+
+## Database Tools
+
+connection_pool=>mperham/connection_pool
+Database Cleaner=>DatabaseCleaner/database_cleaner
+Database Consistency=>djezzzl/database_consistency
+Foreigner=>matthuhiggins/foreigner
+Large Hadron Migrator=>soundcloud/lhm
+Lol DBA=>plentz/lol_dba
+Online Migrations=>fatkodima/online_migrations
+Polo=>IFTTT/polo
+PgHero=>ankane/pghero
+Rails DB=>igorkasyanchuk/rails_db
+Rein=>nullobject/rein
+Scenic=>thoughtbot/scenic
+SchemaPlus=>SchemaPlus/schema_plus
+SecondBase=>customink/secondbase
+Seedbank=>james2m/seedbank
+Seed dump=>rroblak/seed_dump
+Seed Fu=>mbleigh/seed-fu
+Standby=>kenn/standby
+Strong Migrations=>ankane/strong_migrations
+Upsert=>seamusabshere/upsert
+
+## Date and Time Processing
+
+biz=>zendesk/biz
+business_time=>bokmann/business_time
+ByStar=>radar/by_star
+Chronic=>mojombo/chronic
+date_range_formatter=>darkleaf/date_range_formatter
+groupdate=>ankane/groupdate
+holidays=>holidays/holidays
+ice_cube=>seejohnrun/ice_cube
+local_time=>basecamp/local_time
+montrose=>rossta/montrose
+stamp=>jeremyw/stamp
+time_diff=>abhidsm/time_diff
+timezone=>panthomakos/timezone
+TZinfo=>tzinfo/tzinfo
+validates_timeliness=>adzap/validates_timeliness
+working_hours=>intrepidd/working_hours
+yymmdd=>sshaw/yymmdd
+
+## Debugging Tools
+
+Byebug=>deivid-rodriguez/byebug
+did_you_mean=>yuki24/did_you_mean
+Pry Byebug=>deivid-rodriguez/pry-byebug
+pry-rails=>rweng/pry-rails
+Seeing Is Believing=>JoshCheek/seeing_is_believing
+tapping_device=>st0012/tapping_device
+Xray=>brentd/xray-rails
+
+## Decorators
+
+Draper=>drapergem/draper
+Decent Exposure=>hashrocket/decent_exposure
+Responders=>heartcombo/responders
+ShowFor=>heartcombo/show_for
+
+## DevOps Tools
+
+Backup=>backup/backup
+BOSH=>cloudfoundry/bosh
+Capistrano=>http://capistranorb.com/
+Centurion=>newrelic/centurion
+Chef=>chef/chef
+Einhorn=>stripe/einhorn
+Itamae=>itamae-kitchen/itamae
+Lita=>https://www.lita.io/
+Logstash=>elastic/logstash
+Mina=>mina-deploy/mina
+Puppet=>puppetlabs/puppet
+Rubber=>rubber/rubber
+SSHKey=>bensie/sshkey
+Sunzi=>kenn/sunzi
+Ruby-LXC=>lxc/ruby-lxc
+Vagrant=>http://www.vagrantup.com/
+
+## Diff
+
+Diffy=>samg/diffy
+gemdiff=>teeparham/gemdiff
+JsonCompare=>a2design-inc/json-compare
+
+## Discover
+
+Where to discover new Ruby libraries, projects and trends.
+
+Awesome Ruby @LibHunt=>https://ruby.libhunt.com/
+GitHub Trending=>trending?l=ruby
+Open Source Rails=>https://www.opensourcerails.org/
+Ruby Bookmarks=>dreikanter/ruby-bookmarks
+RubyDaily=>http://rubydaily.org/
+RubyFlow=>http://www.rubyflow.com/
+Ruby Land=>http://rubyland.news/
+Ruby Rogues=>https://devchat.tv/ruby-rogues
+Ruby Weekly=>https://rubyweekly.com/
+The Ruby Bibliography=>https://rubybib.org/
+The Ruby Toolbox=>https://www.ruby-toolbox.com/
+
+## Documentation
+
+Annotate=>ctran/annotate_models
+Apipie=>Apipie/apipie-rails
+Asciidoctor=>https://asciidoctor.org/
+Documentation=>adamcooke/documentation
+GitHub Changelog Generator=>github-changelog-generator/github-changelog-generator
+Gollum=>gollum/gollum
+grape-swagger=>ruby-grape/grape-swagger
+Hanna=>rdoc/hanna-nouveau
+Hologram=>trulia/hologram
+Inch=>rrrene/inch
+RDoc=>ruby/rdoc
+rspec_api_documentation=>zipmark/rspec_api_documentation
+YARD=>http://yardoc.org/
+
+## E-Commerce and Payments
+
+Active Merchant=>activemerchant/active_merchant
+Braintree=>braintree/braintree_ruby
+Conekta=>conekta/conekta-ruby
+credit_card_validations=>didww/credit_card_validations
+Paypal Merchant SDK=>paypal/merchant-sdk-ruby
+ROR Ecommerce=>drhenner/ror_ecommerce
+Solidus=>solidusio/solidus
+Spree=>spree/spree
+SquareConnect=>square/connect-ruby-sdk
+stripe-ruby=>stripe/stripe-ruby
+Workarea=>workarea-commerce/workarea
+
+## Ebook
+
+Bookshop=>worlduniting/bookshop
+Gepub=>skoji/gepub
+Mobi=>jkongie/mobi
+Review=>kmuto/review
+
+## Email
+
+Ahoy Email=>ankane/ahoy_email
+Gibbon=>amro/gibbon
+Griddler=>thoughtbot/griddler
+Incoming=>honeybadger-io/incoming
+LetterOpener=>ryanb/letter_opener
+Mail=>mikel/mail
+MailCatcher=>https://mailcatcher.me/
+MailForm=>heartcombo/mail_form
+Maily=>markets/maily
+MidiSmtpServer=>https://4commerce-technologies-ag.github.io/midi-smtp-server/
+Pony=>benprew/pony
+Postal=>atech/postal
+premailer-rails=>fphilipe/premailer-rails
+Roadie=>Mange/roadie
+Sup=>sup-heliotrope/sup
+Truemail=>https://truemail-rb.org/truemail-gem
+
+## Encryption
+
+bcrypt-ruby=>codahale/bcrypt-ruby
+RbNaCl=>cryptosphere/rbnacl
+Sym=>kigster/sym
+Symmetric Encryption=>https://encryption.rocketjob.io/
+Themis=>cossacklabs/themis
+
+## Environment Management
+
+chruby=>postmodern/chruby
+fry=>terlar/fry
+gem_home=>postmodern/gem_home
+rbenv=>sstephenson/rbenv
+ruby-build=>sstephenson/ruby-build
+ruby-install=>postmodern/ruby-install
+RVM=>https://rvm.io/
+Tokaido=>tokaido/tokaidoapp/releases
+Uru=>https://bitbucket.org/jonforums/uru
+
+## Error Handling
+
+Airbrake=>airbrake/airbrake
+Better Errors=>charliesome/better_errors
+Bugsnag=>bugsnag/bugsnag-ruby
+Errbit=>errbit/errbit
+Exception Handler=>richpeck/exception_handler
+Exception Notification=>smartinez87/exception_notification
+Honeybadger=>https://www.honeybadger.io/
+Nesty=>skorks/nesty
+Sentry Ruby=>getsentry/sentry-ruby
+Rollbar=>rollbar/rollbar-gem
+
+## Event Sourcing
+
+Eventide Project=>https://eventide-project.org/
+Rails Event Store (RES
+
+## Feature Flippers and A/B Testing
+
+Motorhead=>amatsuda/motorhead
+flipper=>jnunemaker/flipper
+Rollout=>FetLife/rollout
+Split=>splitrb/split
+Unleash=>Unleash/unleash-client-ruby
+Vanity=>assaf/vanity
+
+## File Upload
+
+attache=>choonkeat/attache
+CarrierWave=>carrierwaveuploader/carrierwave
+DragonFly=>markevans/dragonfly
+PaperClip=>thoughtbot/paperclip
+rack-secure-upload=>dtaniwaki/rack-secure-upload
+Refile=>refile/refile
+Shrine=>janko-m/shrine
+
+## File System Listener
+
+Guard=>guard/guard
+Guard::LiveReload=>guard/guard-livereload
+Listen=>guard/listen
+Rerun=>alexch/rerun
+
+## Form Builder
+
+Cocoon=>nathanvda/cocoon
+ComfyBootstrapForm=>comfy/comfy-bootstrap-form
+Formtastic=>justinfrench/formtastic
+Rails Bootstrap Forms=>bootstrap-ruby/rails-bootstrap-forms
+Rapidfire=>code-mancers/rapidfire
+Reform=>apotonick/reform
+Simple Form=>heartcombo/simple_form
+
+## Game Development and Graphics
+
+Dragon Ruby=>https://dragonruby.org/
+Gosu=>http://www.libgosu.org/
+Mittsu=>jellymann/mittsu
+Ruby 2D=>ruby2d/ruby2d
+Taylor=>HellRok/Taylor
+
+## Gem Generators
+
+Gemsmith=>bkuhlmann/gemsmith
+Hoe=>http://www.zenspider.com/projects/hoe.html
+
+## Geolocation
+
+Geocoder=>alexreisner/geocoder
+geoip=>cjheath/geoip
+Geokit=>geokit/geokit
+Google Maps for Rails=>apneadiving/Google-Maps-for-Rails
+rgeo=>rgeo/rgeo
+
+## Git Tools
+
+ginatra=>NARKOZ/ginatra
+git-auto-bisect=>grosser/git-autobisect
+git_curate=>matt-harvey/git_curate
+git_reflow=>reenhanced/gitreflow
+git-spelunk=>osheroff/git-spelunk
+git-whence=>grosser/git-whence
+Git Lint=>https://www.alchemists.io/projects/git-lint
+Overcommit=>brigade/overcommit
+Rugged=>libgit2/rugged
+
+## GraphQL
+
+graphql-batch=>Shopify/graphql-batch
+graphql-client=>github/graphql-client
+graphql-guard=>exAspArk/graphql-guard
+graphql-ruby=>rmosolgo/graphql-ruby
+
+## GUI
+
+FXRuby=>larskanis/fxruby
+Glimmer=>AndyObtiva/glimmer
+qtbindings=>ryanmelt/qtbindings
+Ruby-GNOME=>ruby-gnome/ruby-gnome
+Shoes=>http://shoesrb.com/
+
+## HTML/XML Parsing
+
+HappyMapper=>dam5s/happymapper
+HTML::Pipeline=>jch/html-pipeline
+Nokogiri=>https://nokogiri.org/
+Oga=>https://gitlab.com/yorickpeterse/oga
+Ox=>ohler55/ox
+ROXML=>Empact/roxml
+
+## HTTP Clients and tools
+
+Accept Language=>cyril/accept_language.rb
+excon=>excon/excon
+Faraday=>lostisland/faraday
+Device Detector=>podigee/device_detector
+Http Client=>nahi/httpclient
+HTTP=>httprb/http
+HTTPX=>https://gitlab.com/honeyryderchuck/httpx
+httparty=>jnunemaker/httparty
+Http-2=>igrigorik/http-2
+Patron=>toland/patron
+RESTClient=>rest-client/rest-client
+Savon=>savonrb/savon
+Sawyer=>lostisland/sawyer
+Sniffer=>aderyabin/sniffer
+Typhoeus=>typhoeus/typhoeus
+
+## Image Processing
+
+FastImage=>sdsykes/fastimage
+ImageProcessing=>janko/image_processing
+MiniMagick=>minimagick/minimagick
+Phasion=>westonplatter/phashion
+PSD.rb=>layervault/psd.rb
+RMagick=>rmagick/rmagick
+ruby-vips=>jcupitt/ruby-vips
+Skeptick=>maxim/skeptick
+
+## Implementations/Compilers
+
+JRuby=>jruby/jruby
+MRuby=>mruby/mruby
+Opal=>opal/opal
+Rubinius=>rubinius/rubinius
+TruffleRuby=>oracle/truffleruby
+
+## Internationalization
+
+FastGettext=>grosser/fast_gettext
+Globalize=>globalize/globalize
+i18n-tasks=>glebm/i18n-tasks
+i18n=>svenfuchs/i18n
+mini_i18n=>markets/mini_i18n
+rails-i18n=>svenfuchs/rails-i18n
+r18n=>ai/r18n
+Termit=>pawurb/termit
+Tolk=>tolk/tolk
+twitter-cldr-rb=>twitter/twitter-cldr-rb
+
+## IRB
+
+Clipboard=>janlelis/clipboard
+irbtools=>janlelis/irbtools
+Looksee=>oggy/looksee
+Pry=>pry/pry
+rib=>http://rib.godfat.org/
+
+## Logging
+
+Fluentd=>fluent/fluentd
+HttpLog=>trusche/httplog
+Log4r=>colbygk/log4r
+Logging=>TwP/logging
+Lograge=>roidrage/lograge
+Ougai=>tilfin/ougai
+Scrolls=>asenchi/scrolls
+Semantic Logger=>https://logger.rocketjob.io/
+Syslogger=>crohr/syslogger
+Yell=>rudionrails/yell
+
+## Machine Learning
+
+AI4R=>sergiofierens/ai4r
+Awesome Machine Learning with Ruby=>arbox/machine-learning-with-ruby
+m2cgen=>BayesWitnesses/m2cgen
+PredictionIO Ruby SDK=>PredictionIO/PredictionIO-Ruby-SDK
+rb-libsvm=>febeling/rb-libsvm
+ruby-fann=>tangledpath/ruby-fann
+ruby-openai=>alexrudall/ruby-openai
+rumale=>yoshoku/rumale
+TensorFlow=>ankane/tensorflow
+Torch.rb=>ankane/torch.rb
+weka=>paulgoetze/weka-jruby
+
+## Markdown Processors
+
+kramdown=>gettalong/kramdown
+markdown_helper=>BurdetteLamar/markdown_helper#markdown-helper
+Maruku=>bhollis/maruku
+Redcarpet=>vmg/redcarpet
+word-to-markdown=>benbalter/word-to-markdown
+
+## Measurements
+
+Measured=>Shopify/measured
+Ruby Units=>olbrich/ruby-units
+
+## Mobile Development
+
+dryrun=>cesarferreira/dryrun
+fastlane=>fastlane/fastlane
+PubNub=>pubnub/ruby
+Ruboto=>ruboto/ruboto
+RubyMotion=>http://www.rubymotion.com/
+
+## Money
+
+eu_central_bank=>RubyMoney/eu_central_bank
+Monetize=>RubyMoney/monetize
+Money=>RubyMoney/money
+
+## Music and Sound
+
+Coltrane=>pedrozath/coltrane
+Maestro=>smashingboxes/maestro
+Sonic Pi=>samaaron/sonic-pi
+
+## Natural Language Processing
+
+Awesome NLP with Ruby=>arbox/nlp-with-ruby
+Parslet=>http://kschiess.github.io/parslet/
+pocketsphinx-ruby=>watsonbox/pocketsphinx-ruby
+Pragmatic Segmenter=>diasks2/pragmatic_segmenter
+Ruby Natural Language Processing Resources=>diasks2/ruby-nlp
+Sentimental=>7compass/sentimental
+Text=>threedaymonk/text
+Treat=>louismullie/treat
+Treetop=>cjheath/treetop
+Words Counted=>abitdodgy/words_counted
+
+## Networking
+
+Dnsruby=>alexdalitz/dnsruby
+RubyDNS=>ioquatix/rubydns
+
+## Notifications
+
+Noticed=>excid3/noticed
+Ruby Push Notifications=>calonso/ruby-push-notifications
+Rpush=>rpush/rpush
+webpush=>zaru/webpush
+
+## Optimizations
+
+bootsnap=>Shopify/bootsnap
+fast_blank=>SamSaffron/fast_blank
+fast_underscore=>kddeisz/fast_underscore
+yajl-ruby=>brianmario/yajl-ruby
+
+## ORM/ODM
+
+ActiveRecord=>rails/rails/tree/master/activerecord
+Hanami::Model=>hanami/model
+Mongoid=>mongodb/mongoid
+MongoModel=>spohlenz/mongomodel
+Neo4j.rb=>http://neo4jrb.io/
+NoBrainer=>nviennot/nobrainer/
+Ohm=>soveran/ohm
+Redis-Objects=>nateware/redis-objects
+ROM=>rom-rb/rom
+Sequel=>jeremyevans/sequel
+
+## ORM/ODM Extensions
+
+  Auditing and Versioning
+acts_as_archival=>expectedbehavior/acts_as_archival
+ActsAsParanoid=>ActsAsParanoid/acts_as_paranoid
+Audited=>collectiveidea/audited
+Destroyed At=>dockyard/ruby-destroyed_at
+Discard=>jhawthorn/discard
+Logidze=>palkan/logidze
+marginalia=>basecamp/marginalia
+mongoid-history=>aq1018/mongoid-history
+PaperTrail=>airblade/paper_trail
+Paranoia=>radar/paranoia
+PermenantRecords=>JackDanger/permanent_records
+  Bit array
+ActiveFlag=>kenn/active_flag
+Bitfields=>grosser/bitfields
+  Import
+ActiveRecord Import=>zdennis/activerecord-import
+bulk_insert=>jamis/bulk_insert
+data_miner=>seamusabshere/data_miner
+ferry=>cmu-is-projects/ferry
+  Misc
+arel_extensions=>faveod/arel-extensions
+ActiveRecord::Turntable=>drecom/activerecord-turntable
+ActiveValidators=>franckverrot/activevalidators
+DeepPluck=>khiav223577/deep_pluck
+Enumerize=>brainspec/enumerize
+Goldiloader=>salsify/goldiloader
+Rating=>wbotelhos/rating
+  Multi-tenancy
+Acts As Tennant=>ErwinM/acts_as_tenant
+Apartment=>influitive/apartment
+Milia=>jekuno/milia
+  Social
+Merit=>merit-gem/merit
+PublicActivity=>chaps-io/public_activity
+Simple Feed=>kigster/simple-feed
+Unread=>ledermann/unread
+  Sorting
+ActsAsList=>swanandp/acts_as_list
+ranked-model=>mixonic/ranked-model
+  Tree
+ActsAsTree=>amerine/acts_as_tree
+Ancestry=>stefankroes/ancestry
+Awesome Nested Set=>collectiveidea/awesome_nested_set
+Closure Tree=>mceachen/closure_tree
+Mongoid Tree=>benedikt/mongoid-tree
+
+## Package Management
+
+  Gems
+Bundler=>https://bundler.io/
+RubyGems=>https://rubygems.org/
+Cloudsmith=>https://cloudsmith.io/
+  Packages and Applications
+Berkshelf=>berkshelf/berkshelf
+CocoaPods=>CocoaPods/CocoaPods
+fpm=>jordansissel/fpm
+Linuxbrew=>Homebrew/linuxbrew-core
+Homebrew-cask=>caskroom/homebrew-cask
+Homebrew=>Homebrew/brew
+Traveling Ruby=>https://foobarwidget.github.io/traveling-ruby/
+
+## Pagination
+
+Kaminari=>amatsuda/kaminari
+order_query=>glebm/order_query
+Pagy=>ddnexus/pagy
+will_paginate=>mislav/will_paginate
+
+## PDF
+
+CombinePDF=>boazsegev/combine_pdf
+Grim=>jonmagic/grim
+HexaPDF=>gettalong/hexapdf
+InvoicePrinter=>strzibny/invoice_printer
+Kitabu=>fnando/kitabu
+Pdfkit=>pdfkit/pdfkit
+Prawn=>prawnpdf/prawn
+RGhost=>shairontoledo/rghost
+Squid=>fullscreen/squid
+Wicked Pdf=>mileszs/wicked_pdf
+
+## Performance Monitoring
+
+Instrumental=>expectedbehavior/instrumental_agent
+New Relic=>newrelic/rpm
+RoRvsWild=>BaseSecrete/rorvswild
+Scout=>scoutapp/scout_apm_ruby
+Skylight=>skylightio/skylight-ruby
+
+## Presentation Programs
+
+Slide Show (S9
+
+## Process Management and Monitoring
+
+Bluepill=>bluepill-rb/bluepill
+Eye=>kostya/eye
+Foreman=>ddollar/foreman
+God=>mojombo/god
+Health Monitor Rails=>lbeder/health-monitor-rails
+Procodile=>adamcooke/procodile
+RedisWebManager=>OpenGems/redis_web_manager
+
+## Processes
+
+childprocess=>jarib/childprocess
+posix-spawn=>rtomayko/posix-spawn
+
+## Profiler and Optimization
+
+batch-loader=>exaspark/batch-loader
+benchmark-ips=>evanphx/benchmark-ips
+bullet=>flyerhzm/bullet
+Derailed Benchmarks=>schneems/derailed_benchmarks
+Peek=>peek/peek
+rack-mini-profiler=>MiniProfiler/rack-mini-profiler
+Rbkit=>code-mancers/rbkit
+rbspy=>rbspy/rbspy
+ruby-prof=>ruby-prof/ruby-prof
+stackprof=>tmm1/stackprof
+test-prof=>palkan/test-prof
+
+## QR
+
+RQRCode=>whomwah/rqrcode
+
+## Queues and Messaging
+
+Backburner=>nesquena/backburner
+Bunny=>ruby-amqp/bunny
+Delayed::Job=>collectiveidea/delayed_job
+GoodJob=>bensheldon/good_job
+Gush=>chaps-io/gush
+JobIteration=>Shopify/job-iteration
+Karafka=>karafka/karafka
+Lowkiq=>bia-technologies/lowkiq
+March Hare=>ruby-amqp/march_hare
+Resque=>resque/resque
+Que=>chanks/que
+RocketJob=>http://rocketjob.io/
+Shoryuken=>phstc/shoryuken
+Sidekiq=>https://sidekiq.org/
+SidekiqIteration=>fatkodima/sidekiq-iteration
+Sneakers=>jondot/sneakers
+Sucker Punch=>brandonhilkert/sucker_punch
+
+## Rails Application Generators
+
+Bootstrappers=>xdite/bootstrappers
+Hobo=>Hobo/hobo
+orats=>nickjj/orats
+Rails Composer=>RailsApps/rails-composer
+Raygun=>carbonfive/raygun
+Suspenders=>thoughtbot/suspenders
+
+## Robotics
+
+Arli=>kigster/arli
+Artoo=>http://artoo.io/
+
+## RSS
+
+Feed normalizer=>aasmith/feed-normalizer
+Feedjira=>feedjira/feedjira
+feedparser=>feedparser/feedparser
+Simple rss=>cardmagic/simple-rss
+Stringer=>swanson/stringer
+
+## Serverless
+
+FaaStRuby=>https://faastruby.io/
+Jets=>tongueroo/jets
+🐑 Lamby=>https://lamby.custominktech.com/
+
+## Scheduling
+
+minicron=>jamesrwhite/minicron
+que-scheduler=>hlascelles/que-scheduler
+resque-scheduler=>resque/resque-scheduler
+rufus-scheduler=>jmettraux/rufus-scheduler
+Sidekiq-Cron=>ondrejbartas/sidekiq-cron
+Simple Scheduler=>simplymadeapps/simple_scheduler
+Whenever=>javan/whenever
+
+## Scientific
+
+  Bindings
+PyCall=>mrkn/pycall.rb
+ruby-opencv=>ruby-opencv/ruby-opencv
+  Classifiers
+classifier-reborn=>jekyll/classifier-reborn
+  Data analysis/structures
+daru=>v0dro/daru
+Daru::View=>SciRuby/daru-view
+Rgl=>monora/rgl
+  Numerical arrays
+NMatrix=>sciruby/nmatrix
+Numo::NArray=>ruby-numo/numo-narray
+mdarray=>rbotafogo/mdarray
+Red Data Tools=>red-data-tools
+SciRuby=>sciruby/sciruby
+IRuby=>SciRuby/iruby
+statsample=>sciruby/statsample
+statsample-timeseries=>sciruby/statsample-timeseries
+statsample-glm=>sciruby/statsample-glm
+distribution=>sciruby/distribution
+minimization=>sciruby/minimization
+  Specific
+BioRuby=>bioruby/bioruby
+bloomfilter-rb=>igrigorik/bloomfilter-rb
+decisiontree=>igrigorik/decisiontree
+  Utilities
+algorithms=>kanwei/algorithms
+jaro_winkler=>tonytonyjan/jaro_winkler
+primes-utils=>jzakiya/primes-utils
+Roots=>jzakiya/roots
+smarter_csv=>tilo/smarter_csv
+
+## Search
+
+chewy=>toptal/chewy
+elasticsearch-ruby=>elastic/elasticsearch-ruby
+elastics=>printercu/elastics-rb
+has_scope=>heartcombo/has_scope
+Mongoid Search=>mauriciozaffari/mongoid_search
+pg_search=>Casecommons/pg_search
+ransack=>activerecord-hackery/ransack/
+Rroonga=>ranguba/rroonga
+scoped_search=>wvanbergen/scoped_search
+SearchCop=>mrkamel/search_cop
+Searchkick=>ankane/searchkick
+Sunspot=>sunspot/sunspot
+textacular=>textacular/textacular
+Thinking Sphinx=>pat/thinking-sphinx
+
+## Security
+
+BeEF=>http://beefproject.com/
+bundler-audit=>rubysec/bundler-audit
+Fingerprinter=>erwanlr/Fingerprinter
+haiti=>noraj/haiti
+Metasploit=>rapid7/metasploit-framework
+Pipal=>digininja/pipal
+Rack::Attack=>kickstarter/rack-attack
+Rack::Protection=>sinatra/sinatra/tree/master/rack-protection
+Ronin=>ronin-rb/ronin
+SecureHeaders=>twitter/secureheaders
+WhatWeb=>urbanadventurer/WhatWeb
+WPscan=>http://wpscan.org/
+
+## Services and Apps
+
+Online tools, services and APIs to simplify development.
+
+AppSignal=>https://appsignal.com/
+Codacy=>https://www.codacy.com/
+CodeClimate=>https://codeclimate.com/
+GitHub=>
+Gitlab CI=>https://about.gitlab.com/gitlab-ci/
+GitLab=>https://about.gitlab.com/
+HoundCI=>https://houndci.com/
+Inch CI=>https://inch-ci.org/
+OctoLinker=>OctoLinker/browser-extension
+SemaphoreCI=>https://semaphoreci.com/
+Sider=>https://sider.review/
+Travis CI=>https://travis-ci.com/
+
+## SEO
+
+FriendlyId=>norman/friendly_id
+MetaTags=>kpumuk/meta-tags
+prerender_rails=>prerender/prerender_rails
+SitemapGenerator=>kjvarga/sitemap_generator
+
+## Social Networking
+
+Decidim=>decidim/decidim
+diaspora\*=>diaspora/diaspora
+Discourse=>discourse/discourse
+Mailboxer=>mailboxer/mailboxer
+Mastodon=>Gargron/mastodon
+Retrospring=>Retrospring/retrospring
+Social Shares=>Timrael/social_shares
+Thredded=>thredded/thredded
+
+## Spreadsheets and Documents
+
+CAXLSX=>caxlsx/caxlsx
+Docsplit=>http://documentcloud.github.io/docsplit
+Roo=>roo-rb/roo
+spreadsheet_architect=>westonganger/spreadsheet_architect
+
+## State Machines
+
+AASM=>aasm/aasm
+FiniteMachine=>peter-murach/finite_machine
+MicroMachine=>soveran/micromachine
+simple_states=>svenfuchs/simple_states
+Statesman=>gocardless/statesman
+state_machines=>state-machines/state_machines
+transitions=>troessner/transitions
+Workflow=>geekq/workflow
+
+## Static Site Generation
+
+Bridgetown=>bridgetownrb/bridgetown
+High Voltage=>thoughtbot/high_voltage
+Jekyll=>https://jekyllrb.com/
+Awesome Jekyll=>planetjekyll/awesome-jekyll
+Middleman=>http://middlemanapp.com/
+Nanoc=>http://nanoc.ws/
+Photish=>henrylawson/photish
+webgen=>http://webgen.gettalong.org/
+
+## Template Engine
+
+Curly=>zendesk/curly
+Haml=>haml/haml
+Liquid=>Shopify/liquid
+Mustache=>mustache/mustache
+Slim=>slim-template/slim
+Tilt=>rtomayko/tilt
+
+## Testing
+
+  Frameworks
+RSpec=>rspec/rspec
+  Formatters
+Emoji-RSpec=>cupakromer/emoji-rspec
+Fuubar=>thekompanee/fuubar
+Nyan Cat=>mattsears/nyan-cat-formatter
+Aruba=>cucumber/aruba
+Bacon=>chneukirchen/bacon
+Capybara=>teamcapybara/capybara
+Cucumber=>cucumber/cucumber
+Cutest=>djanowski/cutest
+Fix=>fixrb/fix
+Howitzer=>strongqa/howitzer
+minitest=>seattlerb/minitest
+Mocha=>freerange/mocha
+RR=>rr/rr
+shoulda-matchers=>thoughtbot/shoulda-matchers
+Spinach=>codegram/spinach
+TestBench=>test-bench/test-bench
+Test::Unit=>http://test-unit.github.io/
+  Fake Data
+Fabrication=>http://fabricationgem.org/
+factory_bot=>thoughtbot/factory_bot
+Fake Person=>adamcooke/fake-person
+faker=>stympy/faker
+ffaker=>ffaker/ffaker
+Forgery=>sevenwire/forgery
+  Mock
+ActiveMocker=>zeisler/active_mocker
+DnsMock=>mocktools/ruby-dns-mock
+DuckRails=>iridakos/duckrails
+SmtpMock=>mocktools/ruby-smtp-mock
+TestXml=>alovak/test_xml
+WebMock=>bblimke/webmock
+  WebDrivers
+Ferrum=>rubycdp/ferrum
+Poltergeist=>teampoltergeist/poltergeist
+Selenium WebDriver=>SeleniumHQ/selenium/tree/master/rb
+Watir=>watir/watir/
+  Extra
+Appraisal=>thoughtbot/appraisal
+CQL=>enkessler/cql
+cuke_modeler=>enkessler/cuke_modeler
+gitarro=>openSUSE/gitarro
+Knapsack=>ArturT/knapsack
+mutant=>mbj/mutant
+Parallel Tests=>grosser/parallel_tests
+power_assert=>k-tsj/power_assert
+Ruby-JMeter=>flood-io/ruby-jmeter
+Spring=>rails/spring
+timecop=>travisjeffery/timecop
+Turbo Tests=>serpapi/turbo_tests
+vcr=>vcr/vcr
+Wraith=>BBC-News/wraith
+Zapata=>Nedomas/zapata
+
+## Third-party APIs
+
+Ably=>ably/ably-ruby
+Buffer=>bufferapp/buffer-ruby
+discordrb=>meew0/discordrb
+Dropbox=>Jesus/dropbox_api
+fb_graph2=>nov/fb_graph2
+flickr=>RaVbaker/flickr
+gitlab=>NARKOZ/gitlab
+google-api-ads-ruby=>googleads/google-api-ads-ruby
+gmail=>gmailgem/gmail
+hipchat-rb=>hipchat/hipchat-rb
+instagram-ruby-gem=>Instagram/instagram-ruby-gem
+itunes_store_transporter=>sshaw/itunes_store_transporter
+linkedin=>hexgnu/linkedin
+Notion Ruby Client=>orbit-love/notion-ruby-client
+Octokit=>http://octokit.github.io/octokit.rb
+Pusher=>pusher/pusher-http-ruby
+Restforce=>ejholmes/restforce
+ruby-gmail=>dcparker/ruby-gmail
+ruby-trello=>jeremytregunna/ruby-trello
+simple-slack-bot=>kciter/simple-slack-bot
+Slack Notifier=>stevenosloan/slack-notifier
+Slack ruby gem=>aki017/slack-ruby-gem
+soundcloud-ruby=>soundcloud/soundcloud-ruby
+t=>sferik/t
+terjira=>keepcosmos/terjira
+tweetstream=>tweetstream/tweetstream
+twilio-ruby=>twilio/twilio-ruby
+twitter=>sferik/twitter
+whatsapp-sdk=>ignacio-chiazzo/ruby_whatsapp_sdk
+wikipedia=>kenpratt/wikipedia-client
+Yt=>Fullscreen/yt
+
+## Video
+
+Streamio FFMPEG=>streamio/streamio-ffmpeg
+VideoInfo=>thibaudgg/video_info
+Video Transcoding=>donmelton/video_transcoding
+
+## View components
+
+Cells=>trailblazer/cells
+Komponent=>komposable/komponent
+Phlex=>joeldrapper/phlex
+ViewComponent=>github/view_component
+
+## View helpers
+
+active_link_to=>comfy/active_link_to
+auto_html=>dejan/auto_html
+Bh=>fullscreen/bh
+gon=>gazay/gon
+PluggableJs=>peresleguine/pluggable_js
+render_async=>renderedtext/render_async
+
+## Web Crawling
+
+LinkThumbnailer=>gottfrois/link_thumbnailer
+Kimurai=>vifreefly/kimuraframework
+Mechanize=>sparklemotion/mechanize
+MetaInspector=>jaimeiniesta/metainspector
+Spidr=>postmodern/spidr
+Upton=>propublica/upton
+Wombat=>felipecsl/wombat
+
+## Web Frameworks
+
+Camping=>camping/camping
+Cuba=>http://cuba.is/
+Hobbit=>patriciomacadden/hobbit
+Hanami=>http://hanamirb.org/
+Hyperstack=>https://hyperstack.org/
+Padrino=>http://www.padrinorb.com/
+Pakyow=>https://pakyow.com/
+Rack::App=>rack-app/rack-app
+Ramaze=>http://ramaze.net/
+Roda=>http://roda.jeremyevans.net/
+Ruby on Rails=>http://rubyonrails.org/
+Scorched=>http://scorchedrb.com/
+Sinatra=>http://www.sinatrarb.com/
+Syro=>soveran/syro/
+Trailblazer=>trailblazer/trailblazer
+
+## Web Servers
+
+Agoo=>ohler55/agoo
+Falcon=>socketry/falcon
+Iodine=>boazsegev/iodine
+Phusion Passenger=>https://www.phusionpassenger.com/
+Puma=>puma/puma
+Rack=>http://rack.github.io/
+Thin=>macournoyer/thin
+TorqueBox=>torquebox/torquebox
+Unicorn=>http://unicorn.bogomips.org/
+
+## WebSocket
+
+AnyCable=>http://anycable.io/
+CableReady=>hopsoft/cable_ready
+Faye=>http://faye.jcoglan.com/ruby.html
+Firehose=>firehoseio/firehose
+Slanger=>stevegraham/slanger
+StimulusReflex=>hopsoft/stimulus_reflex
