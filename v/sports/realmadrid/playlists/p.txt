@@ -9,6 +9,9 @@
 ##Vinicius Jr Assists-->vinicius_assists
 ##Vinicius Jr Skills-->vinicius_skills
 ##Vinicius Jr Dribbling-->vinicius_dribbling
+##Vinicius Jr Runs-->vinicius_jr_runs
+##Vinicius Jr Brazil-->vinicius_jr_brazil
+##Vinicius Jr Champions League-->vinicius_jr_champions_league
 
 @@@Luka Modric
 ##Luka Modric Goals-->modric_goals
@@ -24,3 +27,39 @@
 ##Aurelien Tchouameni Skills-->tchouameni_skills
 ##Aurelien Tchouameni Passes-->tchouameni_passes
 
+@@@Toni Kroos
+##Toni Kroos Skills-->toni_kroos_skills
+##Toni Kroos Assists-->toni_kroos_assists
+##Toni Kroos Goals-->toni_kroos_goals
+##Toni Kroos Passes-->toni_kroos_passes
+
+@@@Karim Benzema
+##Karim Benzema Skills-->karim_benzema_skills
+##Karim Benzema Finishing-->karim_benzema_finishing
+##Karim Benzema Assists-->karim_benzema_assists
+##Karim Benzema Headers-->karim_benzema_headers
+
+@@@Zinedine Zidane
+##Zinedine Zidane Skills-->zinedine_zidane_skills
+##Zinedine Zidane Goals-->zinedine_zidane_goals
+##Zinedine Zidane Dribbling-->zinedine_zidane_dribbling
+##Zinedine Zidane Assists-->zinedine_zidane_assists
+##Zinedine Zidane Passes-->zinedine_zidane_passes
+##Zinedine Zidane Real Madrid-->zinedine_zidane_real_madrid
+##Zinedine Zidane Juventus-->zinedine_zidane_juventus
+##Zinedine Zidane France-->zinedine_zidane_france
+##Zinedine Zidane World Cup-->zinedine_zidane_world_cup
+##Zinedine Zidane Champions League-->zinedine_zidane_champions_league
+
+@@@Cristiano Ronaldo
+##Cristiano Ronaldo Goals-->cristiano_ronaldo_goals
+##Cristiano Ronaldo Headers-->cristiano_ronaldo_headers
+##Cristiano Ronaldo Finishing-->cristiano_ronaldo_finishing
+##Cristiano Ronaldo Dribbling-->cristiano_ronaldo_dribbling
+##Cristiano Ronaldo Assists-->cristiano_ronaldo_assists
+##Cristiano Ronaldo Runs-->cristiano_ronaldo_runs
+##Cristiano Ronaldo Real Madrid-->cristiano_ronaldo_real_madrid
+##Cristiano Ronaldo Man Utd-->cristiano_ronaldo_man_utd
+##Cristiano Ronaldo Portugal-->cristiano_ronaldo_portugal
+##Cristiano Ronaldo Champions League-->cristiano_ronaldo_champions_league
+##Cristiano Ronaldo World Cup-->cristiano_ronaldo_world_cup
