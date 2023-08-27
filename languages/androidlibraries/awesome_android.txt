@@ -1,0 +1,358 @@
+##Charts
+AChartEngine=>ddanny/achartengine
+EazeGraph=>blackfizz/EazeGraph
+WilliamChart=>diogobernardino/WilliamChart
+HelloCharts=>lecho/hellocharts-android
+MPAndroidChart=>PhilJay/MPAndroidChart
+ArcChartView=>imaNNeoFighT/ArcChartView
+AnyChart=>AnyChart/AnyChart-Android
+
+##Cloud Services
+CloudRail=>https://cloudrail.com
+
+##Data binding
+Anvil=>anvil-ui/anvil
+Data Binding Library=>https://developer.android.com/topic/libraries/data-binding/
+
+##Dependency Injection
+Dagger 2=>google/dagger
+Butter Knife=>http://jakewharton.github.io/butterknife/
+ActivityStarter=>MarcinMoskala/ActivityStarter
+AndroidAnnotations=>androidannotations/androidannotations
+Toothpick=>stephanenicolas/toothpick
+
+##Android Services
+Remoter=>josesamuel/remoter
+Service Connector=>josesamuel/serviceconnector
+
+##Game Development
+Libgdx=>https://libgdx.badlogicgames.com/
+Vuforia=>https://www.vuforia.com/
+Unity=>https://unity3d.com/unity/features/multiplatform
+Rajawali=>Rajawali/Rajawali
+Cocos2d-x=>https://cocos2d-x.org/
+JustWeEngine=>lfkdsk/JustWeEngine
+
+##Security
+libsignal-protocol-java=>signalapp/libsignal-protocol-java
+Themis=>cossacklabs/themis
+
+##GUI
+Pull to refresh=>https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout
+Cardslib=>gabrielemariotti/cardslib
+AndroidStaggeredGrid=>etsy/AndroidStaggeredGrid
+Flow=>square/flow
+SortableTableView=>ISchwarz23/SortableTableView
+MaterialProgressBar=>zhanghai/MaterialProgressBar
+AndroidFillableLoaders=>JorgeCastilloPrz/AndroidFillableLoaders
+NexusDialog=>dkharrat/NexusDialog
+Snap RecyclerView Utils=>prashantsolanki3/Snap-RecyclerView-Utils
+MultiSnapRecyclerView=>TakuSemba/MultiSnapRecyclerView
+SwipeableCard=>michelelacorte/SwipeableCard
+ElasticProgressBar=>michelelacorte/ElasticProgressBar
+EntryScreenManager=>kunall17/EntryScreenManager
+EasyIntro=>meNESS/EasyIntro
+Material-Calendar-View=>BlackBoxVision/material-calendar-view
+CrunchyCalendar=>CleverPumpkin/CrunchyCalendar
+SmoothOverscrollableScrollView=>vovaksenov99/OverscrollableScrollView
+SectionedRecyclerViewAdapter=>luizgrp/SectionedRecyclerViewAdapter
+DragListView=>woxblom/DragListView
+Animated Expanding ListView=>LeonardoCardoso/Animated-Expanding-ListView
+TastyToast=>yadav-rahul/TastyToast
+DotLoader=>bhargavms/DotLoader
+PodSlider=>bhargavms/PodSLider
+TapTargetView=>KeepSafe/TapTargetView
+ShowCaseView=>mreram/ShowCaseView
+MaterialIntroScreen=>TangoAgency/material-intro-screen
+FloatingView=>UFreedom/FloatingView
+Timecon=>alxrm/animated-clock-icon
+Audiogram=>alxrm/audiowave-progressbar
+Bubbles for Android=>txusballesteros/bubbles-for-android
+Litho (By Facebook)=>facebook/litho
+MultiViewAdapter=>DevAhamed/MultiViewAdapter
+LGSnackbar=>loregr/LGSnackbar
+ShimmerLayout=>team-supercharge/ShimmerLayout
+CircleProgressBar=>emre1512/CircleProgressBar
+Easy-Signature-Android=>smalam119/Easy-Signature-Android
+Flashbar=>aritraroy/Flashbar
+YuanaItemSettingView=>andhikayuana/YuanaItemSettingView
+Gradients=>bakhtiyork/gradients
+OneAdapter=>ironSource/OneAdapter
+
+##Paginate
+NoPaginate=>NoNews/NoPaginate
+
+##ActionBar
+ActionBarSherlock=>http://actionbarsherlock.com
+FadingActionBar=>ManuelPeinado/FadingActionBar
+
+##Navigation
+SlidingMenu=>jfeinstein10/SlidingMenu
+SlidingTutorial=>Cleveroad/slidingtutorial-android
+PagerSlidingTabStrip=>astuetz/PagerSlidingTabStrip
+Page View indicator=>JakeWharton/ViewPagerIndicator
+RecyclerTabLayout=>nshmura/RecyclerTabLayout
+MaterialDrawer=>mikepenz/MaterialDrawer
+Debug-Artist=>BaristaVentures/android-debug-artist
+Floating-Navigation-View=>andremion/Floating-Navigation-View
+
+##Animations
+Rebound=>facebook/rebound
+Android View Animations=>daimajia/AndroidViewAnimations
+Android-Transition=>kaichunlin/android-transition
+Android-View-Actions=>dtx12/AndroidAnimationsActions
+Swipper=>mdg-iitr/Swipper
+Spotlight=>TakuSemba/Spotlight
+
+##Images
+Crescento=>developer-shivam/crescento
+android-crop=>jdamcd/android-crop
+CircularImageView=>Pkmmte/CircularImageView
+Android-Image-Filter=>ragnraok/android-image-filter
+Compressor=>zetbaitsu/Compressor
+ShapeImageView=>siyamed/android-shape-imageview
+
+##Inputs
+FloatingLabel=>hardik-trivedi/FloatingLabel
+MaterialEditText=>rengwuxian/MaterialEditText
+EmojiCompat=>googlearchive/android-EmojiCompat
+MaterialSearchBar=>mancj/MaterialSearchBar
+InputMask=>RedMadRobot/input-mask-android
+SweetPassword=>jesusmartinoza/Sweet-Password
+VoiceOverlay=>algolia/voice-overlay-android
+
+##View Pagers
+Material Dots Indicators=>tommybuonomo/dotsindicator
+
+##Loading Images
+Picasso=>square/picasso
+Universal Image Loader=>nostra13/Android-Universal-Image-Loader
+Glide=>bumptech/glide
+Fresco=>facebook/fresco
+Glide Bitmap Pool=>amitshekhariitbhu/GlideBitmapPool
+Coil=>coil-kt/coil
+
+##Media Picker
+MediaPicker=>alhazmy13/MediaPicker
+Android Image Picker=>esafirm/android-image-picker
+
+##Video
+ijkplayer=>Bilibili/ijkplayer
+Exoplayer=>google/ExoPlayer
+VideoPlayView=>MarcinMoskala/VideoPlayView
+
+##Camera
+MagicalCamera=>fabian7593/MagicalCamera
+Camera=>duanhong169/Camera
+
+##Field Validation
+Convalida=>WellingtonCosta/convalida
+
+##JSON
+Gson=>google/gson
+Jackson JSON Processor=>FasterXML/jackson
+Moshi=>square/moshi
+
+##Crash monitoring
+Fabric Crashlytics=>https://get.fabric.io/
+HockeyApp=>https://www.hockeyapp.net/
+Splunk MINT=>https://mint.splunk.com/
+Bugsnag=>https://www.bugsnag.com/
+Catcho=>alhazmy13/Catcho
+Apteligent=>https://www.apteligent.com/
+Instabug=>https://instabug.com/
+
+##Networking
+Ion=>koush/ion
+OkHttp=>square/okhttp
+RoboSpice=>stephanenicolas/robospice
+IceNet=>anton46/IceNet
+Android Volley=>https://developer.android.com/training/volley/
+IceSoap=>AlexGilleran/IceSoap
+node-android=>InstantWebP2P/node-android
+HappyDns=>qiniu/happy-dns-android
+RESTMock=>andrzejchm/RESTMock
+Fast-Android-Networking=>amitshekhariitbhu/Fast-Android-Networking
+
+##Logger
+logger=>orhanobut/logger
+timber=>JakeWharton/timber
+LoggingInterceptor=>ihsanbal/LoggingInterceptor
+Bugfender=>bugfender/BugfenderSDK-android-sample
+EzyLogger=>afiqiqmal/EzyLogger
+Logback Android=>tony19/logback-android
+
+##Notifications
+android-remote-notifications=>kaiwinter/android-remote-notifications
+Android HeartBeat Fixer=>joaopedronardari/AndroidHeartBeatFixer
+
+##Database
+Cupboard=>https://bitbucket.org/littlerobots/cupboard
+DbInspector=>infinum/android_dbinspector
+SQLite Asset Helper=>jgilfelt/android-sqlite-asset-helper
+Realm=>realm/realm-java
+Realm Asset Helper=>eggheadgames/android-realm-asset-helper
+RestorableSQLiteDatabase=>yaa110/RestorableSQLiteDatabase
+Nitrite Database=>dizitart/nitrite-database
+
+##ORM
+requery=>requery/requery
+GreenDAO=>http://greenrobot.org/greendao/
+ORMLite=>http://ormlite.com/sqlite_java_android_orm.shtml
+ActiveAndroid=>http://www.activeandroid.com
+Sugar ORM=>http://satyan.github.io/sugar/
+DBFlow=>agrosner/DBFlow
+NexusData=>dkharrat/NexusData
+SimpleNoSQL=>Jearil/SimpleNoSQL
+RxSimpleNoSQL=>xmartlabs/RxSimpleNoSQL
+
+##REST
+Retrofit=>https://square.github.io/retrofit/
+Spring for Android=>spring-projects/spring-android
+
+##Testing
+Robotium=>robotiumtech/robotium
+Roboletric=>http://robolectric.org/
+AssertJ Android=>square/assertj-android
+Green Coffee=>mauriciotogneri/green-coffee
+
+##Tracking
+MobileAppTracking=>https://www.tune.com/
+Mixpanel=>https://mixpanel.com/
+Countly=>https://count.ly
+CleverTap=>https://clevertap.com
+
+##Maps
+Google-Directions-Android=>jd-alexander/Google-Directions-Android
+Android Maps Extensions=>mg6maciej/android-maps-extensions
+MapScaleView=>pengrad/MapScaleView
+GLMap=>https://globus.software
+
+##Utility
+Conceal SharedPreferences=>afiqiqmal/SharedChamber
+EventBus=>http://greenrobot.github.io/EventBus/
+Otto=>square/otto
+Weak handler=>badoo/android-weak-handler
+Byte Buddy=>http://bytebuddy.net
+Secure Preference Manager=>prashantsolanki3/Secure-Pref-Manager
+LeakCanary=>square/leakcanary
+Drekkar=>coshx/drekkar
+Androl4b=>sh4hin/Androl4b
+DroidMVP=>andrzejchm/DroidMVP
+EasyDeviceInfo=>nisrulz/easydeviceinfo
+Shutter-Android=>levibostian/Shutter-Android
+Validator=>anderscheow/Validator
+Keyboard Visibility Event=>viniciusmo/keyboard-visibility-event-android/
+TimeIt=>yashovardhan99/timeit
+Reactor=>oky2abbas/reactor
+
+##Debugging Tools
+Linx=>pedrovgs/Lynx
+Scalpel=>JakeWharton/scalpel
+Stetho=>facebook/stetho
+Android Debug Database=>amitshekhariitbhu/Android-Debug-Database
+Android Debug Bridge - ADB=>https://github.com/mzlogin/awesome-adb/blob/master/README.en.md
+ADB Enhanced=>ashishb/adb-enhanced
+Pidcat=>JakeWharton/pidcat
+AppSpector=>https://appspector.com
+
+##Wireless
+SmartGattLib=>movisens/SmartGattLib
+
+##Chat & Messaging
+Applozic Android Chat SDK=>AppLozic/Applozic-Android-SDK
+Qiscus SDK=>qiscus/qiscus-sdk-android
+Kommunicate Live Chat SDK=>Kommunicate-io/Kommunicate-Android-Chat-SDK
+CometChat SDK=>cometchat-go/android-chat-sdk-demo
+Stream Chat=>https://getstream.io/tutorials/android-chat/
+
+##Custom Dialog
+MediaRecorderDialog=>alhazmy13/MediaRecorderDialog
+HijriDatePicker=>alhazmy13/HijriDatePicker
+Noty=>emre1512/Noty
+
+##Version Checking
+AppUpdater=>javiersantos/AppUpdater
+Gandalf=>btkelly/gandalf
+Siren=>eggheadgames/Siren
+Fit=>KeithYokoma/Fit
+
+##Date & Time
+
+ThreeTen Android Backport=>JakeWharton/ThreeTenABP
+Joda-Time Android=>dlew/joda-time-android
+True Time=>instacart/truetime-android
+
+##Runtime Permissions
+Permission Dispatcher=>permissions-dispatcher/PermissionsDispatcher
+RxPermissions=>tbruyelle/RxPermissions
+NoPermission=>NoNews/NoPermission
+Ask-Permission=>Kishanjvaghela/Ask-Permission
+Gota=>alhazmy13/Gota
+EasyPermissions=>googlesamples/easypermissions
+
+##Payments
+Square In-App Payments for Android=>https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android
+
+##Other
+Android Support library=>https://developer.android.com/topic/libraries/support-library/
+Google Play Services=>https://developers.google.com/android/guides/overview
+Tape=>square/tape
+Guava: Google Core Libraries for Java=>google/guava
+Android Scripting=>damonkohler/sl4a
+Android Priority Job Queue=>yigit/android-priority-jobqueue
+RateMeMaybe=>nspo/RateMeMaybe
+Easy Rating Dialog=>fernandodev/easy-rating-dialog
+ZXing Android-Integration=>zxing/zxing
+Gradle Retrolambda Plugin=>evant/gradle-retrolambda
+RxJava=>ReactiveX/RxJava
+RxAndroid=>ReactiveX/RxAndroid
+RxBinding=>JakeWharton/RxBinding
+Caffeine=>percolate/caffeine
+AboutLibraries=>mikepenz/AboutLibraries
+AudioPlayerView=>HugoMatilla/AudioPlayerView
+andle=>Jintin/andle
+Typography=>workarounds/typography
+Calligraphy=>chrisjenx/Calligraphy
+transai=>Jintin/transai
+Android-Link-Preview=>LeonardoCardoso/Android-Link-Preview
+Sensey=>nisrulz/sensey
+UserAwareVideoView=>kevalpatel2106/UserAwareVideoView
+Flexbox Layout=>google/flexbox-layout
+Agile Boiler Plate=>xresco/Android-Agile-Boiler-Plate
+Gradle buildSrcVersions=>jmfayard/buildSrcVersions
+Teller=>levibostian/Teller-Android/
+
+##C#
+Xamarin=>https://visualstudio.microsoft.com/xamarin/
+
+##HTML, CSS and Javascript
+PhoneGap=>https://phonegap.com
+Titanium=>http://www.appcelerator.com/mobile-app-development-products/
+NativeScript=>https://www.nativescript.org/
+React Native=>facebook/react-native
+Ionic Framework=>https://ionicframework.com
+Apache Cordova=>apache/cordova-android
+Capacitor=>ionic-team/capacitor
+
+##Lua
+Corona SDK=>https://coronalabs.com/product/
+
+##Scala
+Scaloid=>pocorall/scaloid
+Macroid=>47deg/macroid
+
+##Groovy
+
+Groovy on Android=>http://melix.github.io/blog/2014/06/grooid.html
+Groovy Language Support for Android=>groovy/groovy-android-gradle-plugin
+SwissKnife=>Arasthel/SwissKnife
+
+##Kotlin
+Anko=>Kotlin/anko
+Kotterknife=>JakeWharton/kotterknife
+Android Kotlin Samples=>irontec/android-kotlin-samples
+Kotlin coding puzzles=>igorwojda/kotlin-coding-puzzle
+KAndroid=>pawegio/KAndroid
+RxKotlin/Pocket=>RxKotlin/Pocket
+Koin=>https://insert-koin.io/

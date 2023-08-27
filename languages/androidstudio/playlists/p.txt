@@ -1,0 +1,16 @@
+@@@Android
+##Android Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/androidlibraries/androidlibraries.txt
+##Awesome Android-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/androidlibraries/awesome_android.txt
+
+@@@Kotlin
+##Kotlin Programming Language-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/kotlinreference.txt
+##Learn Kotlin Coroutines-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/kotlinreference/coroutines.txt
+
+@@@Groovy
+##Groovy Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/groovy/groovy_libraries.txt
+
+
+@@@Flutter
+##Dart Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/dart/dart_libraries.txt
+##Flutter Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/flutter_libraries/flutter_libraries.txt
+
