@@ -4,6 +4,23 @@
 ##Mohamed Salah Skills-->mo_salah_skills
 ##Mo Salah Dribbling-->mo_salah_dribbling
 
+@@@Virgil Van Dijk
+##Virgil Van Dijk Skills-->virgil_van_dijk_skills
+##Virgil Van Dijk Headers-->virgil_van_dijk_headers
+##Virgil Van Dijk Goals-->virgil_van_dijk_goals
+##Virgil Van Dijk Tackles-->virgil_van_dijk_tackles
+
+@@@Trent Alexander-Arnold
+##Trent Alexander-Arnold Skills-->trent_alexander-arnold_skills
+##Trent Alexander-Arnold Goals-->trent_alexander-arnold_goals
+##Trent Alexander-Arnold Assists-->trent_alexander-arnold_assists
+##Trent Alexander-Arnold Passes-->trent_alexander-arnold_passes
+
+@@@Andy Robertson
+##Andy Robertson Skills-->andy_robertson_skills
+##Andy Robertson Assists-->andy_robertson_assists
+##Andy Robertson Goals-->andy_robertson_goals
+
 @@@Alexis Mac Allister
 ##Alexis Mac Allister Goals-->alexis_mac_allister_goals
 ##Alexis Mac Allister Assists-->alexis_mac_allister_assists
@@ -12,6 +29,9 @@
 @@@Dominik Szoboszlai
 ##Dominik Szoboszlai Skills-->dominik_szoboszlai_skills
 ##Dominik Szoboszlai Passes-->dominik_szoboszlai_passes
+
+@@@Wataru Endo
+##Wataru Endo Skills-->wataru_endo_skills
 
 @@@Cody Gakpo
 ##Cody Gakpo Assists-->cody_gakpo_assists
@@ -33,3 +53,43 @@
 ##Sadio Mane Assists-->sadio_mane_assists
 ##Sadio Mane Skills-->sadio_mane_skills
 ##Sadio Mane Dribbling-->sadio_mane_dribbling
+
+@@@Jordan Henderson
+##Jordan Henderson Passes-->jordan_henderson_passes
+##Jordan Henderson Goals-->jordan_henderson_goals
+##Jordan Henderson Assists-->jordan_henderson_assists
+##Jordan Henderson Skills-->jordan_henderson_skills
+
+
+
+@@@Diogo Jota
+##Diogo Jota Assists-->diogo_jota_assists
+##Diogo Jota Goals-->diogo_jota_goals
+##Diogo Jota Skills-->diogo_jota_skills
+
+@@@Stefan Bajcetic
+##Stefan Bajcetic Skills-->stefan_bajcetic_skills
+
+@@@Harvey Elliott
+##Harvey Elliott Skills-->harvey_elliott_skills
+
+@@@Kostas Tsimikas
+##Kostas Tsimikas Skills-->kostas_tsimikas_skills
+
+@@@Joe Gomez
+##Joe Gomez Skills-->joe_gomez_skills
+
+@@@Curtis Jones
+##Curtis Jones Skills-->curtis_jones_skills
+
+@@@Ibrahima Konate
+##Ibrahima Konate Skills-->ibrahima_konate_skills
+
+@@@Joel Matip
+##Joel Matip Skills-->joel_matip_skills
+
+@@@Alisson
+##Alisson Skills-->alisson_skills
+
+
+
