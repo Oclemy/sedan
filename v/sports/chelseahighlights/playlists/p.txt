@@ -1,0 +1,107 @@
+@@@Moises Caicedo
+##Moises Caicedo Skills-->moises_caicedo_skills
+##Moises Caicedo Passes-->moises_caicedo_passes
+
+@@@Nicolas Jackson
+##Nicolas Jackson Skills-->nicolas_jackson_skills
+##Nicolas Jackson Goals-->nicolas_jackson_goals
+
+@@@Christopher Nkunku
+##Christopher Nkunku Skills-->christopher_nkunku_skills
+##Christopher Nkunku Goals-->christopher_nkunku_goals
+
+@@@Romeo Lavia
+##Romeo Lavia Skills-->romeo_lavia_skills
+
+@@@Alex Disasi
+##Alex Disasi Skills-->alex_disasi_skills
+
+@@@Robert Sanchez
+##Robert Sanchez Skills-->robert_sanchez_skills
+
+@@@Enzo Fernandes
+##Enzo Fernandes Skills-->enzo_fernandes_skills
+##Enzo Fernandes Passes-->enzo_fernandes_passes
+
+@@@Reece James
+##Reece James Assists-->reece_james_assists
+##Reece James Skills-->reece_james_skills
+
+@@@Thiago Silva
+##Thiago Silva Skills-->thiago_silva_skills
+##Thiago Silva Brazil-->thiago_silva_brazil
+##Thiago Silva Chelsea-->thiago_silva_chelsea
+
+@@@Ben Chilwell
+##Ben Chilwell Goals-->ben_chilwell_goals
+##Ben Chilwell Assists-->ben_chilwell_assists
+##Ben Chilwell Speed-->ben_chilwell_speed
+##Ben Chilwell Skills-->ben_chilwell_skills
+
+@@@Mykhailo Mudryk
+##Mykhailo Mudryk Skills-->mykhailo_mudryk_skills
+##Mykhailo Mudryk Goals-->mykhailo_mudryk_goals
+##Mykhailo Mudryk Speed-->mykhailo_mudryk_speed
+
+@@@Carney Chukwuemeka
+##Carney Chukwuemeka Skills-->carney_chukwuemeka_skills
+
+@@@Trevoh Chalobah
+##Trevoh Chalobah Skills-->trevoh_chalobah_skills
+
+@@@Marcus Bettinelli
+##Marcus Bettinelli Skills-->marcus_bettinelli_skills
+
+@@@Armando Broja
+##Armando Broja Skills-->armando_broja_skills
+
+@@@Conor Gallagher
+##Conor Gallagher Skills-->conor_gallagher_skills
+##Conor Gallagher Goals-->conor_gallagher_goals
+##Conor Gallagher Passes-->conor_gallagher_passes
+
+@@@Raheem Sterling
+##Raheem Sterling Goals-->raheem_sterling_goals
+##Raheem Sterling Assists-->raheem_sterling_assists
+##Raheem Sterling Dribbling-->raheem_sterling_dribbling
+##Raheem Sterling England-->raheem_sterling_england
+
+@@@Cole Palmer
+##Cole Palmer Skills-->cole_palmer_skills
+
+@@@Noni Madueke
+##Noni Madueke Skills-->noni_madueke_skills
+##Noni Madueke Dribbling-->noni_madueke_dribbling
+
+@@@Malo Gusto
+##Malo Gusto Skills-->malo_gusto_skills
+
+@@@Ian Maatsen
+##Ian Maatsen Skills-->ian_maatsen_skills
+
+@@@Marc Cucurella
+##Marc Cucurella Assists-->marc_cucurella_assists
+##Marc Cucurella Skills-->marc_cucurella_skills
+
+@@@ Didier Drogba
+##Didier Drogba Goals-->didier_drogba_goals
+##Didier Drogba Headers-->didier_drogba_headers
+##Didier Drogba Finishing-->didier_drogba_finishing
+##Didier Drogba Skills-->didier_drogba_skills
+
+@@@Frank Lampard
+##Frank Lampard Skills-->frank_lampard_skills
+##Frank Lampard Goals-->frank_lampard_goals
+##Frank Lampard Assists-->frank_lampard_assists
+
+@@@John Terry
+##John Terry Goals-->john_terry_goals
+##John Terry Skills-->john_terry_skills
+
+@@@Eden Hazard
+##Eden Hazard Skills-->eden_hazard_skills
+##Eden Hazard Goals-->eden_hazard_goals
+##Eden Hazard Assists-->eden_hazard_assists
+##Eden Hazard Speed-->eden_hazard_speed
+##Eden Hazard Dribbling-->eden_hazard_dribbling
+
