@@ -1,2 +1,2 @@
-@@@Next.js Frameworks
+@@@NextJS Frameworks
 ##Blitzjs Framework-->https://apps.clemy.top/languages/blitzjs/blitzjs.txt
