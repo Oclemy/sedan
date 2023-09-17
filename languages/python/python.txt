@@ -1,0 +1,150 @@
+## Getting Started
+Whetting your Appetite=>https://apps.clemy.top/wp-content/uploads/md/python/python/appetite.md
+
+## Interpeter
+Invoking the interpreter=>https://apps.clemy.top/wp-content/uploads/md/python/python/interpreter#invoking-the-interpreter.md
+Argument passing=>https://apps.clemy.top/wp-content/uploads/md/python/python/interpreter#argument-passing.md
+Interactive mode=>https://apps.clemy.top/wp-content/uploads/md/python/python/interpreter#interactive-mode.md
+The interpreter and its environment=>https://apps.clemy.top/wp-content/uploads/md/python/python/interpreter#the-interpreter-and-its-environment.md
+Source code encoding=>https://apps.clemy.top/wp-content/uploads/md/python/python/interpreter#source-code-encoding.md
+
+## Introduction
+Using python as a calculator=>https://apps.clemy.top/wp-content/uploads/md/python/python/introduction#using-python-as-a-calculator.md
+Numbers=>https://apps.clemy.top/wp-content/uploads/md/python/python/introduction#numbers.md
+Text=>https://apps.clemy.top/wp-content/uploads/md/python/python/introduction#text.md
+Lists=>https://apps.clemy.top/wp-content/uploads/md/python/python/introduction#lists.md
+First steps towards programming=>https://apps.clemy.top/wp-content/uploads/md/python/python/introduction#first-steps-towards-programming.md
+
+## Control Flow
+If statements=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#if-statements.md
+For statements=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#for-statements.md
+The range function=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#the-range-function.md
+Break and continue statements and else clauses on loops=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#break-and-continue-statements-and-else-clauses-on-loops.md
+Pass statements=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#pass-statements.md
+Match statements=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#match-statements.md
+Defining functions=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#defining-functions.md
+More on defining functions=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#more-on-defining-functions.md
+Default argument values=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#default-argument-values.md
+Keyword arguments=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#keyword-arguments.md
+Special parameters=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#special-parameters.md
+Positional or keyword arguments=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#positional-or-keyword-arguments.md
+Positional only parameters=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#positional-only-parameters.md
+Keyword only arguments=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#keyword-only-arguments.md
+Function examples=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#function-examples.md
+Recap=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#recap.md
+Arbitrary argument lists=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#arbitrary-argument-lists.md
+Unpacking argument lists=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#unpacking-argument-lists.md
+Lambda expressions=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#lambda-expressions.md
+Documentation strings=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#documentation-strings.md
+Function annotations=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#function-annotations.md
+Intermezzo coding style=>https://apps.clemy.top/wp-content/uploads/md/python/python/controlflow#intermezzo-coding-style.md
+
+## Data Structures
+More on lists=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#more-on-lists.md
+Using lists as stacks=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#using-lists-as-stacks.md
+Using lists as queues=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#using-lists-as-queues.md
+List comprehensions=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#list-comprehensions.md
+Nested list comprehensions=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#nested-list-comprehensions.md
+The del statement=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#the-del-statement.md
+Tuples and sequences=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#tuples-and-sequences.md
+Sets=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#sets.md
+Dictionaries=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#dictionaries.md
+Looping techniques=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#looping-techniques.md
+More on conditions=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#more-on-conditions.md
+Comparing sequences and other types=>https://apps.clemy.top/wp-content/uploads/md/python/python/datastructures#comparing-sequences-and-other-types.md
+
+## Modules
+More on modules=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#more-on-modules.md
+Executing modules as scripts=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#executing-modules-as-scripts.md
+The module search path=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#the-module-search-path.md
+Compiled python files=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#compiled-python-files.md
+Standard modules=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#standard-modules.md
+The dir() function=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#the-dir-function.md
+Packages=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#packages.md
+Importing from a package=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#importing-from-a-package.md
+Intra package references=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#intra-package-references.md
+Packages in multiple directories=>https://apps.clemy.top/wp-content/uploads/md/python/python/modules#packages-in-multiple-directories.md
+
+## Input and Output
+Fancier output formatting=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#fancier-output-formatting.md
+Formatted string literals=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#formatted-string-literals.md
+The string() format method=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#the-string-format-method.md
+Manual string formatting=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#manual-string-formatting.md
+Old string formatting=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#old-string-formatting.md
+Reading and writing files=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#reading-and-writing-files.md
+Methods of file objects=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#methods-of-file-objects.md
+Saving structured data with json=>https://apps.clemy.top/wp-content/uploads/md/python/python/inputoutput#saving-structured-data-with-json.md
+
+## Errors and Exceptions
+Syntax errors=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#syntax-errors.md
+Exceptions=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#exceptions.md
+Handling exceptions=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#handling-exceptions.md
+Raising exceptions=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#raising-exceptions.md
+Exception chaining=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#exception-chaining.md
+User-defined exceptions=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#user-defined-exceptions.md
+Defining clean-up actions=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#defining-clean-up-actions.md
+Predefined clean up actions=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#predefined-clean-up-actions.md
+Raising and handling multiple unrelated exceptions=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#raising-and-handling-multiple-unrelated-exceptions.md
+Enriching exceptions with notes=>https://apps.clemy.top/wp-content/uploads/md/python/python/errors#enriching-exceptions-with-notes.md
+
+## Classes
+A word about names and objects=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#a-word-about-names-and-objects.md
+Python scopes and namespaces=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#python-scopes-and-namespaces.md
+Scopes and namespaces example=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#scopes-and-namespaces-example.md
+A first look at classes=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#a-first-look-at-classes.md
+Class definition syntax=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#class-definition-syntax.md
+Class objects=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#class-objects.md
+Instance objects=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#instance-objects.md
+Method objects=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#method-objects.md
+Class and instance variables=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#class-and-instance-variables.md
+Random remarks=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#random-remarks.md
+Inheritance=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#inheritance.md
+Multiple inheritance=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#multiple-inheritance.md
+Private variables=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#private-variables.md
+Odds and ends=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#odds-and-ends.md
+Iterators=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#iterators.md
+Generators=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#generators.md
+Generator expressions=>https://apps.clemy.top/wp-content/uploads/md/python/python/classes#generator-expressions.md
+
+## Brief Tour of the Standard Library
+Operating system interface=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#operating-system-interface.md
+File wildcards=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#file-wildcards.md
+Command line arguments=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#command-line-arguments.md
+Error output redirection and program termination=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#error-output-redirection-and-program-termination.md
+String pattern matching=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#string-pattern-matching.md
+Mathematics=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#mathematics.md
+Internet access=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#internet-access.md
+Dates and times=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#dates-and-times.md
+Data compression=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#data-compression.md
+Performance measurement=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#performance-measurement.md
+Quality control=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#quality-control.md
+Batteries included=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib#batteries-included.md
+
+## Brief Tour of the Standard Library — Part II
+Output formatting=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#output-formatting.md
+Templating=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#templating.md
+Working with binary data record layouts=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#working-with-binary-data-record-layouts.md
+Multi-threading=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#multi-threading.md
+Logging=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#logging.md
+Weak references=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#weak-references.md
+Tools for working with lists=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#tools-for-working-with-lists.md
+Decimal floating point arithmetic=>https://apps.clemy.top/wp-content/uploads/md/python/python/stdlib2#decimal-floating-point-arithmetic.md
+
+## Virtual Environments and Packages
+Introduction=>https://apps.clemy.top/wp-content/uploads/md/python/python/venv#introduction.md
+Creating virtual environments=>https://apps.clemy.top/wp-content/uploads/md/python/python/venv#creating-virtual-environments.md
+Managing packages with pip=>https://apps.clemy.top/wp-content/uploads/md/python/python/venv#managing-packages-with-pip.md
+
+## Interactive
+Tab completion and history editing=>https://apps.clemy.top/wp-content/uploads/md/python/python/interactive#tab-completion-and-history-editing.md
+Alternatives to the interactive interpreter=>https://apps.clemy.top/wp-content/uploads/md/python/python/interactive#alternatives-to-the-interactive-interpreter.md
+
+## Floating Point
+Representation error=>https://apps.clemy.top/wp-content/uploads/md/python/python/floatingpoint.md
+
+## Appendix
+Interactive mode=>https://apps.clemy.top/wp-content/uploads/md/python/python/appendix#interactive-mode.md
+Error handling=>https://apps.clemy.top/wp-content/uploads/md/python/python/appendix#error-handling.md
+Executable python scripts=>https://apps.clemy.top/wp-content/uploads/md/python/python/appendix#executable-python-scripts.md
+The interactive startup file=>https://apps.clemy.top/wp-content/uploads/md/python/python/appendix#the-interactive-startup-file.md
+The customization modules=>https://apps.clemy.top/wp-content/uploads/md/python/python/appendix#the-customization-modules.md

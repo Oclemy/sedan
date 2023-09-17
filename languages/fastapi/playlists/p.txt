@@ -1,0 +1,13 @@
+@@@Alternative Python Frameworks
+##Flask Web Framework-->https://apps.clemy.top/languages/flask/flask.txt
+##CherryPy Web Framework-->https://apps.clemy.top/languages/cherrypy/cherrypy.txt
+
+@@@Libraries
+##Python Libraries-->https://apps.clemy.top/languages/python_libraries/python_libraries.txt
+
+@@@Client-side JavaScript
+##Learn ReactJS-->https://apps.clemy.top/languages/react/react.txt
+
+@@@NodeJS Frameworks
+##ExpressJS-->https://apps.clemy.top/languages/expressjs/expressjs.txt
+

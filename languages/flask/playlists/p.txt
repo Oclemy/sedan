@@ -2,7 +2,8 @@
 ##Flask Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/flask/flask_libraries.txt
 ##Python Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/python_libraries.txt
 
-@@@Python Frameworks
+@@@Alternative Python Frameworks
+##FastAPI Web Framework-->https://apps.clemy.top/languages/fastapi/fastapi.txt
 ##Cherrypy Web Framework-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/cherrypy/cherrypy.txt
 
 @@@Client-side JavaScript

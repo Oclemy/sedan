@@ -1,0 +1,10 @@
+@@@Awesome Python
+##Document and Files-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/document_and_files.txt
+##Media Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/media.txt
+##Git API-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/git.txt
+##Asyncio Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/asyncio.txt
+
+@@@Python Web Development
+##Flask Web Framework-->https://apps.clemy.top/languages/flask/flask.txt
+##FastAPI Web Framework-->https://apps.clemy.top/languages/fastapi/fastapi.txt
+##CherryPy Web Framework-->https://apps.clemy.top/languages/cherrypy/cherrypy.txt
