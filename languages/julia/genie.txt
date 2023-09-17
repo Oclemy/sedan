@@ -1,0 +1,58 @@
+## Home
+Home=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/index
+
+## Guide
+Migrating Genie v4 apps to Genie v5=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Migrating_from_v4_to_v5
+Working with Genie Apps=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Working_With_Genie_Apps
+Working With Genie Apps: Intermediate Topics [WIP]=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Working_With_Genie_Apps_Intermediary_Topics
+Using Genie in an interactive environment=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Interactive_environment
+Developing an API backend=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Simple_API_backend
+Using Genie Plugins=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Genie_Plugins
+Deploying Genie Apps On AWS=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Deploying_Genie_Apps_On_AWS
+Controlling Load Order of Genie Apps=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/Controlling_Load_Order_Of_Genie_Apps
+
+## Tutorials
+Welcome to Genie=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/1--Overview
+Installing Genie=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/2--Installing_Genie
+Getting started=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/3--Getting_Started
+Creating a web service=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/4--Developing_Web_Services
+Developing MVC web applications=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/4-1--Developing_MVC_Web_Apps
+Handling URI/query params=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/5--Handling_Query_Params
+Working with forms and POST payloads=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/6--Working_with_POST_Payloads
+Using JSON payloads=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/7--Using_JSON_Payloads
+Uploading files=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/8--Handling_File_Uploads
+Adding your libraries into Genie=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/9--Publishing_Your_Julia_Code_Online_With_Genie_Apps
+Loading and starting Genie apps=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/10--Loading_Genie_Apps
+Managing Genie app's dependencies=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/11--Managing_External_Packages
+Advanced routing=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/12--Advanced_Routing_Techniques
+Auto-loading configuration code with initializers=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/13--Initializers
+The secrets file=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/14--The_Secrets_File
+Auto-loading user libraries=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/15--The_Lib_Folder
+Using Genie with Docker=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/16--Using_Genie_With_Docker
+Working with WebSockets=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/17--Working_with_Web_Sockets
+Deploying to Heroku with Buildpacks=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/90--Deploying_With_Heroku_Buildpacks
+Deploying to server with Nginx=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/92--Deploying_Genie_Server_Apps_with_Nginx
+
+## API
+Assets=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/assets
+Commands=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/commands
+Configuration=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/configuration
+Cookies=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/cookies
+Encryption=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/encryption
+Exceptions=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/exceptions
+FileTemplates=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/filetemplates
+Generator=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/generator
+Genie=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/genie
+Headers=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/headers
+Input=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/input
+Loader=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/loader
+Renderer=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/renderer
+HTML Renderer=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/renderer-html
+Requests=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/requests
+Router=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/router
+Secrets=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/secrets
+Server=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/server
+Toolbox=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/toolbox
+Util=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/util
+WebChannels=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/webchannels
+WebThreads=>https://apps.camposha.info/wp-content/uploads/md/julia/genie/webthreads
