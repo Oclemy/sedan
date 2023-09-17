@@ -1,16 +1,31 @@
 @@@Learn Python
+
 Python Programming Language=>https://apps.clemy.top/languages/python/python.txt
 
+
+
 @@@Other Python Frameworks
-##Flask Web Framework-->https://apps.clemy.top/languages/flask/flask.txt
+#
+#Flask Web Framework-->https://apps.clemy.top/languages/flask/flask.txt
+
+
 
 @@@Python Frameworks
+
 ##Python Libraries-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/python_libraries/python_libraries.txt
 
+
+
 @@@Client-side JavaScript
+
 ##Learn ReactJS-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/react/react.txt
 
+
+
 @@@NodeJS Frameworks
+
 ##ExpressJS-->https://raw.githubusercontent.com/Oclemy/sedan/main/languages/expressjs/expressjs.txt
+
+
 
 <!--{{LANGUAGES:id-->cherrypy;Spanish-->es;French-->fr;Portuguese-->pt;German-->de}}-->
