@@ -16,3 +16,38 @@
 ##Iniesta Assists-->iniesta_assists
 ##Iniesta Passing-->iniesta_passing
 ##Iniesta Goals-->iniesta_goals
+##Iniesta Skills-->iniesta_skills
+
+@@@Robert Lewandowski
+##Robert Lewandowski Goals-->robert_lewandowski_goals
+##Robert Lewandowski Assists-->robert_lewandowski_assists
+##Robert Lewandowski Barcelona-->robert_lewandowski_barcelona
+##Robert Lewandowski Finishing-->robert_lewandowski_finishing
+##Robert Lewandowski Headers-->robert_lewandowski_headers
+##Robert Lewandowski Skills-->robert_lewandowski_skills
+
+@@@Gavi
+##Gavi Skills-->gavi_skills
+##Gavi Goals-->gavi_goals
+##Gavi Assists-->gavi_assists
+##Gavi Passes-->gavi_passes
+
+@@@Pedri
+##Pedri Passes-->pedri_passes
+##Pedri Assists-->pedri_assists
+##Pedri Goals-->pedri_goals
+##Pedri Skills-->pedri_skills
+
+@@@Lamine Yamal
+##Lamine Yamal Skills-->lamine_yamal_skills
+
+@@@Sergio Busquets
+##Sergio Busquets Skills-->sergio_busquets_skills
+##Sergio Busquets Assists-->sergio_busquets_assists
+##Sergio Busquets Goals-->sergio_busquets_goals
+##Sergio Busquets Passes-->sergio_busquets_passes
+
+@@@Jordi Alba
+##Jordi Alba Speed-->jordi_alba_speed
+##Jordi Alba Assists-->jordi_alba_assists
+##Jordi Alba Skills-->jordi_alba_skills

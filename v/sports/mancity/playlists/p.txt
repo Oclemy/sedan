@@ -14,6 +14,20 @@
 ##Julian Alvarez Skills-->julian_alvarez_skills
 ##Julian Alvarez Argentina-->julian_alvarez_argentina
 
+@@@Jeremy Doku
+##Jeremy Doku Skills-->jeremy_doku_skills
+##Jeremy Doku Dribbling-->jeremy_doku_dribbling
+##Jeremy Doku Assists-->jeremy_doku_assists
+##Jeremy Doku Goals-->jeremy_doku_goals
+
+@@@Matheus Nunes
+##Matheus Nunes Skills-->matheus_nunes_skills
+##Matheus Nunes Passes-->matheus_nunes_passes
+
+@@@Mateo Kovacic
+##Kovacic Passes-->kovacic_passes
+##Kovacic Skills-->kovacic_skills
+
 @@@Bernado Silva
 ##Bernado Silva Assists-->bernado_silva_assists
 ##Bernado Silva Goals-->bernado_silva_goals
@@ -52,4 +66,14 @@
 ##Gundogan Assists-->gundogan_assists
 ##Gundogan Goals-->gundogan_goals
 ##Gundogan Skills-->gundogan_skills
+
+@@@Phil Phoden
+##Phil Phoden Goals-->phil_phoden_goals
+##Phil Phoden Assists-->phil_phoden_assists
+##Phil Phoden Skills-->phil_phoden_skills
+
+@@@Jack Grealish
+##Jack Grealish Skills-->jack_grealish_skills
+##Jack Grealish Goals-->jack_grealish_goals
+##Jack Grealish Assists-->jack_grealish_assists
 
