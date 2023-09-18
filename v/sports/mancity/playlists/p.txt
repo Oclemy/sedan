@@ -1,0 +1,55 @@
+@@@Erling Haaland
+##Erling Haaland Goals-->erling_haaland_goals
+##Erling Haaland Skills-->erling_haaland_skills
+##Erling Haaland Finishing-->erling_haaland_finishing
+##Erling Haaland Speed-->erling_haaland_speed
+##Erling Haaland Norway-->erling_haaland_norway
+##Erling Haaland Dortmund-->erling_haaland_dortmund
+
+@@@Julian Alvarez
+##Julian Alvarez Goals-->julian_alvarez_goals
+##Julian Alvarez Assists-->julian_alvarez_assists
+##Julian Alvarez Finishing-->julian_alvarez_finishing
+##Julian Alvarez Speed-->julian_alvarez_speed
+##Julian Alvarez Skills-->julian_alvarez_skills
+##Julian Alvarez Argentina-->julian_alvarez_argentina
+
+@@@Bernado Silva
+##Bernado Silva Assists-->bernado_silva_assists
+##Bernado Silva Goals-->bernado_silva_goals
+##Bernado Silva Passes-->bernado_silva_passes
+##Bernado Silva Skills-->bernado_silva_skills
+##Bernado Silva Portugal-->bernado_silva_portugal
+
+@@@Rodri
+##Rodri Skills-->rodri_skills
+##Rodri Passes-->rodri_passes
+##Rodri Assists-->rodri_assists
+##Rodri Goals-->rodri_goals
+
+@@@Kyle Walker
+##Kyle Walker Speed-->kyle_walker_speed
+##Kyle Walker Skills-->kyle_walker_skills
+##Kyle Walker Goals-->kyle_walker_goals
+##Kyle Walker Assists-->kyle_walker_assists
+
+@@@Ruben Dias
+##Ruben Dias Skills-->ruben_dias_skills
+##Ruben Dias Goals-->ruben_dias_goals
+##Ruben Dias Tackles-->ruben_dias_tackles
+##Ruben Dias Portugal-->ruben_dias_portugal
+
+@@@John Stones
+##John Stones Skills-->john_stones_skills
+##John Stones England-->john_stones_england
+
+@@@Ederson
+##Ederson Skills-->ederson_skills
+
+
+@@@Ilkay Gundogan
+##Gundogan Passes-->gundogan_passes
+##Gundogan Assists-->gundogan_assists
+##Gundogan Goals-->gundogan_goals
+##Gundogan Skills-->gundogan_skills
+
