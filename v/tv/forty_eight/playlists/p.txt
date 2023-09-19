@@ -1,3 +1,13 @@
+@@@01. 48 Hours Part 1
+##Full Episode (91)-->forty_eight_full_episode
+##Trial (29)-->forty_eight_trial
+##Serial Killer (11)-->forty_eight_serial_kill
+##Married to Death (6)-->forty_eight_married_to_death
+##Cop (7)-->forty_eight_cop
+##Love (28)-->forty_eight_love
+##Disappearance (29)-->forty_eight_disappearance
+##Guilty (5)-->forty_eight_guilty
+
 @@@60 Min Australia Playlists
 ##Covid 19-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/covid19
 ##Mystery-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/sixty_minutes/playlists/mystery
@@ -18,3 +28,7 @@
 ##2016-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/vice/2016
 
 
+
+@@@02. 48 Hours Part 2
+##Podcast (14)-->forty_eight_podcast
+##Missing (24)-->forty_eight_missing
