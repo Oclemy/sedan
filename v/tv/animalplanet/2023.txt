@@ -52,7 +52,13 @@ _7Ca9W-LE5k,Adopted Puppies Begin Training For the Big Game | Puppy Bowl XVI | A
 SnqnnYCLCUo,Samoyed Puppies Learn New Skills from their Parents | Too Cute! | Animal Planet,8m 11s,2023-01-06T16:00:11Z
 oC36jAUQ6Kg,Property Brothers Help Abandoned Pup Find New Home | Puppy Bowl XVI | Animal Planet,3m 13s,2023-01-05T19:00:14Z
 Xk6tlrhrQiE,Young Girl Induced into Coma Survives | Monsters Inside Me | Animal Planet,56s,2023-01-04T20:00:08Z
-Xk6tlrhrQiE,Young Girl Induced into Coma Survives | Monsters Inside Me | Animal Planet,56s,2023-01-04T20:00:08Z
-Xk6tlrhrQiE,Young Girl Induced into Coma Survives | Monsters Inside Me | Animal Planet,56s,2023-01-04T20:00:08Z
 
-[[POSITION-->25;NAME-->BBC Earth;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011_2010_2009_2008_2007;ID-->UCwmZiChSryoWQCZMIQezgTg;PATH-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearth/]]
+[[POSITION-->22;NAME-->BBC Earth;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011_2010_2009_2008_2007;ID-->UCwmZiChSryoWQCZMIQezgTg;PATH-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearth/]]
+[[POSITION-->23;NAME-->4 Ever Green;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016;ID-->UCRpNVpZoW56rOsV-6wFK3lg;PATH-->https://apps.clemy.top/v/nature/4evergreen/]]
+[[POSITION-->24;NAME-->Funny Animals;YEARS-->2023_2022_2021_2020;ID-->UC_ghLCBI7Si-GzClJ7xJqrQ;PATH-->https://apps.clemy.top/v/nature/funnyanimals/]]
+[[POSITION-->25;NAME-->Nature HD Documentaries;YEARS-->2023_2022_2021_2020_2019_2018_2017;ID-->UC_g32e3JeECjEuRbk-loywg;PATH-->https://apps.clemy.top/v/nature/freehighquality/]]
+[[POSITION-->26;NAME-->Wild Africa;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011_2010_2009_2008;ID-->UCgPYOLbcgxSBCAmlaihQyMg;PATH-->https://apps.clemy.top/v/nature/robtheranger/]]
+
+
+
+

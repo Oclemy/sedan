@@ -42,52 +42,79 @@
 ##Coral Reefs(10)-->reefs
 
 @@@African Wildlife Relaxation
-##Great Migration (17)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_great_migration
-##Lion (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_lion
-##Buffalo (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_buffalo
-##Elephant (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_elephant
-##Leopard (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_leopard
-##Cheetah (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_cheetah
-##Eagle (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_eagle
-##Our Planet -Africa(12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_our_planet
+##Great Migration (17)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_great_migration
+##Lion (3)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_lion
+##Buffalo (2)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_buffalo
+##Elephant (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_elephant
+##Leopard (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_leopard
+##Cheetah (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_cheetah
+##Eagle (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_eagle
+##Our Planet -Africa(12)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_our_planet
 
 @@@Beautiful Africa (National Parks)
-##Serengeti (12)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_serengeti
-##Masai Mara (7)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_masai_mara
-##Kruger (6)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kruger
-##Etosha (10)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_etosha
-##Nairobi (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_nairobi
-##Aberdare (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_aberdare
-##Ranomafana (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_ranomafana
-##Moremi (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_moremi
-##Ruaha (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_ruaha
-##Bwindi (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bwindi
-##Nxai Pan (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_nxai_pan
-##Savuti (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_savuti
-##Timbavati (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_timbavati
-##Bardia (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bardia
-##Tsavo West (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_tsavo_west
-##Bale  (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bale
-##Mana Pools (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_mana_pools
-##Ngorongoro (4)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_ngorongoro
-##Hwange (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_hwange
-##Central Kalahari (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_central_kalahari
-##Chobe (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_chobe
-##Kwazulu-Natal (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kwazulu-natal
-##Okavango Delta (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_okavango_delta
-##Mole  (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_mole
-##Amboseli (3)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_amboseli
-##Virunga (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_virunga
-##Mikumi (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_mikumi
-##Bwabwata (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_bwabwata
-##Waza  (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_waza
-##Lake Manyara (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_lake_manyara
-##Nechisar (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_nechisar
-##Kissama (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kissama
-##Kafue (2)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_kafue
+##Serengeti (12)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_serengeti
+##Masai Mara (7)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_masai_mara
+##Kruger (6)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_kruger
+##Etosha (10)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_etosha
+##Nairobi (4)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_nairobi
+##Aberdare (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_aberdare
+##Ranomafana (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_ranomafana
+##Moremi (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_moremi
+##Ruaha (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_ruaha
+##Bwindi (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_bwindi
+##Nxai Pan (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_nxai_pan
+##Savuti (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_savuti
+##Timbavati (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_timbavati
+##Bardia (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_bardia
+##Tsavo West (2)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_tsavo_west
+##Bale  (2)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_bale
+##Mana Pools (3)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_mana_pools
+##Ngorongoro (4)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_ngorongoro
+##Hwange (3)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_hwange
+##Central Kalahari (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_central_kalahari
+##Chobe (2)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_chobe
+##Kwazulu-Natal (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_kwazulu-natal
+##Okavango Delta (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_okavango_delta
+##Mole  (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_mole
+##Amboseli (3)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_amboseli
+##Virunga (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_virunga
+##Mikumi (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_mikumi
+##Bwabwata (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_bwabwata
+##Waza  (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_waza
+##Lake Manyara (2)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_lake_manyara
+##Nechisar (2)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_nechisar
+##Kissama (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_kissama
+##Kafue (2)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_kafue
 
 @@@Calming Wildlife Music
-##Calming Music (26)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_calming_music
-##Wildlife with African Music (17)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_african_music
-##Birds Sounds (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_birds_sounds
-##Winter Wildlife (1)-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/relaxingnature/playlists/relaxingnature_winter_wildlife
+##Calming Music (26)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_calming_music
+##Wildlife with African Music (17)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_african_music
+##Birds Sounds (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_birds_sounds
+##Winter Wildlife (1)-->https://apps.clemy.top/v/nature/relaxingnature/playlists/relaxingnature_winter_wildlife
+
+@@@Living Zoology
+##2023-->https://apps.clemy.top/v/nature/livingzoology/2023
+##2022-->https://apps.clemy.top/v/nature/livingzoology/2022
+##2021-->https://apps.clemy.top/v/nature/livingzoology/2021
+##2020-->https://apps.clemy.top/v/nature/livingzoology/2020
+##2019-->https://apps.clemy.top/v/nature/livingzoology/2019
+##2018-->https://apps.clemy.top/v/nature/livingzoology/2018
+
+
+@@@Jason Arnold - Snakeman
+##2023-->https://apps.clemy.top/v/nature/snakeman/2023
+##2022-->https://apps.clemy.top/v/nature/snakeman/2022
+##2021-->https://apps.clemy.top/v/nature/snakeman/2021
+##2020-->https://apps.clemy.top/v/nature/snakeman/2020
+##2019-->https://apps.clemy.top/v/nature/snakeman/2019
+
+[[POSITION-->22;NAME-->BBC Earth;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011_2010_2009_2008_2007;ID-->UCwmZiChSryoWQCZMIQezgTg;PATH-->https://raw.githubusercontent.com/Oclemy/sedan/main/v/tv/bbcearth/]]
+[[POSITION-->23;NAME-->4 Ever Green;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016;ID-->UCRpNVpZoW56rOsV-6wFK3lg;PATH-->https://apps.clemy.top/v/nature/4evergreen/]]
+[[POSITION-->24;NAME-->Funny Animals;YEARS-->2023_2022_2021_2020;ID-->UC_ghLCBI7Si-GzClJ7xJqrQ;PATH-->https://apps.clemy.top/v/nature/funnyanimals/]]
+[[POSITION-->25;NAME-->Nature HD Documentaries;YEARS-->2023_2022_2021_2020_2019_2018_2017;ID-->UC_g32e3JeECjEuRbk-loywg;PATH-->https://apps.clemy.top/v/nature/freehighquality/]]
+[[POSITION-->26;NAME-->Wild Africa;YEARS-->2023_2022_2021_2020_2019_2018_2017_2016_2015_2014_2013_2012_2011_2010_2009_2008;ID-->UCgPYOLbcgxSBCAmlaihQyMg;PATH-->https://apps.clemy.top/v/nature/robtheranger/]]
+
+
+
+
+
